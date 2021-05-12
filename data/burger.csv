@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Burger Joint,4.5,"{'type': 'Point', 'coordinates': [-3.702523, 40.433872]}","Calle Eloy Gonzalo, 12, 28010 Madrid, Spain",burger
+1,New York Burger - Castellana,4.2,"{'type': 'Point', 'coordinates': [-3.6919828, 40.45025649999999]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",burger
+2,SteakBurger Atocha,4.3,"{'type': 'Point', 'coordinates': [-3.6937385, 40.4095999]}","C. de Atocha, 110, 28012 Madrid, Spain",burger
+3,Burger Shack,4.5,"{'type': 'Point', 'coordinates': [-3.6964602, 40.4219306]}","Calle de Augusto Figueroa, 32, 28004 Madrid, Spain",burger
+4,SteakBurger Bar,4.4,"{'type': 'Point', 'coordinates': [-3.6994086, 40.4197807]}","C/ Gran Vía, 16, 28013 Madrid, Spain",burger
+5,Home Burger Bar,4.2,"{'type': 'Point', 'coordinates': [-3.7056914, 40.4218911]}","Calle de Silva, 25, 28004 Madrid, Spain",burger
+6,Goiko,4.3,"{'type': 'Point', 'coordinates': [-3.686675, 40.43767500000001]}","Calle de María de Molina, 20, 28006 Madrid, Spain",burger
+7,Campesino Burger Al Carbón,4.6,"{'type': 'Point', 'coordinates': [-3.694818, 40.410453]}","C. de Atocha, 111, 28012 Madrid, Spain",burger
+8,New York Burger,4.3,"{'type': 'Point', 'coordinates': [-3.6908463, 40.422131]}","Calle de Recoletos, 4, 28001 Madrid, Spain",burger
+9,Home Burger Bar,4.3,"{'type': 'Point', 'coordinates': [-3.689042, 40.463135]}","Paseo de la Castellana, 210, 28046 Madrid, Spain",burger
+10,Steakburger,4.3,"{'type': 'Point', 'coordinates': [-3.7008419, 40.424874]}","Calle de Fuencarral, 73, 28010 Madrid, Spain",burger
+11,Home Burger Bar,4.5,"{'type': 'Point', 'coordinates': [-3.700361, 40.4391678]}","Calle de Sta Engracia, 108, 28003 Madrid, Spain",burger
+12,Steakburger,4.4,"{'type': 'Point', 'coordinates': [-3.7072653, 40.4198351]}","Calle de Preciados, 42, 28013 Madrid, Spain",burger
+13,Juanchi's Burgers,4.4,"{'type': 'Point', 'coordinates': [-3.675028, 40.4308869]}","Calle del Conde de Peñalver, 60, 28006 Madrid, Spain",burger
+14,Burger Grill Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7079842, 40.41107179999999]}","Calle de Toledo, 65, L 10, 28005 Madrid, Spain",burger
+15,Rude Burger,4.7,"{'type': 'Point', 'coordinates': [-3.6784435, 40.426573]}","Calle del Gral. Pardiñas, 32, 28001 Madrid, Spain",burger
+16,TGB - The Good Burger,3.8,"{'type': 'Point', 'coordinates': [-3.7005284, 40.42007419999999]}","C/ Gran Vía, 22, 28013 Madrid, Spain",burger
+17,New York Burger,4.3,"{'type': 'Point', 'coordinates': [-3.691046499999999, 40.4355721]}","Calle de Miguel Ángel, 16, 28010 Madrid, Spain",burger
+18,Burnout,4.3,"{'type': 'Point', 'coordinates': [-3.70368, 40.432477]}","Calle de Fuencarral, 148, 28010 Madrid, Spain",burger
+19,New York Burger - San Germán,4.3,"{'type': 'Point', 'coordinates': [-3.6928645, 40.4560497]}","Calle de San Germán, 5, 28020 Madrid, Spain",burger
+20,Fitz Burguer,4.2,"{'type': 'Point', 'coordinates': [-3.6799227, 40.4434346]}","Calle de Gabriel Lobo, 20, 28002 Madrid, Spain",burger
+21,Mad Grill,4.5,"{'type': 'Point', 'coordinates': [-3.6956167, 40.42632220000001]}","Calle de Campoamor, 13, 28004 Madrid, Spain",burger
+22,Steakburger,4.1,"{'type': 'Point', 'coordinates': [-3.7006893, 40.4302927]}","Calle de Luchana, 17, 28010 Madrid, Spain",burger
+23,Juanchi's Burgers,4.2,"{'type': 'Point', 'coordinates': [-3.7026228, 40.42853179999999]}","C. de Manuela Malasaña, 3, 28004 Madrid, Spain",burger
+24,Queen Burger Gourmet,4.4,"{'type': 'Point', 'coordinates': [-3.692021, 40.485566]}","Calle de San Modesto, 34, 28034 Madrid, Spain",burger
+25,Queen Burger,4.3,"{'type': 'Point', 'coordinates': [-3.6781348, 40.5089868]}","Calle de Castiello de Jaca, 14, 28050 Madrid, Spain",burger
+26,Burnout,4.5,"{'type': 'Point', 'coordinates': [-3.7020884, 40.420808]}","Calle de Valverde, 6, 28004 Madrid, Spain",burger
+27,Gobu,4.6,"{'type': 'Point', 'coordinates': [-3.678569, 40.424136]}","Calle del Gral. Pardiñas, 8, 28001 Madrid, Spain",burger
+28,VIVA BURGER,4.4,"{'type': 'Point', 'coordinates': [-3.711851, 40.412475]}","Costanilla de San Andrés, 16, 28005 Madrid, Spain",burger
+29,JUNK BURGER,4.4,"{'type': 'Point', 'coordinates': [-3.698419, 40.43853800000001]}","Calle de José Abascal, 31, 28003 Madrid, Spain",burger
+30,The Good Burger,3.6,"{'type': 'Point', 'coordinates': [-3.705343, 40.4316039]}","Calle de San Bernardo, 105, 28015 Madrid, Spain",burger
+31,Juanchi's Burgers,4.4,"{'type': 'Point', 'coordinates': [-3.672159799999999, 40.50027660000001]}","Calle Azofra, 3, 28050 Madrid, Spain",burger
+32,Home Burger Bar,4.2,"{'type': 'Point', 'coordinates': [-3.67703, 40.4513671]}","Calle del Príncipe de Vergara, 210, 28002 Madrid, Spain",burger
+33,The Good Burger,3.9,"{'type': 'Point', 'coordinates': [-3.6907981, 40.4658154]}","Calle de Bravo Murillo, 377, 28015 Madrid, Spain",burger
+34,Timesburg Avenida América,4.1,"{'type': 'Point', 'coordinates': [-3.678379999999999, 40.4379]}","C/ de Francisco Silvela, 91, 28002 Madrid, Spain",burger
+35,New York Burger,4.1,"{'type': 'Point', 'coordinates': [-3.6575948, 40.5183091]}","Avenida de Europa, 10, Edificio Sur SJ, 09, 28108 Alcobendas, Madrid, Spain",burger
+36,Las Mejores Hamburguesas...,2.0,"{'type': 'Point', 'coordinates': [-3.6859078, 40.4213909]}","Calle de Lagasca, 5, 28001 Madrid, Spain",burger
+37,Burger King,3.4,"{'type': 'Point', 'coordinates': [-3.695901399999999, 40.4270606]}","Plaza Santa Bárbara Metro, Plaza de Alonso Martínez, 7, 28004 Madrid, Spain",burger
+38,Sublime Dreams Food,4.2,"{'type': 'Point', 'coordinates': [-3.7070661, 40.4137838]}","Calle de Concepción Jerónima, 28, 28012 Madrid, Spain",burger
+39,TGB - The Good Burger,3.7,"{'type': 'Point', 'coordinates': [-3.6917622, 40.4505655]}","Paseo de la Castellana, 91, 28046 Madrid, Spain",burger
+40,Juancho's BBQ (Chamberí),4.6,"{'type': 'Point', 'coordinates': [-3.6975817, 40.436215]}","Calle de Alonso Cano, 10, 28010 Madrid, Spain",burger
+41,Bentleys Burger,4.3,"{'type': 'Point', 'coordinates': [-3.7064819, 40.4195968]}","Calle de Preciados, 31, 28013 Madrid, Spain",burger
+42,The Good Burger,4.0,"{'type': 'Point', 'coordinates': [-3.6677659, 40.4280281]}","Pl. de Manuel Becerra, 1, 28028 Madrid, Spain",burger
+43,Five Guys,4.1,"{'type': 'Point', 'coordinates': [-3.7055399, 40.4205258]}","C/ Gran Vía, 44, 28013 Madrid, Spain",burger
+44,DALÙ BURGER,4.8,"{'type': 'Point', 'coordinates': [-3.7022045, 40.4303931]}","Calle de Hartzenbusch, 7, 28010 Madrid, Spain",burger
+45,Burger King,3.7,"{'type': 'Point', 'coordinates': [-3.7049417, 40.4204753]}","Metro, Gran Vía, Plaza del Callao, 40, 28013 Madrid, Spain",burger
+46,La Bistroteca,4.7,"{'type': 'Point', 'coordinates': [-3.6790824, 40.4243352]}","Calle de Espartinas, 7, 28001 Madrid, Spain",burger
+47,Bentleys Burger,4.1,"{'type': 'Point', 'coordinates': [-3.682946, 40.4217407]}","Calle de Alcalá, 105, 28001 Madrid, Spain",burger
+48,TGB - The Good Burger,4.1,"{'type': 'Point', 'coordinates': [-3.6931179, 40.5097085]}","Av. del Monasterio de El Escorial, 86A, 28034 Madrid, Spain",burger
+49,Food Truck,4.5,"{'type': 'Point', 'coordinates': [-3.6962246, 40.4237838]}","Calle de San Lucas, 11, 28004 Madrid, Spain",burger
+50,Burger King,3.6,"{'type': 'Point', 'coordinates': [-3.7078754, 40.4177576]}","Calle del Arenal, 24, 28013 Madrid, Spain",burger
+51,Mad Café,4.5,"{'type': 'Point', 'coordinates': [-3.708868, 40.4122347]}","Calle de la Cava Alta, 13, 28005 Madrid, Spain",burger
+52,TORO Burger Lounge BERNABEU,4.2,"{'type': 'Point', 'coordinates': [-3.6993519, 40.4536997]}","Calle de la Infanta Mercedes, 17, 28020 Madrid, Spain",burger
+53,Old School Skaterock,4.6,"{'type': 'Point', 'coordinates': [-3.7013984, 40.4317855]}","Calle de Palafox, 16, 28010 Madrid, Spain",burger
+54,Burger House Moncloa,2.3,"{'type': 'Point', 'coordinates': [-3.7164378, 40.4368043]}","C. de Hilarión Eslava, 44, 28015 Madrid, Spain",burger
+55,Burger King,3.7,"{'type': 'Point', 'coordinates': [-3.7009029, 40.4266563]}","Metro Tribunal, C. de Barceló, 3, 28004 Madrid, Spain",burger
+56,Tokio Burger,4.4,"{'type': 'Point', 'coordinates': [-3.6798117, 40.4230807]}","Calle de Alcalá, 123, 28009 Madrid, Spain",burger
+57,MEAT,4.2,"{'type': 'Point', 'coordinates': [-3.696315799999999, 40.4260927]}","Calle de Sta. Teresa, 4, 28004 Madrid, Spain",burger
+58,Burger King,3.8,"{'type': 'Point', 'coordinates': [-3.7049219, 40.4161226]}","Metro Sol, Calle de Esparteros, 3, 28012 Madrid, Spain",burger
+59,Steakburger,4.6,"{'type': 'Point', 'coordinates': [-3.7081798, 40.4178794]}","Calle del Arenal, 26, 28013 Madrid, Spain",burger

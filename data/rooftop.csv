@@ -1,0 +1,21 @@
+,name,rating,location,address,place
+0,Radio Rooftop Bar Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.7014664, 40.4148202]}","Plaza de Sta. Ana, 14, 28012 Madrid, Spain",rooftop
+1,La Terraza del Urban,4.4,"{'type': 'Point', 'coordinates': [-3.698698, 40.416282]}","Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",rooftop
+2,Doña Luz Restaurante,4.2,"{'type': 'Point', 'coordinates': [-3.7025579, 40.4175643]}","Calle de la Montera, 10, 12, 28013 Madrid, Spain",rooftop
+3,La Terraza de Óscar,4.4,"{'type': 'Point', 'coordinates': [-3.6989814, 40.4206224]}","Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",rooftop
+4,Skynight,3.9,"{'type': 'Point', 'coordinates': [-3.6700403, 40.44066249999999]}","Avenida de América, 41, 28002 Madrid, Spain",rooftop
+5,Terraza Cibeles,3.7,"{'type': 'Point', 'coordinates': [-3.6921521, 40.4189339]}","Plaza Cibeles, 1, 28014 Madrid, Spain",rooftop
+6,El Viajero,3.8,"{'type': 'Point', 'coordinates': [-3.7102139, 40.4116672]}","Plaza de la Cebada, 11, 28005 Madrid, Spain",rooftop
+7,Azotea del Círculo,4.2,"{'type': 'Point', 'coordinates': [-3.6964847, 40.4183253]}","Azotea del Círculo de Bellas Artes de Madrid, Calle del Marqués de Casa Riera, 2, 28004 Madrid, Spain",rooftop
+8,Picalagartos Sky Bar & Restaurant,4.3,"{'type': 'Point', 'coordinates': [-3.701074, 40.4198591]}","C/ Gran Vía, 21, 28013 Madrid, Spain",rooftop
+9,Bar Terraza Roof Top,4.0,"{'type': 'Point', 'coordinates': [-3.7084716, 40.4206019]}","Calle de San Bernardo, 28013 Madrid, Spain",rooftop
+10,Hotel RIU Plaza España,4.4,"{'type': 'Point', 'coordinates': [-3.7111446, 40.4240261]}","C/ Gran Vía, 84, 28013 Madrid, Spain",rooftop
+11,Sky Terrace Moncloa,4.0,"{'type': 'Point', 'coordinates': [-3.7175075, 40.4337546]}","Calle Arcipreste Hita n. 10, planta 8, Hotel Exe Moncloa, 28015 Madrid, Spain",rooftop
+12,Skynight,0.0,"{'type': 'Point', 'coordinates': [-3.6699386, 40.4408031]}","Avenida de América, 41, 28028 Madrid, Spain",rooftop
+13,WXYZ Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7072001, 40.4203667]}","Calle de Jacometrezo, 4, 28013 Madrid, Spain",rooftop
+14,Nice To Meet You Restaurant & Lounge,4.0,"{'type': 'Point', 'coordinates': [-3.7104527, 40.4233495]}","C/ Gran Vía, 80, 28013 Madrid, Spain",rooftop
+15,Terraza de Sabatini,4.4,"{'type': 'Point', 'coordinates': [-3.7149419, 40.4210375]}","Cuesta de San Vicente, 16, 28008 Madrid, Spain",rooftop
+16,Sky Bar 360°,4.2,"{'type': 'Point', 'coordinates': [-3.7111124, 40.4241475]}","C/ Gran Vía, 84, 28013 Madrid, Spain",rooftop
+17,Sky Roof Top Terrace,4.0,"{'type': 'Point', 'coordinates': [-3.6981607, 40.4504241]}","Calle del Aviador Zorita, 34, 28020 Madrid, Spain",rooftop
+18,GYMAGE Lounge Resort,3.5,"{'type': 'Point', 'coordinates': [-3.7048219, 40.4214086]}","Calle de la Luna, 2, 28004 Madrid, Spain",rooftop
+19,Dear Hotel Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7104263, 40.4233742]}","C/ Gran Vía, 80, 28013 Madrid, Spain",rooftop

@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,ASIAN RESTAURANT,4.1,"{'type': 'Point', 'coordinates': [-3.7076473, 40.42198940000001]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",asian
+1,ASIAN ARMY,4.8,"{'type': 'Point', 'coordinates': [-3.698668899999999, 40.4116112]}","Calle de Santa Isabel, 5 Dentro Mercado Anton Martin Planta Baja, puesto 7-11, 28012 Madrid, Spain",asian
+2,Yatai Market,4.5,"{'type': 'Point', 'coordinates': [-3.7039463, 40.4130309]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",asian
+3,Restaurante Asia Gallery,4.2,"{'type': 'Point', 'coordinates': [-3.695663799999999, 40.4154509]}","Plaza de las Cortes, 7, 28014 Madrid, Spain",asian
+4,Asia Té,4.2,"{'type': 'Point', 'coordinates': [-3.6851, 40.471041]}","Calle Agustín de Foxá, 27, 28036 Madrid, Spain",asian
+5,Toypanda Baos Malasaña,4.3,"{'type': 'Point', 'coordinates': [-3.702618, 40.425049]}","Calle del Espíritu Santo, 7, 28004 Madrid, Spain",asian
+6,Asian Party Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.694008, 40.45433389999999]}","Av. de Brasil, 5, 28020 Madrid, Spain",asian
+7,Asia Gallery Lagasca,4.4,"{'type': 'Point', 'coordinates': [-3.6848121, 40.4293481]}","Calle de Lagasca, 82, 28001 Madrid, Spain",asian
+8,Tuk Tuk Asian Street Food,4.0,"{'type': 'Point', 'coordinates': [-3.6955637, 40.4224033]}","Calle del Barquillo, 26, bajo, 28004 Madrid, Spain",asian
+9,Tuk Tuk Asian Street Food Perón,4.1,"{'type': 'Point', 'coordinates': [-3.6968825, 40.4522305]}","Av. del General Perón, 16, bajo, 28020 Madrid, Spain",asian
+10,Tuk Tuk Asian Street Food Goya,4.1,"{'type': 'Point', 'coordinates': [-3.6729128, 40.4262427]}","Calle de Alcalá, 167, bajo, 28009 Madrid, Spain",asian
+11,Asian Street Food,5.0,"{'type': 'Point', 'coordinates': [-3.7065755, 40.4196009]}","Calle de Preciados, 31, 28013 Madrid, Spain",asian
+12,Orient,3.9,"{'type': 'Point', 'coordinates': [-3.7107534, 40.422457]}","Calle de Leganitos, 37, 28013 Madrid, Spain",asian
+13,Restaurante Xiang,4.0,"{'type': 'Point', 'coordinates': [-3.6647896, 40.4535573]}","Calle, Paseo de los Cerezos, 2, 28016 Madrid, Spain",asian
+14,Wok To Walk Chueca,4.1,"{'type': 'Point', 'coordinates': [-3.700927, 40.420653]}","Calle de Hortaleza, 7, 28004 Madrid, Spain",asian
+15,He Lao Tai 何老太,4.3,"{'type': 'Point', 'coordinates': [-3.709948, 40.4215091]}","Calle de Leganitos, 10, 28013 Madrid, Spain",asian
+16,Restaurante Lamian,4.3,"{'type': 'Point', 'coordinates': [-3.708912, 40.423641]}","Plaza de los Mostenses, 4, 28015 Madrid, Spain",asian
+17,Restaurante Asiático KZEN,4.5,"{'type': 'Point', 'coordinates': [-3.6788084, 40.4218605]}","Calle de O'Donnell, 17, 28009 Madrid, Spain",asian
+18,Smok Mok,4.6,"{'type': 'Point', 'coordinates': [-3.7039463, 40.4130309]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",asian
+19,Tse Yang,4.3,"{'type': 'Point', 'coordinates': [-3.6882036, 40.4293586]}","Calle Marqués de Villamagna, 1, 28001 Madrid, Spain",asian
+20,Wok Fresh,3.7,"{'type': 'Point', 'coordinates': [-3.6996048, 40.4224848]}","Calle de Hortaleza, 37, 28004 Madrid, Spain",asian
+21,Restaurante Jinode,4.3,"{'type': 'Point', 'coordinates': [-3.6948312, 40.4104152]}","C. de Atocha, 111, 28012 Madrid, Spain",asian
+22,Tuk Tuk Asian Street Food Bilbao,4.1,"{'type': 'Point', 'coordinates': [-3.7014914, 40.4299217]}","Calle del Cardenal Cisneros, 6, bajo, 28010 Madrid, Spain",asian
+23,Take Wok,3.3,"{'type': 'Point', 'coordinates': [-3.699743899999999, 40.4125712]}","C. de Atocha, 46, 28012 Madrid, Spain",asian
+24,Ni Hao,4.3,"{'type': 'Point', 'coordinates': [-3.706004499999999, 40.4215208]}","Calle de Silva, 20, 28004 Madrid, Spain",asian
+25,Restaurante Asiatico,2.3,"{'type': 'Point', 'coordinates': [-3.702389599999999, 40.4133397]}","Calle de Luis Vélez de Guevara, 4, 28012 Madrid, Spain",asian
+26,Dim Sum Market,4.3,"{'type': 'Point', 'coordinates': [-3.700218, 40.415257]}","C. del Príncipe, 19, 28012 Madrid, Spain",asian
+27,Eat Is Wok,4.4,"{'type': 'Point', 'coordinates': [-3.7002163, 40.41553469999999]}","C. del Príncipe, 15, 28012 Madrid, Spain",asian
+28,Tropikal Luxury Buffet,4.3,"{'type': 'Point', 'coordinates': [-3.688033, 40.461096]}","Calle del Dr. Fleming, 31, 28036 Madrid, Spain",asian
+29,Soi Noodle,4.4,"{'type': 'Point', 'coordinates': [-3.695571, 40.4458991]}","Calle de Modesto Lafuente, 88, 28003 Madrid, Spain",asian
+30,Xake,4.1,"{'type': 'Point', 'coordinates': [-3.701454, 40.419529]}","Calle del Caballero de Gracia, 2, 28013 Madrid, Spain",asian
+31,Cocina Asiática Xin,4.4,"{'type': 'Point', 'coordinates': [-3.7027235, 40.4285346]}","C. de Manuela Malasaña, 5, 28004 Madrid, Spain",asian
+32,wok sun,4.4,"{'type': 'Point', 'coordinates': [-3.7033186, 40.4178624]}","Calle de Tetuán, 24, 28013 Madrid, Spain",asian
+33,Wok To Walk Sol,4.3,"{'type': 'Point', 'coordinates': [-3.7050678, 40.4167166]}","Calle Mayor, 4, 28013 Madrid, Spain",asian
+34,Oriental Palace,4.4,"{'type': 'Point', 'coordinates': [-3.7213333, 40.4646472]}","Calle Federico Carlos Sainz de Robles, 3, 28035 Madrid, Spain",asian
+35,LAI Fusion Food,4.1,"{'type': 'Point', 'coordinates': [-3.6698577, 40.4424867]}","Calle Clara del Rey, 24, 28002 Madrid, Spain",asian
+36,Udon Noodle Bar &Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.7027745, 40.4175555]}","Calle de la Montera, 8, 28013 Madrid, Spain",asian
+37,Zen Central,4.0,"{'type': 'Point', 'coordinates': [-3.6709491, 40.4059152]}","Calle del Dr. Esquerdo, 136, 28007 Madrid, Spain",asian
+38,Asian Garden,4.1,"{'type': 'Point', 'coordinates': [-3.6786403, 40.4401857]}","Calle de Canillas, 28002 Madrid, Spain",asian
+39,127 Taipei Bar Ramen & Baos,4.7,"{'type': 'Point', 'coordinates': [-3.695678, 40.411478]}","Calle de Fúcar, 14, 28014 Madrid, Spain",asian
+40,El Bund Restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.658474999999999, 40.4567021]}","Calle de Arturo Baldasano, 22, 28043 Madrid, Spain",asian
+41,Rice,4.5,"{'type': 'Point', 'coordinates': [-3.6993036, 40.422836]}","Calle de Hortaleza, 47, 28004 Madrid, Spain",asian
+42,Mandarín,4.1,"{'type': 'Point', 'coordinates': [-3.691447199999999, 40.4242222]}","Casino Gran Madrid, Paseo de Recoletos, 37, 41, 28004 Madrid, Spain",asian
+43,Shanghai Station Chueca,4.3,"{'type': 'Point', 'coordinates': [-3.6994162, 40.4205711]}","Calle del Clavel, 7, 28004 Madrid, Spain",asian
+44,Wok 4 You,4.0,"{'type': 'Point', 'coordinates': [-3.6988809, 40.4232071]}","Calle de Hortaleza, 72, 28004 Madrid, Spain",asian
+45,restaurante asiatico fang,4.1,"{'type': 'Point', 'coordinates': [-3.6942975, 40.3932165]}","Calle de Embajadores, 186, 28045 Madrid, Spain",asian
+46,Restaurante Chino Ni Hao Arturo Soria,4.3,"{'type': 'Point', 'coordinates': [-3.6659192, 40.4817062]}","C. de Arturo Soria, 335, 28033 Madrid, Spain",asian
+47,Manolita Chen,4.4,"{'type': 'Point', 'coordinates': [-3.681509799999999, 40.4237995]}","Calle de Castelló, 18, 28001 Madrid, Spain",asian
+48,Sumo,4.2,"{'type': 'Point', 'coordinates': [-3.675265, 40.435008]}","C/ de Francisco Silvela, 63, 28028 Madrid, Spain",asian
+49,Restaurante Asia,4.0,"{'type': 'Point', 'coordinates': [-3.6926229, 40.3600769]}","Calle Tertulia, 15, 28041 Madrid, Spain",asian
+50,Gran Hong Kong,4.2,"{'type': 'Point', 'coordinates': [-3.693104, 40.4566394]}","Calle de San Germán, 12, 28020 Madrid, Spain",asian
+51,El Buda Feliz 1974,4.5,"{'type': 'Point', 'coordinates': [-3.705554499999999, 40.4212036]}","Calle de Tudescos, 5, 28004 Madrid, Spain",asian
+52,Wok King,4.3,"{'type': 'Point', 'coordinates': [-3.707774999999999, 40.4196889]}","Calle de las Veneras, 9, 28013 Madrid, Spain",asian
+53,Kamado Asian Food,4.1,"{'type': 'Point', 'coordinates': [-3.848124399999999, 40.3407232]}","C.C. X-Madrid (Local 37, Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",asian
+54,Restaurante Fan Hua,4.1,"{'type': 'Point', 'coordinates': [-3.7109785, 40.4078991]}","Calle de Toledo, 115, 28005 Madrid, Spain",asian
+55,Oriental Market,4.0,"{'type': 'Point', 'coordinates': [-3.7038706, 40.386148]}","Calle de Marcelo Usera, 58, 28026 Madrid, Spain",asian
+56,Nan-Yea Alimentacion,4.5,"{'type': 'Point', 'coordinates': [-3.7071997, 40.4118588]}","Calle de los Estudios, 7, 28012 Madrid, Spain",asian
+57,Cenas Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6908412, 40.4279719]}","Calle de Fernando el Santo, 24, Local 2, 28010 Madrid, Spain",asian
+58,Restaurante The One,4.5,"{'type': 'Point', 'coordinates': [-3.6985002, 40.4505096]}","Calle del Aviador Zorita, 37, 28020 Madrid, Spain",asian
+59,Restaurante Hoki Sushi,3.8,"{'type': 'Point', 'coordinates': [-3.6965382, 40.4011411]}","Calle del Ferrocarril, 22, 28045 Madrid, Spain",asian

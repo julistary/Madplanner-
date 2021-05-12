@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Fábrica Maravillas,4.3,"{'type': 'Point', 'coordinates': [-3.7017355, 40.4226581]}","Calle de Valverde, 29, 28004 Madrid, Spain",brewery
+1,Cervecera Península,4.8,"{'type': 'Point', 'coordinates': [-3.6597098, 40.5271494]}","Calle La Granja #5, Nave 1, 28108 Alcobendas, Madrid, Spain",brewery
+2,Mad Brewing,4.4,"{'type': 'Point', 'coordinates': [-3.6312913, 40.4350769]}","C. de Julián Camarillo, 19, 28037 Madrid, Spain",brewery
+3,La Osita,4.7,"{'type': 'Point', 'coordinates': [-3.7084903, 40.413234]}","Calle de la Cava Baja, 10, 28005 Madrid, Spain",brewery
+4,Bee Beer. Craft Beers & Cheeses,4.6,"{'type': 'Point', 'coordinates': [-3.69692, 40.421978]}","Calle de Augusto Figueroa, 30, 28004 Madrid, Spain",brewery
+5,Cervezas La Cibeles,4.6,"{'type': 'Point', 'coordinates': [-3.7994132, 40.3523488]}","Calle Petróleo, 34, 28918 Leganés, Madrid, Spain",brewery
+6,Brew Wild Pizza Bar,4.6,"{'type': 'Point', 'coordinates': [-3.6995115, 40.4148026]}","Calle de Echegaray, 23, 28014 Madrid, Spain",brewery
+7,Cervezas 28 Iberica S. L.,5.0,"{'type': 'Point', 'coordinates': [-3.6976468, 40.4193028]}","C/ Gran Vía, 4, 28013 Madrid, Spain",brewery
+8,One Beer,4.7,"{'type': 'Point', 'coordinates': [-3.6745077, 40.31551049999999]}","Calle Destreza, 3, 28906 Getafe, Madrid, Spain",brewery
+9,Cervecería Deportiva,0.0,"{'type': 'Point', 'coordinates': [-3.7080657, 40.4190408]}","Costanilla de los Ángeles, 12, 28013 Madrid, Spain",brewery
+10,Los Cervecistas,4.9,"{'type': 'Point', 'coordinates': [-3.680202299999999, 40.3909789]}","Calle Titán, 15, 28045 Madrid, Spain",brewery
+11,Dylan's Craft Beer Company,5.0,"{'type': 'Point', 'coordinates': [-3.705396, 40.431991]}","Calle de San Bernardo, 107, 204, 28015 Madrid, Spain",brewery
+12,Cervezas Alhambra,0.0,"{'type': 'Point', 'coordinates': [-3.6753321, 40.4478733]}","Calle de Benigno Soto, 28002 Madrid, Spain",brewery
+13,The Stuyck Co,4.4,"{'type': 'Point', 'coordinates': [-3.7017522, 40.4265004]}","Corredera Alta de San Pablo, 33, 28004 Madrid, Spain",brewery
+14,Viuda de Cortés S.L.,0.0,"{'type': 'Point', 'coordinates': [-3.7245116, 40.4237653]}","Paseo de la Florida, 51, 28008 Madrid, Spain",brewery
+15,Beerhouse - Craftbeer Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017166, 40.4305865]}","Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",brewery
+16,Cervezas Alhambra,0.0,"{'type': 'Point', 'coordinates': [-3.6409801, 40.4344184]}","Calle Vicente Espinel, 23, 28017 Madrid, Spain",brewery
+17,Mahou,3.4,"{'type': 'Point', 'coordinates': [-3.568535, 40.4681768]}","Av de la Hispanidad, s/n, 28042 Madrid, Spain",brewery
+18,La Contenta Brewery,4.3,"{'type': 'Point', 'coordinates': [-3.697316, 40.432975]}","Plaza de Chamberí, 3, 28010 Madrid, Spain",brewery
+19,Charlton Brewery Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7026577, 40.4251914]}","Calle del Espíritu Santo, 8, 28004 Madrid, Spain",brewery
+20,Brewery Norwich International,4.4,"{'type': 'Point', 'coordinates': [-3.64773, 40.407804]}","Calle de la Marroquina, 38, 28030 Madrid, Spain",brewery
+21,Restaurante Wanderlust,4.1,"{'type': 'Point', 'coordinates': [-3.7081105, 40.4205089]}","Calle de Silva, 2, 28013 Madrid, Spain",brewery
+22,Panda Beer,0.0,"{'type': 'Point', 'coordinates': [-3.7459039, 40.3636895]}","Calle del Luis de Oro, 15, 28054 Madrid, Spain",brewery
+23,Källa Craft Beer,4.2,"{'type': 'Point', 'coordinates': [-3.6978612, 40.4217128]}","Calle de Barbieri, 20, 28004 Madrid, Spain",brewery
+24,Bacterio Brewing CO,4.5,"{'type': 'Point', 'coordinates': [-3.836418, 40.3391271]}","Av. las Retamas, 10, 28922 Alcorcón, Madrid, Spain",brewery
+25,Heineken,2.0,"{'type': 'Point', 'coordinates': [-3.6690306, 40.3968514]}","Calle de la Pintora Ángeles Santos, 4, 28053 Madrid, Spain",brewery
+26,Cervecería CruzBlanca,3.4,"{'type': 'Point', 'coordinates': [-3.6609219, 40.3804411]}","Calle de la Reina de África, 10, 28018 Madrid, Spain",brewery
+27,HOP VINE BEACH American Brewery,0.0,"{'type': 'Point', 'coordinates': [-3.6963716, 40.4127848]}","Calle de Sta. María, 33, 28014 Madrid, Spain",brewery
+28,Taproom Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7129511, 40.43605489999999]}","Calle de Guzmán el Bueno, 52, 28015 Madrid, Spain",brewery
+29,Cervezas La Fábrica,3.8,"{'type': 'Point', 'coordinates': [-3.6957185, 40.4135948]}","Calle de Jesús, 2, 28014 Madrid, Spain",brewery
+30,Bee Beer Debod. Craft Beers & Super Foods,4.8,"{'type': 'Point', 'coordinates': [-3.7151859, 40.4241481]}","Calle de Ferraz, 10, 28008 Madrid, Spain",brewery
+31,Mahoudrid,3.7,"{'type': 'Point', 'coordinates': [-3.5702504, 40.4638558]}","Av de la Hispanidad, s/n, 28042 Madrid, Spain",brewery
+32,Labirratorium,4.6,"{'type': 'Point', 'coordinates': [-3.708546999999999, 40.433788]}","Calle de Vallehermoso, 34, 28015 Madrid, Spain",brewery
+33,Mahou,5.0,"{'type': 'Point', 'coordinates': [-3.776204, 40.3286802]}","Calle de la Madera, 14, 28914 Leganés, Madrid, Spain",brewery
+34,Mahou,3.4,"{'type': 'Point', 'coordinates': [-3.5712434, 40.4683654]}","Aeropuerto Madrid-Barajas. Terminal 2 Planta 1. Entrada, Metro Línea 8, 28042 Madrid, Spain",brewery
+35,Cervezas Martínez e Hijas,4.0,"{'type': 'Point', 'coordinates': [-3.83611, 40.3904799]}","C/ Valdemorillo 16-B, Polígono Ventorro del Cano, 28925 Alcorcón, Madrid, Spain",brewery
+36,Barley & Co. Cervezas Especiales,4.8,"{'type': 'Point', 'coordinates': [-3.8496636, 40.39241699999999]}","Calle Artesanos, 11, 28660 Boadilla del Monte, Madrid, Spain",brewery
+37,CafeeKe - Cervezas y tapas de Bélgica,3.9,"{'type': 'Point', 'coordinates': [-3.707978, 40.414721]}","Calle de Cuchilleros, 3, 28005 Madrid, Spain",brewery
+38,Fogg Bar Birras & Cheese,4.6,"{'type': 'Point', 'coordinates': [-3.6979655, 40.4123332]}","C. de Moratín, 5, 28014 Madrid, Spain",brewery
+39,Cervezas La Virgen 🍻🍔 Solo reservas ONLINE,4.5,"{'type': 'Point', 'coordinates': [-3.8888928, 40.4996241]}","P.I. Európolis, Calle Turín, 13, 28232 Las Rozas de Madrid, Madrid, Spain",brewery
+40,LOS GRIFOS Craft Beers,4.2,"{'type': 'Point', 'coordinates': [-3.7052692, 40.4287863]}","C. de Manuela Malasaña, 33, 28004 Madrid, Spain",brewery
+41,La Conquista Loungebeer,4.9,"{'type': 'Point', 'coordinates': [-3.6996965, 40.4203373]}","Calle de la Reina, 17, 28004 Madrid, Spain",brewery
+42,Cervecería Baden Baden,4.4,"{'type': 'Point', 'coordinates': [-3.643825, 40.4361746]}","Calle Germán Pérez Carrasco, 51, 28027 Madrid, Spain",brewery
+43,Mikkeller Bar Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7062268, 40.4224896]}","Calle de la Luna, 22, 28004 Madrid, Spain",brewery
+44,Chinaski Lavapiés,4.3,"{'type': 'Point', 'coordinates': [-3.699304, 40.408944]}","Calle de la Fe, 19, 28012 Madrid, Spain",brewery
+45,Cerveza Majariega,4.9,"{'type': 'Point', 'coordinates': [-3.8883625, 40.5004906]}","Calle Oxford, 6-A, 28232 Las Rozas de Madrid, Madrid, Spain",brewery
+46,La Tienda de la Cerveza,4.7,"{'type': 'Point', 'coordinates': [-3.7078717, 40.4109073]}","Calle de las Maldonadas, 5, 28005 Madrid, Spain",brewery
+47,Beer Bang Beers,4.7,"{'type': 'Point', 'coordinates': [-3.6709469, 40.434075]}","Mercado de, Calle de Eraso, 14, 28028 Madrid, Spain",brewery
+48,Be Hoppy,4.8,"{'type': 'Point', 'coordinates': [-3.695562999999999, 40.4124572]}","Calle de Fúcar, 1, 28014 Madrid, Spain",brewery
+49,Yellow Cab,4.0,"{'type': 'Point', 'coordinates': [-3.6321774, 40.5361526]}","Av. Olímpica, 5, 28108 Alcobendas, Madrid, Spain",brewery
+50,Starbeers,4.6,"{'type': 'Point', 'coordinates': [-3.7096055, 40.4128722]}","Calle del Almendro, 8, 28005 Madrid, Spain",brewery
+51,Cervecería Avenida,4.1,"{'type': 'Point', 'coordinates': [-3.6960902, 40.4521857]}","Av. del General Perón, 22, 28020 Madrid, Spain",brewery
+52,CERVECERIA DOMINGUEZ,4.3,"{'type': 'Point', 'coordinates': [-3.6256428, 40.430681]}","Calle Virgen de la Oliva, 2, 28037 Madrid, Spain",brewery
+53,HOP BEACH American brewey,5.0,"{'type': 'Point', 'coordinates': [-3.6963716, 40.4127848]}","Calle de Sta. María, 33, 28014 Madrid, Spain",brewery
+54,Cervezas Patanel,4.7,"{'type': 'Point', 'coordinates': [-3.7315292, 40.3913698]}","Av. de Pedro Diez, 21, 28019 Madrid, Spain",brewery
+55,Cruzcampo,0.0,"{'type': 'Point', 'coordinates': [-3.7010263, 40.461341]}","28039 Madrid, Spain",brewery
+56,Taproom Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7093819, 40.418584]}","Debajo del Tierra Burrito, Plaza de Isabel II, 5, 28013 Madrid, Spain",brewery
+57,Cervecissimus - Backstage,4.6,"{'type': 'Point', 'coordinates': [-3.694972599999999, 40.4041224]}","Calle de las Delicias, 6, 28045 Madrid, Spain",brewery
+58,La Almudayna,4.4,"{'type': 'Point', 'coordinates': [-3.7024314, 40.4250191]}","Calle del Espíritu Santo, 5, 28004 Madrid, Spain",brewery
+59,Sambhad cocktail bar terraza,4.8,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}","Calle Duque de Osuna, 4, 28015 Madrid, Spain",brewery

@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,El Retiro Park,4.7,"{'type': 'Point', 'coordinates': [-3.6844995, 40.4152606]}","Plaza de la Independencia, 7, 28001 Madrid, Spain",park
+1,Juan Carlos I Park,4.6,"{'type': 'Point', 'coordinates': [-3.6050151, 40.4609216]}","Glorieta de Don Juan de Borbon y battemberg s/n, 28042 Madrid, Spain",park
+2,Parque del Oeste,4.5,"{'type': 'Point', 'coordinates': [-3.7262232, 40.4307702]}","Paseo de Moret, 2, 28008 Madrid, Spain",park
+3,El Retiro Park,4.8,"{'type': 'Point', 'coordinates': [-3.6821781, 40.4147091]}","Parque el, 28001 Madrid, Spain",park
+4,Madrid Río Park,4.6,"{'type': 'Point', 'coordinates': [-3.7234566, 40.4130932]}","Paseo de la Ermita del Santo, 14, 16, 28011 Madrid, Spain",park
+5,Lineal del Manzanares Park,4.6,"{'type': 'Point', 'coordinates': [-3.686572, 40.3777486]}","Cmo. de Perales, 28053 Madrid, Spain",park
+6,Casa de Campo,4.5,"{'type': 'Point', 'coordinates': [-3.7489783, 40.419748]}","Paseo de la Puerta del Ángel, 1, 28011 Madrid, Spain",park
+7,El Capricho Park,4.6,"{'type': 'Point', 'coordinates': [-3.599150899999999, 40.4558582]}","Paseo de la Alameda de Osuna, 25, 28042 Madrid, Spain",park
+8,Rose Garden of El Retiro,4.7,"{'type': 'Point', 'coordinates': [-3.6803226, 40.41079010000001]}","Paseo de Fernán Núñez, 4, 28009 Madrid, Spain",park
+9,Casa de Campo Park,4.7,"{'type': 'Point', 'coordinates': [-3.7783545, 40.41183210000001]}","Ctra. Zarzón, 28011 Madrid, Spain",park
+10,Ciudad de los Ángeles Park,4.2,"{'type': 'Point', 'coordinates': [-3.6968863, 40.3544252]}","Calle de Anoeta, 14, B, 28041 Madrid, Spain",park
+11,Pabellón de los Jardines de Cecilio Rodríguez,4.7,"{'type': 'Point', 'coordinates': [-3.6777427, 40.4124509]}","Paseo del Uruguay, 5, 28009 Madrid, Spain",park
+12,Parque de Atenas,4.3,"{'type': 'Point', 'coordinates': [-3.7187979, 40.4145074]}","Calle de Segovia, 28, 28005 Madrid, Spain",park
+13,Campo del Moro,4.6,"{'type': 'Point', 'coordinates': [-3.7179746, 40.4186984]}","P.º de la Virgen del Puerto, 1, 28013 Madrid, Spain",park
+14,Quinta de los Molinos park,4.5,"{'type': 'Point', 'coordinates': [-3.626970499999999, 40.4410264]}","Calle de Alcalá, 527, 28027 Madrid, Spain",park
+15,Parque de Berlín,4.3,"{'type': 'Point', 'coordinates': [-3.675755799999999, 40.4504072]}","Av. de Ramón y Cajal, 2, 28016 Madrid, Spain",park
+16,Quinta de la Fuente del Berro,4.5,"{'type': 'Point', 'coordinates': [-3.661065999999999, 40.42357310000001]}","28028 Madrid, Spain",park
+17,Parque de Santander,4.4,"{'type': 'Point', 'coordinates': [-3.7097065, 40.4436122]}","Paseo de S. Fco. de Sales, 39, 28003 Madrid, Spain",park
+18,Dehesa de la Villa,4.6,"{'type': 'Point', 'coordinates': [-3.7194658, 40.4596262]}","Carr. de la Dehesa de la Villa, 28035 Madrid, Spain",park
+19,Sabatini Gardens,4.5,"{'type': 'Point', 'coordinates': [-3.7140039, 40.42033199999999]}","Calle de Bailén, 2, 28013 Madrid, Spain",park
+20,Parque del Cerro del Tío Pío,4.6,"{'type': 'Point', 'coordinates': [-3.655068, 40.3962023]}","Calle de Benjamín Palencia, 2, 28038 Madrid, Spain",park
+21,Bosque del Recuerdo,4.6,"{'type': 'Point', 'coordinates': [-3.6871405, 40.4120836]}","Calle de Alfonso XII, 48, 28014 Madrid, Spain",park
+22,Valdebebas-Felipe VI Park,4.4,"{'type': 'Point', 'coordinates': [-3.6338581, 40.4909787]}","Av. de las Fuerzas Armadas, 11, 28055 Madrid, Spain",park
+23,para perros Park,3.6,"{'type': 'Point', 'coordinates': [-3.707520999999999, 40.4301483]}","Pl. del Conde del Valle de Súchil, 1, 28015 Madrid, Spain",park
+24,Cecilio Rodríguez Garden,4.8,"{'type': 'Point', 'coordinates': [-3.6779997, 40.4133196]}","Paseo de Fernán Núñez, 1X, 28009 Madrid, Spain",park
+25,Rosaleda del Parque del Oeste,4.6,"{'type': 'Point', 'coordinates': [-3.7219103, 40.4264992]}","Calle de la Rosaleda, 1, 28008 Madrid, Spain",park
+26,Parque de la Cornisa,4.3,"{'type': 'Point', 'coordinates': [-3.7155254, 40.4097388]}","28005 Madrid, Spain",park
+27,The Garden of the Prince of Anglona,4.3,"{'type': 'Point', 'coordinates': [-3.7114417, 40.413523]}","Plaza de la Paja, 6, 28005 Madrid, Spain",park
+28,Casino de la Reina Park,4.0,"{'type': 'Point', 'coordinates': [-3.7047148, 40.4061947]}","Calle de Embajadores, 68, 28012 Madrid, Spain",park
+29,Jardines de Lepanto,4.5,"{'type': 'Point', 'coordinates': [-3.7124341, 40.4175645]}","Calle de Lepanto, 28013 Madrid, Spain",park
+30,Plaza Fiesta,4.2,"{'type': 'Point', 'coordinates': [-3.7090817, 40.412845]}","Calle del Almendro, 3, 28005 Madrid, Spain",park
+31,Jardín de América,4.3,"{'type': 'Point', 'coordinates': [-3.691999, 40.420297]}","Paseo de Recoletos, 2, 28001 Madrid, Spain",park
+32,Parque Juan Pablo II,4.5,"{'type': 'Point', 'coordinates': [-3.626850799999999, 40.4547766]}","Av. de Machupichu, 1, 28043 Madrid, Spain",park
+33,Fuente de los Galápagos,4.5,"{'type': 'Point', 'coordinates': [-3.6855362, 40.4186199]}","28009 Madrid, Spain",park
+34,Zoo Aquarium de Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.760958599999999, 40.40912280000001]}","Casa de Campo, s/n, 28011 Madrid, Spain",park
+35,Parque Emir Mohamed,4.2,"{'type': 'Point', 'coordinates': [-3.7147903, 40.4147111]}","Parque Emir Mohamed, 28005 Madrid, Spain",park
+36,Parque de Santander,4.4,"{'type': 'Point', 'coordinates': [-3.7068943, 40.4427069]}","Av. de Pablo Iglesias, 9, 28003 Madrid, Spain",park
+37,Real Jardín Botánico,4.3,"{'type': 'Point', 'coordinates': [-3.6911267, 40.4111064]}","Plaza de Murillo, 2, 28014 Madrid, Spain",park
+38,Parque Luigi Boccherini,3.9,"{'type': 'Point', 'coordinates': [-3.7156256, 40.4148018]}","Cuesta de La Vega, 1B, 28013 Madrid, Spain",park
+39,Las Vistillas Garden,4.3,"{'type': 'Point', 'coordinates': [-3.7154567, 40.4125885]}","Jardín de las Vistillas, 28005 Madrid, Spain",park
+40,Fuencarral Park,3.8,"{'type': 'Point', 'coordinates': [-3.6923507, 40.4947074]}","Calle Hospitalet de Llobregat, 25, 28034 Madrid, Spain",park
+41,Plaza de Castilla Park,0.0,"{'type': 'Point', 'coordinates': [-3.6866094, 40.4648404]}","Cuarto Depósito, Calle Joaquín Bau, 5, 28036 Madrid, Spain",park
+42,Parque,3.8,"{'type': 'Point', 'coordinates': [-3.6743742, 40.407721]}","Calle de Juan de Urbieta, 52, 28007 Madrid, Spain",park
+43,Madrid Rio. Salon de Pinos. Park,5.0,"{'type': 'Point', 'coordinates': [-3.724474399999999, 40.42194560000001]}","Autopista de Circunvalación M-30, 28008 Madrid, Spain",park
+44,Parque,0.0,"{'type': 'Point', 'coordinates': [-3.6266386, 40.4461137]}","Calle Dr. Zamenhof, 26, 28027 Madrid, Spain",park
+45,Parque (pícnic),0.0,"{'type': 'Point', 'coordinates': [-3.6932652, 40.4741003]}","Parque de, Calle de la Vía Límite, 28029 Madrid, Spain",park
+46,Otopark,0.0,"{'type': 'Point', 'coordinates': [-3.6984327, 40.41845]}","Calle de Alcalá, 29, 28014 Madrid, Spain",park
+47,Avenidas Park,4.3,"{'type': 'Point', 'coordinates': [-3.6603184, 40.440415]}","Av. de Bruselas, 52, 28028 Madrid, Spain",park
+48,Madrid río,0.0,"{'type': 'Point', 'coordinates': [-3.7224778, 40.4210557]}","Autopista de Circunvalación M-30, 28008 Madrid, Spain",park
+49,Parque,4.5,"{'type': 'Point', 'coordinates': [-3.7272399, 40.4916713]}","28049 Madrid, Spain",park
+50,Parque,3.0,"{'type': 'Point', 'coordinates': [-3.6822266, 40.3993262]}","Calle de Alpedrete, 25, 28045 Madrid, Spain",park
+51,infantil de la calle Bande Park,3.7,"{'type': 'Point', 'coordinates': [-3.5898924, 40.4657391]}","28042 Madrid, Spain",park
+52,Aluche Park,4.3,"{'type': 'Point', 'coordinates': [-3.7595943, 40.3896463]}","Calle de Tembleque, 45, 28024 Madrid, Spain",park
+53,Anillo Verde Ciclista Madrid km 0,4.1,"{'type': 'Point', 'coordinates': [-3.6614264, 40.5029614]}","Unnamed Road, 28050, Madrid, Spain",park
+54,infantil Park,4.0,"{'type': 'Point', 'coordinates': [-3.706315999999999, 40.444928]}","Av. de Pablo Iglesias, 14, 28003 Madrid, Spain",park
+55,Jardines del Arquitecto Ribera,3.8,"{'type': 'Point', 'coordinates': [-3.7000426, 40.4265357]}","C. de Barceló, 2, 28004 Madrid, Spain",park
+56,Cerro de las Canteras Lookout,4.5,"{'type': 'Point', 'coordinates': [-3.742914099999999, 40.4290116]}","28011 Madrid, Spain",park
+57,Parque,0.0,"{'type': 'Point', 'coordinates': [-3.6698906, 40.40158340000001]}","Calle de Valderribas, 78, 28007 Madrid, Spain",park
+58,Community of Madrid Park,3.8,"{'type': 'Point', 'coordinates': [-3.6378103, 40.5457037]}","Calle de Miraflores, 16, 28100 Alcobendas, Madrid, Spain",park
+59,Estanque Grande del Retiro,4.7,"{'type': 'Point', 'coordinates': [-3.683814699999999, 40.4156063]}","Paseo de Colombia, 2, 28016 Madrid, Spain",park

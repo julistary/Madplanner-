@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Trattoria Malatesta,4.5,"{'type': 'Point', 'coordinates': [-3.7070821, 40.41650970000001]}","Calle de los Coloreros, 5, 28013 Madrid, Spain",italian
+1,Davanti Food & Market,4.8,"{'type': 'Point', 'coordinates': [-3.696836, 40.42210499999999]}","Calle de Augusto Figueroa, 41, 28004 Madrid, Spain",italian
+2,Bresca,4.4,"{'type': 'Point', 'coordinates': [-3.699513799999999, 40.4106967]}","Calle de los Tres Peces, 20, 28012 Madrid, Spain",italian
+3,"Piccola Trattoria, Madrid",4.6,"{'type': 'Point', 'coordinates': [-3.6993845, 40.4106046]}","Calle de la Torrecilla del Leal, 15, 28012 Madrid, Spain",italian
+4,Flavia Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6896, 40.422401]}","Calle Gil de Santivañes, 2, 28001 Madrid, Spain",italian
+5,Grazie Mille Kitchen bar,4.1,"{'type': 'Point', 'coordinates': [-3.707516, 40.416106]}","Calle Mayor, 31, 28013 Madrid, Spain",italian
+6,VIRTÙ ITALIANA RISTORANTE,4.6,"{'type': 'Point', 'coordinates': [-3.6678957, 40.5062274]}","Calle San Miguel del Camino, 16, 28050 Madrid, Spain",italian
+7,Ristorante Maruzzella,4.3,"{'type': 'Point', 'coordinates': [-3.6997241, 40.4461776]}","Calle de Raimundo Fernández Villaverde, 28, 28003 Madrid, Spain",italian
+8,Oven Mozzarella Bar,4.4,"{'type': 'Point', 'coordinates': [-3.6977883, 40.4193426]}","C/ Gran Vía, 6, 28013 Madrid, Spain",italian
+9,Fratelli d'Italia,4.5,"{'type': 'Point', 'coordinates': [-3.7000971, 40.4215581]}","Calle de Hortaleza, 28, 28004 Madrid, Spain",italian
+10,Ornella,4.2,"{'type': 'Point', 'coordinates': [-3.6840856, 40.42328639999999]}","Calle de Velázquez, 18, 28001 Madrid, Spain",italian
+11,Trattoria Pulcinella,4.5,"{'type': 'Point', 'coordinates': [-3.6965084, 40.42471]}","Calle de Regueros, 7, 28004 Madrid, Spain",italian
+12,Ouh...Babbo!,4.6,"{'type': 'Point', 'coordinates': [-3.7088167, 40.4186694]}","Calle de los Caños del Peral, 2, 28013 Madrid, Spain",italian
+13,Malafemmena,4.5,"{'type': 'Point', 'coordinates': [-3.6683001, 40.4264227]}","Calle del Dr. Esquerdo, 13, 28028 Madrid, Spain",italian
+14,La Tagliatella,4.1,"{'type': 'Point', 'coordinates': [-3.706800399999999, 40.4197598]}","Calle de Preciados, 36, 28013 Madrid, Spain",italian
+15,Pastamore,4.6,"{'type': 'Point', 'coordinates': [-3.6699376, 40.4276831]}","Calle de Alcalá, 191, 28009 Madrid, Spain",italian
+16,Restaurante La Piperna,4.4,"{'type': 'Point', 'coordinates': [-3.6928932, 40.4638102]}","Calle de la Infanta Mercedes, 98, 28020 Madrid, Spain",italian
+17,Just Italia Barrio Salamanca Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.6807211, 40.4359624]}","Calle de Castelló, 113, 28006 Madrid, Spain",italian
+18,Menomale,4.5,"{'type': 'Point', 'coordinates': [-3.7063179, 40.4284363]}","Calle de San Bernardo, 85, 28015 Madrid, Spain",italian
+19,Pante Cucina Italiana,4.4,"{'type': 'Point', 'coordinates': [-3.6849186, 40.4224527]}","Calle de Villanueva, 21, 28001 Madrid, Spain",italian
+20,il Regno di Napoli,4.3,"{'type': 'Point', 'coordinates': [-3.703556, 40.427882]}","Calle de San Andrés, 21, 28004 Madrid, Spain",italian
+21,Oliveto,4.6,"{'type': 'Point', 'coordinates': [-3.6964677, 40.4097901]}","Calle de Santa Isabel, 45, 28012 Madrid, Spain",italian
+22,La Tavernetta,4.6,"{'type': 'Point', 'coordinates': [-3.69412, 40.426132]}","Calle de Orellana, 17, 28004 Madrid, Spain",italian
+23,Oven Mozzarella Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7006447, 40.4250403]}","Calle de Fuencarral, 74, 28004 Madrid, Spain",italian
+24,Nina Pasta Bar,4.7,"{'type': 'Point', 'coordinates': [-3.7088364, 40.4094991]}","Calle de Santa Ana, 21, 28005 Madrid, Spain",italian
+25,Emma & Julia Italian Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.708932, 40.41252]}","Calle de la Cava Baja, 19, 28005 Madrid, Spain",italian
+26,Orso Matto piadinas y mas que comer,4.7,"{'type': 'Point', 'coordinates': [-3.7156909, 40.4340665]}","Calle de Gaztambide, 35, 28015 Madrid, Spain",italian
+27,Pasta Mito,4.5,"{'type': 'Point', 'coordinates': [-3.6780327, 40.4574231]}","C. de Bolivia, 9, 28016 Madrid, Spain",italian
+28,Ristorante Casa Marco,4.3,"{'type': 'Point', 'coordinates': [-3.7154639, 40.4315111]}","Calle de Gaztambide, 8, 28015 Madrid, Spain",italian
+29,GIOIA,4.6,"{'type': 'Point', 'coordinates': [-3.6983917, 40.4221472]}","Calle de San Bartolomé, 23, 28004 Madrid, Spain",italian
+30,Fellina Restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.6942249, 40.430761]}","Calle de Caracas, 21, 28010 Madrid, Spain",italian
+31,Fratelli d'Italia [ Lavapiés ],4.5,"{'type': 'Point', 'coordinates': [-3.701549999999999, 40.4088782]}","Calle del Sombrerete, 1, 28012 Madrid, Spain",italian
+32,Luna Rossa,4.4,"{'type': 'Point', 'coordinates': [-3.707344999999999, 40.423177]}","Calle de San Bernardo, 24, 28015 Madrid, Spain",italian
+33,A vÁnvera,4.4,"{'type': 'Point', 'coordinates': [-3.692879, 40.439824]}","Calle de Zurbano, 85, 28003 Madrid, Spain",italian
+34,Finocchio Ristorante,3.8,"{'type': 'Point', 'coordinates': [-3.7040264, 40.4073404]}","Calle de Embajadores, 64, 28012 Madrid, Spain",italian
+35,Restaurante SottoSopra,4.0,"{'type': 'Point', 'coordinates': [-3.6863029, 40.4233496]}","C. de Puigcerd, 8, 28001 Madrid, Spain",italian
+36,Davita Italian Gastro Market,3.6,"{'type': 'Point', 'coordinates': [-3.6510259, 40.52681330000001]}","Carr. de Fuencarral, 9A, 28108 Alcobendas, Madrid, Spain",italian
+37,Lettera 22,4.3,"{'type': 'Point', 'coordinates': [-3.6982236, 40.4196249]}","Calle de la Reina, 20, 28004 Madrid, Spain",italian
+38,Pizza Emporio Preciados,3.3,"{'type': 'Point', 'coordinates': [-3.7067837, 40.41960539999999]}","Calle de Preciados, 33, 28013 Madrid, Spain",italian
+39,Restaurante La Tagliatella,3.8,"{'type': 'Point', 'coordinates': [-3.7037719, 40.4139869]}","C. de Atocha, 16, 28012 Madrid, Spain",italian
+40,o'mast RISTORANTE PIZZERIA,4.1,"{'type': 'Point', 'coordinates': [-3.7041196, 40.4211082]}","Calle del Desengaño, 24, 28004 Madrid, Spain",italian
+41,Peasy,4.1,"{'type': 'Point', 'coordinates': [-3.6961266, 40.4266992]}","Plaza de Sta. Bárbara, 9, 28004 Madrid, Spain",italian
+42,Jack Percoca,4.4,"{'type': 'Point', 'coordinates': [-3.7109957, 40.4264544]}","Calle del Conde Duque, 14, 28015 Madrid, Spain",italian
+43,Pizzeria Ristorante Piccolo Diavolo,4.3,"{'type': 'Point', 'coordinates': [-3.695541, 40.411471]}","Calle de Fúcar, 11, 28039 Madrid, Spain",italian
+44,DiBocca Gran Vía,4.1,"{'type': 'Point', 'coordinates': [-3.709053299999999, 40.422017]}","C/ Gran Vía, 59, 28013 Madrid, Spain",italian
+45,Cor&Cor,4.1,"{'type': 'Point', 'coordinates': [-3.708335999999999, 40.41792299999999]}","Calle de los Donados, 2, 28013 Madrid, Spain",italian
+46,Da Giuseppina,4.1,"{'type': 'Point', 'coordinates': [-3.700856, 40.431926]}","Calle de Trafalgar, 17, 28010 Madrid, Spain",italian
+47,Fiaschetteria La Saletta,4.7,"{'type': 'Point', 'coordinates': [-3.6987942, 40.4114462]}","Calle de Santa Isabel, 5, 2nd floor, 28012 Madrid, Spain",italian
+48,Da Nicola Gran Vía,4.3,"{'type': 'Point', 'coordinates': [-3.708687, 40.4230288]}","Plaza de los Mostenses, 11, LOCAL, 28015 Madrid, Spain",italian
+49,La Tagliatella,4.1,"{'type': 'Point', 'coordinates': [-3.6731, 40.424127]}","Av. Felipe II, 17, 28009 Madrid, Spain",italian
+50,La Boutique Italian Food | CIUDAD DE TELEFÓNICA,3.3,"{'type': 'Point', 'coordinates': [-3.6627854, 40.5152099]}","Edificio Telefónica, Ronda de la Comunicación, 2, 28050 Madrid, Spain",italian
+51,Trattoria d'Alfredo,4.6,"{'type': 'Point', 'coordinates': [-3.6964909, 40.4310881]}","Calle de El Españoleto, 4, 28010 Madrid, Spain",italian
+52,SANDY BARRACANE Bar & Kitchen,4.8,"{'type': 'Point', 'coordinates': [-3.698177, 40.421188]}","Calle de Barbieri, 11, 28004 Madrid, Spain",italian
+53,"Restaurante La Tagliatella | Juan Bravo, Madrid",4.2,"{'type': 'Point', 'coordinates': [-3.6787413, 40.4327663]}","Calle de Juan Bravo, 35, 28006 Madrid, Spain",italian
+54,Bresca,4.3,"{'type': 'Point', 'coordinates': [-3.6997114, 40.4187395]}","Calle de la Virgen de los Peligros, 7, 28013 Madrid, Spain",italian
+55,"Restaurante La Tagliatella | Fuencarral, Madrid",4.0,"{'type': 'Point', 'coordinates': [-3.703526399999999, 40.4310544]}","Calle de Fuencarral, 127, 28004 Madrid, Spain",italian
+56,Pinocchio Sánchez Bustillo,3.9,"{'type': 'Point', 'coordinates': [-3.693619, 40.409021]}","Calle de Sánchez Bustillo, 5, 28012 Madrid, Spain",italian
+57,Oven Mozzarella Bar,4.5,"{'type': 'Point', 'coordinates': [-3.693310699999999, 40.4094376]}","C. de Atocha, 114, 28012 Madrid, Spain",italian
+58,Il Pezzo di Giuseppe,3.9,"{'type': 'Point', 'coordinates': [-3.7003251, 40.4150314]}","Plaza de Sta. Ana, 5, 28012 Madrid, Spain",italian
+59,La Boutique Italian Food | UTÓPICUS,3.9,"{'type': 'Point', 'coordinates': [-3.6786541, 40.4397346]}","Calle del Príncipe de Vergara, 112, 28002 Madrid, Spain",italian

@@ -1,0 +1,21 @@
+,name,rating,location,address,place
+0,Zoo Aquarium de Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.760958599999999, 40.40912280000001]}","Casa de Campo, s/n, 28011 Madrid, Spain",zoo
+1,Rinoceronte Indio,5.0,"{'type': 'Point', 'coordinates': [-3.762841, 40.4103946]}","28011 Madrid, Spain",zoo
+2,Oso Hormiguero,5.0,"{'type': 'Point', 'coordinates': [-3.7641471, 40.4097789]}","Casa de Campo, s/n, 28011 Madrid, Spain",zoo
+3,Suricata,5.0,"{'type': 'Point', 'coordinates': [-3.765019799999999, 40.4095897]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+4,Cigüeñas,5.0,"{'type': 'Point', 'coordinates': [-3.7634464, 40.4084264]}","Casa de Campo, s/n, 28011 Madrid, Spain",zoo
+5,Sea lions,4.2,"{'type': 'Point', 'coordinates': [-3.7619058, 40.410597]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+6,Yack,5.0,"{'type': 'Point', 'coordinates': [-3.7663988, 40.4097814]}","Unnamed Road, 28011, Madrid, Spain",zoo
+7,Faunia,4.1,"{'type': 'Point', 'coordinates': [-3.6124408, 40.3920393]}","Av. Comunidades, 28, 28032 Madrid, Spain",zoo
+8,Gorilas,4.4,"{'type': 'Point', 'coordinates': [-3.7655314, 40.409408]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+9,Koalas,5.0,"{'type': 'Point', 'coordinates': [-3.7633801, 40.4080351]}","Casa de Campo s/n, 28011 Madrid, Spain",zoo
+10,Espectáculos de aves,4.1,"{'type': 'Point', 'coordinates': [-3.7650222, 40.4080912]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+11,Estanque de los delfines,4.2,"{'type': 'Point', 'coordinates': [-3.7659039, 40.4079717]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+12,Elefantes,4.6,"{'type': 'Point', 'coordinates': [-3.7636239, 40.4096954]}","Casa de Campo, 28011 Madrid, Spain",zoo
+13,Pingüinos,5.0,"{'type': 'Point', 'coordinates': [-3.7615437, 40.4104789]}","Unnamed Road, 28011, Madrid, Spain",zoo
+14,Tigers,4.6,"{'type': 'Point', 'coordinates': [-3.7646802, 40.4106989]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+15,Rinoceronte,4.6,"{'type': 'Point', 'coordinates': [-3.766549, 40.4090885]}","Casa de Campo, 28011 Madrid, Spain",zoo
+16,Mariposas - El Jardín del Edén,4.3,"{'type': 'Point', 'coordinates': [-3.6128849, 40.3911137]}","Av. Comunidades, 22, 28032 Madrid, Spain",zoo
+17,Lemures,3.6,"{'type': 'Point', 'coordinates': [-3.7639535, 40.4104445]}","Casa de Campo, 28011 Madrid, Spain",zoo
+18,Leopardos,4.5,"{'type': 'Point', 'coordinates': [-3.7638383, 40.4108858]}","Ctra. Zarzón, 6, 28011 Madrid, Spain",zoo
+19,Monos,4.7,"{'type': 'Point', 'coordinates': [-3.7630153, 40.4095914]}","Casa de Campo, 28011 Madrid, Spain",zoo

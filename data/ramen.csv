@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Ramen Kagura Ópera,4.6,"{'type': 'Point', 'coordinates': [-3.708749, 40.416807]}","Calle de las Fuentes, 1, 28013 Madrid, Spain",ramen
+1,Chuka Ramen Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6994458, 40.4157318]}","Calle de Echegaray, 9, 28014 Madrid, Spain",ramen
+2,Ran Ran Tei,4.8,"{'type': 'Point', 'coordinates': [-3.6946025, 40.451684]}","Calle de Orense, 26, posterior, 28020 Madrid, Spain",ramen
+3,IGO RAMEN,4.4,"{'type': 'Point', 'coordinates': [-3.705492599999999, 40.4210921]}","Spain, Madrid, Calle de Tudescos, 邮政编码: 28004",ramen
+4,Ninja Ramen,4.3,"{'type': 'Point', 'coordinates': [-3.7009895, 40.4265231]}","C. de Barceló, 1, 28004 Madrid, Spain",ramen
+5,Ramen Shifu,4.3,"{'type': 'Point', 'coordinates': [-3.7075995, 40.4139221]}","Calle de Toledo, 24, 28005 Madrid, Spain",ramen
+6,Ramen bar,4.6,"{'type': 'Point', 'coordinates': [-3.6944375, 40.3991003]}","Calle del Gral. Palanca, 42, 28045 Madrid, Spain",ramen
+7,Ramen Shifu,4.2,"{'type': 'Point', 'coordinates': [-3.6767683, 40.42752979999999]}","Cl. de Ayala, 65, 28001 Madrid, Spain",ramen
+8,Ramen Shifu,4.2,"{'type': 'Point', 'coordinates': [-3.693085699999999, 40.4368469]}","Calle de Zurbano, 67, 28010 Madrid, Spain",ramen
+9,Ramen Shifu - Chueca,4.7,"{'type': 'Point', 'coordinates': [-3.700000999999999, 40.4207586]}","Calle de las Infantas, 14, 28004 Madrid, Spain",ramen
+10,naniwa,4.2,"{'type': 'Point', 'coordinates': [-3.71439, 40.43212800000001]}","C. de Andrés Mellado, 18, 28015 Madrid, Spain",ramen
+11,Kuraya,4.4,"{'type': 'Point', 'coordinates': [-3.7087385, 40.4166538]}","Plaza de Herradores, 7, 28013 Madrid, Spain",ramen
+12,Igo Ramen Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.7073242, 40.4190812]}","Calle de las Navas de Tolosa, 9, 28013 Madrid, Spain",ramen
+13,Morikaen,4.4,"{'type': 'Point', 'coordinates': [-3.7168926, 40.4336735]}","C. de Hilarión Eslava, 17, 28015 Madrid, Spain",ramen
+14,Sky Sushi & Ramen,4.3,"{'type': 'Point', 'coordinates': [-3.690109, 40.4219505]}","Calle de Recoletos, 11, 28001 Madrid, Spain",ramen
+15,Ramen Kagura Atocha,4.6,"{'type': 'Point', 'coordinates': [-3.6973139, 40.4052477]}","Cl. de José Antonio de Armona, 12, 28012 Madrid, Spain",ramen
+16,UDON Sol,4.0,"{'type': 'Point', 'coordinates': [-3.7026501, 40.4176738]}","Calle de la Montera, 12, 28013 Madrid, Spain",ramen
+17,Yan Ken Pon - Sushi Ramen y Librería,4.4,"{'type': 'Point', 'coordinates': [-3.7070697, 40.4109037]}","Plaza de Cascorro, 3, 28012 Madrid, Spain",ramen
+18,Ramen Kagura Chueca,4.5,"{'type': 'Point', 'coordinates': [-3.6993336, 40.4216492]}","Calle de San Marcos, 8, 28004 Madrid, Spain",ramen
+19,YOKALOKA,4.5,"{'type': 'Point', 'coordinates': [-3.6986778, 40.4116083]}","DENTRO DEL MERCADO DE ANTÓN MARTÍN, Calle de Santa Isabel, 5, 28012 Madrid, Spain",ramen
+20,Konnichiwa,4.4,"{'type': 'Point', 'coordinates': [-3.7017833, 40.42788609999999]}","Calle de Fuencarral, 98, 28004 Madrid, Spain",ramen
+21,Livin'Japan,4.6,"{'type': 'Point', 'coordinates': [-3.6994991, 40.41059569999999]}","Calle de la Torrecilla del Leal, 20, 28012 Madrid, Spain",ramen
+22,UDON Chueca,3.9,"{'type': 'Point', 'coordinates': [-3.6993395, 40.4201883]}","Calle del Clavel, 6, 28004 Madrid, Spain",ramen
+23,Ramen Nan Japones,4.1,"{'type': 'Point', 'coordinates': [-3.7080677, 40.419033]}","Costanilla de los Ángeles, 12, 28013 Madrid, Spain",ramen
+24,Hanakura,4.5,"{'type': 'Point', 'coordinates': [-3.7004709, 40.4332403]}","C/ de Murillo, 4, 28010 Madrid, Spain",ramen
+25,Nakeima,4.6,"{'type': 'Point', 'coordinates': [-3.7153689, 40.43314]}","Calle de Meléndez Valdés, 54, 28015 Madrid, Spain",ramen
+26,Morikaen,4.2,"{'type': 'Point', 'coordinates': [-3.7168924, 40.4336725]}","C. de Hilarión Eslava, 17, 28015 Madrid, Spain",ramen
+27,Ramen,5.0,"{'type': 'Point', 'coordinates': [-3.6931736, 40.4689701]}","C. del Cañaveral, 64, 28029 Madrid, Spain",ramen
+28,Ramen Shifu,4.3,"{'type': 'Point', 'coordinates': [-3.7017506, 40.4268781]}","Calle de Fuencarral, 93, 28004 Madrid, Spain",ramen
+29,127 Taipei Bar Ramen & Baos,4.7,"{'type': 'Point', 'coordinates': [-3.695678, 40.411478]}","Calle de Fúcar, 14, 28014 Madrid, Spain",ramen
+30,Ramen Kagura Avenida de América,4.7,"{'type': 'Point', 'coordinates': [-3.679973, 40.436177]}","Calle del Gral Oraá, 49, 28006 Madrid, Spain",ramen
+31,Hayama Sushi & Ramen,3.8,"{'type': 'Point', 'coordinates': [-3.707531, 40.4351603]}","Calle de Fernández de los Ríos, 32, 28015 Madrid, Spain",ramen
+32,WAGARA Restaurante Japonés,4.9,"{'type': 'Point', 'coordinates': [-3.6748356, 40.4383684]}","Calle del Pilar de Zaragoza, 95, 28028 Madrid, Spain",ramen
+33,Ramen bar & restaurante (chiwexuan),4.1,"{'type': 'Point', 'coordinates': [-3.6788867, 40.5107323]}","Calle Federico Mompou, 8, 28050 Madrid, Spain",ramen
+34,UDON,4.0,"{'type': 'Point', 'coordinates': [-3.707726499999999, 40.4797156]}","Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",ramen
+35,Ramen Kagura Getafe,4.6,"{'type': 'Point', 'coordinates': [-3.7299626, 40.32764]}","Calle Alcalde Jesús Prieto, 3, 28907 Getafe, Madrid, Spain",ramen
+36,Igopasta,4.4,"{'type': 'Point', 'coordinates': [-3.7107095, 40.3828179]}","Calle de Dolores Barranco, 88, 28026 Madrid, Spain",ramen
+37,Nigiri Fuencarral,4.0,"{'type': 'Point', 'coordinates': [-3.701579, 40.426644]}","Calle de Fuencarral, 91, 28004 Madrid, Spain",ramen
+38,Hattori Hanzo,3.9,"{'type': 'Point', 'coordinates': [-3.7041425, 40.4209596]}","Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",ramen
+39,Donzoko,4.5,"{'type': 'Point', 'coordinates': [-3.6995699, 40.4161876]}","Calle de Echegaray, 3, 28014 Madrid, Spain",ramen
+40,Nippon 2,4.4,"{'type': 'Point', 'coordinates': [-3.6985945, 40.41995360000001]}","Calle de la Reina, 31, 28004 Madrid, Spain",ramen
+41,YAN KEN PON Mercado de San Fernando,4.2,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Calle de Embajadores, 41, Local 11, 28012 Madrid, Spain",ramen
+42,Yatai Market,4.5,"{'type': 'Point', 'coordinates': [-3.7039463, 40.4130309]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",ramen
+43,MANEKI RAMEN,4.7,"{'type': 'Point', 'coordinates': [-3.6131209, 40.4066947]}","Calle de Calahorra, 15, 28032 Madrid, Spain",ramen
+44,Restaurante Lamian,4.3,"{'type': 'Point', 'coordinates': [-3.708912, 40.423641]}","Plaza de los Mostenses, 4, 28015 Madrid, Spain",ramen
+45,SUMO Restaurante,4.2,"{'type': 'Point', 'coordinates': [-3.6926634, 40.45961]}","Calle de Sor Ángela de la Cruz, 8, 28020 Madrid, Spain",ramen
+46,Ramen Shifu - Plaza España,0.0,"{'type': 'Point', 'coordinates': [-3.7093819, 40.4215657]}","Calle de Isabel la Católica, 15, 28013 Madrid, Spain",ramen
+47,Okasan,4.4,"{'type': 'Point', 'coordinates': [-3.7053377, 40.4198028]}","El Corte Inglés, Gourmet Experience Gran Vía, Plaza del Callao, 2, 28013 Madrid, Spain",ramen
+48,Sublime Tokyo,4.6,"{'type': 'Point', 'coordinates': [-3.7083009, 40.4198225]}","Cuesta de Sto. Domingo, 24, 28013 Madrid, Spain",ramen
+49,Sushi & Ramen,5.0,"{'type': 'Point', 'coordinates': [-3.698228099999999, 40.4395956]}","Calle de Bretón de los Herreros, 29, 28003 Madrid, Spain",ramen
+50,Lanzhou Empanaderia Ramen兰州饺子拉面馆,4.6,"{'type': 'Point', 'coordinates': [-3.7133313, 40.4023861]}","Calle de Toledo, 171D, 28005 Madrid, Spain",ramen
+51,JANATOMO,4.5,"{'type': 'Point', 'coordinates': [-3.698991, 40.4200162]}","Calle de la Reina, 27, 28004 Madrid, Spain",ramen
+52,MUSASHI,4.5,"{'type': 'Point', 'coordinates': [-3.7076722, 40.4190371]}","Calle de las Conchas, 4, 28013 Madrid, Spain",ramen
+53,Umiko Restaurante Japonés Fusión,4.5,"{'type': 'Point', 'coordinates': [-3.6973425, 40.4175316]}","Calle de los Madrazo, 18, 28014 Madrid, Spain",ramen
+54,Soi Noodle,4.4,"{'type': 'Point', 'coordinates': [-3.695571, 40.4458991]}","Calle de Modesto Lafuente, 88, 28003 Madrid, Spain",ramen
+55,AOMI SUSHI,4.2,"{'type': 'Point', 'coordinates': [-3.7263477, 40.4134019]}","Cl. de Antonio Zamora, 12, 28011 Madrid, Spain",ramen
+56,killer Sobo,4.7,"{'type': 'Point', 'coordinates': [-3.7124332, 40.4125139]}","Calle de la Redondilla, 7, 28005 Madrid, Spain",ramen
+57,Okashi Sanda,4.5,"{'type': 'Point', 'coordinates': [-3.7032679, 40.42575009999999]}","Calle de San Vicente Ferrer, 22, 28004 Madrid, Spain",ramen
+58,Restaurante Ikigai,4.3,"{'type': 'Point', 'coordinates': [-3.7097981, 40.4221971]}","Calle de la Flor Baja, 5, 28013 Madrid, Spain",ramen
+59,SUMO Fusión Restaurante,4.0,"{'type': 'Point', 'coordinates': [-3.6982106, 40.41919610000001]}","C/ Gran Vía, 1, 28013 Madrid, Spain",ramen

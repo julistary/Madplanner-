@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Ricci's Cakes,4.6,"{'type': 'Point', 'coordinates': [-3.696773899999999, 40.4522897]}","Av. del General Perón, 16, 28020 Madrid, Spain",cake
+1,Sweet Cakes Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.702602999999999, 40.4580817]}","C. de Los Molinos, 22, 28039 Madrid, Spain",cake
+2,La Cocina de mi Vecina,4.5,"{'type': 'Point', 'coordinates': [-3.7019962, 40.4253466]}","Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",cake
+3,Star Cakes Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.639175, 40.467531]}","c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",cake
+4,Sweet Brothers - Tartas Cakes,4.7,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",cake
+5,Wicked Sweet Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}","Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",cake
+6,Ceci Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.696997, 40.4357602]}","Calle de Viriato, 57, 28010 Madrid, Spain",cake
+7,Cake Dream,5.0,"{'type': 'Point', 'coordinates': [-3.6999462, 40.48668079999999]}","Calle de Fermín Caballero, 7, 28034 Madrid, Spain",cake
+8,Tart Tart Cake Shop,4.9,"{'type': 'Point', 'coordinates': [-3.7100158, 40.4354844]}","Calle de Galileo, 66, local L-20, 28015 Madrid, Spain",cake
+9,Mr Carrot Cake,4.6,"{'type': 'Point', 'coordinates': [-3.6709329, 40.4785827]}","Calle de Caleruega, 29, 28033 Madrid, Spain",cake
+10,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",cake
+11,Noni's Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.6945119, 40.4017113]}","Plaza Luca de Tena, 11, 28045 Madrid, Spain",cake
+12,Acaramelada Pastelería,4.5,"{'type': 'Point', 'coordinates': [-3.7106253, 40.40454709999999]}","Paseo de los Olmos, 13, 28005 Madrid, Spain",cake
+13,CELICIOSO Gluten Free Bakery,4.2,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}","Calle de Hortaleza, 3, 28004 Madrid, Spain",cake
+14,Tartas con Estilo,5.0,"{'type': 'Point', 'coordinates': [-3.693884699999999, 40.4970457]}","Barrio de Fuencarral No tenemos tienda física, trabajamos exclusivamente bajo pedido, 28034 Madrid, Spain",cake
+15,La Mallorquina,4.3,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}","Puerta del Sol, 8, 28013 Madrid, Spain",cake
+16,La Torta en Chamberí - Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.712534, 40.43655]}","C/ de Donoso Cortés, 62, 28015 Madrid, Spain",cake
+17,Mia Bakery,4.4,"{'type': 'Point', 'coordinates': [-3.6728972, 40.4526914]}","C. de Víctor de la Serna, 6, 28016 Madrid, Spain",cake
+18,Cake Shop,4.9,"{'type': 'Point', 'coordinates': [-3.7083996, 40.4486792]}","Av. del Dr. Federico Rubio y Galí, 8, 28039 Madrid, Spain",cake
+19,Naty's Cake Shop,4.4,"{'type': 'Point', 'coordinates': [-3.6666415, 40.4244959]}","C. de Antonio Toledano, 17, 28028 Madrid, Spain",cake
+20,TheCakeProject,4.8,"{'type': 'Point', 'coordinates': [-3.660102, 40.4921361]}","Calle de Ana de Austria, 25-27, 28050 Madrid, Spain",cake
+21,Cake Booth Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6993722, 40.4491308]}","Calle Oviedo, 31, 1-9, 28020 Madrid, Spain",cake
+22,La Mejor Tarta de Chocolate del Mundo,4.0,"{'type': 'Point', 'coordinates': [-3.6851927, 40.4209935]}","Calle de Alcalá, 89, 28009 Madrid, Spain",cake
+23,Oliver Nicols,4.9,"{'type': 'Point', 'coordinates': [-3.7003702, 40.4352103]}","Calle de la Santísima Trinidad, 6, 28010 Madrid, Spain",cake
+24,So sweet,4.8,"{'type': 'Point', 'coordinates': [-3.6730122, 40.4406568]}","Calle Clara del Rey, 11, 28002 Madrid, Spain",cake
+25,Decake,4.3,"{'type': 'Point', 'coordinates': [-3.669262, 40.4006245]}","Calle Francisco Abril, 11, 28007 Madrid, Spain",cake
+26,Dulce madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7425172, 40.4044179]}","Calle Sepúlveda, 71, local, 28011 Madrid, Spain",cake
+27,Nuria's Bakery,4.9,"{'type': 'Point', 'coordinates': [-3.5465364, 40.3671593]}","Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",cake
+28,Pastelería NatasBelém,4.3,"{'type': 'Point', 'coordinates': [-3.7061094, 40.4198066]}","Plaza del Callao, 1, 28013 Madrid, Spain",cake
+29,Pastelería La Mallorquina,4.2,"{'type': 'Point', 'coordinates': [-3.6843119, 40.4261617]}","Calle de Velázquez, 39, 28001 Madrid, Spain",cake
+30,Kitschy Pastelería,4.8,"{'type': 'Point', 'coordinates': [-3.7133699, 40.4258837]}","C. de Ventura Rodríguez, 3, l20, 28008 Madrid, Spain",cake
+31,La Duquesita,4.2,"{'type': 'Point', 'coordinates': [-3.6969933, 40.4257167]}","Calle de Fernando VI, 2, 28004 Madrid, Spain",cake
+32,Fiorella Cakes,4.0,"{'type': 'Point', 'coordinates': [-3.6761069, 40.4449258]}","Cl. de Suero de Quiñones, 12, 28002 Madrid, Spain",cake
+33,Katy's Bakery,4.6,"{'type': 'Point', 'coordinates': [-3.694635, 40.4238224]}","Plaza de las Salesas, 8, 28004 Madrid, Spain",cake
+34,Pastelería Lisboa,4.7,"{'type': 'Point', 'coordinates': [-3.6757516, 40.4300843]}","Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",cake
+35,Tábatha Pastelería,4.8,"{'type': 'Point', 'coordinates': [-3.6739624, 40.4278951]}","Calle de Alcántara, 23, 28006 Madrid, Spain",cake
+36,My Sweet Bakery,4.9,"{'type': 'Point', 'coordinates': [-3.7192252, 40.4057442]}","Calle de Cobos de Segovia, 16, 28005 Madrid, Spain",cake
+37,Pastelería Luzón,4.6,"{'type': 'Point', 'coordinates': [-3.6751487, 40.4293881]}","Calle del Conde de Peñalver, 42, 28006 Madrid, Spain",cake
+38,"Pastelería LA ROSA 1917 ""Madrid"".",4.6,"{'type': 'Point', 'coordinates': [-3.6943641, 40.4071281]}","Ronda de Atocha, 3, 28012 Madrid, Spain",cake
+39,La Santiaguesa,4.4,"{'type': 'Point', 'coordinates': [-3.7117459, 40.4152372]}","Calle Mayor, 73, 28013 Madrid, Spain",cake
+40,Celicioso Barquillo,4.2,"{'type': 'Point', 'coordinates': [-3.695701, 40.422141]}","Calle del Barquillo, 19, 28004 Madrid, Spain",cake
+41,Motteau Pasteleria,4.8,"{'type': 'Point', 'coordinates': [-3.6946357, 40.4116599]}","Calle de San Pedro, 9, 28014 Madrid, Spain",cake
+42,Manolo Bakes,4.6,"{'type': 'Point', 'coordinates': [-3.7061443, 40.4799915]}","C.C. La Vaguada, Av. de Monforte de Lemos, 36, Local 85, 28029 Madrid, Spain",cake
+43,La Pastelería del Duque,4.0,"{'type': 'Point', 'coordinates': [-3.7069349, 40.4116978]}","Calle del Duque de Alba, 14, 28012 Madrid, Spain",cake
+44,Pastelería La Oriental con gluten,4.5,"{'type': 'Point', 'coordinates': [-3.7208391, 40.42961469999999]}","Calle de Ferraz, 49, 28008 Madrid, Spain",cake
+45,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"{'type': 'Point', 'coordinates': [-3.7132583, 40.4025434]}","Calle de Toledo, 171, 28005 Madrid, Spain",cake
+46,El Riojano,4.2,"{'type': 'Point', 'coordinates': [-3.705974899999999, 40.4164843]}","Calle Mayor, 10, 28013 Madrid, Spain",cake
+47,Sweet Days Cups and Cakes,3.3,"{'type': 'Point', 'coordinates': [-3.6891715, 40.4615847]}","Paseo de la Castellana, 188, 28046 Madrid, Spain",cake
+48,Pastelería Auxai Tartas,4.9,"{'type': 'Point', 'coordinates': [-3.7824568, 40.4581168]}","Plaza San Anacleto, 2, 28023 Madrid, Spain",cake
+49,"Caprichos cake, Madrid",0.0,"{'type': 'Point', 'coordinates': [-3.7432615, 40.3819479]}","Calle Antonio Antoranz, 28025 Madrid, Spain",cake
+50,Pasteleria Ascaso,4.5,"{'type': 'Point', 'coordinates': [-3.693637, 40.430574]}","Calle de Zurbano, 25, 28010 Madrid, Spain",cake
+51,Pastelería La Oriental Sin gluten,4.0,"{'type': 'Point', 'coordinates': [-3.7207932, 40.4295994]}","Calle de Ferraz, 47, 28008 Madrid, Spain",cake
+52,Mamá Kokore,4.6,"{'type': 'Point', 'coordinates': [-3.643667, 40.436126]}","Calle Germán Pérez Carrasco, 48, 28027 Madrid, Spain",cake
+53,Madrid tarta fondant Mauricci,4.5,"{'type': 'Point', 'coordinates': [-3.6510764, 40.3863095]}","Calle Río Salado, 1, 2do A, 28018 Madrid, Spain",cake
+54,Manolo Bakes,4.1,"{'type': 'Point', 'coordinates': [-3.675861199999999, 40.4204448]}","C. de Narváez, 35, 28009 Madrid, Spain",cake
+55,SUFU CAKE,4.4,"{'type': 'Point', 'coordinates': [-3.698633, 40.4139707]}","Calle de Lope de Vega, 3, 28014 Madrid, Spain",cake
+56,Aliter Dulcia,4.3,"{'type': 'Point', 'coordinates': [-3.6979215, 40.4218568]}","Calle de Barbieri, 25, 28004 Madrid, Spain",cake
+57,Pastelería Pan Feliz,4.6,"{'type': 'Point', 'coordinates': [-3.7037753, 40.4130517]}","Calle del Dr Cortezo, 11, 28012 Madrid, Spain",cake
+58,Casa Mira,4.4,"{'type': 'Point', 'coordinates': [-3.6992683, 40.4164888]}","Carrera de S. Jerónimo, 30, 28014 Madrid, Spain",cake
+59,The Sweet Spot,4.5,"{'type': 'Point', 'coordinates': [-3.7009126, 40.4303024]}","Calle de Palafox, 1, Local 4, 28010 Madrid, Spain",cake

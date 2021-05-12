@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Cervecería Deportiva Sports Bar,3.6,"{'type': 'Point', 'coordinates': [-3.7076544, 40.4195096]}","Calle de las Veneras, 7, 28013 Madrid, Spain",sports bar
+1,Irish City Sport Bar,4.2,"{'type': 'Point', 'coordinates': [-3.675606799999999, 40.4020955]}","Calle Caridad, 7, 28007 Madrid, Spain",sports bar
+2,James Joyce Irish Pub Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.691314, 40.419919]}","Calle de Alcalá, 59, 28014 Madrid, Spain",sports bar
+3,Penalti Lounge Bar Moncloa,3.9,"{'type': 'Point', 'coordinates': [-3.717764, 40.435419]}","Calle de Fernández de los Ríos, 95, 28015 Madrid, Spain",sports bar
+4,Champions Bar,4.2,"{'type': 'Point', 'coordinates': [-3.558009, 40.448962]}","Av. de Aragón, 400, 28022 Madrid, Spain",sports bar
+5,Sports & Tapas Bar Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.7084069, 40.4159049]}","Calle Mayor, 68, 28013 Madrid, Spain",sports bar
+6,Luckia Sport Café,4.0,"{'type': 'Point', 'coordinates': [-3.693506, 40.452019]}","Av. del General Perón, 36, 28020 Madrid, Spain",sports bar
+7,Deportiva Sport Bar,3.2,"{'type': 'Point', 'coordinates': [-3.7076169, 40.4194516]}","Calle, Costanilla de los Ángeles, 12, 28013 Madrid, Spain",sports bar
+8,The Irish Rover,4.3,"{'type': 'Point', 'coordinates': [-3.6939592, 40.4547278]}","Av. de Brasil, 7, 28020 Madrid, Spain",sports bar
+9,Canister (Antiguo Don Latas),4.0,"{'type': 'Point', 'coordinates': [-3.7022836, 40.4360498]}","C. Gral. Álvarez de Castro, 24, 28010 Madrid, Spain",sports bar
+10,Ocean Rock Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4256298]}","Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",sports bar
+11,Lucky Loser Sport Tavern,4.3,"{'type': 'Point', 'coordinates': [-3.6031649, 40.4268165]}","Calle Helsinki, 8, 28022 Madrid, Spain",sports bar
+12,Sports Bar Las Vegas,3.8,"{'type': 'Point', 'coordinates': [-3.6990656, 40.4352317]}","Calle de Sta Engracia, 73, 28010 Madrid, Spain",sports bar
+13,Tapikas,4.2,"{'type': 'Point', 'coordinates': [-3.6924948, 40.4641252]}","Calle del Poeta Joan Maragall, 55, 28020 Madrid, Spain",sports bar
+14,Soccer Bar Cervecería,3.9,"{'type': 'Point', 'coordinates': [-3.6690751, 40.4769343]}","Calle de Caleruega, 1, 28033 Madrid, Spain",sports bar
+15,Mahou,3.4,"{'type': 'Point', 'coordinates': [-3.568535, 40.4681768]}","Av de la Hispanidad, s/n, 28042 Madrid, Spain",sports bar
+16,MacLaren's Irish & Sports Bar - Vaguada,4.3,"{'type': 'Point', 'coordinates': [-3.703136499999999, 40.48312689999999]}","Calle de Santiago de Compostela, 40, 28034 Madrid, Spain",sports bar
+17,La Fontana de Oro,4.1,"{'type': 'Point', 'coordinates': [-3.701585, 40.41640100000001]}","Calle de la Victoria, 1, 28012 Madrid, Spain",sports bar
+18,Goat House Sports Bar,5.0,"{'type': 'Point', 'coordinates': [-3.7015326, 40.4152568]}","Calle de Núñez de Arce, 14, 28012 Madrid, Spain",sports bar
+19,The Thirty Three Bar Irlandés,4.2,"{'type': 'Point', 'coordinates': [-3.670871099999999, 40.4422005]}","Calle Clara del Rey, 33, 28002 Madrid, Spain",sports bar
+20,La Cofradía,4.5,"{'type': 'Point', 'coordinates': [-3.6746248, 40.4325438]}","Calle de Juan Bravo, 57, 28006 Madrid, Spain",sports bar
+21,Las Vegas Sports Bar,3.7,"{'type': 'Point', 'coordinates': [-3.766713, 40.3954393]}","Calle de Seseña, 87, 28024 Madrid, Spain",sports bar
+22,MacLaren's Hortaleza,4.8,"{'type': 'Point', 'coordinates': [-3.6497693, 40.4714421]}","Calle de López de Hoyos, 478, 28043 Madrid, Spain",sports bar
+23,FOOD&GOL,4.0,"{'type': 'Point', 'coordinates': [-3.6726168, 40.43827599999999]}","Calle de Cartagena, 86, 28028 Madrid, Spain",sports bar
+24,Scrum Bar,4.3,"{'type': 'Point', 'coordinates': [-3.712196899999999, 40.4397596]}","Calle de la Aviación Española, 3, 28003 Madrid, Spain",sports bar
+25,Café Bar Preciados,3.5,"{'type': 'Point', 'coordinates': [-3.7068685, 40.4198373]}","Calle de Preciados, 38, 28013 Madrid, Spain",sports bar
+26,Las Vegas Sports Bar,3.2,"{'type': 'Point', 'coordinates': [-3.696559999999999, 40.4068416]}","Ronda de Atocha, 12, 28012 Madrid, Spain",sports bar
+27,NFL Madrid Bar,2.0,"{'type': 'Point', 'coordinates': [-3.7055562, 40.4036965]}","Calle del Laurel, 4, 28005 Madrid, Spain",sports bar
+28,Orenes Sports Bar & Casino,3.7,"{'type': 'Point', 'coordinates': [-3.7080831, 40.3841535]}","Calle de Isabelita Usera, 24, 28026 Madrid, Spain",sports bar
+29,BAR DXT Y MÁS,4.6,"{'type': 'Point', 'coordinates': [-3.6239133, 40.4319911]}","Calle Virgen de la Oliva, 34, 28037 Madrid, Spain",sports bar
+30,s10bar,4.3,"{'type': 'Point', 'coordinates': [-3.7129341, 40.4362736]}","Calle de Guzmán el Bueno, 56, 28015 Madrid, Spain",sports bar
+31,Meltdown Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6989545, 40.4327683]}","C. de Raimundo Lulio, 9, 28010 Madrid, Spain",sports bar
+32,Sports Bar Las Vegas,3.8,"{'type': 'Point', 'coordinates': [-3.7289944, 40.3797863]}","Av. de Abrantes, 97, 28025 Madrid, Spain",sports bar
+33,Dubliners,3.6,"{'type': 'Point', 'coordinates': [-3.7022601, 40.41584020000001]}","Calle de Espoz y Mina, 7, 28012 Madrid, Spain",sports bar
+34,Finnegans,4.0,"{'type': 'Point', 'coordinates': [-3.6948478, 40.4238376]}","Plaza de las Salesas, 9, 28004 Madrid, Spain",sports bar
+35,Sports Bar Las Vegas,0.0,"{'type': 'Point', 'coordinates': [-3.7431611, 40.3950616]}","Glorieta de los Carmenes, 28047 Madrid, Spain",sports bar
+36,BARTY,5.0,"{'type': 'Point', 'coordinates': [-3.701287899999999, 40.3971103]}","Calle de Aguilón, 4, Local, 28045 Madrid, Spain",sports bar
+37,O'Connell St,3.7,"{'type': 'Point', 'coordinates': [-3.7022611, 40.4157575]}","Calle de Espoz y Mina, 7, 28012 Madrid, Spain",sports bar
+38,QW MADRID,4.0,"{'type': 'Point', 'coordinates': [-3.7112946, 40.4174188]}","Calle de Vergara, 12, 28013 Madrid, Spain",sports bar
+39,Emotiva Sports Bar,3.0,"{'type': 'Point', 'coordinates': [-3.7046381, 40.3858237]}","Calle de Ramón Luján, 26, 28026 Madrid, Spain",sports bar
+40,Ke Pinta,0.0,"{'type': 'Point', 'coordinates': [-3.7014056, 40.41455870000001]}","Plaza de Sta. Ana, 14, 28012 Madrid, Spain",sports bar
+41,Orenes Sports Bar & Salón De Juegos,3.0,"{'type': 'Point', 'coordinates': [-3.623550499999999, 40.3815067]}","Calle de Jesús del Pino, 24, 28031 Madrid, Spain",sports bar
+42,Beerhouse - Craftbeer Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017166, 40.4305865]}","Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",sports bar
+43,Bring Sport Bar tacos,4.4,"{'type': 'Point', 'coordinates': [-3.719036999999999, 40.3867891]}","Calle Eusebio Morán, 31, 28019 Madrid, Spain",sports bar
+44,Wanderlust Bar,4.1,"{'type': 'Point', 'coordinates': [-3.7091132, 40.4168279]}","Calle del Bonetillo, 14, 28013 Madrid, Spain",sports bar
+45,Pit Stop,4.5,"{'type': 'Point', 'coordinates': [-3.685527999999999, 40.4363493]}","Calle del Gral Oraá, 19, 28006 Madrid, Spain",sports bar
+46,Starbeers,4.6,"{'type': 'Point', 'coordinates': [-3.7096055, 40.4128722]}","Calle del Almendro, 8, 28005 Madrid, Spain",sports bar
+47,Codere,3.6,"{'type': 'Point', 'coordinates': [-3.7082202, 40.4615722]}","Calle de Villaamil, 74, 28039 Madrid, Spain",sports bar
+48,87 MILLAS SPORT BAR,4.8,"{'type': 'Point', 'coordinates': [-3.7101831, 40.437608]}","Calle de Galileo, 75, 28015 Madrid, Spain",sports bar
+49,Las Vegas Sports Bar,3.8,"{'type': 'Point', 'coordinates': [-3.6446648, 40.4400874]}","Calle de José del Hierro, 39, 28027 Madrid, Spain",sports bar
+50,La Abadia Beer's,4.5,"{'type': 'Point', 'coordinates': [-3.7127757, 40.407323]}","Ronda de Segovia, 91, 28005 Madrid, Spain",sports bar
+51,Codere Apuestas S.A.U,3.2,"{'type': 'Point', 'coordinates': [-3.758504, 40.3888383]}","Calle Valmojado, 231, 28047 Madrid, Spain",sports bar
+52,Orenes,5.0,"{'type': 'Point', 'coordinates': [-3.6744812, 40.4409854]}","Calle Constancia, 28002 Madrid, Spain",sports bar
+53,La Esquina del 98,4.4,"{'type': 'Point', 'coordinates': [-3.708066, 40.439436]}","Calle de Vallehermoso, 98, 28003 Madrid, Spain",sports bar
+54,The Cavern Irish Pub,4.2,"{'type': 'Point', 'coordinates': [-3.7097757, 40.4160916]}","Calle de Santiago, 1, 28013 Madrid, Spain",sports bar
+55,The Room Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}","Calle de la Cruz, 33, 28012 Madrid, Spain",sports bar
+56,El Palco,4.2,"{'type': 'Point', 'coordinates': [-3.689105, 40.456228]}","Calle Prof. Waksman, 3, 28036 Madrid, Spain",sports bar
+57,The Clover Irish Tavern,4.3,"{'type': 'Point', 'coordinates': [-3.718495, 40.4858509]}","Calle del Valle de Pinares Llanos, 8, 28035 Madrid, Spain",sports bar
+58,Casa Mach,4.9,"{'type': 'Point', 'coordinates': [-3.7076859, 40.4905165]}","Calle Salou, 7, 28034 Madrid, Spain",sports bar
+59,Roberangelo Rock Cafe,4.4,"{'type': 'Point', 'coordinates': [-3.7168938, 40.3978748]}","Av. de la Emperatriz Isabel, 1, 28019 Madrid, Spain",sports bar

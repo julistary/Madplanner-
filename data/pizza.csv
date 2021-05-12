@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Pizzería Vesuvio Hortaleza,4.6,"{'type': 'Point', 'coordinates': [-3.7007968, 40.4206134]}","Calle de Hortaleza, 4, 28004 Madrid, Spain",pizza
+1,La Pizzateca,4.5,"{'type': 'Point', 'coordinates': [-3.6992852, 40.4127456]}","Calle del León, 35, 28014 Madrid, Spain",pizza
+2,Kilómetros de Pizza,4.1,"{'type': 'Point', 'coordinates': [-3.6383854, 40.5303058]}","Herón Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid, Spain",pizza
+3,El Horno Azul - Pizzería Madrid Centro,4.7,"{'type': 'Point', 'coordinates': [-3.7100323, 40.421651]}","Calle de Leganitos, 14, 28013 Madrid, Spain",pizza
+4,Picsa,4.3,"{'type': 'Point', 'coordinates': [-3.698728, 40.4441923]}","Calle de Ponzano, 76, 28003 Madrid, Spain",pizza
+5,Pizzeria Fratelli Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7604067, 40.3895352]}","Calle Quero, 83, 28024 Madrid, Spain",pizza
+6,Pizza Napoli,4.5,"{'type': 'Point', 'coordinates': [-3.6745112, 40.4485859]}","Calle de Pradillo, 14, 28002 Madrid, Spain",pizza
+7,NAP Neapolitan Authentic Pizza,4.4,"{'type': 'Point', 'coordinates': [-3.707496099999999, 40.425422]}","Calle de San Bernardo, 51, 28015 Madrid, Spain",pizza
+8,Ópera Pizza,4.1,"{'type': 'Point', 'coordinates': [-3.7089286, 40.4176803]}","Calle del Arenal, 23, 28013 Madrid, Spain",pizza
+9,Pizza Napoli,4.4,"{'type': 'Point', 'coordinates': [-3.65467, 40.50736]}","Calle Manuel Pombo Angulo, 24, 28050 Madrid, Spain",pizza
+10,Pizza 3Cruces,4.4,"{'type': 'Point', 'coordinates': [-3.7034078, 40.4192556]}","Calle de la Salud, 013, 28013 Madrid, Spain",pizza
+11,Piccola Napoli,4.7,"{'type': 'Point', 'coordinates': [-3.7013975, 40.4498187]}","Calle de Palencia, 29, 28020 Madrid, Spain",pizza
+12,Fratelli Figurato - Pizzeria,4.6,"{'type': 'Point', 'coordinates': [-3.697848, 40.438911]}","Calle de Alonso Cano, 37, 28003 Madrid, Spain",pizza
+13,Pizzaiolo,4.5,"{'type': 'Point', 'coordinates': [-3.6985486, 40.42372340000001]}","Calle de Hortaleza, 84, 28004 Madrid, Spain",pizza
+14,Kilómetros de Pizza,3.9,"{'type': 'Point', 'coordinates': [-3.6681238, 40.5078812]}","Calle de Palas de Rey, s/n, 28050 Madrid, Spain",pizza
+15,Kilómetros de Pizza,3.9,"{'type': 'Point', 'coordinates': [-3.6932136, 40.4541075]}","Av. de Brasil, 6, 28020 Madrid, Spain",pizza
+16,Allô Pizza,4.0,"{'type': 'Point', 'coordinates': [-3.6881559, 40.4598431]}","Calle del Dr. Fleming, 23, 28036 Madrid, Spain",pizza
+17,Mastropiero,4.4,"{'type': 'Point', 'coordinates': [-3.7043281, 40.4258642]}","Calle de San Vicente Ferrer, 36, 28004 Madrid, Spain",pizza
+18,Kilómetros de Pizza,3.9,"{'type': 'Point', 'coordinates': [-3.6934716, 40.4292958]}","Calle de Zurbano, 26, 28010 Madrid, Spain",pizza
+19,MASSART PIZZA - GOYA,4.5,"{'type': 'Point', 'coordinates': [-3.6789841, 40.4226924]}","Calle de Antonio Acuña, 8, 28009 Madrid, Spain",pizza
+20,NAP Lavapies,4.4,"{'type': 'Point', 'coordinates': [-3.7004333, 40.4108806]}","Calle del Ave María, 19, 28012 Madrid, Spain",pizza
+21,Pizza Napoli,4.4,"{'type': 'Point', 'coordinates': [-3.671604, 40.417595]}","Calle de Antonio Arias, 4, 28009 Madrid, Spain",pizza
+22,MASSART PIZZA,4.3,"{'type': 'Point', 'coordinates': [-3.7181909, 40.4348412]}","Calle de Isaac Peral, 2, 28015 Madrid, Spain",pizza
+23,Hot Now,4.6,"{'type': 'Point', 'coordinates': [-3.6979856, 40.4213411]}","Calle de Barbieri, 14, 28004 Madrid, Spain",pizza
+24,Grosso Napoletano,4.4,"{'type': 'Point', 'coordinates': [-3.6769873, 40.4261018]}","Calle de Hermosilla, 85, 28001 Madrid, Spain",pizza
+25,Pizzamascalzone,4.6,"{'type': 'Point', 'coordinates': [-3.6985352, 40.4143941]}","Calle de Cervantes, 1, 28014 Madrid, Spain",pizza
+26,Grosso Napoletano,4.3,"{'type': 'Point', 'coordinates': [-3.6979453, 40.4339953]}","Calle de Sta Engracia, 48, 28010 Madrid, Spain",pizza
+27,Pizzería El Trébol,4.2,"{'type': 'Point', 'coordinates': [-3.7007493, 40.416238]}","Calle de la Cruz, 3, 28012 Madrid, Spain",pizza
+28,Domino's Pizza,3.6,"{'type': 'Point', 'coordinates': [-3.6959944, 40.4267608]}","Plaza de Sta. Bárbara, 8, 28005 Madrid, Spain",pizza
+29,Spanish Pizza,4.9,"{'type': 'Point', 'coordinates': [-3.7263658, 40.413035]}","Calle de Doña Urraca, 22, 28011 Madrid, Spain",pizza
+30,López & López,4.6,"{'type': 'Point', 'coordinates': [-3.7040862, 40.4095447]}","Calle de los Cabestreros, 2, 28012 Madrid, Spain",pizza
+31,Duomo's Pizza,3.7,"{'type': 'Point', 'coordinates': [-3.669184, 40.477017]}","Calle de Caleruega, 3, 28033 Madrid, Spain",pizza
+32,BIZZO! Madrid Pizzeria,4.7,"{'type': 'Point', 'coordinates': [-3.7141881, 40.43949569999999]}","C. de Andrés Mellado, 77, 28003 Madrid, Spain",pizza
+33,Pizza Emporio Preciados,3.3,"{'type': 'Point', 'coordinates': [-3.7067837, 40.41960539999999]}","Calle de Preciados, 33, 28013 Madrid, Spain",pizza
+34,Domino's Pizza,3.8,"{'type': 'Point', 'coordinates': [-3.6981671, 40.4117731]}","C. de Atocha, 64, 28012 Madrid, Spain",pizza
+35,Mister O1 Extraordinary Pizza,4.5,"{'type': 'Point', 'coordinates': [-3.6950108, 40.4597422]}","Calle de Sor Ángela de la Cruz, 22, 28020 Madrid, Spain",pizza
+36,Pizza Pizza,4.7,"{'type': 'Point', 'coordinates': [-3.6754981, 40.4445594]}","Calle Luis Vives, 16, 28002 Madrid, Spain",pizza
+37,Pizza Napoli,4.4,"{'type': 'Point', 'coordinates': [-3.7026852, 40.4329188]}","Calle de Jordán, 12, 28010 Madrid, Spain",pizza
+38,Papizza,3.9,"{'type': 'Point', 'coordinates': [-3.7061003, 40.4205607]}","C/ Gran Vía, 46, 28013 Madrid, Spain",pizza
+39,Siamo La Pizza,4.5,"{'type': 'Point', 'coordinates': [-3.630666199999999, 40.4259264]}","Calle Gandhi, 71, 28017 Madrid, Spain",pizza
+40,Oven Mozzarella Bar,4.4,"{'type': 'Point', 'coordinates': [-3.6977883, 40.4193426]}","C/ Gran Vía, 6, 28013 Madrid, Spain",pizza
+41,Pizzería El Trébol,4.0,"{'type': 'Point', 'coordinates': [-3.701259, 40.415278]}","Calle de Núñez de Arce, 11, 28012 Madrid, Spain",pizza
+42,o'mast RISTORANTE PIZZERIA,4.1,"{'type': 'Point', 'coordinates': [-3.7041196, 40.4211082]}","Calle del Desengaño, 24, 28004 Madrid, Spain",pizza
+43,Domino's Pizza,3.9,"{'type': 'Point', 'coordinates': [-3.681821599999999, 40.4589753]}","Paseo de la Habana, 107, 28036 Madrid, Spain",pizza
+44,NAP Chamberí,4.4,"{'type': 'Point', 'coordinates': [-3.7020818, 40.4319705]}","Calle del Cardenal Cisneros, 38, 28010 Madrid, Spain",pizza
+45,Pizzeria Ristorante Piccolo Diavolo,4.3,"{'type': 'Point', 'coordinates': [-3.695541, 40.411471]}","Calle de Fúcar, 11, 28039 Madrid, Spain",pizza
+46,Allo Pizza,4.1,"{'type': 'Point', 'coordinates': [-3.7122845, 40.4815404]}","Pl. Cieza, 1, 28034 Madrid, Spain",pizza
+47,ANTONIA PIZZA,4.7,"{'type': 'Point', 'coordinates': [-3.7040964, 40.4264352]}","Calle del Dos de Mayo, 10, 28004 Madrid, Spain",pizza
+48,Brew Wild Pizza Bar,4.6,"{'type': 'Point', 'coordinates': [-3.6995115, 40.4148026]}","Calle de Echegaray, 23, 28014 Madrid, Spain",pizza
+49,Pizza Posta,4.7,"{'type': 'Point', 'coordinates': [-3.7012445, 40.4076163]}","Calle del Amparo, 81, 28012 Madrid, Spain",pizza
+50,Rosca Pizza,4.6,"{'type': 'Point', 'coordinates': [-3.7102065, 40.4778962]}","Av. de Monforte de Lemos, 123, 28029 Madrid, Spain",pizza
+51,Domino's Pizza,4.0,"{'type': 'Point', 'coordinates': [-3.6738041, 40.4322021]}","Calle de Juan Bravo, 62, 28006 Madrid, Spain",pizza
+52,Mr Pizza,4.4,"{'type': 'Point', 'coordinates': [-3.7102054, 40.4177312]}","Calle de Vergara N.º3, 28013 Madrid, Spain",pizza
+53,Araldo - Pizza desde 2004,4.6,"{'type': 'Point', 'coordinates': [-3.6981038, 40.4176126]}","Calle de los Madrazo, 5, 28014 Madrid, Spain",pizza
+54,Nossa Pizza,4.5,"{'type': 'Point', 'coordinates': [-3.6739392, 40.3831261]}","Calle Avelino Fernández de la Poza, 53, 28053 Madrid, Spain",pizza
+55,Papizza,3.9,"{'type': 'Point', 'coordinates': [-3.7015508, 40.42017020000001]}","C/ Gran Vía, 26, 28013 Madrid, Spain",pizza
+56,PinsaPizza,4.5,"{'type': 'Point', 'coordinates': [-3.687819, 40.4376932]}","Calle de María de Molina, 10, 28006 Madrid, Spain",pizza
+57,Grosso Napoletano Gluten Free,4.6,"{'type': 'Point', 'coordinates': [-3.6955787, 40.424795]}","Calle de Fernando VI, 23, Local Izquierdo, 28004 Madrid, Spain",pizza
+58,Pizzería El Trébol,4.2,"{'type': 'Point', 'coordinates': [-3.7025353, 40.4151172]}","Calle de Barcelona, 13, 28012 Madrid, Spain",pizza
+59,400 Grados Pizza,4.9,"{'type': 'Point', 'coordinates': [-3.6844893, 40.4375663]}","Calle de María de Molina, 30, 28006 Madrid, Spain",pizza

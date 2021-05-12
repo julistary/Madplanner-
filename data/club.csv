@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,OPIUM CLUB,3.8,"{'type': 'Point', 'coordinates': [-3.692209, 40.437878]}","Calle de José Abascal, 56, 28003 Madrid, Spain",club
+1,Goya Social Club,3.6,"{'type': 'Point', 'coordinates': [-3.682990999999999, 40.425301]}","Calle de Goya, 43, 28001 Madrid, Spain",club
+2,Kapital,3.8,"{'type': 'Point', 'coordinates': [-3.6931083, 40.4097611]}","C. de Atocha, 125, 28012 Madrid, Spain",club
+3,In Da Club Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7095126, 40.4386454]}","Calle de Cea Bermúdez, Número 21, 28003 Madrid, Spain",club
+4,Planet Club,4.6,"{'type': 'Point', 'coordinates': [-3.7005493, 40.4152145]}","C. del Príncipe, 20, 28012 Madrid, Spain",club
+5,Executives Club Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6847934, 40.4375802]}","Calle de María de Molina, 26, 28006 Madrid, Spain",club
+6,Ochoymedio,3.6,"{'type': 'Point', 'coordinates': [-3.6997571, 40.4270749]}","C. de Barceló, 11, 28004 Madrid, Spain",club
+7,Cibeles Night Club,3.7,"{'type': 'Point', 'coordinates': [-3.7075008, 40.4179793]}","Calle de las Hileras, 17, 28013 Madrid, Spain",club
+8,Eleven Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6995514, 40.41562649999999]}","Calle de Echegaray, 11, 28014 Madrid, Spain",club
+9,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",club
+10,The Host Club,4.2,"{'type': 'Point', 'coordinates': [-3.7172868, 40.4263181]}","Calle de Ferraz, 38, 28008 Madrid, Spain",club
+11,ThunderCat Club,3.9,"{'type': 'Point', 'coordinates': [-3.695741899999999, 40.426252]}","Calle de Campoamor, 11, 28004 Madrid, Spain",club
+12,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",club
+13,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",club
+14,Bar de copas y club nocturno Pigmalion Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6881457, 40.4373877]}","C. del Pinar, 6, 28006 Madrid, Spain",club
+15,Vive Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.6999302, 40.46110059999999]}","Calle del Marqués de Viana, 15, 28020 Madrid, Spain",club
+16,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",club
+17,Samsara,3.7,"{'type': 'Point', 'coordinates': [-3.7009025, 40.4159966]}","Calle de la Cruz, 7, 28012 Madrid, Spain",club
+18,Chelsea Cabaret Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7075672, 40.4207748]}","Calle de Silva, 6, 28013 Madrid, Spain",club
+19,El Sol,4.3,"{'type': 'Point', 'coordinates': [-3.7016321, 40.4190629]}","Calle de los Jardines, 3, 28013 Madrid, Spain",club
+20,Joy Eslava Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7065661, 40.4171637]}","Calle del Arenal, 11, 28013 Madrid, Spain",club
+21,Lucy In The Sky Club,4.2,"{'type': 'Point', 'coordinates': [-3.7078297, 40.4261175]}","Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",club
+22,Berlín Cabaret,3.5,"{'type': 'Point', 'coordinates': [-3.7106608, 40.412346]}","Costanilla de San Pedro, 11, 28005 Madrid, Spain",club
+23,Mondo Disko,3.9,"{'type': 'Point', 'coordinates': [-3.698812499999999, 40.4170817]}","Calle de Alcalá, 20, 28014 Madrid, Spain",club
+24,Ya'sta Club,3.7,"{'type': 'Point', 'coordinates': [-3.7019926, 40.4211199]}","Calle de Valverde, 10, 28004 Madrid, Spain",club
+25,Discoteca Velvet Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7077554, 40.4203458]}","Calle de Jacometrezo, 6, 28013 Madrid, Spain",club
+26,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",club
+27,Club Discoteca Paradiso,3.8,"{'type': 'Point', 'coordinates': [-3.7101235, 40.4224125]}","Calle de la Flor Baja, 6, 28013 Madrid, Spain",club
+28,Tempo Club,4.0,"{'type': 'Point', 'coordinates': [-3.711892, 40.425275]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",club
+29,Stardust,3.8,"{'type': 'Point', 'coordinates': [-3.7089682, 40.4211093]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",club
+30,Malaba Club,4.1,"{'type': 'Point', 'coordinates': [-3.7020029, 40.4316159]}","Calle del Cardenal Cisneros, 32, 28010 Madrid, Spain",club
+31,Sala Morocco,3.8,"{'type': 'Point', 'coordinates': [-3.707419, 40.422116]}","Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",club
+32,Club Argo,4.6,"{'type': 'Point', 'coordinates': [-3.7004747, 40.4143732]}","Plaza de Sta. Ana, 7, 28012 Madrid, Spain",club
+33,Kluster,4.2,"{'type': 'Point', 'coordinates': [-3.6981612, 40.43166919999999]}","Calle de Covarrubias, 42, 28010 Madrid, Spain",club
+34,Bling Bling Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.691738, 40.4250798]}","Calle de Génova, 28, 28004 Madrid, Spain",club
+35,GUNILLA CLUB,3.4,"{'type': 'Point', 'coordinates': [-3.6910073, 40.4226066]}","Paseo de Recoletos, 16, 28001 Madrid, Spain",club
+36,Bearbie Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.699808899999999, 40.4211844]}","Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",club
+37,Clubbers Tour,2.9,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}","Calle de la Cruz, 33, 28012 Madrid, Spain",club
+38,El 12 CLUB,4.4,"{'type': 'Point', 'coordinates': [-3.7001848, 40.4207863]}","Calle de las Infantas, 12, 28004 Madrid, Spain",club
+39,CHA CHÁ The Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6983705, 40.4173993]}","Calle de Alcalá, 20, 28014 Madrid, Spain",club
+40,Costa Social Club,3.7,"{'type': 'Point', 'coordinates': [-3.6914375, 40.4361143]}","Calle de Miguel Ángel, 21, 28010 Madrid, Spain",club
+41,Ohm Club,0.0,"{'type': 'Point', 'coordinates': [-3.705941999999999, 40.420581]}","Plaza del Callao, 4, 28013 Madrid, Spain",club
+42,Medias Puri,3.9,"{'type': 'Point', 'coordinates': [-3.7034333, 40.41234910000001]}","Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",club
+43,Delirium Dance Club,3.8,"{'type': 'Point', 'coordinates': [-3.696954899999999, 40.42497840000001]}","Calle de Pelayo, 59, 28004 Madrid, Spain",club
+44,New Garamond,3.5,"{'type': 'Point', 'coordinates': [-3.692955, 40.462761]}","Calle de Rosario Pino, 14, 28020 Madrid, Spain",club
+45,Barceló Theatre,3.7,"{'type': 'Point', 'coordinates': [-3.699822, 40.42692900000001]}","C. de Barceló, 11, 28004 Madrid, Spain",club
+46,Local Liberal Encuentros VIP Club Swinger Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.668492, 40.4192]}","Calle Vicente Caballero, 14, 28007 Madrid, Spain",club
+47,Billion Club,2.7,"{'type': 'Point', 'coordinates': [-3.6834947, 40.4519418]}","Av. de Concha Espina, 39, 28016 Madrid, Spain",club
+48,Monocle Club,3.5,"{'type': 'Point', 'coordinates': [-3.6923873, 40.4570912]}","Calle del Poeta Joan Maragall, 19, 28020 Madrid, Spain",club
+49,My mother was a groupie,4.1,"{'type': 'Point', 'coordinates': [-3.6974323, 40.4126802]}","Calle de Sta. Polonia, 5, 28014 Madrid, Spain",club
+50,american club of madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6861546, 40.4353049]}","Calle de Serrano, 110, 28006 Madrid, Spain",club
+51,Nuevo Club Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6986111, 40.4177778]}","Calle de Cedaceros, 2, 28014 Madrid, Spain",club
+52,Club 33,3.8,"{'type': 'Point', 'coordinates': [-3.7010755, 40.4120003]}","Calle de la Cabeza, 33, 28012 Madrid, Spain",club
+53,HERO COFFEE BAR OF SPECTACLE 80,4.0,"{'type': 'Point', 'coordinates': [-3.699925599999999, 40.4297792]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",club
+54,Sala Republik Club,3.9,"{'type': 'Point', 'coordinates': [-3.7022597, 40.4220994]}","Calle de la Puebla, 6, 28004 Madrid, Spain",club
+55,Dreams Club Madrid,3.1,"{'type': 'Point', 'coordinates': [-3.7010582, 40.4184019]}","Calle de la Aduana, 21, 28013 Madrid, Spain",club
+56,Club Hermo55,4.8,"{'type': 'Point', 'coordinates': [-3.6811889, 40.4263227]}","Calle de Hermosilla, 55, 28001 Madrid, Spain",club
+57,Club Matador,4.7,"{'type': 'Point', 'coordinates': [-3.687414, 40.424019]}","Calle de Jorge Juan, 5, 28001 Madrid, Spain",club
+58,Vanila 118,5.0,"{'type': 'Point', 'coordinates': [-3.6903753, 40.448118]}","Paseo de la Castellana, 118, 28046 Madrid, Spain",club
+59,Copérnico The Club,3.6,"{'type': 'Point', 'coordinates': [-3.7135605, 40.4352709]}","Calle de Fernández de los Ríos, 67, 28015 Madrid, Spain",club

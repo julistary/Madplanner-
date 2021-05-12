@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Ribeira do Miño,4.3,"{'type': 'Point', 'coordinates': [-3.7003212, 40.4244728]}","Calle de Sta. Brígida, 1, 28004 Madrid, Spain",seafood
+1,El Barril de las Cortes,4.3,"{'type': 'Point', 'coordinates': [-3.6988954, 40.4166545]}","Carrera de S. Jerónimo, 17, 28014 Madrid, Spain",seafood
+2,Marisquería Perlora,4.4,"{'type': 'Point', 'coordinates': [-3.699729, 40.412302]}","Calle de la Magdalena, 40, 28012 Madrid, Spain",seafood
+3,Mariscos Morris,4.1,"{'type': 'Point', 'coordinates': [-3.7089412, 40.4153238]}","Plaza de San Miguel, 5, 28005 Madrid, Spain",seafood
+4,CARTA MARINA,4.5,"{'type': 'Point', 'coordinates': [-3.685326, 40.4585879]}","C. del Padre Damián, 40, 28036 Madrid, Spain",seafood
+5,El Pescador,4.4,"{'type': 'Point', 'coordinates': [-3.6729128, 40.4299488]}","Calle de José Ortega y Gasset, 75, 28006 Madrid, Spain",seafood
+6,Marisquería Mar de Plata Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.683167499999999, 40.4344488]}","Calle de Velázquez, 102, 28006 Madrid, Spain",seafood
+7,El Barril de las Letras,4.4,"{'type': 'Point', 'coordinates': [-3.6967029, 40.4142955]}","Calle de Cervantes, 28, 28014 Madrid, Spain",seafood
+8,O'Pazo,4.5,"{'type': 'Point', 'coordinates': [-3.6973279, 40.4507725]}","Calle Reina Mercedes, 20, 28020 Madrid, Spain",seafood
+9,La Trainera,4.4,"{'type': 'Point', 'coordinates': [-3.6850074, 40.4271858]}","Calle de Lagasca, 60, 28001 Madrid, Spain",seafood
+10,El Percebe De Cedeira,4.3,"{'type': 'Point', 'coordinates': [-3.697783, 40.4606819]}","Calle de Sor Ángela de la Cruz, 34, 28020 Madrid, Spain",seafood
+11,Naveira D'O Mar,4.5,"{'type': 'Point', 'coordinates': [-3.707609, 40.452345]}","Calle de Sta Juliana, 57, 28039 Madrid, Spain",seafood
+12,Criado Marisquería Restaurante,4.4,"{'type': 'Point', 'coordinates': [-3.6673273, 40.4485189]}","Calle de López de Hoyos, 198, 28002 Madrid, Spain",seafood
+13,La Sirena Verde | Restaurante de Cocina Mediterránea y Mariscos,4.2,"{'type': 'Point', 'coordinates': [-3.708333299999999, 40.4222222]}","C/ Gran Vía, 62, 28013 Madrid, Spain",seafood
+14,Salamar,4.3,"{'type': 'Point', 'coordinates': [-3.6739873, 40.4397698]}","Calle de Cartagena, 103, 28002 Madrid, Spain",seafood
+15,Cervecería Monje,4.5,"{'type': 'Point', 'coordinates': [-3.7089624, 40.419737]}","Cuesta de Sto. Domingo, 14, 28013 Madrid, Spain",seafood
+16,El Cucurucho del Mar,4.2,"{'type': 'Point', 'coordinates': [-3.7059889, 40.41919650000001]}","Calle del Postigo de San Martín, 6, LOCAL, 28013 Madrid, Spain",seafood
+17,Restaurante Gallego Madrid Ogrelo,4.6,"{'type': 'Point', 'coordinates': [-3.6742873, 40.4194434]}","Calle de Menorca, 39, 28009 Madrid, Spain",seafood
+18,Los Crustáceos,4.6,"{'type': 'Point', 'coordinates': [-3.6713942, 40.4347544]}","Calle de Francisco Zea, 11, 28028 Madrid, Spain",seafood
+19,Rafa Cafetería Restaurante,4.2,"{'type': 'Point', 'coordinates': [-3.660638099999999, 40.4590548]}","Calle Vicente Muzas, 15, 28043 Madrid, Spain",seafood
+20,RESTAURANTE LOS MARISCOS,4.3,"{'type': 'Point', 'coordinates': [-3.6648687, 40.3964086]}","Calle Ntra. Sra. de las Mercedes, 5, 28038 Madrid, Spain",seafood
+21,La Barraca,4.2,"{'type': 'Point', 'coordinates': [-3.6987278, 40.41997430000001]}","Calle de la Reina, 29, 28004 Madrid, Spain",seafood
+22,Restaurante Airiños do Miño,4.2,"{'type': 'Point', 'coordinates': [-3.709734, 40.4251488]}","Calle Ponciano, 4, 28015 Madrid, Spain",seafood
+23,Marisquería El Cantábrico,4.3,"{'type': 'Point', 'coordinates': [-3.6771607, 40.4312972]}","Calle de Padilla, 39, 28006 Madrid, Spain",seafood
+24,The Fish Market,0.0,"{'type': 'Point', 'coordinates': [-3.6987942, 40.4114462]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",seafood
+25,Pescados y Mariscos Blancamar,4.8,"{'type': 'Point', 'coordinates': [-3.7086466, 40.40084179999999]}","Calle de Melilla, 31, 28005 Madrid, Spain",seafood
+26,Restaurante La Máquina Original,4.3,"{'type': 'Point', 'coordinates': [-3.6954319, 40.4598789]}","Calle de Sor Ángela de la Cruz, 22, 28020 Madrid, Spain",seafood
+27,Norte Sur Bravo Murillo (Chamberí),4.1,"{'type': 'Point', 'coordinates': [-3.7041881, 40.4463613]}","Calle de Bravo Murillo, 97, 28003 Madrid, Spain",seafood
+28,MEJOR ARROCERÍA: Marina Ventura Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.6988746, 40.4153564]}","Calle de Ventura de la Vega, 13, 28014 Madrid, Spain",seafood
+29,El Barril de Argüelles,4.3,"{'type': 'Point', 'coordinates': [-3.7144172, 40.4384564]}","C. de Andrés Mellado, 69, 28015 Madrid, Spain",seafood
+30,Norte Sur General Pardiñas,4.1,"{'type': 'Point', 'coordinates': [-3.6783392, 40.4335161]}","Calle del Gral. Pardiñas, 71, 28006 Madrid, Spain",seafood
+31,Restaurante O'Caldiño,4.3,"{'type': 'Point', 'coordinates': [-3.6849036, 40.4285561]}","Calle de Lagasca, 74, 28001 Madrid, Spain",seafood
+32,Casa Nemesio,4.2,"{'type': 'Point', 'coordinates': [-3.6870555, 40.4722924]}","Paseo de la Castellana, 260, 28046 Madrid, Spain",seafood
+33,Parrilla El Barril,4.2,"{'type': 'Point', 'coordinates': [-3.696854999999999, 40.414219]}","Calle de San Agustín, 13, 28014 Madrid, Spain",seafood
+34,"Morris, Marisqueria Y Pulperia",5.0,"{'type': 'Point', 'coordinates': [-3.7092505, 40.412306]}","Calle de la Cava Baja, 25, 28005 Madrid, Spain",seafood
+35,Portobello,4.2,"{'type': 'Point', 'coordinates': [-3.6934752, 40.4623327]}","Calle de Rosario Pino, 18, 28020 Madrid, Spain",seafood
+36,Restaurante Melgar,4.1,"{'type': 'Point', 'coordinates': [-3.7143362, 40.3972114]}","Calle de Antonio López, 5, 28019 Madrid, Spain",seafood
+37,La Paz Seafood Restaurant,4.6,"{'type': 'Point', 'coordinates': [-3.6792241, 40.4043475]}","Calle de Narciso Serra, 6, 28007 Madrid, Spain",seafood
+38,Gran Barril,4.2,"{'type': 'Point', 'coordinates': [-3.6730214, 40.4247912]}","Calle de Goya, 107, 28009 Madrid, Spain",seafood
+39,Marisquería Norte Sur (Retiro),4.2,"{'type': 'Point', 'coordinates': [-3.676859, 40.42060360000001]}","Calle del Dr. Castelo, 21, 28009 Madrid, Spain",seafood
+40,Restaurante Casa Adriano,4.5,"{'type': 'Point', 'coordinates': [-3.705792, 40.4545873]}","Calle de Pamplona, 19, 28039 Madrid, Spain",seafood
+41,El Barril de Alcántara,4.1,"{'type': 'Point', 'coordinates': [-3.6736819, 40.4288838]}","Calle de Alcántara, 30, 28006 Madrid, Spain",seafood
+42,Glass Mar,4.6,"{'type': 'Point', 'coordinates': [-3.69863, 40.41636]}","Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",seafood
+43,Mariscos O. Castellano,4.4,"{'type': 'Point', 'coordinates': [-3.7079037, 40.4110054]}","Calle de las Maldonadas, 8, 28005 Madrid, Spain",seafood
+44,Casa Gallega,4.3,"{'type': 'Point', 'coordinates': [-3.7073065, 40.4172094]}","Calle de Bordadores, 11, 28013 Madrid, Spain",seafood
+45,CAROLI FISH MARKET & SUSHI BAR!!,4.8,"{'type': 'Point', 'coordinates': [-3.7806683, 40.4592376]}","Av. de la Osa Mayor, 40, 28023 Aravaca, Madrid, Spain",seafood
+46,El Barril de Orense,4.1,"{'type': 'Point', 'coordinates': [-3.6956005, 40.4490466]}","Calle de la Basílica, 15, 28020 Madrid, Spain",seafood
+47,Dagustín Mariscos,3.8,"{'type': 'Point', 'coordinates': [-3.6933016, 40.3124529]}","Calle Fundidores, 71, 28906 Getafe, Madrid, Spain",seafood
+48,Kulixka La Casa de Las Angulas,4.0,"{'type': 'Point', 'coordinates': [-3.698157, 40.4331146]}","Calle de Sta Engracia, 49, 28010 Madrid, Spain",seafood
+49,Marisquería O'Portiño,3.5,"{'type': 'Point', 'coordinates': [-3.698263099999999, 40.3941394]}","Plaza Gral. Maroto, 1, 28045 Madrid, Spain",seafood
+50,Pescaderías Antonio Municio,4.3,"{'type': 'Point', 'coordinates': [-3.702397, 40.448733]}","Calle de Bravo Murillo, 122, c80, 28020 Madrid, Spain",seafood
+51,Tres Mares,4.3,"{'type': 'Point', 'coordinates': [-3.6664922, 40.4482516]}","Calle del Corazón de María, 67, 28002 Madrid, Spain",seafood
+52,La Paella de la Reina,4.1,"{'type': 'Point', 'coordinates': [-3.6975147, 40.4197223]}","Calle de la Reina, 39, 28004 Madrid, Spain",seafood
+53,Amar La Mar Restaurante Marisqueria,4.5,"{'type': 'Point', 'coordinates': [-3.7089249, 40.4163338]}","Calle Costanilla de Santiago, 2, 28013 Madrid, Spain",seafood
+54,Restaurante-Marisqueria Río Miño,4.3,"{'type': 'Point', 'coordinates': [-3.7108092, 40.4260915]}","Calle del Limón, 9, 28015 Madrid, Spain",seafood
+55,El Cangrejero,4.0,"{'type': 'Point', 'coordinates': [-3.7095981, 40.4271712]}","Calle de Amaniel, 25, 28015 Madrid, Spain",seafood
+56,Bar El Boqueron,4.4,"{'type': 'Point', 'coordinates': [-3.7004455, 40.4074456]}","Calle de Valencia, 14, 28012 Madrid, Spain",seafood
+57,The Lobstar,4.0,"{'type': 'Point', 'coordinates': [-3.7031227, 40.4293272]}","Calle de Carranza, 4, 28004 Madrid, Spain",seafood
+58,Restaurante Ponteareas,4.1,"{'type': 'Point', 'coordinates': [-3.6855355, 40.4324096]}","Calle de Claudio Coello, 96, 28006 Madrid, Spain",seafood
+59,Compostela Restaurante,4.0,"{'type': 'Point', 'coordinates': [-3.7140172, 40.4300217]}","C. de Serrano Jover, 6, 28015 Madrid, Spain",seafood

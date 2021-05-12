@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Museo de Historia de Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7008315, 40.4257773]}","Calle de Fuencarral, 78, 28004 Madrid, Spain",museum
+1,Museum of the Americas,4.4,"{'type': 'Point', 'coordinates': [-3.7219663, 40.4383189]}","Av. de los Reyes Católicos, 6, 28040 Madrid, Spain",museum
+2,Naval Museum,4.5,"{'type': 'Point', 'coordinates': [-3.6927336, 40.4177611]}","Paseo del Prado, 3, 28014 Madrid, Spain",museum
+3,Sorolla Museum,4.7,"{'type': 'Point', 'coordinates': [-3.6925053, 40.4354306]}","Paseo del General Martínez Campos, 37, 28010 Madrid, Spain",museum
+4,National Archaeological Museum,4.7,"{'type': 'Point', 'coordinates': [-3.689402, 40.423553]}","Calle de Serrano, 13, 28001 Madrid, Spain",museum
+5,Museo del Romanticismo,4.5,"{'type': 'Point', 'coordinates': [-3.6988403, 40.4258364]}","Calle de San Mateo, 13, 28004 Madrid, Spain",museum
+6,Museo Nacional Centro de Arte Reina Sofía,4.5,"{'type': 'Point', 'coordinates': [-3.6945569, 40.4079123]}","Calle de Santa Isabel, 52, 28012 Madrid, Spain",museum
+7,Thyssen-Bornemisza Museum,4.6,"{'type': 'Point', 'coordinates': [-3.6949254, 40.4160406]}","Paseo del Prado, 8, 28014 Madrid, Spain",museum
+8,Cerralbo Museum,4.6,"{'type': 'Point', 'coordinates': [-3.714541, 40.423764]}","C. de Ventura Rodríguez, 17, 28008 Madrid, Spain",museum
+9,Museo de Arte Contemporáneo,4.2,"{'type': 'Point', 'coordinates': [-3.7111614, 40.4267367]}","Calle del Conde Duque, 9, 28015 Madrid, Spain",museum
+10,Museo de San Isidro,4.5,"{'type': 'Point', 'coordinates': [-3.7110023, 40.4121475]}","Plaza de San Andrés, 2, 28005 Madrid, Spain",museum
+11,Museo Nacional de Artes Decorativas,4.2,"{'type': 'Point', 'coordinates': [-3.6898167, 40.4179119]}","Calle de Montalbán, 12, 28014 Madrid, Spain",museum
+12,House-Museum of Lope de Vega,4.5,"{'type': 'Point', 'coordinates': [-3.6974563, 40.4143821]}","Calle de Cervantes, 11, 28014 Madrid, Spain",museum
+13,Museo Nacional de Ciencias Naturales,4.4,"{'type': 'Point', 'coordinates': [-3.689709299999999, 40.4409237]}","Calle de José Gutiérrez Abascal, 2, 28006 Madrid, Spain",museum
+14,Museo Lázaro Galdiano,4.7,"{'type': 'Point', 'coordinates': [-3.6857512, 40.4369187]}","Calle de Serrano, 122, 28006 Madrid, Spain",museum
+15,The Robot Museum,4.2,"{'type': 'Point', 'coordinates': [-3.6869647, 40.4322143]}","Centro Comercial ABC Serrano - C, Calle de Serrano, 61, 28006 Madrid, Spain",museum
+16,Museo Arte Público,4.2,"{'type': 'Point', 'coordinates': [-3.6875647, 40.4332603]}","Paseo de la Castellana, 40, 28046 Madrid, Spain",museum
+17,Museo Nacional del Prado,4.7,"{'type': 'Point', 'coordinates': [-3.6921271, 40.4137818]}","Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",museum
+18,Museo del Aire,4.7,"{'type': 'Point', 'coordinates': [-3.804266299999999, 40.3649476]}","Autovía, A-5, 28024 Madrid, Spain",museum
+19,Museo ABC,4.3,"{'type': 'Point', 'coordinates': [-3.7095701, 40.4276904]}","Calle de Amaniel, 29, 28015 Madrid, Spain",museum
+0,Museo Casa de la Moneda,4.5,"{'type': 'Point', 'coordinates': [-3.669189199999999, 40.4226314]}","Calle del Dr. Esquerdo, 36, 28028 Madrid, Spain",museum
+1,MUMA. Museum of Tanks,4.8,"{'type': 'Point', 'coordinates': [-3.7093851, 40.5556022]}","Unnamed Road, 28049, 28049, Madrid, Spain",museum
+2,Museo Tiflológico de la ONCE,4.6,"{'type': 'Point', 'coordinates': [-3.7002702, 40.455263]}","C/ de la Coruña, 18, 28020 Madrid, Spain",museum
+3,Museum of Almudena Cathedral,4.5,"{'type': 'Point', 'coordinates': [-3.7137236, 40.4154901]}","Calle de la Almudena, S/N, 28013 Madrid, Spain",museum
+4,Museo del Ferrocarril de Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.691463699999999, 40.3987474]}","Paseo de las Delicias, 61, 28045 Madrid, Spain",museum
+5,Museum of Illusions,3.9,"{'type': 'Point', 'coordinates': [-3.7038901, 40.4134667]}","Calle del Dr Cortezo, 8, 28012 Madrid, Spain",museum
+6,Museo del Traje,3.9,"{'type': 'Point', 'coordinates': [-3.7286858, 40.4401359]}","Av. Juan de Herrera, 2, 28040 Madrid, Spain",museum
+7,Museo La Neomudéjar,4.3,"{'type': 'Point', 'coordinates': [-3.6840279, 40.4044816]}","Calle de Antonio Nebrija, S/N, 28007 Madrid, Spain",museum
+8,Museo Taurino de Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.6632793, 40.4329957]}","Calle de Alcalá, 237, 28028 Madrid, Spain",museum
+9,Museum of Arts and Popular Traditions,4.3,"{'type': 'Point', 'coordinates': [-3.708233099999999, 40.4088489]}","Calle de Carlos Arniches, 3, 5, 28005 Madrid, Spain",museum
+10,Museo Geominero,4.6,"{'type': 'Point', 'coordinates': [-3.69965, 40.442645]}","Calle de Ríos Rosas, 23, 28003 Madrid, Spain",museum
+11,Palacio Real de Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7135925, 40.4181889]}","Calle de Bailén, 4, 28013 Madrid, Spain",museum
+12,Imprenta Municipal - Artes del Libro,4.5,"{'type': 'Point', 'coordinates': [-3.7054722, 40.4138972]}","28012, Calle de Concepción Jerónima, 15, 28012 Madrid, Spain",museum
+13,Royal Armoury of Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.7152658, 40.4168523]}","Royal Palace of Madrid, Calle de Bailén, s/n, 28013 Madrid, Spain",museum
+14,Royal Collections Museum,2.6,"{'type': 'Point', 'coordinates': [-3.7158854, 40.4144314]}","Cuesta de La Vega, 28005 Madrid, Spain",museum
+15,Museo de Antropología,4.3,"{'type': 'Point', 'coordinates': [-3.6889752, 40.4076679]}","Calle de Alfonso XII, 68, 28014 Madrid, Spain",museum
+16,"Museum of Anatomy ""Javier Puerta""",4.2,"{'type': 'Point', 'coordinates': [-3.7240129, 40.44455809999999]}","Facultad de Medicina de UCM, Departamento de Anatomía Humana y Embriología I, Ciudad Universitaria, s/n, 28040 Madrid, Spain",museum
+17,Museo de los Caños del Peral,4.2,"{'type': 'Point', 'coordinates': [-3.7089925, 40.4181355]}","Metro Ópera, Plaza de Isabel II, 8, 28013 Madrid, Spain",museum
+18,Museum of the National Library,4.5,"{'type': 'Point', 'coordinates': [-3.6909589, 40.4227499]}","Paseo de Recoletos, 20, 22, 28001 Madrid, Spain",museum
+19,Museo de Cera,3.9,"{'type': 'Point', 'coordinates': [-3.6914088, 40.4250641]}","Plaza de Colón, 1, 28001 Madrid, Spain",museum
+0,Museo de las Ilusiones Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7038901, 40.4134667]}","Calle del Dr Cortezo, 8, 28012 Madrid, Spain",museum
+1,Contemporary Sculpture Collection Renfe,4.0,"{'type': 'Point', 'coordinates': [-3.6970753, 40.40991169999999]}","Calle de Santa Isabel, 44, 28012 Madrid, Spain",museum
+2,Museo ICO,4.5,"{'type': 'Point', 'coordinates': [-3.6977867, 40.4168275]}","Calle de Zorrilla, 3, 28014 Madrid, Spain",museum
+3,Escultura de Dan Graham. Pabellon Daca. Jardin Edificio Sabatini. Museo Reina Sofia de Madrid.,0.0,"{'type': 'Point', 'coordinates': [-3.694802, 40.4082026]}","28012 Madrid, Spain",museum
+4,Museum Velázquez tech,4.4,"{'type': 'Point', 'coordinates': [-3.7045909, 40.4144457]}","C. de Atocha, 12, 28012 Madrid, Spain",museum
+5,National Museum of Science and Technology,4.6,"{'type': 'Point', 'coordinates': [-3.6414533, 40.5375439]}","Calle del Pintor Velázquez, 5, 28100 Alcobendas, Madrid, Spain",museum
+6,El Casón del Buen Retiro,4.4,"{'type': 'Point', 'coordinates': [-3.6896006, 40.4152817]}","Calle de Alfonso XII, 28, 28014 Madrid, Spain",museum
+7,El Sol de la Puerta del Sol. Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7022308, 40.4171961]}","Calle de Alcalá, 3, 28014 Madrid, Spain",museum
+8,Railway museum,4.5,"{'type': 'Point', 'coordinates': [-3.6921392, 40.3994098]}","Calle de Tomás Bretón, 47E, 28045 Madrid, Spain",museum
+9,El Gabinete's Living Room,0.0,"{'type': 'Point', 'coordinates': [-3.7015551, 40.4158775]}","Calle de la Victoria, 9, 7, 28012 Madrid, Spain",museum
+10,Reproduction of the cave of Altamira in the MAN,4.1,"{'type': 'Point', 'coordinates': [-3.6888541, 40.4232789]}","Calle de Serrano, 13, 28001 Madrid, Spain",museum
+11,Arte Canal Exhibition Center,4.5,"{'type': 'Point', 'coordinates': [-3.688921199999999, 40.4636363]}","Paseo de la Castellana, 214, 28046 Madrid, Spain",museum
+12,Hall of Realms,4.4,"{'type': 'Point', 'coordinates': [-3.6903201, 40.4157888]}","Calle de Méndez Núñez, 4, 28014 Madrid, Spain",museum
+13,Street Art,0.0,"{'type': 'Point', 'coordinates': [-3.7085822, 40.4128908]}","Travesía del Almendro, 9, 1, 28005 Madrid, Spain",museum
+14,Bonsai Museum,4.4,"{'type': 'Point', 'coordinates': [-3.630508, 40.536739]}","Av. Olímpica, S/N, 28100 Alcobendas, Madrid, Spain",museum
+15,PASADIZO (ARTE AL CUBO),1.0,"{'type': 'Point', 'coordinates': [-3.7130081, 40.42507519999999]}","Unnamed Road, 28008, Madrid, Spain",museum
+16,Edificio antiguo hotel Paris,5.0,"{'type': 'Point', 'coordinates': [-3.702171, 40.4169664]}","Puerta del Sol, 2, 28014 Madrid, Spain",museum
+17,Museum Cuatro Vientos,4.7,"{'type': 'Point', 'coordinates': [-3.8036143, 40.3660736]}","Museo, Madrid, Spain",museum
+18,The Grassy Clock and Watch Museum,4.3,"{'type': 'Point', 'coordinates': [-3.6977302, 40.4190679]}","C/ Gran Vía, 1, 28013 Madrid, Spain",museum
+19,Exposiciones temporales Museo Thyssen,4.0,"{'type': 'Point', 'coordinates': [-3.6949585, 40.4163155]}","Plaza de las Cortes, 3, 28014 Madrid, Spain",museum

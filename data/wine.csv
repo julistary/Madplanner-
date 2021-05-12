@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Carlota Wine Shop,4.8,"{'type': 'Point', 'coordinates': [-3.6972958, 40.4219107]}","Calle de la Libertad, 26, 28004 Madrid, Spain",wine
+1,Madrid & Darracott - Vinos y experiencias,4.9,"{'type': 'Point', 'coordinates': [-3.706585, 40.413248]}","Calle del Duque de Rivas, 8, 28012 Madrid, Spain",wine
+2,Lavinia,4.4,"{'type': 'Point', 'coordinates': [-3.6843632, 40.4302083]}","Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",wine
+3,Pinkleton & Wine,4.4,"{'type': 'Point', 'coordinates': [-3.7090666, 40.4153133]}","Plaza de San Miguel, s/n, 28005 Madrid, Spain",wine
+4,Enoteca Barolo,4.7,"{'type': 'Point', 'coordinates': [-3.677905, 40.4510127]}","Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",wine
+5,The One Wine,4.8,"{'type': 'Point', 'coordinates': [-3.6688314, 40.4479039]}","Calle de López de Hoyos, 147, 28002 Madrid, Spain",wine
+6,La Caja de Vinos,4.7,"{'type': 'Point', 'coordinates': [-3.708092199999999, 40.4162902]}","Calle de San Felipe Neri, 2, 28013 Madrid, Spain",wine
+7,La Bodega de Los Reyes,4.8,"{'type': 'Point', 'coordinates': [-3.7092347, 40.4243419]}","Calle de los Reyes, 6, 28015 Madrid, Spain",wine
+8,Reserva y Cata,4.9,"{'type': 'Point', 'coordinates': [-3.694196099999999, 40.4234476]}","Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",wine
+9,Lavinia,4.4,"{'type': 'Point', 'coordinates': [-3.655821, 40.5192003]}","Avenida de Europa, 13, B30, 32, 28108 Alcobendas, Madrid, Spain",wine
+10,Tienda de Vinos y Licores Madrid - VINOS BACO. Comprar Vino Online. Vinoteca Madrid. Licores madrid. Venta de Vinos. Vinos a domicilio. Enoteca Madrid.,4.6,"{'type': 'Point', 'coordinates': [-3.7048665, 40.4327456]}","Calle de San Bernardo, 117, 28015 Madrid, Spain",wine
+11,Despacio Arts & Wine,4.7,"{'type': 'Point', 'coordinates': [-3.7047832, 40.4257278]}","Calle del Espíritu Santo, 36, 28004 Madrid, Spain",wine
+12,Bodega Santa Cecilia,4.4,"{'type': 'Point', 'coordinates': [-3.711177, 40.4371299]}","Calle de Blasco de Garay, 74, 28015 Madrid, Spain",wine
+13,Vino de Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.739517999999999, 40.396564]}","Calle de Escalonilla, 151, 28047 Madrid, Spain",wine
+14,Vino & Compañía,4.6,"{'type': 'Point', 'coordinates': [-3.7016862, 40.4326845]}","Plaza de Olavide, 5, 28010 Madrid, Spain",wine
+15,Bodega Santa Cecilia,4.2,"{'type': 'Point', 'coordinates': [-3.703882, 40.442552]}","Calle de Bravo Murillo, 50, 28003 Madrid, Spain",wine
+16,El Brabantino,4.8,"{'type': 'Point', 'coordinates': [-3.705974299999999, 40.4088653]}","Calle de Fray Ceferino González, 5, 28005 Madrid, Spain",wine
+17,STARVINOS,4.1,"{'type': 'Point', 'coordinates': [-3.7126132, 40.4380572]}","Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",wine
+18,Winebar,4.4,"{'type': 'Point', 'coordinates': [-3.7089647, 40.4268821]}","Calle de la Palma, 76, 28015 Madrid, Spain",wine
+19,Tienda de vinos delivinos urban gourmet en Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6898861, 40.4219502]}","Calle Cid 2, esquina, Calle de Recoletos, 28001 Madrid, Spain",wine
+20,Bespoke Wines,0.0,"{'type': 'Point', 'coordinates': [-3.6741859, 40.416124]}","Calle del Doce de Octubre, 23, 2D, 28009 Madrid, Spain",wine
+21,LA PRODUCTERIA - Natural Wine Shop - Vinos naturales,5.0,"{'type': 'Point', 'coordinates': [-3.6979447, 40.4217636]}","Calle de Barbieri, 21, 28004 Madrid, Spain",wine
+22,Bodegas Trigo,5.0,"{'type': 'Point', 'coordinates': [-3.6948711, 40.4122377]}","Calle de San Pedro, 8, 28014 Madrid, Spain",wine
+23,Bodeboca SL,4.2,"{'type': 'Point', 'coordinates': [-3.667909099999999, 40.449654]}","C/ Gustavo Fernandez Balbuena, 11, 4a Planta, 28002 Madrid, Spain",wine
+24,"Bendito, Vinos y Vinilos",4.8,"{'type': 'Point', 'coordinates': [-3.7036696, 40.4076811]}","Mercado de San Fernando 41, Calle de Embajadores, 28012 Madrid, Spain",wine
+25,Sindhi Wines,5.0,"{'type': 'Point', 'coordinates': [-3.7016968, 40.4227802]}","Calle de Valverde, 29, 28004 Madrid, Spain",wine
+26,Corton.wine,0.0,"{'type': 'Point', 'coordinates': [-3.7002318, 40.4197578]}","C/ Gran Vía, 15, 28013 Madrid, Spain",wine
+27,Gini Group España,5.0,"{'type': 'Point', 'coordinates': [-3.709608599999999, 40.4169871]}","Calle del Espejo, 28013 Madrid, Spain",wine
+28,Café di Vino,4.7,"{'type': 'Point', 'coordinates': [-3.704263399999999, 40.4286623]}","C. de Manuela Malasaña, 23, 28004 Madrid, Spain",wine
+29,The Wine Care,0.0,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4115343]}","Calle del Duque de Alba, 15, 28012 Madrid, Spain",wine
+30,Vides,4.5,"{'type': 'Point', 'coordinates': [-3.6973511, 40.4209878]}","Calle de la Libertad, 12, 28004 Chueca, Madrid, Spain",wine
+31,TomeVinos,4.7,"{'type': 'Point', 'coordinates': [-3.6590494, 40.5453377]}","Paseo de la Chopera, 194, 28100 Alcobendas, Madrid, Spain",wine
+32,Los Rosales Wine Shop,4.9,"{'type': 'Point', 'coordinates': [-3.699532999999999, 40.415306]}","Calle de Echegaray, 17, 28014 Madrid, Spain",wine
+33,Bodegabierta,4.7,"{'type': 'Point', 'coordinates': [-3.7047568, 40.4256555]}","Calle del Espíritu Santo, 36, 28004 Madrid, Spain",wine
+34,Wines & Roses Floristería,4.9,"{'type': 'Point', 'coordinates': [-3.704724, 40.427719]}","Calle del Divino Pastor, 31, 28004 Madrid, Spain",wine
+35,Bodegas Mariano Madrueño,4.4,"{'type': 'Point', 'coordinates': [-3.7060247, 40.4191623]}","Calle del Postigo de San Martín, 6, 28013 Madrid, Spain",wine
+36,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"{'type': 'Point', 'coordinates': [-3.6967946, 40.4151702]}","Calle de San Agustín, 3, 28014 Madrid, Spain",wine
+37,Propaganda,4.5,"{'type': 'Point', 'coordinates': [-3.6973562, 40.4209384]}","Calle de la Libertad, 12, 28004 Madrid, Spain",wine
+38,vinoseleccion.co.uk,2.0,"{'type': 'Point', 'coordinates': [-3.7130643, 40.4429891]}","Calle de Guzmán el Bueno, 133, 28003 Madrid, Spain",wine
+39,La Vinoteca,4.0,"{'type': 'Point', 'coordinates': [-3.7001322, 40.4146912]}","C. del Príncipe, 27, 28012 Madrid, Spain",wine
+40,Madridvinum,0.0,"{'type': 'Point', 'coordinates': [-3.7136441, 40.4280876]}","C/ Princesa, 30, 28008 Madrid, Spain",wine
+41,BODEGAS LAIZ - MONTIANO,0.0,"{'type': 'Point', 'coordinates': [-3.692078, 40.415375]}","Calle de Felipe IV, 3, 3ºI, 28014 Madrid, Spain",wine
+42,En Copa de Balón Enotaberna,2.9,"{'type': 'Point', 'coordinates': [-3.7068446, 40.414928]}","Plaza Mayor, 2, 28012 Madrid, Spain",wine
+43,Viña 96,5.0,"{'type': 'Point', 'coordinates': [-3.6932378, 40.4228134]}","Calle de Tamayo y Baus, 3, 28004 Madrid, Spain",wine
+44,Vinario,0.0,"{'type': 'Point', 'coordinates': [-3.7037902, 40.4167754]}","28013 Madrid, Spain",wine
+45,Bodegas Bordino,4.9,"{'type': 'Point', 'coordinates': [-3.702236, 40.414658]}","Calle de Espoz y Mina, 17, 28012 Madrid, Spain",wine
+46,La Vieja Castilla,4.6,"{'type': 'Point', 'coordinates': [-3.6983306, 40.4233162]}","Calle de Gravina, 3, 28004 Madrid, Spain",wine
+47,La Bonica Vinoteca,5.0,"{'type': 'Point', 'coordinates': [-3.6983615, 40.4217191]}","Calle de San Bartolomé, 8, 28004 Madrid, Spain",wine
+48,Vinoteca de Antón,5.0,"{'type': 'Point', 'coordinates': [-3.698668899999999, 40.4116112]}","Calle de Santa Isabel, 5, puesto 35 D, 28012 Madrid, Spain",wine
+49,España en Cepa,5.0,"{'type': 'Point', 'coordinates': [-3.707098099999999, 40.4102536]}","Plaza de Cascorro, 8, 28005 Madrid, Spain",wine
+50,Gourmet Madrid Tours,4.9,"{'type': 'Point', 'coordinates': [-3.6778226, 40.416241]}","Av. de Menéndez Pelayo, 53, 28009 Madrid, Spain",wine
+51,D.O.C Wine bar Enoteca italiana,4.8,"{'type': 'Point', 'coordinates': [-3.6967041, 40.4310813]}","Calle de El Españoleto, 2, 28010 Madrid, Spain",wine
+52,D&B WINE Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6480864, 40.448114]}","Calle de Josefa Valcárcel, 10, 28027 Madrid, Spain",wine
+53,Spanish Wine Lover,0.0,"{'type': 'Point', 'coordinates': [-3.7433687, 40.3846885]}","Calle Juana Urosa, 28025 Madrid, Spain",wine
+54,Casa González,4.5,"{'type': 'Point', 'coordinates': [-3.698952, 40.414032]}","Calle del León, 12, 28014 Madrid, Spain",wine
+55,Wine Plaza,2.0,"{'type': 'Point', 'coordinates': [-3.6911313, 40.4066769]}","Plaza del Emperador Carlos V, 28012 Madrid, Spain",wine
+56,Bread and wine,4.6,"{'type': 'Point', 'coordinates': [-3.7093317, 40.4256026]}","Calle de Amaniel, 9, 28015 Madrid, Spain",wine
+57,Cedrón Wine Bar,4.8,"{'type': 'Point', 'coordinates': [-3.7105087, 40.4121131]}","Calle del Almendro, 25, 28005 Madrid, Spain",wine
+58,Monsoon - Wine & Spirits,5.0,"{'type': 'Point', 'coordinates': [-3.7123586, 40.4347303]}","C. de Abdón Terradas, 5, 28015 Madrid, Spain",wine
+59,The Wine Studio,5.0,"{'type': 'Point', 'coordinates': [-3.691744, 40.425163]}","Calle del Marqués de la Ensenada, 16, oficina 218, 28004 Madrid, Spain",wine

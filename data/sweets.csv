@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Noman Sweet Shop,3.5,"{'type': 'Point', 'coordinates': [-3.7024697, 40.407656]}","Calle de Tribulete, 13, 28012 Madrid, Spain",sweets
+1,Sweet Cakes Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.702602999999999, 40.4580817]}","C. de Los Molinos, 22, 28039 Madrid, Spain",sweets
+2,Wicked Sweet Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}","Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",sweets
+3,Sweet Studio,4.5,"{'type': 'Point', 'coordinates': [-3.7088708, 40.4257291]}","Calle del Noviciado, Nº16, 28015 Madrid, Spain",sweets
+4,Caramelos Paco,4.5,"{'type': 'Point', 'coordinates': [-3.707936, 40.4117138]}","Calle de Toledo, 53, 55, 28005 Madrid, Spain",sweets
+5,La Mallorquina,4.3,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}","Puerta del Sol, 8, 28013 Madrid, Spain",sweets
+6,Captain Jonny's candy shop,3.1,"{'type': 'Point', 'coordinates': [-3.7051399, 40.4184414]}","Calle de Preciados, 11, 28013 Madrid, Spain",sweets
+7,Sweet pirate,2.1,"{'type': 'Point', 'coordinates': [-3.707142, 40.4213789]}","C/ Gran Vía, 54, 28013 Madrid, Spain",sweets
+8,Sweets & Coffee,3.6,"{'type': 'Point', 'coordinates': [-3.7063016, 40.4800162]}","Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",sweets
+9,Sweet Brothers - Tartas Cakes,4.7,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",sweets
+10,dosbombones Dulces Para Todos| Bombonería | Productos sin Alérgenos,4.6,"{'type': 'Point', 'coordinates': [-3.7253183, 40.3918375]}","Mercado San Isidro local 38, Calle San Patricio, 1, 28019 Madrid, Spain",sweets
+11,Panda Patisserie,3.8,"{'type': 'Point', 'coordinates': [-3.7039909, 40.4209581]}","Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",sweets
+12,Sweet Way,4.7,"{'type': 'Point', 'coordinates': [-3.6727886, 40.40587499999999]}","Calle de Sánchez Barcáiztegui, 36, 28007 Madrid, Spain",sweets
+13,SELEKTA SWEETS,4.9,"{'type': 'Point', 'coordinates': [-3.6799969, 40.42949369999999]}","Calle del Príncipe de Vergara, 47, 28006 Madrid, Spain",sweets
+14,Samee Sweet Shop,4.4,"{'type': 'Point', 'coordinates': [-3.7025345, 40.4084886]}","Calle del Sombrerete, 14, 28012 Madrid, Spain",sweets
+15,Sweet Days Cups and Cakes,3.3,"{'type': 'Point', 'coordinates': [-3.6891715, 40.4615847]}","Paseo de la Castellana, 188, 28046 Madrid, Spain",sweets
+16,Caramelos Publicitarios | Publimelos,0.0,"{'type': 'Point', 'coordinates': [-3.7083344, 40.4116929]}","Metro, Calle de Toledo, 52, 28005 Madrid, Spain",sweets
+17,Sweet Factory Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7589308, 40.3303212]}","Av. de la Mancha, 15, 28912 Leganés, Madrid, Spain",sweets
+18,Chic Blue Macaron,5.0,"{'type': 'Point', 'coordinates': [-3.7180721, 40.4629777]}","Calle de Artajona, 11, 28039 Madrid, Spain",sweets
+19,Art sweets,3.4,"{'type': 'Point', 'coordinates': [-3.727843, 40.3735662]}","28025 Madrid, Spain",sweets
+20,iqbal sweet shop,4.6,"{'type': 'Point', 'coordinates': [-3.7024852, 40.4077542]}","Calle de Tribulete, 13, 28012 Madrid, Spain",sweets
+21,Sweets & Coffee Metro Colombia,4.1,"{'type': 'Point', 'coordinates': [-3.6772124, 40.4572714]}","Calle del Príncipe de Vergara, 28016 Madrid, Spain",sweets
+22,Dulces turcos,3.6,"{'type': 'Point', 'coordinates': [-3.70537, 40.41559]}","Calle de Esparteros, 14, 28012 Madrid, Spain",sweets
+23,El Riojano,4.2,"{'type': 'Point', 'coordinates': [-3.705974899999999, 40.4164843]}","Calle Mayor, 10, 28013 Madrid, Spain",sweets
+24,Sweets & Coffee Intercambiador Avda. de America,3.9,"{'type': 'Point', 'coordinates': [-3.676909299999999, 40.4382273]}","Avenida de América, 9, 28002 Madrid, Spain",sweets
+25,Kikita gofreria,0.0,"{'type': 'Point', 'coordinates': [-3.7067837, 40.41960539999999]}","Calle de Preciados, 33, 28013 Madrid, Spain",sweets
+26,La Violeta,4.5,"{'type': 'Point', 'coordinates': [-3.7007936, 40.4165968]}","Plaza de Canalejas, 6, 28014 Madrid, Spain",sweets
+27,Sweet Delivery Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.4542849, 40.457668]}","Calle de la Solana, 59, Local 5, 28850 Torrejón de Ardoz, Madrid, Spain",sweets
+28,Store Reborn - Angelitos Sweets - Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7105502, 40.4591516]}","Calle de Ofelia Nieto, 17, Local, 28039 Madrid, Spain",sweets
+29,Sweet Deli Bakery Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7731695, 40.3987006]}","Calle Claudio Sánchez Albornoz, 26, piso 2A, 28024 Madrid, Spain",sweets
+30,Pastelería Bombonería Sonia,4.5,"{'type': 'Point', 'coordinates': [-3.693023, 40.43409399999999]}","C. de Rafael Calvo, 25, 28010 Madrid, Spain",sweets
+31,Mimi’s Crêperie,4.4,"{'type': 'Point', 'coordinates': [-3.7061636, 40.4157231]}","Calle de Postas, 17, 28012 Madrid, Spain",sweets
+32,Dulces Árabes,0.0,"{'type': 'Point', 'coordinates': [-3.656558, 40.4369112]}","Calle Antonio Calvo, 28027 Madrid, Spain",sweets
+33,Igo Waffle Fuencarral,4.7,"{'type': 'Point', 'coordinates': [-3.704371, 40.42920350000001]}","Calle de Carranza, 19, 28004 Madrid, Spain",sweets
+34,La Duquesita,4.2,"{'type': 'Point', 'coordinates': [-3.6969933, 40.4257167]}","Calle de Fernando VI, 2, 28004 Madrid, Spain",sweets
+35,Mistura Ice Cream,4.4,"{'type': 'Point', 'coordinates': [-3.7084877, 40.4158]}","Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",sweets
+36,Sinuheshop Repostería Creativa,5.0,"{'type': 'Point', 'coordinates': [-3.8188712, 40.3515701]}","Plaza Príncipes de España, nº1, local 9, 28924 Alcorcón, Madrid, Spain",sweets
+37,Plaza Mayor,4.4,"{'type': 'Point', 'coordinates': [-3.7061111, 40.4152778]}","Calle de Zaragoza, 3, 28012 Madrid, Spain",sweets
+38,Golosinas,0.0,"{'type': 'Point', 'coordinates': [-3.7015237, 40.4202173]}","C/ Gran Vía, 26, 28013 Madrid, Spain",sweets
+39,Sweet Dreams,0.0,"{'type': 'Point', 'coordinates': [-3.6869471, 40.4323384]}","Calle de Serrano, 61, 28006 Madrid, Spain",sweets
+40,My Sweet Bakery,4.9,"{'type': 'Point', 'coordinates': [-3.7192252, 40.4057442]}","Calle de Cobos de Segovia, 16, 28005 Madrid, Spain",sweets
+41,Chocolala Belga,5.0,"{'type': 'Point', 'coordinates': [-3.708909, 40.4165008]}","Calle del Bonetillo, No 1, 28013 Madrid, Spain",sweets
+42,"Pastelería Artesanal Manolo. Mercado de Chamartín, Madrid",4.4,"{'type': 'Point', 'coordinates': [-3.6782467, 40.4573961]}","Mercado de Chamartín local 1, C. de Bolivia, 9, 28016 Chamartín, Madrid, Spain",sweets
+43,Zúccaru,4.7,"{'type': 'Point', 'coordinates': [-3.7116778, 40.4172333]}","Calle de Vergara, 16, 28013 Madrid, Spain",sweets
+44,CELICIOSO Gluten Free Bakery,4.2,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}","Calle de Hortaleza, 3, 28004 Madrid, Spain",sweets
+45,"Waffle Bubble Company, Madrid",0.0,"{'type': 'Point', 'coordinates': [-3.7637601, 40.3938688]}","Calle de Maqueda, 19, 2ºB, 28024 Madrid, Spain",sweets
+46,El Horno de San Onofre,4.0,"{'type': 'Point', 'coordinates': [-3.701502, 40.421399]}","Calle de San Onofre, 3, 28004 Madrid, Spain",sweets
+47,Captain Jonny's candy shop,4.4,"{'type': 'Point', 'coordinates': [-3.7055691, 40.415985]}","Calle de Postas, 9, 28012 Madrid, Spain",sweets
+48,Pastelería Salamat,4.6,"{'type': 'Point', 'coordinates': [-3.7023123, 40.4079624]}","Calle de Tribulete, 10, 28012 Madrid, Spain",sweets
+49,El Rincón,3.1,"{'type': 'Point', 'coordinates': [-3.7019407, 40.4166519]}","Carrera de S. Jerónimo, 4, 28014 Madrid, Spain",sweets
+50,La Dulcería,1.8,"{'type': 'Point', 'coordinates': [-3.6769576, 40.4376651]}","Avenida de América, 28002 Madrid, Spain",sweets
+51,"GIOELIA Cremeria, Madrid Atocha",4.7,"{'type': 'Point', 'coordinates': [-3.6999978, 40.4127658]}","C. de Atocha, 42, 28012 Madrid, Spain",sweets
+52,Cacao Sampaka,4.5,"{'type': 'Point', 'coordinates': [-3.695725999999999, 40.426716]}","Calle de Orellana, 4, 28004 Madrid, Spain",sweets
+53,Party and Sweets,4.3,"{'type': 'Point', 'coordinates': [-3.742837, 40.3880308]}","Calle del Halcón, 28, 28025 Madrid, Spain",sweets
+54,Santa Eulalia,4.5,"{'type': 'Point', 'coordinates': [-3.7096734, 40.4171998]}","Calle del Espejo, 12, 28013 Madrid, Spain",sweets
+55,La Barra Dulce,4.7,"{'type': 'Point', 'coordinates': [-3.704603, 40.4105389]}","Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",sweets
+56,Antigua Pastelería del Pozo,4.5,"{'type': 'Point', 'coordinates': [-3.7012027, 40.416257]}","Calle del Pozo, 8, 28012 Madrid, Spain",sweets
+57,Moulin Chocolat,4.5,"{'type': 'Point', 'coordinates': [-3.686928, 40.420572]}","Calle de Alcalá, 77, 28009 Madrid, Spain",sweets
+58,Viena Capellanes,4.1,"{'type': 'Point', 'coordinates': [-3.7025726, 40.43013]}","Calle de Fuencarral, 122, 28010 Madrid, Spain",sweets
+59,Pastelería SHAM,4.7,"{'type': 'Point', 'coordinates': [-3.6565235, 40.4367919]}","Calle Antonio Calvo, 3, 28027 Madrid, Spain",sweets

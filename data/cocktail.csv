@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",cocktail
+1,Salmon Guru,4.7,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}","Calle de Echegaray, 21, 28014 Madrid, Spain",cocktail
+2,Harvey's Cocktail Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7006277, 40.4248621]}","Calle de Fuencarral, 70, 28004 Madrid, Spain",cocktail
+3,Baton Rouge Cocktail Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017675, 40.4158661]}","Calle de la Victoria, 8, 28012 Madrid, Spain",cocktail
+4,47 cocktail bar,4.1,"{'type': 'Point', 'coordinates': [-3.7102089, 40.4118685]}","Calle de la Cava Baja, 47, 28005 Madrid, Spain",cocktail
+5,Museo Chicote,4.1,"{'type': 'Point', 'coordinates': [-3.6989026, 40.4196892]}","C/ Gran Vía, 12, 28013 Madrid, Spain",cocktail
+6,1862 Dry Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}","Calle del Pez, 27, 28004 Madrid, Spain",cocktail
+7,Dry Martini Bar,4.4,"{'type': 'Point', 'coordinates': [-3.6893391, 40.4263506]}","Calle de Hermosilla, 2, 28001 Madrid, Spain",cocktail
+8,Vacaciones Cocktail Bar,4.1,"{'type': 'Point', 'coordinates': [-3.703584, 40.4253189]}","Calle del Espíritu Santo, 15, 28004 Madrid, Spain",cocktail
+9,Sambhad cocktail bar terraza,4.8,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}","Calle Duque de Osuna, 4, 28015 Madrid, Spain",cocktail
+10,Gin Club,4.0,"{'type': 'Point', 'coordinates': [-3.698771, 40.419885]}","Calle de la Reina, 16, 28013 Madrid, Spain",cocktail
+11,The Dash,4.4,"{'type': 'Point', 'coordinates': [-3.7006417, 40.4334982]}","C/ de Murillo, 5, 28010 Madrid, Spain",cocktail
+12,La Villana,4.1,"{'type': 'Point', 'coordinates': [-3.6855996, 40.4608894]}","C. del Padre Damián, 37, 28036 Madrid, Spain",cocktail
+13,Catarsis,4.3,"{'type': 'Point', 'coordinates': [-3.6992315, 40.4376884]}","Calle de Ponzano, 16, 28010 Madrid, Spain",cocktail
+14,Santos y Desamparados,4.6,"{'type': 'Point', 'coordinates': [-3.6966068, 40.4129171]}","Costanilla de los Desamparados, 4, 28014 Madrid, Spain",cocktail
+15,Cafe Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.709223799999999, 40.4166411]}","C/ del Mesón de Paños, 6, 28013 Madrid, Spain",cocktail
+16,Farándula Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.676332999999999, 40.419635]}","Calle de Menorca, 25, 28009 Madrid, Spain",cocktail
+17,Joséalfredo,4.3,"{'type': 'Point', 'coordinates': [-3.705861199999999, 40.4215955]}","Calle de Silva, 22, 28004 Madrid, Spain",cocktail
+18,St. John's Coctelería,4.6,"{'type': 'Point', 'coordinates': [-3.6911161, 40.42025640000001]}","Calle Marqués del Duero, 8, 28001 Madrid, Spain",cocktail
+19,Hemingway Cocktail Bar,4.2,"{'type': 'Point', 'coordinates': [-3.6961819, 40.4178283]}","Calle del Marqués de Casa Riera, 4, 28014 Madrid, Spain",cocktail
+20,Lía Madrid Cocktail Boutique,4.5,"{'type': 'Point', 'coordinates': [-3.6826621, 40.4583758]}","Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",cocktail
+21,Bar Cock,4.1,"{'type': 'Point', 'coordinates': [-3.698842, 40.419881]}","Calle de la Reina, 16, 28004 Madrid, Spain",cocktail
+22,Bar Varsovia,4.2,"{'type': 'Point', 'coordinates': [-3.703385699999999, 40.428821]}","Calle de San Andrés, 33, 28004 Madrid, Spain",cocktail
+23,La Santoría,4.9,"{'type': 'Point', 'coordinates': [-3.696250799999999, 40.4135922]}","Calle de Lope de Vega, 30, 28014 Madrid, Spain",cocktail
+24,Angelita Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.700386, 40.420274]}","Calle de la Reina, 4, 28004 Madrid, Spain",cocktail
+25,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",cocktail
+26,Las cuevas de Sando,4.5,"{'type': 'Point', 'coordinates': [-3.7088123, 40.4206152]}","Plaza de Santo Domingo, 13, Planta Sótano, 28013 Madrid, Spain",cocktail
+27,Santamaría Coctelería,4.7,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4213371]}","Calle de la Ballesta, 6, 28004 Madrid, Spain",cocktail
+28,The Caravan Cocktail Bar,4.6,"{'type': 'Point', 'coordinates': [-3.710841, 40.4131818]}","Calle del Príncipe de Anglona, 3, 28005 Madrid, Spain",cocktail
+29,La Galería Cocktail-Bar,3.8,"{'type': 'Point', 'coordinates': [-3.7083071, 40.4188892]}","Costanilla de los Ángeles, 9, 28013 Madrid, Spain",cocktail
+30,La Tuerta Funky Castizo,4.5,"{'type': 'Point', 'coordinates': [-3.701836, 40.41189869999999]}","Calle de la Cabeza, 28, 28012 Madrid, Spain",cocktail
+31,Gil's Cocktail Bar,5.0,"{'type': 'Point', 'coordinates': [-3.696188, 40.4407851]}","Calle de Modesto Lafuente, 23, 28003 Madrid, Spain",cocktail
+32,Cimmeria Cocktail Bar,4.1,"{'type': 'Point', 'coordinates': [-3.702475, 40.426132]}","Calle de la Palma, 11, 28004 Madrid, Spain",cocktail
+33,San Mateo Circus,4.5,"{'type': 'Point', 'coordinates': [-3.700117999999999, 40.425048]}","Calle de San Mateo, 6, 28004 Madrid, Spain",cocktail
+34,Garra Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7124487, 40.4241374]}","Plaza de España, 18, 28013 Madrid, Spain",cocktail
+35,Black Mamba Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7106115, 40.4126199]}","Costanilla de San Pedro, 5, 28005 Madrid, Spain",cocktail
+36,Ficus Bar,4.7,"{'type': 'Point', 'coordinates': [-3.694985, 40.4236519]}","Calle de Santo Tomé, 8, 28004 Madrid, Spain",cocktail
+37,Entre Santos Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.698661, 40.4214083]}","Calle de San Bartolomé, 4, 28004 Madrid, Spain",cocktail
+38,Carpe Diem,4.6,"{'type': 'Point', 'coordinates': [-3.70895, 40.4136833]}","Plaza de Puerta Cerrada, 7, 28005 Madrid, Spain",cocktail
+39,Angelita Madrid Sky Bar,4.4,"{'type': 'Point', 'coordinates': [-3.6884222, 40.4073115]}","Paseo de la Infanta Isabel, 13, Planta 7, 28013 Madrid, Spain",cocktail
+40,Radio Rooftop Bar Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.7014664, 40.4148202]}","Plaza de Sta. Ana, 14, 28012 Madrid, Spain",cocktail
+41,After 8 cocktail bar,2.2,"{'type': 'Point', 'coordinates': [-3.7024009, 40.414961]}","Calle de Espoz y Mina, 28, 28012 Madrid, Spain",cocktail
+42,Cava Baja 5 La Playa,4.1,"{'type': 'Point', 'coordinates': [-3.7082888, 40.4132938]}","Calle de la Cava Baja, 5, 28005 Madrid, Spain",cocktail
+43,Anubis Trafalgar,4.1,"{'type': 'Point', 'coordinates': [-3.7003164, 40.4316293]}","Calle de Trafalgar, 10, 28010 Madrid, Spain",cocktail
+44,THE MOON TERRAZA COCKTAIL BAR,3.2,"{'type': 'Point', 'coordinates': [-3.705273, 40.4214658]}","Plaza Santa María Soledad Torres Acosta s/n, 28004 Madrid, Spain",cocktail
+45,In Dreams Café,4.3,"{'type': 'Point', 'coordinates': [-3.7002778, 40.425]}","Calle de San Mateo, 4, 28004 Madrid, Spain",cocktail
+46,Bátelo Cocktail Bar,4.0,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}","Calle del Infante, 8, 28014 Madrid, Spain",cocktail
+47,Mezcaloteca Corazón Agavero,4.6,"{'type': 'Point', 'coordinates': [-3.7104267, 40.4094959]}","Calle del Humilladero, 28, 28005 Madrid, Spain",cocktail
+48,Baranoa Bar,4.3,"{'type': 'Point', 'coordinates': [-3.6983431, 40.4230426]}","Calle de Pelayo, 31, 28004 Madrid, Spain",cocktail
+49,V Manneken,4.1,"{'type': 'Point', 'coordinates': [-3.70382, 40.4251368]}","Cl. del Marqués de Sta. Ana, 30, 28004 Madrid, Spain",cocktail
+50,Click Cocktail,3.4,"{'type': 'Point', 'coordinates': [-3.708112, 40.4195104]}","Costanilla de los Ángeles, 13, 15, 28013 Madrid, Spain",cocktail
+51,Viva Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.6998424, 40.4151864]}","Calle de Manuel Fernández y González, nº 7, 28014 Madrid, Spain",cocktail
+52,Anubis Cócteleria Plaza Mayor,4.5,"{'type': 'Point', 'coordinates': [-3.706805, 40.413657]}","Calle de Concepción Jerónima, 29, 28012 Madrid, Spain",cocktail
+53,"Sotto - Discoteca, terraza y sala de eventos en Bernabéu",4.0,"{'type': 'Point', 'coordinates': [-3.6878848, 40.4504981]}","Calle Gutiérrez Solana, 6, 28036 Madrid, Spain",cocktail
+54,Kona Lei - Tiki Cocktail Bar,1.5,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}","Calle de Hernán Cortés, 8, 28004 Madrid, Spain",cocktail
+55,Alicia en el País de las Maravillas: Mad Hatter's Gin & Tea Party,4.7,"{'type': 'Point', 'coordinates': [-3.6996601, 40.4604524]}","Calle Araucaria, 22, 28039 Madrid, Spain",cocktail
+56,Casa Pueblo,4.4,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}","Calle del León, 3, 28014 Madrid, Spain",cocktail
+57,Miranda,3.9,"{'type': 'Point', 'coordinates': [-3.6988841, 40.4136803]}","Calle de las Huertas, 29, 28014 Madrid, Spain",cocktail
+58,Memphis Cocktail Bar,3.5,"{'type': 'Point', 'coordinates': [-3.6647445, 40.4364152]}","Calle de Brescia, 2, 28028 Madrid, Spain",cocktail
+59,Dry Martini By Javier De Las Muelas,0.0,"{'type': 'Point', 'coordinates': [-3.69089, 40.42571]}","Plaza de Colón, 2, 28046 Madrid, Spain",cocktail

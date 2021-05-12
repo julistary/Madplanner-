@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Cine Capitol,4.1,"{'type': 'Point', 'coordinates': [-3.7065821, 40.4204465]}","C/ Gran Vía, 41, 28013 Madrid, Spain",theater
+1,Autocine Madrid RACE,4.3,"{'type': 'Point', 'coordinates': [-3.6777766, 40.4862166]}","Calle de la Isla de Java, 2, 28034 Madrid, Spain",theater
+2,Cine Callao,4.2,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}","Plaza del Callao, 3, 28013 Madrid, Spain",theater
+3,Cine Estudio del Circulo de Bellas Artes,4.6,"{'type': 'Point', 'coordinates': [-3.6962725, 40.4180606]}","Calle del Marqués de Casa Riera, 4, 28014 Madrid, Spain",theater
+4,Teatro Lara,4.4,"{'type': 'Point', 'coordinates': [-3.704428, 40.422096]}","Corredera Baja de San Pablo, 15, 28004 Madrid, Spain",theater
+5,Teatro de la Zarzuela,4.6,"{'type': 'Point', 'coordinates': [-3.6969903, 40.4171895]}","Calle de Jovellanos, 4, 28014 Madrid, Spain",theater
+6,Teatro Real,4.6,"{'type': 'Point', 'coordinates': [-3.710578, 40.418299]}","Plaza de Isabel II, s/n, 28013 Madrid, Spain",theater
+7,Cineteca,4.5,"{'type': 'Point', 'coordinates': [-3.6973165, 40.3917766]}","Plaza de Legazpi, 8, 28045 Madrid, Spain",theater
+8,Sala Equis,4.5,"{'type': 'Point', 'coordinates': [-3.7057319, 40.4119851]}","Calle del Duque de Alba, 4, 28012 Madrid, Spain",theater
+9,Teatro Monumental,4.3,"{'type': 'Point', 'coordinates': [-3.6991667, 40.41250000000001]}","C. de Atocha, 65, 28012 Madrid, Spain",theater
+10,Cine Doré,4.6,"{'type': 'Point', 'coordinates': [-3.6989956, 40.41164]}","Calle de Santa Isabel, 3, 28012 Madrid, Spain",theater
+11,Teatro Lope de Vega,4.5,"{'type': 'Point', 'coordinates': [-3.7086924, 40.4217904]}","C/ Gran Vía, 57, 28013 Madrid, Spain",theater
+12,ImaginaTeatro: School of Theater Amateurs in Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.727216, 40.383844]}","Calle de Rodríguez Vega, 14, 28026 Madrid, Spain",theater
+13,Artistic Metropol,4.5,"{'type': 'Point', 'coordinates': [-3.7074518, 40.4048458]}","Calle de las Cigarreras, 6, 28005 Madrid, Spain",theater
+14,Cines Renoir Princesa,4.1,"{'type': 'Point', 'coordinates': [-3.7128577, 40.4250002]}","C. de la Princesa, 3, 28008 Madrid, Spain",theater
+15,Teatro Español,4.6,"{'type': 'Point', 'coordinates': [-3.7001863, 40.4149459]}","Plaza Santa Ana, C. del Príncipe, 25, 28014 Madrid, Spain",theater
+16,𝗧𝗲𝗮𝘁𝗿𝗼 𝗙𝗹𝗮𝗺𝗲𝗻𝗰𝗼 𝗠𝗮𝗱𝗿𝗶𝗱 | Espectáculo Flamenco | Espectáculos en Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.704502, 40.4232579]}","Calle del Pez, 10, 28004 Madrid, Spain",theater
+17,Cine De Verano,3.5,"{'type': 'Point', 'coordinates': [-3.7105548, 40.4275305]}","28015 Madrid, Spain",theater
+18,Cines Embajadores,4.7,"{'type': 'Point', 'coordinates': [-3.6984882, 40.4008446]}","Glorieta Sta. María de la Cabeza, 5, 28045 Madrid, Spain",theater
+19,Cines Verdi,4.3,"{'type': 'Point', 'coordinates': [-3.7040072, 40.4365832]}","Calle de Bravo Murillo, 28, 28015 Madrid, Spain",theater
+20,IMAX Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6820532, 40.3919972]}","Calle Meneses, 0, 28045 Madrid, Spain",theater
+21,Theatre for the People,5.0,"{'type': 'Point', 'coordinates': [-3.703862, 40.423093]}","Plaza de Carlos Cambronero, 5, local bajo izquierda, 28004 Madrid, Spain",theater
+22,Cines Renoir Retiro,4.3,"{'type': 'Point', 'coordinates': [-3.6763452, 40.4200861]}","C. de Narváez, 42, 28009 Madrid, Spain",theater
+23,Cine de verano de la Bombilla: FESCINAL,4.4,"{'type': 'Point', 'coordinates': [-3.7262515, 40.42668949999999]}","Av. de Valladolid, SN, 28008 Madrid, Spain",theater
+24,Nuevo Teatro Alcalá,4.4,"{'type': 'Point', 'coordinates': [-3.6782642, 40.4233852]}","Calle de Jorge Juan, 62, 28009 Madrid, Spain",theater
+25,Teatro de La Abadía,4.6,"{'type': 'Point', 'coordinates': [-3.709429399999999, 40.4353016]}","Calle de Fernández de los Ríos, 42, 28015 Madrid, Spain",theater
+26,Teatros del Canal,4.5,"{'type': 'Point', 'coordinates': [-3.7051836, 40.43827900000001]}","Calle de Cea Bermúdez, 1, 28003 Madrid, Spain",theater
+27,Kinépolis Ciudad de la Imagen,4.5,"{'type': 'Point', 'coordinates': [-3.79677, 40.3938727]}","Calle Edgar Neville, s/n, 28223 Madrid, Spain",theater
+28,Golem,4.5,"{'type': 'Point', 'coordinates': [-3.7135633, 40.42467509999999]}","Calle de Martín de los Heros, 14, 28008 Madrid, Spain",theater
+29,Flamenco Essential Flamenco Show,4.7,"{'type': 'Point', 'coordinates': [-3.7027271, 40.414887]}","Calle de la Cruz, 26, 28012 Madrid, Spain",theater
+30,Teatro María Guerrero,4.6,"{'type': 'Point', 'coordinates': [-3.6929763, 40.4228892]}","Calle de Tamayo y Baus, 4, 28004 Madrid, Spain",theater
+31,Microteatro Por Dinero,4.6,"{'type': 'Point', 'coordinates': [-3.7040616, 40.4215369]}","Calle de Loreto y Chicote, 9, 28004 Madrid, Spain",theater
+32,Reina Victoria Theater,4.3,"{'type': 'Point', 'coordinates': [-3.699844199999999, 40.4164844]}","Carrera de S. Jerónimo, 24, 28014 Madrid, Spain",theater
+33,Yelmo Cines Ideal,4.3,"{'type': 'Point', 'coordinates': [-3.7038405, 40.4135301]}","Calle del Dr Cortezo, 6, 28012 Madrid, Spain",theater
+34,FLAMENCO Las Tablas,4.5,"{'type': 'Point', 'coordinates': [-3.7135608, 40.4218723]}","Plaza de España, 9, 28008 Madrid, Spain",theater
+35,Teatro Rialto,4.4,"{'type': 'Point', 'coordinates': [-3.707230999999999, 40.421345]}","C/ Gran Vía, 54, 28013 Madrid, Spain",theater
+36,Fígaro Theater,4.1,"{'type': 'Point', 'coordinates': [-3.703701, 40.413462]}","Calle del Dr Cortezo, 5, 28012 Madrid, Spain",theater
+37,Sala Berlanga,4.5,"{'type': 'Point', 'coordinates': [-3.7144645, 40.4359609]}","C. de Andrés Mellado, 53, 28015 Madrid, Spain",theater
+38,Madrid Producciones method S.L.,5.0,"{'type': 'Point', 'coordinates': [-3.6950646, 40.3991503]}","Calle del Gral. Palanca, 38, 28045 Madrid, Spain",theater
+39,Teatro Coliseum,4.5,"{'type': 'Point', 'coordinates': [-3.710127, 40.423283]}","C/ Gran Vía, 78, 28013 Madrid, Spain",theater
+40,Cine Bristol,3.0,"{'type': 'Point', 'coordinates': [-3.7025014, 40.4298772]}","Calle de Fuencarral, 118, 28004 Madrid, Spain",theater
+41,Sala de Proyecciones de Sony Pictures Spain,4.6,"{'type': 'Point', 'coordinates': [-3.6891583, 40.4389259]}","Calle Álvarez de Baena, 9, 28006 Madrid, Spain",theater
+42,Teatro Alfil,4.4,"{'type': 'Point', 'coordinates': [-3.70452, 40.42318]}","Calle del Pez, 10, 28004 Madrid, Spain",theater
+43,Cines Renoir Plaza de España,4.5,"{'type': 'Point', 'coordinates': [-3.7133863, 40.4243792]}","Calle de Martín de los Heros, 12, 28008 Madrid, Spain",theater
+44,Teatro Calderón,4.3,"{'type': 'Point', 'coordinates': [-3.7034966, 40.4140434]}","C. de Atocha, 18, 28012 Madrid, Spain",theater
+45,Cine Benot,4.6,"{'type': 'Point', 'coordinates': [-3.718224599999999, 40.4220744]}","Calle de Eduardo Benot, 2, 28008 Madrid, Spain",theater
+46,Kinépolis Madrid Diversia,4.2,"{'type': 'Point', 'coordinates': [-3.639672399999999, 40.5300823]}","C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid, Spain",theater
+47,Teatro Circo Price,4.5,"{'type': 'Point', 'coordinates': [-3.698592, 40.405985]}","Ronda de Atocha, 35, 28012 Madrid, Spain",theater
+48,CINES RENOIR S.A.,0.0,"{'type': 'Point', 'coordinates': [-3.71369, 40.42179]}","Cuesta de San Vicente, 4, 2, 28008 Madrid, Spain",theater
+49,https://madridesteatro.com,0.0,"{'type': 'Point', 'coordinates': [-3.676601099999999, 40.4181321]}","Calle de Ibiza, 18, 5º d, 28009 Madrid, Spain",theater
+50,Acting School of Performing Arts,4.9,"{'type': 'Point', 'coordinates': [-3.7162738, 40.42762200000001]}","Calle de Martín de los Heros, 52, 28008 Madrid, Spain",theater
+51,Madrid Studio Theatre,4.9,"{'type': 'Point', 'coordinates': [-3.6993389, 40.4023154]}","Calle Cardenal Solís, 5, 28012 Madrid, Spain",theater
+52,Cofidis Alcázar Theater,4.2,"{'type': 'Point', 'coordinates': [-3.6990771, 40.4177414]}","Calle de Alcalá, 20, 28014 Madrid, Spain",theater
+53,Cine Yelmo Luxury Palafox,4.4,"{'type': 'Point', 'coordinates': [-3.7008661, 40.4300857]}","Calle de Luchana, 15, 28010 Madrid, Spain",theater
+54,Teatro La Encina,4.4,"{'type': 'Point', 'coordinates': [-3.70278, 40.402936]}","Calle de Ercilla, 15, 28005 Madrid, Spain",theater
+55,La Vaguada cines,3.8,"{'type': 'Point', 'coordinates': [-3.707578, 40.4800527]}","Calle de Santiago de Compostela, S/N, 28029 Madrid, Spain",theater
+56,Teatro Arlequín Gran Vía,4.1,"{'type': 'Point', 'coordinates': [-3.7082049, 40.4211739]}","Calle de San Bernardo, 5, 28013 Madrid, Spain",theater
+57,Teatro La Latina,4.2,"{'type': 'Point', 'coordinates': [-3.7087451, 40.4114334]}","Plaza de la Cebada, 2, 28005 Madrid, Spain",theater
+58,Teatro Galileo,4.3,"{'type': 'Point', 'coordinates': [-3.7104918, 40.4337637]}","Calle de Galileo, 39, 28015 Madrid, Spain",theater
+59,El Burdel a Escena,4.6,"{'type': 'Point', 'coordinates': [-3.6996848, 40.407616]}","Calle de la Sombrerería, 3, 28012 Madrid, Spain",theater

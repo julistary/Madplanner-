@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,James Joyce Irish Pub Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.691314, 40.419919]}","Calle de Alcalá, 59, 28014 Madrid, Spain",pub
+1,The Cavern Irish Pub,4.2,"{'type': 'Point', 'coordinates': [-3.7097757, 40.4160916]}","Calle de Santiago, 1, 28013 Madrid, Spain",pub
+2,Covent Garden English Pub,4.3,"{'type': 'Point', 'coordinates': [-3.688023, 40.46095]}","Calle del Dr. Fleming, 31, 28036 Madrid, Spain",pub
+3,La Fontana de Oro,4.1,"{'type': 'Point', 'coordinates': [-3.701585, 40.41640100000001]}","Calle de la Victoria, 1, 28012 Madrid, Spain",pub
+4,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",pub
+5,Collin's Irish Tavern,4.5,"{'type': 'Point', 'coordinates': [-3.6975692, 40.4279127]}","28004, Calle de Sagasta, 26, 28004 Madrid, Spain",pub
+6,Cervecería Erte,4.5,"{'type': 'Point', 'coordinates': [-3.7075001, 40.41929409999999]}","Calle de las Veneras, 1, 28013 Madrid, Spain",pub
+7,ChiriKa Lounge Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.695319399999999, 40.4253412]}","Calle de Sta. Teresa, 14, 28004 Madrid, Spain",pub
+8,Pub Shark,4.4,"{'type': 'Point', 'coordinates': [-3.6621067, 40.4084733]}","Calle del Corregidor Diego de Valderrábano, 1, 28030 Madrid, Spain",pub
+9,Dubliners,3.6,"{'type': 'Point', 'coordinates': [-3.7022601, 40.41584020000001]}","Calle de Espoz y Mina, 7, 28012 Madrid, Spain",pub
+10,O'Connell St,3.7,"{'type': 'Point', 'coordinates': [-3.7022611, 40.4157575]}","Calle de Espoz y Mina, 7, 28012 Madrid, Spain",pub
+11,El Imperfecto,4.2,"{'type': 'Point', 'coordinates': [-3.6997222, 40.4136833]}","Plaza de Matute, 2, 28012 Madrid, Spain",pub
+12,The Irish Rover,4.3,"{'type': 'Point', 'coordinates': [-3.6939592, 40.4547278]}","Av. de Brasil, 7, 28020 Madrid, Spain",pub
+13,El Parnasillo del Príncipe,4.2,"{'type': 'Point', 'coordinates': [-3.6999834, 40.4141256]}","C. del Príncipe, 33, 28012 Madrid, Spain",pub
+14,Triskel tavern,4.3,"{'type': 'Point', 'coordinates': [-3.7018412, 40.4254729]}","Corredera Alta de San Pablo, 20, 28004 Madrid, Spain",pub
+15,Baton Rouge Cocktail Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017675, 40.4158661]}","Calle de la Victoria, 8, 28012 Madrid, Spain",pub
+16,Monnalisa Madrid,3.5,"{'type': 'Point', 'coordinates': [-3.7012945, 40.4154856]}","Calle de Núñez de Arce, 8, 28012 Madrid, Spain",pub
+17,Klimt,4.0,"{'type': 'Point', 'coordinates': [-3.6915535, 40.4614421]}","Calle del Poeta Joan Maragall, 48, 28020 Madrid, Spain",pub
+18,Pub-Crawl Party Area Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.702633, 40.4154953]}","Espit Chupitos, Calle de Espoz y Mina, 22, 28012 Madrid, Spain",pub
+19,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",pub
+20,Paddy's Irish Pub,4.3,"{'type': 'Point', 'coordinates': [-3.678038, 40.451949]}","Av. de Concha Espina, 69, 28016 Madrid, Spain",pub
+21,Jazz Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6958959, 40.4125735]}","C. de Moratín, 35, 28014 Madrid, Spain",pub
+22,La Vía Láctea,4.2,"{'type': 'Point', 'coordinates': [-3.702931, 40.4268844]}","Calle de Velarde, 18, 28004 Madrid, Spain",pub
+23,Baker Street,4.3,"{'type': 'Point', 'coordinates': [-3.693445, 40.430404]}","Calle de Zurbano, 34, 28010 Madrid, Spain",pub
+24,Finnegans,4.0,"{'type': 'Point', 'coordinates': [-3.6948478, 40.4238376]}","Plaza de las Salesas, 9, 28004 Madrid, Spain",pub
+25,Areia,4.4,"{'type': 'Point', 'coordinates': [-3.6980344, 40.4245406]}","Calle de Hortaleza, 92, 28004 Madrid, Spain",pub
+26,Cien por Cien Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.700825, 40.4378861]}","Calle de la Santísima Trinidad, 30, 28010 Madrid, Spain",pub
+27,El Penta,4.2,"{'type': 'Point', 'coordinates': [-3.701689, 40.4261947]}","Calle de la Palma, 4, 28004 Madrid, Spain",pub
+28,Madriz-Madrid Rock Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7155315, 40.4332901]}","Calle de Gaztambide, 20, 28015 Madrid, Spain",pub
+29,El Chapandaz,4.1,"{'type': 'Point', 'coordinates': [-3.7175756, 40.4341881]}","C. de Fernando el Católico, 77, 28015 Madrid, Spain",pub
+30,Cervecería Deportiva Sports Bar,3.6,"{'type': 'Point', 'coordinates': [-3.7076544, 40.4195096]}","Calle de las Veneras, 7, 28013 Madrid, Spain",pub
+31,Newbridge irish pub,4.0,"{'type': 'Point', 'coordinates': [-3.7136068, 40.412828]}","Calle de Bailén, 33, 28005 Madrid, Spain",pub
+32,Maloney's,4.3,"{'type': 'Point', 'coordinates': [-3.692986, 40.43942089999999]}","Calle de Bretón de los Herreros, 61, 28003 Madrid, Spain",pub
+33,La Huelga de Lavapiés,4.2,"{'type': 'Point', 'coordinates': [-3.6996322, 40.4090691]}","Calle de Zurita, 39, 28012 Madrid, Spain",pub
+34,Beer Station,4.3,"{'type': 'Point', 'coordinates': [-3.7084798, 40.4196872]}","Cuesta de Sto. Domingo, 22, 28013 Madrid, Spain",pub
+35,Pub Gris,4.3,"{'type': 'Point', 'coordinates': [-3.6978683, 40.4213119]}","Calle de San Marcos, 29, 28004 Madrid, Spain",pub
+36,Rhum Rhum - Pubs Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6914074, 40.4243701]}","Casino Gran Madrid, Paseo de Recoletos, 37, 41, 28004 Madrid, Spain",pub
+37,Brindis,4.1,"{'type': 'Point', 'coordinates': [-3.7026836, 40.4195383]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",pub
+38,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",pub
+39,Etnico Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6996873, 40.4156455]}","Calle de Echegaray, 10, 28012 Madrid, Spain",pub
+40,MacLaren's Irish & Sports Bar - Vaguada,4.3,"{'type': 'Point', 'coordinates': [-3.703136499999999, 40.48312689999999]}","Calle de Santiago de Compostela, 40, 28034 Madrid, Spain",pub
+41,Insomnia Pub Madrid,3.2,"{'type': 'Point', 'coordinates': [-3.7093232, 40.4185131]}","Plaza de Isabel II, 1, 28013 Madrid, Spain",pub
+42,Penalti Lounge Bar Moncloa,3.9,"{'type': 'Point', 'coordinates': [-3.717764, 40.435419]}","Calle de Fernández de los Ríos, 95, 28015 Madrid, Spain",pub
+43,The Stuyck Co,4.4,"{'type': 'Point', 'coordinates': [-3.7017522, 40.4265004]}","Corredera Alta de San Pablo, 33, 28004 Madrid, Spain",pub
+44,La Fontanilla,4.1,"{'type': 'Point', 'coordinates': [-3.7082899, 40.413847]}","Plaza de Puerta Cerrada, 13, 28005 Madrid, Spain",pub
+45,Sunset 80's,4.4,"{'type': 'Point', 'coordinates': [-3.698727, 40.41364]}","Calle de las Huertas, 31, 28014 Madrid, Spain",pub
+46,Wanderlust Bar,4.1,"{'type': 'Point', 'coordinates': [-3.7091132, 40.4168279]}","Calle del Bonetillo, 14, 28013 Madrid, Spain",pub
+47,Blackbird Rock Bar,4.4,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}","Calle de las Huertas, 22, 28014 Madrid, Spain",pub
+48,TBC,4.1,"{'type': 'Point', 'coordinates': [-3.698164, 40.413565]}","Calle de las Huertas, 41, 28014 Madrid, Spain",pub
+49,Comité Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.717874, 40.4273806]}","Calle de Quintana, 17, 28008 Madrid, Spain",pub
+50,Dreams Club Madrid,3.1,"{'type': 'Point', 'coordinates': [-3.7010582, 40.4184019]}","Calle de la Aduana, 21, 28013 Madrid, Spain",pub
+51,The Irish Corner,3.8,"{'type': 'Point', 'coordinates': [-3.6380659, 40.4386381]}","C. de Arturo Soria, 6, 28027 Madrid, Spain",pub
+52,Joséalfredo,4.3,"{'type': 'Point', 'coordinates': [-3.705861199999999, 40.4215955]}","Calle de Silva, 22, 28004 Madrid, Spain",pub
+53,Lucy In The Sky Club,4.2,"{'type': 'Point', 'coordinates': [-3.7078297, 40.4261175]}","Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",pub
+54,The Room Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}","Calle de la Cruz, 33, 28012 Madrid, Spain",pub
+55,Fábrica Maravillas,4.3,"{'type': 'Point', 'coordinates': [-3.7017355, 40.4226581]}","Calle de Valverde, 29, 28004 Madrid, Spain",pub
+56,Bar Cock,4.1,"{'type': 'Point', 'coordinates': [-3.698842, 40.419881]}","Calle de la Reina, 16, 28004 Madrid, Spain",pub
+57,"Bar ""Menuda History""",4.8,"{'type': 'Point', 'coordinates': [-3.7093207, 40.4242763]}","Calle de los Reyes, 6, 28015 Madrid, Spain",pub
+58,Wrong Way,4.6,"{'type': 'Point', 'coordinates': [-3.705281, 40.426415]}","Calle de la Palma, 43, 28004 Madrid, Spain",pub
+59,Dalí,4.1,"{'type': 'Point', 'coordinates': [-3.700501899999999, 40.4138186]}","Calle de las Huertas, 14, 28012 Madrid, Spain",pub

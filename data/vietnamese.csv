@@ -1,0 +1,11 @@
+,name,rating,location,address,place
+0,Vietnam Restaurant,4.4,"{'type': 'Point', 'coordinates': [-3.7010873, 40.4140034]}","Calle de las Huertas, 4, 28012 Madrid, Spain",vietnamese
+1,Restaurante Vietnam24,4.3,"{'type': 'Point', 'coordinates': [-3.6984279, 40.4213446]}","Calle de San Marcos, 24, 28004 Madrid, Spain",vietnamese
+2,Vietnam Mekong Restaurant,4.4,"{'type': 'Point', 'coordinates': [-3.7092423, 40.4213338]}","Calle de Isabel la Católica, 11, 28013 Madrid, Spain",vietnamese
+3,Restaurante PHO26,4.0,"{'type': 'Point', 'coordinates': [-3.7105298, 40.4224035]}","Calle de Leganitos, 26, 28013 Madrid, Spain",vietnamese
+4,TAM COC,4.4,"{'type': 'Point', 'coordinates': [-3.704585299999999, 40.4079045]}","Calle de Mira el Sol, 2, 28005 Madrid, Spain",vietnamese
+5,Restaurante Vietnam Express,4.4,"{'type': 'Point', 'coordinates': [-3.6964652, 40.4395431]}","Calle de Bretón de los Herreros, 45, 28003 Madrid, Spain",vietnamese
+6,Restaurante Saigón by Café Saigón,4.1,"{'type': 'Point', 'coordinates': [-3.693635699999999, 40.4631621]}","Calle de la Infanta Mercedes, 92, 28020 Madrid, Spain",vietnamese
+7,Restaurante Vietnamita Mr. Vu,4.4,"{'type': 'Point', 'coordinates': [-3.6976807, 40.46511]}","Calle del Capitán Blanco Argibay, 21B, 28039 Madrid, Spain",vietnamese
+8,Vietnam express,5.0,"{'type': 'Point', 'coordinates': [-3.6926936, 40.4040076]}","Calle de las Delicias, 24, 28045 Madrid, Spain",vietnamese
+9,Nem Nem - Restaurante vietnamita,4.6,"{'type': 'Point', 'coordinates': [-3.671821, 40.4432054]}","Calle Constancia, 45, 28002 Madrid, Spain",vietnamese

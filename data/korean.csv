@@ -1,0 +1,21 @@
+,name,rating,location,address,place
+0,Korea Restaurant,4.5,"{'type': 'Point', 'coordinates': [-3.6956435, 40.4429603]}","Calle de Cristóbal Bordiú, 59, 28003 Madrid, Spain",korean
+1,Restaurante Dimibang,4.5,"{'type': 'Point', 'coordinates': [-3.71598, 40.431762]}","Calle de Rodríguez San Pedro, 67, 28015 Madrid, Spain",korean
+2,Han Gang Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.6962557, 40.410761]}","C. de Atocha, 94, 28012 Madrid, Spain",korean
+3,Restaurante Midang,4.7,"{'type': 'Point', 'coordinates': [-3.7018704, 40.450186]}","Calle San Antonio, 6, 28020 Madrid, Spain",korean
+4,Restaurante Dadam,4.7,"{'type': 'Point', 'coordinates': [-3.7124121, 40.4157464]}","Calle del Factor, 8, 28013 Madrid, Spain",korean
+5,Gayagum Restaurant,4.1,"{'type': 'Point', 'coordinates': [-3.707639699999999, 40.4168391]}","Calle de Bordadores, 7, 28013 Madrid, Spain",korean
+6,A Ri Rang,4.2,"{'type': 'Point', 'coordinates': [-3.7094052, 40.4205735]}","Calle de la Bola, 12, 28013 Madrid, Spain",korean
+7,Seoul Restaurant,4.3,"{'type': 'Point', 'coordinates': [-3.717956, 40.4110378]}","Ronda de Segovia, 25, 28005 Madrid, Spain",korean
+8,Maru Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.6977444, 40.4198083]}","Calle de la Reina, 37, 28004 Madrid, Spain",korean
+9,Gangnam Restaurant,4.3,"{'type': 'Point', 'coordinates': [-3.671671, 40.40275099999999]}","C. de los Pajaritos, 13, 28007 Madrid, Spain",korean
+10,Go Hyang Mat,4.4,"{'type': 'Point', 'coordinates': [-3.6992632, 40.3964309]}","C. Divino Vallés, 31, 28045 Madrid, Spain",korean
+11,NUNCA COCINAS SIN HAMBRE,4.3,"{'type': 'Point', 'coordinates': [-3.708569, 40.4257256]}","Calle del Noviciado, 14, 28015 Madrid, Spain",korean
+12,Restaurante Coreano Casa Bulgogi,4.4,"{'type': 'Point', 'coordinates': [-3.7025149, 40.4327164]}","Calle del Cardenal Cisneros, 49, 28010 Madrid, Spain",korean
+13,Akma B o B,4.4,"{'type': 'Point', 'coordinates': [-3.7009351, 40.4241907]}","Calle de Fuencarral 57, mercado de san Ildefonso, 28004 Madrid, Spain",korean
+14,Alimentaciion Coreana Seoul,5.0,"{'type': 'Point', 'coordinates': [-3.7022907, 40.4494697]}","Calle de Bravo Murillo, 112, 28020 Madrid, Spain",korean
+15,Akma Mix,4.5,"{'type': 'Point', 'coordinates': [-3.6976083, 40.4219167]}","en Mercado de San Anton, Calle Augusto Figueroa 24B planta 1 puesto 5, 28004 Madrid, Spain",korean
+16,Dokdo Korea Madrid 독도 코리아,4.5,"{'type': 'Point', 'coordinates': [-3.7087172, 40.4188714]}","Calle de los Caños del Peral, 5, 28013 Madrid, Spain",korean
+17,미소 식당 Restaurante Miso,4.8,"{'type': 'Point', 'coordinates': [-3.7133517, 40.4048739]}","Calle de Santa Casilda, 1, 28005 Madrid, Spain",korean
+18,Mashita,4.5,"{'type': 'Point', 'coordinates': [-3.709533, 40.4204952]}","Calle de la Bola, 12, 28013 Madrid, Spain",korean
+19,Mama Uma,4.9,"{'type': 'Point', 'coordinates': [-3.6988689, 40.4269268]}","Mercado Barceló, C. de Barceló, 6, Segunda Planta - Local 313, 28004 Madrid, Spain",korean

@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,El miniBAR,4.7,"{'type': 'Point', 'coordinates': [-3.7092101, 40.4163072]}","C/ del Mesón de Paños, 1, 28013 Madrid, Spain",tapas
+1,Tinto y Tapas Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6943769, 40.4110204]}","Calle de Almadén, 14, 28014 Madrid, Spain",tapas
+2,Taberna LA CONCHA,4.5,"{'type': 'Point', 'coordinates': [-3.7083581, 40.4131907]}","Calle de la Cava Baja, 7, 28005 Madrid, Spain",tapas
+3,Stop Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.70071, 40.4209595]}","Calle de Hortaleza, 11, 28004 Madrid, Spain",tapas
+4,Taberna Tempranillo,4.4,"{'type': 'Point', 'coordinates': [-3.7101361, 40.41202500000001]}","Calle de la Cava Baja, 38, 28005 Madrid, Spain",tapas
+5,Malaspina,4.3,"{'type': 'Point', 'coordinates': [-3.7026826, 40.4158435]}","Calle de Cádiz, 9, 28012 Madrid, Spain",tapas
+6,Tapas Gratis El Biombo,4.6,"{'type': 'Point', 'coordinates': [-3.7091415, 40.4220875]}","C/ Gran Vía, 59, 28013 Madrid, Spain",tapas
+7,Tapas & Más,4.2,"{'type': 'Point', 'coordinates': [-3.7023917, 40.4154755]}","Calle de Espoz y Mina, 18, 28012 Madrid, Spain",tapas
+8,Juana La Loca,4.5,"{'type': 'Point', 'coordinates': [-3.7110934, 40.4113498]}","Plaza de Puerta de Moros, 4, 28005 Madrid, Spain",tapas
+9,Bodega de la Ardosa,4.3,"{'type': 'Point', 'coordinates': [-3.7017596, 40.4237683]}","Calle de Colón, 13, 28004 Madrid, Spain",tapas
+10,Casa González,4.5,"{'type': 'Point', 'coordinates': [-3.698952, 40.414032]}","Calle del León, 12, 28014 Madrid, Spain",tapas
+11,a.n.E.l. Tapas & Lounge Bar Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.6901978, 40.4206415]}","Calle Villalar, 1, 28001 Madrid, Spain",tapas
+12,"El Joselete, Bar de Tapas Sevillano en Madrid",4.2,"{'type': 'Point', 'coordinates': [-3.7092654, 40.4263956]}","Calle de Amaniel, 20, 28015 Madrid, Spain",tapas
+13,El Tigre Sidra Bar,4.1,"{'type': 'Point', 'coordinates': [-3.6978462, 40.4203441]}","Calle de las Infantas, 23, 28004 Madrid, Spain",tapas
+14,Cañas y Tapas,3.8,"{'type': 'Point', 'coordinates': [-3.7060501, 40.4174207]}","Plaza de Celenque, 1, 28013 Madrid, Spain",tapas
+15,Mas Al Sur,4.4,"{'type': 'Point', 'coordinates': [-3.6969465, 40.4100538]}","Calle de Santa Isabel, 35, 28012 Madrid, Spain",tapas
+16,La Musa Latina,4.2,"{'type': 'Point', 'coordinates': [-3.7120085, 40.4127847]}","Costanilla de San Andrés, 12, 28005 Madrid, Spain",tapas
+17,Casa Toni,4.5,"{'type': 'Point', 'coordinates': [-3.7018627, 40.4155522]}","Calle de la Cruz, 14, 28012 Madrid, Spain",tapas
+18,Jurucha,4.3,"{'type': 'Point', 'coordinates': [-3.6857353, 40.42789519999999]}","Cl. de Ayala, 19, 28001 Madrid, Spain",tapas
+19,Entre Cáceres y Badajoz,4.0,"{'type': 'Point', 'coordinates': [-3.6707037, 40.4285453]}","Calle de Don Ramón de la Cruz, 109, 28001 Madrid, Spain",tapas
+20,Casa Lolea,4.4,"{'type': 'Point', 'coordinates': [-3.6972822, 40.4219017]}","Calle Libertad 26 con, Calle de Augusto Figueroa, 28004 Madrid, Spain",tapas
+21,Rosi La Loca,4.5,"{'type': 'Point', 'coordinates': [-3.7029837, 40.4158037]}","Calle de Cádiz, 4, 28012 Madrid, Spain",tapas
+22,El Sur,4.5,"{'type': 'Point', 'coordinates': [-3.6995308, 40.4110465]}","Calle de la Torrecilla del Leal, 12, 28012 Madrid, Spain",tapas
+23,Taberna del Chato.,4.3,"{'type': 'Point', 'coordinates': [-3.7012133, 40.4160327]}","Calle de la Cruz, 8, 28012 Madrid, Spain",tapas
+24,Inclán Brutal Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7019311, 40.4151108]}","Calle de Álvarez Gato, 4, 28012 Madrid, Spain",tapas
+25,Casa Labra,4.3,"{'type': 'Point', 'coordinates': [-3.704593, 40.4171724]}","Calle de Tetuán, 12, 28013 Madrid, Spain",tapas
+26,Tapa Tapa Montera,3.7,"{'type': 'Point', 'coordinates': [-3.7019526, 40.4196362]}","Calle de la Montera, 47, 28013 Madrid, Spain",tapas
+27,Casa Alberto,4.4,"{'type': 'Point', 'coordinates': [-3.7001568, 40.4137615]}","Calle de las Huertas, 18, 28012 Madrid, Spain",tapas
+28,Entre Santos Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.698661, 40.4214083]}","Calle de San Bartolomé, 4, 28004 Madrid, Spain",tapas
+29,Lambuzo,4.4,"{'type': 'Point', 'coordinates': [-3.7081281, 40.4188068]}","Calle de las Conchas, 9, 28013 Madrid, Spain",tapas
+30,Salón de Tapas Plaza Mayor,3.6,"{'type': 'Point', 'coordinates': [-3.706288799999999, 40.4150395]}","Calle de Gerona, 4, 28012 Madrid, Spain",tapas
+31,El Respiro,4.2,"{'type': 'Point', 'coordinates': [-3.698289699999999, 40.4202592]}","Calle de las Infantas, 34, 28004 Madrid, Spain",tapas
+32,LA TAPA,3.6,"{'type': 'Point', 'coordinates': [-3.7056951, 40.4305063]}","Calle de San Bernardo, 97, 28015 Madrid, Spain",tapas
+33,Docamar,4.3,"{'type': 'Point', 'coordinates': [-3.6481751, 40.4335969]}","Calle de Alcalá, 337, 28027 Madrid, Spain",tapas
+34,La Casa del Abuelo,3.9,"{'type': 'Point', 'coordinates': [-3.701754, 40.4157387]}","Calle de la Victoria, 12, 28012 Madrid, Spain",tapas
+35,Baco y Beto,4.5,"{'type': 'Point', 'coordinates': [-3.698471699999999, 40.42270430000001]}","Calle de Pelayo, 24, 28004 Madrid, Spain",tapas
+36,Petisqueira,3.9,"{'type': 'Point', 'coordinates': [-3.7006588, 40.4271146]}","C. de Churruca, 6, 28004 Madrid, Spain",tapas
+37,Sidrería el Tigre,4.4,"{'type': 'Point', 'coordinates': [-3.6987958, 40.4203575]}","Plaza de Chueca, 28004, 28004 Madrid, Spain",tapas
+38,Txirimiri,4.2,"{'type': 'Point', 'coordinates': [-3.7105822, 40.4110973]}","Calle del Humilladero, 6, 28005 Madrid, Spain",tapas
+39,Tapa Tapa Arenal,3.6,"{'type': 'Point', 'coordinates': [-3.707655899999999, 40.4174139]}","Calle del Arenal, 15, 28013 Madrid, Spain",tapas
+40,Casa Lucas,4.5,"{'type': 'Point', 'coordinates': [-3.70942, 40.4123164]}","Calle de la Cava Baja, 30, 28005 Madrid, Spain",tapas
+41,Restaurante Los Galayos,4.2,"{'type': 'Point', 'coordinates': [-3.7066829, 40.4148971]}","Calle de Botoneras, 5, 28012 Madrid, Spain",tapas
+42,La Trastienda Tapas,3.2,"{'type': 'Point', 'coordinates': [-3.697553, 40.422047]}","C/. Augusto Figuerroa, 24, Mercado de San Antón (puesto nº 4 ), 28004 Madrid, Spain",tapas
+43,Tacos & Tapas,4.5,"{'type': 'Point', 'coordinates': [-3.712513999999999, 40.41250000000001]}","Calle de la Redondilla, 7, 28005 Madrid, Spain",tapas
+44,Circo de las Tapas,4.1,"{'type': 'Point', 'coordinates': [-3.7041732, 40.4223635]}","Corredera Baja de San Pablo, 21, 28004 Madrid, Spain",tapas
+45,Los Gatos,4.0,"{'type': 'Point', 'coordinates': [-3.6956739, 40.4135162]}","Calle de Jesús, 2, 28014 Madrid, Spain",tapas
+46,La Mi Venta,4.6,"{'type': 'Point', 'coordinates': [-3.7125435, 40.4204081]}","Plaza de la Marina Española, 7, 28013 Madrid, Spain",tapas
+47,Matador,4.5,"{'type': 'Point', 'coordinates': [-3.7028429, 40.4146951]}","Calle de la Cruz, 39, 28012 Madrid, Spain",tapas
+48,Casa García Atocha,3.6,"{'type': 'Point', 'coordinates': [-3.7041384, 40.4143244]}","C. de Atocha, 14, 28012 Madrid, Spain",tapas
+49,Las Bravas,4.3,"{'type': 'Point', 'coordinates': [-3.7018906, 40.415172]}","Calle de Álvarez Gato, 3, 28012 Madrid, Spain",tapas
+50,Estado Puro,3.4,"{'type': 'Point', 'coordinates': [-3.6946344, 40.4147271]}","Plaza Canovas del Castillo, 4, 28014 Madrid, Spain",tapas
+51,Mercado de la Reina,4.2,"{'type': 'Point', 'coordinates': [-3.6987696, 40.419629]}","C/ Gran Vía, 12, 28013 Madrid, Spain",tapas
+52,Taberna El Sur de Huertas,4.5,"{'type': 'Point', 'coordinates': [-3.6994713, 40.4136527]}","Calle de las Huertas, 24, 28014 Madrid, Spain",tapas
+53,Las Bravas,4.0,"{'type': 'Point', 'coordinates': [-3.7019058, 40.4161787]}","Pje. de Mathéu, 5, 28012 Madrid, Spain",tapas
+54,La Venencia,4.5,"{'type': 'Point', 'coordinates': [-3.699563, 40.415813]}","Calle de Echegaray, 7, 28014 Madrid, Spain",tapas
+55,El Rincón Abulense,4.5,"{'type': 'Point', 'coordinates': [-3.7002631, 40.4193583]}","Calle del Caballero de Gracia, 18, 28013 Madrid, Spain",tapas
+56,TragaTapas,3.4,"{'type': 'Point', 'coordinates': [-3.7082552, 40.414749]}","Cava de San Miguel, 8, 28080 Madrid, Spain",tapas
+57,Mesón del Champiñon,4.2,"{'type': 'Point', 'coordinates': [-3.7081634, 40.4150035]}","Cava de San Miguel, 17, 28005 Madrid, Spain",tapas
+58,Café & Tapas,2.8,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 28012 Madrid, Spain",tapas
+59,Casa Julio,4.3,"{'type': 'Point', 'coordinates': [-3.703693, 40.4242824]}","Calle de la Madera, 37, 28004 Madrid, Spain",tapas
