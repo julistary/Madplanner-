@@ -1,0 +1,61 @@
+,name,rating,location,address,place
+0,Yelmo Cines Ideal,4.3,"{'type': 'Point', 'coordinates': [-3.7038405, 40.4135301]}","Calle del Dr Cortezo, 6, 28012 Madrid, Spain",cinema
+1,Cine Capitol,4.1,"{'type': 'Point', 'coordinates': [-3.7065821, 40.4204465]}","C/ Gran Vía, 41, 28013 Madrid, Spain",cinema
+2,Cines Verdi,4.3,"{'type': 'Point', 'coordinates': [-3.7040072, 40.4365832]}","Calle de Bravo Murillo, 28, 28015 Madrid, Spain",cinema
+3,Cines Renoir Princesa,4.1,"{'type': 'Point', 'coordinates': [-3.7128577, 40.4250002]}","C. de la Princesa, 3, 28008 Madrid, Spain",cinema
+4,Artistic Metropol,4.5,"{'type': 'Point', 'coordinates': [-3.7074518, 40.4048458]}","Calle de las Cigarreras, 6, 28005 Madrid, Spain",cinema
+5,Cine Yelmo Luxury Palafox,4.4,"{'type': 'Point', 'coordinates': [-3.7008661, 40.4300857]}","Calle de Luchana, 15, 28010 Madrid, Spain",cinema
+6,Cine Callao,4.2,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}","Plaza del Callao, 3, 28013 Madrid, Spain",cinema
+7,Cine Doré,4.6,"{'type': 'Point', 'coordinates': [-3.6989956, 40.41164]}","Calle de Santa Isabel, 3, 28012 Madrid, Spain",cinema
+8,Cibeles de Cine,4.7,"{'type': 'Point', 'coordinates': [-3.6921521, 40.4189339]}","Plaza Cibeles, 1, 28014 Madrid, Spain",cinema
+9,Cines Embajadores,4.7,"{'type': 'Point', 'coordinates': [-3.6984882, 40.4008446]}","Glorieta Sta. María de la Cabeza, 5, 28045 Madrid, Spain",cinema
+10,Cines Renoir Plaza de España,4.5,"{'type': 'Point', 'coordinates': [-3.7133863, 40.4243792]}","Calle de Martín de los Heros, 12, 28008 Madrid, Spain",cinema
+11,Cine Estudio del Circulo de Bellas Artes,4.6,"{'type': 'Point', 'coordinates': [-3.6962725, 40.4180606]}","Calle del Marqués de Casa Riera, 4, 28014 Madrid, Spain",cinema
+12,Cines Renoir Retiro,4.3,"{'type': 'Point', 'coordinates': [-3.6763452, 40.4200861]}","C. de Narváez, 42, 28009 Madrid, Spain",cinema
+13,Cine Yelmo,4.1,"{'type': 'Point', 'coordinates': [-3.7390358, 40.36326589999999]}","Calle Calderilla, 1, 28054 Madrid, Spain",cinema
+14,Palacio de la Prensa Cinema,4.1,"{'type': 'Point', 'coordinates': [-3.7059346, 40.4204866]}","Plaza del Callao, 4, 28013 Madrid, Spain",cinema
+15,Golem,4.5,"{'type': 'Point', 'coordinates': [-3.7135633, 40.42467509999999]}","Calle de Martín de los Heros, 14, 28008 Madrid, Spain",cinema
+16,Cineteca,4.5,"{'type': 'Point', 'coordinates': [-3.6973165, 40.3917766]}","Plaza de Legazpi, 8, 28045 Madrid, Spain",cinema
+17,Cine Lengaspi,3.3,"{'type': 'Point', 'coordinates': [-3.7039097, 40.4200676]}","C/ Gran Vía, 31, 28013 Madrid, Spain",cinema
+18,Cine De Verano,3.5,"{'type': 'Point', 'coordinates': [-3.7105548, 40.4275305]}","28015 Madrid, Spain",cinema
+19,Cine de verano de la Bombilla: FESCINAL,4.4,"{'type': 'Point', 'coordinates': [-3.7262515, 40.42668949999999]}","Av. de Valladolid, SN, 28008 Madrid, Spain",cinema
+20,Cine Paz,4.0,"{'type': 'Point', 'coordinates': [-3.703376, 40.430862]}","Calle de Fuencarral, 125, 28010 Madrid, Spain",cinema
+21,Sala Equis,4.5,"{'type': 'Point', 'coordinates': [-3.7057319, 40.4119851]}","Calle del Duque de Alba, 4, 28012 Madrid, Spain",cinema
+22,Small Film Studio,4.2,"{'type': 'Point', 'coordinates': [-3.7054156, 40.4324161]}","C/ de Magallanes, 1, 28015 Madrid, Spain",cinema
+23,Conde Duque Morasol Cinema,4.1,"{'type': 'Point', 'coordinates': [-3.6757913, 40.4482325]}","Calle de Pradillo, 4, 6, 28002 Madrid, Spain",cinema
+24,CINES RENOIR S.A.,0.0,"{'type': 'Point', 'coordinates': [-3.71369, 40.42179]}","Cuesta de San Vicente, 4, 2, 28008 Madrid, Spain",cinema
+25,IMAX Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6820532, 40.3919972]}","Calle Meneses, 0, 28045 Madrid, Spain",cinema
+26,Sala Berlanga,4.5,"{'type': 'Point', 'coordinates': [-3.7144645, 40.4359609]}","C. de Andrés Mellado, 53, 28015 Madrid, Spain",cinema
+27,Autocine Madrid RACE,4.3,"{'type': 'Point', 'coordinates': [-3.6777766, 40.4862166]}","Calle de la Isla de Java, 2, 28034 Madrid, Spain",cinema
+28,Kinépolis Ciudad de la Imagen,4.5,"{'type': 'Point', 'coordinates': [-3.79677, 40.3938727]}","Calle Edgar Neville, s/n, 28223 Madrid, Spain",cinema
+29,Alphaville,5.0,"{'type': 'Point', 'coordinates': [-3.7136954, 40.4247033]}","Calle de Martín de los Heros, 14, 28008 Madrid, Spain",cinema
+30,Mujeres de Cine,0.0,"{'type': 'Point', 'coordinates': [-3.7061094, 40.4198066]}","Plaza del Callao, 1, 509, 28013 Madrid, Spain",cinema
+31,mk2 Ice Palace,4.1,"{'type': 'Point', 'coordinates': [-3.6369464, 40.4631031]}","Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",cinema
+32,Cinesa Manoteras 3D,4.0,"{'type': 'Point', 'coordinates': [-3.6656367, 40.48606660000001]}","Av. de Manoteras, 40, 28050 Madrid, Spain",cinema
+33,mk2 institut français madrid,4.4,"{'type': 'Point', 'coordinates': [-3.692346699999999, 40.4245587]}","Calle del Marqués de la Ensenada, 10, 28043 Madrid, Spain",cinema
+34,La Vaguada cines,3.8,"{'type': 'Point', 'coordinates': [-3.707578, 40.4800527]}","Calle de Santiago de Compostela, S/N, 28029 Madrid, Spain",cinema
+35,Conde Duque Cinema,3.8,"{'type': 'Point', 'coordinates': [-3.7018614, 40.4426682]}","Calle de Sta Engracia, 132, 28003 Madrid, Spain",cinema
+36,Cine Benot,4.6,"{'type': 'Point', 'coordinates': [-3.718224599999999, 40.4220744]}","Calle de Eduardo Benot, 2, 28008 Madrid, Spain",cinema
+37,Cine Conde Duque VERDI Alberto Aguilera,3.9,"{'type': 'Point', 'coordinates': [-3.706534999999999, 40.4299926]}","Calle de Alberto Aguilera, 4, 28015 Madrid, Spain",cinema
+38,Mk2 Sunset Cinema,0.0,"{'type': 'Point', 'coordinates': [-3.695032, 40.4226998]}","Calle del Almte., 5, 28004 Madrid, Spain",cinema
+39,CINESA Méndez Álvaro 3D,4.1,"{'type': 'Point', 'coordinates': [-3.6758854, 40.3969456]}","Calle Acanto, 2, 28045 Madrid, Spain",cinema
+40,Cines La Rambla,4.1,"{'type': 'Point', 'coordinates': [-3.5440826, 40.4244992]}","Av. de los Príncipes de España, 0, 28821 Coslada, Madrid, Spain",cinema
+41,Cinesa,4.2,"{'type': 'Point', 'coordinates': [-3.7212829, 40.4228682]}","Estación Príncipe Pío, Paseo de la Florida, 2, 28008 Madrid, Spain",cinema
+42,Yelmo Cines,4.1,"{'type': 'Point', 'coordinates': [-3.5866253, 40.4469616]}","Calle de Aracne, s / n, 28022 Madrid, Spain",cinema
+43,All Cinema. all Dominican,3.0,"{'type': 'Point', 'coordinates': [-3.6882957, 40.4315396]}","Paseo de la Castellana, 30, 28046 Madrid, Spain",cinema
+44,CINESA 3D ROSAS,4.0,"{'type': 'Point', 'coordinates': [-3.620441599999999, 40.4186006]}","Av. de Guadalajara, 2, 28032 Madrid, Spain",cinema
+45,Cinesa Proyecciones,4.2,"{'type': 'Point', 'coordinates': [-3.703207399999999, 40.4314921]}","Calle de Fuencarral, 136, 28001 Madrid, Spain",cinema
+46,Film Artesiete Alcalá,4.1,"{'type': 'Point', 'coordinates': [-3.6377453, 40.4365995]}","Calle de Alcalá, 414, 2ª planta, Local 1-2, 28027 Madrid, Spain",cinema
+47,CINESA LA GAVIA 3D,4.1,"{'type': 'Point', 'coordinates': [-3.598754, 40.3689056]}","Calle Adolfo Bioy Casares, 2, 28051 Madrid, Spain",cinema
+48,Torco,4.0,"{'type': 'Point', 'coordinates': [-3.7123904, 40.4256119]}","C. de la Princesa, 10, 28008 Madrid, Spain",cinema
+49,Cine Inmersivo - Desafío Total,4.6,"{'type': 'Point', 'coordinates': [-3.7983148, 40.3943626]}","Kinepolis, Calle Edgar Neville, 28223 Madrid, Spain",cinema
+50,Academia De Cine -,3.5,"{'type': 'Point', 'coordinates': [-3.6938907, 40.4274712]}","Calle de Zurbano, 3, 28010 Madrid, Spain",cinema
+51,Kinépolis Madrid Diversia,4.2,"{'type': 'Point', 'coordinates': [-3.639672399999999, 40.5300823]}","C.C. Heron Diversia, Av. de Bruselas, 21, 28108 Alcobendas, Madrid, Spain",cinema
+52,Solar de Antonio Grilo - Cine de Verano,5.0,"{'type': 'Point', 'coordinates': [-3.7080259, 40.42352590000001]}","Barrio de Malasaña Solar de Antonio Grilo No. 8 - entre Mostenses y, Calle de San Bernardo, Madrid, Spain",cinema
+53,Odeon Multicines Sambil,4.6,"{'type': 'Point', 'coordinates': [-3.776750399999999, 40.3600804]}","28917 Leganés, Madrid, Spain",cinema
+54,El Ojo Cojo,2.1,"{'type': 'Point', 'coordinates': [-3.6990795, 40.4107961]}","Calle de los Tres Peces, 32, 28012 Madrid, Spain",cinema
+55,Madrid Producciones method S.L.,5.0,"{'type': 'Point', 'coordinates': [-3.6950646, 40.3991503]}","Calle del Gral. Palanca, 38, 28045 Madrid, Spain",cinema
+56,Cinesa Parquesur & IMAX,4.5,"{'type': 'Point', 'coordinates': [-3.736052699999999, 40.3390157]}","Parquesur Shopping Center Avenida de Gran Bretaña 28916, Madrid, Spain",cinema
+57,Cine 4D,3.4,"{'type': 'Point', 'coordinates': [-3.7512087, 40.4121962]}","Paseo de la Venta, 66, 28011 Madrid, Spain",cinema
+58,Huaorani Films,5.0,"{'type': 'Point', 'coordinates': [-3.7086485, 40.4233184]}","Plaza de los Mostenses, 13, 28015 Madrid, Spain",cinema
+59,Cine Yelmo,4.2,"{'type': 'Point', 'coordinates': [-3.6157151, 40.5410924]}","Plaza del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid, Spain",cinema
