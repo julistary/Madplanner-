@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Cheers Karaoke,4.1,"{'type': 'Point', 'coordinates': [-3.6969596, 40.4132101]}","Calle de las Huertas, 50, 28014 Madrid, Spain",karaoke
-1,Karaoke Marfil,3.3,"{'type': 'Point', 'coordinates': [-3.6958647, 40.44472469999999]}","Calle de Modesto Lafuente, 63, 28003 Madrid, Spain",karaoke
-2,Karaoke En-tono,4.7,"{'type': 'Point', 'coordinates': [-3.691445099999999, 40.457926]}","Calle del Pintor Juan Gris, 4, 28020 Madrid, Spain",karaoke
-3,Karaoke Decibelios,4.1,"{'type': 'Point', 'coordinates': [-3.6775583, 40.4362017]}","Calle del Gral. Pardiñas, 112, 28006 Madrid, Spain",karaoke
-4,BAM Karaoke Box Recoletos,4.4,"{'type': 'Point', 'coordinates': [-3.6889286, 40.4215824]}","Calle de Recoletos, 23 planta baja, 28001 Madrid, Spain",karaoke
-5,Karaoke Bar Katakana,3.7,"{'type': 'Point', 'coordinates': [-3.6741405, 40.4387644]}","Avenida de América, 22, 28028 Madrid, Spain",karaoke
-6,Tuk room Karaoke,3.6,"{'type': 'Point', 'coordinates': [-3.6744869, 40.4261565]}","Calle de Hermosilla, 101, 28006 Madrid, Spain",karaoke
-7,Karaoke Nabucco,3.7,"{'type': 'Point', 'coordinates': [-3.6579455, 40.4318863]}","Calle de Alcalá, 259, 28027 Madrid, Spain",karaoke
-8,Karaoke Kapikas,3.8,"{'type': 'Point', 'coordinates': [-3.6925399, 40.4641277]}","28020 Calle José Castán Tobeñas, Plaza Castilla, 1, 28020 Madrid, Spain",karaoke
-9,The Secret Karaoke,3.6,"{'type': 'Point', 'coordinates': [-3.6763289, 40.4224197]}","Calle del Duque de Sesto, 30, 28009 Madrid, Spain",karaoke
-10,Bátelo Cocktail Bar,4.0,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}","Calle del Infante, 8, 28014 Madrid, Spain",karaoke
-11,Disco-Karaoke Master Plató,3.5,"{'type': 'Point', 'coordinates': [-3.708952999999999, 40.422693]}","Plaza de los Mostenses, s/n, 28015 Madrid, Spain",karaoke
-12,Karaoke Duarciñan,4.2,"{'type': 'Point', 'coordinates': [-3.7197478, 40.4065232]}","C. de Paradinas, 1, 28005 Madrid, Spain",karaoke
-13,Central Park,3.1,"{'type': 'Point', 'coordinates': [-3.6764848, 40.4126225]}","Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",karaoke
-14,Karaoke Uceda,3.7,"{'type': 'Point', 'coordinates': [-3.70922, 40.478092]}","Av. de Monforte de Lemos, 119, 28029 Madrid, Spain",karaoke
-15,karaoke,3.5,"{'type': 'Point', 'coordinates': [-3.696419299999999, 40.4005881]}","Calle de la Batalla del Salado, 26, 28045 Madrid, Spain",karaoke
-16,Karaoke Sala Tam,3.6,"{'type': 'Point', 'coordinates': [-3.7105143, 40.4043995]}","Paseo de los Olmos, 13, 28005 Madrid, Spain",karaoke
-17,Karaoke Singer´s House,3.6,"{'type': 'Point', 'coordinates': [-3.657579, 40.4070346]}","Av. de Moratalaz, 45, 28030 Madrid, Spain",karaoke
-18,Brindis,4.1,"{'type': 'Point', 'coordinates': [-3.7026836, 40.4195383]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",karaoke
-19,KARAOKE NUMBER ONE,4.2,"{'type': 'Point', 'coordinates': [-3.6686155, 40.3830043]}","Calle del Puerto de Balbarán, 33, 28018 Madrid, Spain",karaoke
-20,La Maripepa,4.0,"{'type': 'Point', 'coordinates': [-3.6955465, 40.4126056]}","Calle de Jesús, 7, 28014 Madrid, Spain",karaoke
-21,Discoteca & Karaoke MAGGYK,4.2,"{'type': 'Point', 'coordinates': [-3.6741461, 40.4380312]}","Calle de Coslada, 11, 28028 Madrid, Spain",karaoke
-22,Voces dek Recuerdo Karaoke,3.5,"{'type': 'Point', 'coordinates': [-3.6452508, 40.435478]}","Calle Germán Pérez Carrasco, 29, 28027 Madrid, Spain",karaoke
-23,Palacio Latino Disco Bar Karaoke,3.3,"{'type': 'Point', 'coordinates': [-3.7003758, 40.4590907]}","Calle de María Zayas, 4, 28039 Madrid, Spain",karaoke
-24,Karaoke Discoteca New Viedma,3.8,"{'type': 'Point', 'coordinates': [-3.7616667, 40.3872222]}","Calle de Maqueda, 28024 Madrid, Spain",karaoke
-25,sacame por dios,3.7,"{'type': 'Point', 'coordinates': [-3.699338, 40.4233581]}","Calle de Hernán Cortés, 21, 28004 Madrid, Spain",karaoke
-26,Karaoke Madrid Alquiler,4.0,"{'type': 'Point', 'coordinates': [-3.6857979, 40.4288771]}","Calle de Claudio Coello, 66, 28001 Madrid, Spain",karaoke
-27,Laser Karaoke,4.1,"{'type': 'Point', 'coordinates': [-3.6968448, 40.4131355]}","28014 Madrid, Spain",karaoke
-28,Rio Pirai,4.0,"{'type': 'Point', 'coordinates': [-3.6586008, 40.4639735]}","Calle de López de Hoyos, 327, 28033 Madrid, Spain",karaoke
-29,PORTER´S PUB KARAOKE,3.1,"{'type': 'Point', 'coordinates': [-3.7176885, 40.4352714]}","Calle de Fernández de los Ríos, 93, 28015 Madrid, Spain",karaoke
-30,Finde Karaoke,0.0,"{'type': 'Point', 'coordinates': [-3.658144699999999, 40.4318636]}","Calle de Alcalá, 259, 28027 Madrid, Spain",karaoke
-31,Bar Karaoke El Punto,3.9,"{'type': 'Point', 'coordinates': [-3.6606826, 40.3949971]}","Calle Picos de Europa, 32, 28038 Madrid, Spain",karaoke
-32,LA SEDE,4.2,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","72, Calle de Lérida, 28020 Madrid, Spain",karaoke
-33,Ginger Sala Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6979213, 40.44518910000001]}","Calle de Maudes, 41, 28003 Madrid, Spain",karaoke
-34,Sala Maná,3.6,"{'type': 'Point', 'coordinates': [-3.5493319, 40.3607559]}","Plaza Naranjo de Bulnes, 12, 28523 Rivas-Vaciamadrid, Madrid, Spain",karaoke
-35,Karaoke Kiss Musica En Vivo,0.0,"{'type': 'Point', 'coordinates': [-3.761746699999999, 40.3874764]}","Calle de Maqueda, 28024 Madrid, Spain",karaoke
-36,Alquiler de karaoke Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.703447, 40.411219]}","Calle del Calvario, 2, 28012 Madrid, Spain",karaoke
-37,La Movida 1980,3.3,"{'type': 'Point', 'coordinates': [-3.6824905, 40.4583879]}","Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",karaoke
-38,Comienza la Fiesta,4.0,"{'type': 'Point', 'coordinates': [-3.734633, 40.301348]}","Calle Fuenlabrada, 50, 28901 Getafe, Madrid, Spain",karaoke
-39,Joker's Karaoke,4.7,"{'type': 'Point', 'coordinates': [-3.7407121, 40.3859627]}","Calle de Castrojeriz, 26, 28025 Madrid, Spain",karaoke
-40,KTV,3.0,"{'type': 'Point', 'coordinates': [-3.7173442, 40.3981595]}","Av. de la Emperatriz Isabel, 6, 28019 Madrid, Spain",karaoke
-41,FREEDOM BAR,4.2,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","72, Calle de Lérida, 28020 Madrid, Spain",karaoke
-42,Karaoke alba,3.5,"{'type': 'Point', 'coordinates': [-3.676485, 40.4126184]}","Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",karaoke
-43,New York Disco Karaoke,3.2,"{'type': 'Point', 'coordinates': [-3.6973878, 40.4616809]}","Calle de San Felipe, 1, 28020 Madrid, Spain",karaoke
-44,HERO COFFEE BAR OF SPECTACLE 80,4.0,"{'type': 'Point', 'coordinates': [-3.699925599999999, 40.4297792]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",karaoke
-45,Karaoke Pub Meis Disco,3.6,"{'type': 'Point', 'coordinates': [-3.7253357, 40.3091757]}","Av. General Palacio, 5, 28902 Getafe, Madrid, Spain",karaoke
-46,Sala Liverpool Karaoke,3.4,"{'type': 'Point', 'coordinates': [-3.6322001, 40.5404831]}","Plaza de Felipe Álvarez Gadea, 28100 Alcobendas, Madrid, Spain",karaoke
-47,Freedoom karaoke bar de copas,0.0,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","Calle de Lérida, 72, 28020 Madrid, Spain",karaoke
-48,YOVA'S PUB,4.5,"{'type': 'Point', 'coordinates': [-3.7099838, 40.4364682]}","Calle de Galileo, 74, 28015 Madrid, Spain",karaoke
-49,Meetme,3.5,"{'type': 'Point', 'coordinates': [-3.6981364, 40.4279746]}","28004, Calle Antonio Flores, 3, 28004 Madrid, Spain",karaoke
-50,Karaoke Oliver,0.0,"{'type': 'Point', 'coordinates': [-3.6901007, 40.388064]}","Calle del Bronce, 30, 28045 Madrid, Spain",karaoke
-51,Pacific,4.0,"{'type': 'Point', 'coordinates': [-3.677299199999999, 40.4072263]}","Av. del Mediterráneo, 6, 28007 Madrid, Spain",karaoke
-52,At midnight,4.3,"{'type': 'Point', 'coordinates': [-3.6959833, 40.4002044]}","Calle de la Batalla del Salado, 33, 28045 Madrid, Spain",karaoke
-53,Alquilerkaraoke.net,0.0,"{'type': 'Point', 'coordinates': [-3.6723046, 40.3984502]}","Calle de Seco, 5, 28007 Madrid, Spain",karaoke
-54,Yoyo's Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7103432, 40.4364352]}","Calle de Galileo, 63, 28015 Madrid, Spain",karaoke
-55,Toni 2 Piano Bar,4.3,"{'type': 'Point', 'coordinates': [-3.6947675, 40.4226339]}","Calle del Almte., 9, 28004 Madrid, Spain",karaoke
-56,Adam's Apple,0.0,"{'type': 'Point', 'coordinates': [-3.6773381, 40.4071401]}","Av. del Mediterráneo, 6, 28007 Madrid, Spain",karaoke
-57,Quinn's,3.7,"{'type': 'Point', 'coordinates': [-3.7618759, 40.3875419]}","Calle de Maqueda, 138, 28024 Madrid, Spain",karaoke
-58,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",karaoke
-59,Obenque Bar,3.8,"{'type': 'Point', 'coordinates': [-3.6968798, 40.403868]}","Paseo de Santa María de la Cabeza, 42, 28045 Madrid, Spain",karaoke
+,name,rating,location,address,price_level,place
+0,Cheers Karaoke,4.1,"{'type': 'Point', 'coordinates': [-3.6969596, 40.4132101]}","Calle de las Huertas, 50, 28014 Madrid, Spain",1.0,karaoke
+1,Karaoke Marfil,3.3,"{'type': 'Point', 'coordinates': [-3.6958647, 40.44472469999999]}","Calle de Modesto Lafuente, 63, 28003 Madrid, Spain",2.0,karaoke
+2,Karaoke En-tono,4.7,"{'type': 'Point', 'coordinates': [-3.691445099999999, 40.457926]}","Calle del Pintor Juan Gris, 4, 28020 Madrid, Spain",,karaoke
+3,Karaoke Decibelios,4.1,"{'type': 'Point', 'coordinates': [-3.6775583, 40.4362017]}","Calle del Gral. Pardiñas, 112, 28006 Madrid, Spain",,karaoke
+4,BAM Karaoke Box Recoletos,4.4,"{'type': 'Point', 'coordinates': [-3.6889286, 40.4215824]}","Calle de Recoletos, 23 planta baja, 28001 Madrid, Spain",,karaoke
+5,Karaoke Bar Katakana,3.7,"{'type': 'Point', 'coordinates': [-3.6741405, 40.4387644]}","Avenida de América, 22, 28028 Madrid, Spain",3.0,karaoke
+6,Karaoke Nabucco,3.7,"{'type': 'Point', 'coordinates': [-3.6579455, 40.4318863]}","Calle de Alcalá, 259, 28027 Madrid, Spain",2.0,karaoke
+7,Karaoke Kapikas,3.8,"{'type': 'Point', 'coordinates': [-3.6925399, 40.4641277]}","28020 Calle José Castán Tobeñas, Plaza Castilla, 1, 28020 Madrid, Spain",2.0,karaoke
+8,The Secret Karaoke,3.6,"{'type': 'Point', 'coordinates': [-3.6763289, 40.4224197]}","Calle del Duque de Sesto, 30, 28009 Madrid, Spain",,karaoke
+9,Bátelo Cocktail Bar,4.0,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}","Calle del Infante, 8, 28014 Madrid, Spain",,karaoke
+10,Central Park,3.1,"{'type': 'Point', 'coordinates': [-3.6764848, 40.4126225]}","Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",3.0,karaoke
+11,Karaoke Uceda,3.7,"{'type': 'Point', 'coordinates': [-3.70922, 40.478092]}","Av. de Monforte de Lemos, 119, 28029 Madrid, Spain",1.0,karaoke
+12,Karaoke Sala Tam,3.6,"{'type': 'Point', 'coordinates': [-3.7105143, 40.4043995]}","Paseo de los Olmos, 13, 28005 Madrid, Spain",2.0,karaoke
+13,Karaoke Singer´s House,3.6,"{'type': 'Point', 'coordinates': [-3.657579, 40.4070346]}","Av. de Moratalaz, 45, 28030 Madrid, Spain",2.0,karaoke
+14,Brindis,4.1,"{'type': 'Point', 'coordinates': [-3.7026836, 40.4195383]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",2.0,karaoke
+15,La Maripepa,4.0,"{'type': 'Point', 'coordinates': [-3.6955465, 40.4126056]}","Calle de Jesús, 7, 28014 Madrid, Spain",2.0,karaoke
+16,Voces dek Recuerdo Karaoke,3.5,"{'type': 'Point', 'coordinates': [-3.6452508, 40.435478]}","Calle Germán Pérez Carrasco, 29, 28027 Madrid, Spain",1.0,karaoke
+17,Tuk room Karaoke,3.6,"{'type': 'Point', 'coordinates': [-3.6744869, 40.4261565]}","Calle de Hermosilla, 101, 28006 Madrid, Spain",1.0,karaoke
+18,Karaoke Madrid Alquiler,4.0,"{'type': 'Point', 'coordinates': [-3.6857979, 40.4288771]}","Calle de Claudio Coello, 66, 28001 Madrid, Spain",,karaoke
+19,Finde Karaoke,0.0,"{'type': 'Point', 'coordinates': [-3.658144699999999, 40.4318636]}","Calle de Alcalá, 259, 28027 Madrid, Spain",,karaoke
+20,Disco-Karaoke Master Plató,3.5,"{'type': 'Point', 'coordinates': [-3.708952999999999, 40.422693]}","Plaza de los Mostenses, s/n, 28015 Madrid, Spain",2.0,karaoke
+21,Karaoke Duarciñan,4.2,"{'type': 'Point', 'coordinates': [-3.7197478, 40.4065232]}","C. de Paradinas, 1, 28005 Madrid, Spain",1.0,karaoke
+22,karaoke,3.5,"{'type': 'Point', 'coordinates': [-3.696419299999999, 40.4005881]}","Calle de la Batalla del Salado, 26, 28045 Madrid, Spain",,karaoke
+23,Alquiler de karaoke Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.703447, 40.411219]}","Calle del Calvario, 2, 28012 Madrid, Spain",,karaoke
+24,Joker's Karaoke,4.7,"{'type': 'Point', 'coordinates': [-3.7407121, 40.3859627]}","Calle de Castrojeriz, 26, 28025 Madrid, Spain",,karaoke
+25,Comienza la Fiesta,4.0,"{'type': 'Point', 'coordinates': [-3.734633, 40.301348]}","Calle Fuenlabrada, 50, 28901 Getafe, Madrid, Spain",,karaoke
+26,KARAOKE NUMBER ONE,4.2,"{'type': 'Point', 'coordinates': [-3.6686155, 40.3830043]}","Calle del Puerto de Balbarán, 33, 28018 Madrid, Spain",1.0,karaoke
+27,Discoteca & Karaoke MAGGYK,4.2,"{'type': 'Point', 'coordinates': [-3.6741461, 40.4380312]}","Calle de Coslada, 11, 28028 Madrid, Spain",,karaoke
+28,Palacio Latino Disco Bar Karaoke,3.3,"{'type': 'Point', 'coordinates': [-3.7003758, 40.4590907]}","Calle de María Zayas, 4, 28039 Madrid, Spain",,karaoke
+29,Karaoke Discoteca New Viedma,3.8,"{'type': 'Point', 'coordinates': [-3.7616667, 40.3872222]}","Calle de Maqueda, 28024 Madrid, Spain",1.0,karaoke
+30,sacame por dios,3.7,"{'type': 'Point', 'coordinates': [-3.699338, 40.4233581]}","Calle de Hernán Cortés, 21, 28004 Madrid, Spain",,karaoke
+31,Laser Karaoke,4.1,"{'type': 'Point', 'coordinates': [-3.6968448, 40.4131355]}","28014 Madrid, Spain",,karaoke
+32,Rio Pirai,4.0,"{'type': 'Point', 'coordinates': [-3.6586008, 40.4639735]}","Calle de López de Hoyos, 327, 28033 Madrid, Spain",1.0,karaoke
+33,PORTER´S PUB KARAOKE,3.1,"{'type': 'Point', 'coordinates': [-3.7176885, 40.4352714]}","Calle de Fernández de los Ríos, 93, 28015 Madrid, Spain",,karaoke
+34,Alquilerkaraoke.net,0.0,"{'type': 'Point', 'coordinates': [-3.6723046, 40.3984502]}","Calle de Seco, 5, 28007 Madrid, Spain",,karaoke
+35,Esto Suena - Bar Karaoke,2.9,"{'type': 'Point', 'coordinates': [-3.5447955, 40.4230696]}","Calle Chile, 152, 28822 Coslada, Madrid, Spain",1.0,karaoke
+36,Ginger Sala Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6979213, 40.44518910000001]}","Calle de Maudes, 41, 28003 Madrid, Spain",,karaoke
+37,LA SEDE,4.2,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","72, Calle de Lérida, 28020 Madrid, Spain",,karaoke
+38,Bar Karaoke El Punto,3.9,"{'type': 'Point', 'coordinates': [-3.6606826, 40.3949971]}","Calle Picos de Europa, 32, 28038 Madrid, Spain",,karaoke
+39,Sala Maná,3.6,"{'type': 'Point', 'coordinates': [-3.5493319, 40.3607559]}","Plaza Naranjo de Bulnes, 12, 28523 Rivas-Vaciamadrid, Madrid, Spain",1.0,karaoke
+40,Karaoke Kiss Musica En Vivo,0.0,"{'type': 'Point', 'coordinates': [-3.761746699999999, 40.3874764]}","Calle de Maqueda, 28024 Madrid, Spain",,karaoke
+41,La Movida 1980,3.3,"{'type': 'Point', 'coordinates': [-3.6824905, 40.4583879]}","Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",,karaoke
+42,KTV,3.0,"{'type': 'Point', 'coordinates': [-3.7173442, 40.3981595]}","Av. de la Emperatriz Isabel, 6, 28019 Madrid, Spain",,karaoke
+43,FREEDOM BAR,4.2,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","72, Calle de Lérida, 28020 Madrid, Spain",,karaoke
+44,Karaoke alba,3.5,"{'type': 'Point', 'coordinates': [-3.676485, 40.4126184]}","Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",,karaoke
+45,New York Disco Karaoke,3.2,"{'type': 'Point', 'coordinates': [-3.6973878, 40.4616809]}","Calle de San Felipe, 1, 28020 Madrid, Spain",,karaoke
+46,HERO COFFEE BAR OF SPECTACLE 80,4.0,"{'type': 'Point', 'coordinates': [-3.699925599999999, 40.4297792]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",2.0,karaoke
+47,Quinn's,3.7,"{'type': 'Point', 'coordinates': [-3.7618759, 40.3875419]}","Calle de Maqueda, 138, 28024 Madrid, Spain",1.0,karaoke
+48,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,karaoke
+49,Karaoke Pub Meis Disco,3.6,"{'type': 'Point', 'coordinates': [-3.7253357, 40.3091757]}","Av. General Palacio, 5, 28902 Getafe, Madrid, Spain",,karaoke
+50,Sala Liverpool Karaoke,3.4,"{'type': 'Point', 'coordinates': [-3.6322001, 40.5404831]}","Plaza de Felipe Álvarez Gadea, 28100 Alcobendas, Madrid, Spain",1.0,karaoke
+51,Freedoom karaoke bar de copas,0.0,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}","Calle de Lérida, 72, 28020 Madrid, Spain",,karaoke
+52,YOVA'S PUB,4.5,"{'type': 'Point', 'coordinates': [-3.7099838, 40.4364682]}","Calle de Galileo, 74, 28015 Madrid, Spain",,karaoke
+53,Meetme,3.5,"{'type': 'Point', 'coordinates': [-3.6981364, 40.4279746]}","28004, Calle Antonio Flores, 3, 28004 Madrid, Spain",1.0,karaoke
+54,Karaoke Oliver,0.0,"{'type': 'Point', 'coordinates': [-3.6901007, 40.388064]}","Calle del Bronce, 30, 28045 Madrid, Spain",,karaoke
+55,Restaurante Tentazion,4.0,"{'type': 'Point', 'coordinates': [-3.636548, 40.437429]}","Calle Movinda, 10, 28037 Madrid, Spain",1.0,karaoke
+56,Pacific,4.0,"{'type': 'Point', 'coordinates': [-3.677299199999999, 40.4072263]}","Av. del Mediterráneo, 6, 28007 Madrid, Spain",1.0,karaoke
+57,At midnight,4.3,"{'type': 'Point', 'coordinates': [-3.6959833, 40.4002044]}","Calle de la Batalla del Salado, 33, 28045 Madrid, Spain",1.0,karaoke
+58,La Chispera,4.5,"{'type': 'Point', 'coordinates': [-3.7083803, 40.4097319]}","Calle de Santa Ana, 13, 28005 Madrid, Spain",1.0,karaoke
+59,Yoyo's Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7103432, 40.4364352]}","Calle de Galileo, 63, 28015 Madrid, Spain",,karaoke

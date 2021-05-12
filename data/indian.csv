@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Indian Motor Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.727921199999999, 40.4267782]}","Av. de Valladolid, 19, 28008 Madrid, Spain",indian
-1,Curry Masala Restaurante Hindú,4.2,"{'type': 'Point', 'coordinates': [-3.706173, 40.42131]}","Calle de Silva, 16, 28004 Madrid, Spain",indian
-2,Taste Of India,4.2,"{'type': 'Point', 'coordinates': [-3.701298099999999, 40.4151569]}","Calle de Núñez de Arce, 15, 28012 Madrid, Spain",indian
-3,Indian Food Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6991029, 40.4152376]}","Calle de Manuel Fernández y González, 17, 28014 Madrid, Spain",indian
-4,Kundan,4.3,"{'type': 'Point', 'coordinates': [-3.669801699999999, 40.51146019999999]}","Calle de Hospital de Órbigo, 9, 28050 Madrid, Spain",indian
-5,Tandoori Masala Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6473925, 40.5316347]}","Carr. de Fuencarral, 44, 28108 Alcobendas, Madrid, Spain",indian
-6,Restaurante Benares,4.3,"{'type': 'Point', 'coordinates': [-3.6938998, 40.4276524]}","Calle de Zurbano, 5, 28010 Madrid, Spain",indian
-7,Indian Aroma,4.4,"{'type': 'Point', 'coordinates': [-3.6989705, 40.4159364]}","Calle de Ventura de la Vega, 6, 28014 Madrid, Spain",indian
-8,Restaurante Indio Arpit by Diwali,4.2,"{'type': 'Point', 'coordinates': [-3.6784682, 40.5112122]}","Calle de María Tubau, 19, Local B, 28050 Madrid, Spain",indian
-9,Taj Indian Restaurant Madrid | Cocina Hindú,4.1,"{'type': 'Point', 'coordinates': [-3.6956785, 40.4172511]}","Calle del Marqués de Cubas, 6, 28014 Madrid, Spain",indian
-10,Indian Flavour,4.7,"{'type': 'Point', 'coordinates': [-3.6790381, 40.4547069]}","Calle Víctor Andrés Belaunde, 6, 28016 Madrid, Spain",indian
-11,Tandoori Station,4.5,"{'type': 'Point', 'coordinates': [-3.670925, 40.4298444]}","Calle de José Ortega y Gasset, 89, 91, 28006 Madrid, Spain",indian
-12,Maisha,3.4,"{'type': 'Point', 'coordinates': [-3.6975373, 40.4080848]}","Calle del Dr. Piga, 21, 28012 Madrid, Spain",indian
-13,Saffron Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6563418, 40.5062263]}","Calle Manuel Pombo Angulo, 10, 28050 Madrid, Spain",indian
-14,Bangalore Modern Indian Cuisine,4.4,"{'type': 'Point', 'coordinates': [-3.675657, 40.4348074]}","Calle de Diego de León, 63, 28006 Madrid, Spain",indian
-15,Kathmandu Tandoori House,4.8,"{'type': 'Point', 'coordinates': [-3.5787562, 40.47438229999999]}","Calle Acuario, 11, 28042 Madrid, Spain",indian
-16,Restaurante Indian Spice,3.8,"{'type': 'Point', 'coordinates': [-3.699147, 40.415229]}","Calle de Manuel Fernández y González, 17, 28014 Madrid, Spain",indian
-17,Restaurant Swagat,4.5,"{'type': 'Point', 'coordinates': [-3.6829117, 40.4244773]}","Calle de Núñez de Balboa, 29, 28001 Madrid, Spain",indian
-18,Moharaj,4.3,"{'type': 'Point', 'coordinates': [-3.7006761, 40.4109644]}","Calle del Ave María, 18, 28012 Madrid, Spain",indian
-19,Adrak Indian Cuisine,4.8,"{'type': 'Point', 'coordinates': [-3.672132599999999, 40.4363803]}","Calle del Pilar de Zaragoza, 68, 28028 Madrid, Spain",indian
-20,Everest Tandoori,4.6,"{'type': 'Point', 'coordinates': [-3.6494624, 40.4641914]}","Calle de Pegaso, 13, 28043 Madrid, Spain",indian
-21,Surya Callao,4.1,"{'type': 'Point', 'coordinates': [-3.7053557, 40.4210035]}","Calle de Tudescos, 4, 28004 Madrid, Spain",indian
-22,Doli Restaurante Indio,4.4,"{'type': 'Point', 'coordinates': [-3.6839916, 40.4351092]}","Calle de Diego de León, 13, 28006 Madrid, Spain",indian
-23,Baisakhi Indian Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.7024723, 40.409801]}","Calle de Lavapiés, 42, 28012 Madrid, Spain",indian
-24,Agra Palace,4.3,"{'type': 'Point', 'coordinates': [-3.710707999999999, 40.4175985]}","Calle de Vergara, 7, 28013 Madrid, Spain",indian
-25,Restaurante Indio,4.0,"{'type': 'Point', 'coordinates': [-3.711847999999999, 40.4252687]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",indian
-26,Lumbini Tandoori Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6979454, 40.452092]}","Calle del Aviador zorita n° 50, 28020 Madrid, Spain",indian
-27,Radhuni Indian Restaurant,4.6,"{'type': 'Point', 'coordinates': [-3.6562888, 40.4933901]}","Calle Príncipe Carlos, 21, 28050 Madrid, Spain",indian
-28,Buddha Palace Tandoori,4.5,"{'type': 'Point', 'coordinates': [-3.6287859, 40.4632026]}","Plaza Andrés Jáuregui, 18, 28043 Madrid, Spain",indian
-29,Purnima Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6700496, 40.4243609]}","Calle de Goya, 110, 28009 Madrid, Spain",indian
-30,Shampan Indian Restaurante,4.6,"{'type': 'Point', 'coordinates': [-3.6716143, 40.4177183]}","Calle de Antonio Arias, 2, 28009 Madrid, Spain",indian
-31,Bombay Palace,4.2,"{'type': 'Point', 'coordinates': [-3.700918, 40.4106725]}","Calle del Ave María, 26, 28012 Madrid, Spain",indian
-32,Bollywood Tadka,4.3,"{'type': 'Point', 'coordinates': [-3.6647222, 40.4536111]}","Calle del Eucalipto, 1, Local 3 Posterior, 28016 Madrid, Spain",indian
-33,Shapla Indian Restaurant,3.9,"{'type': 'Point', 'coordinates': [-3.7023871, 40.4098045]}","Calle de Lavapiés, 42, 28012 Madrid, Spain",indian
-34,Mughal,3.9,"{'type': 'Point', 'coordinates': [-3.710171699999999, 40.4252264]}","Calle de San Bernardino, 10, 28015 Madrid, Spain",indian
-35,Sonali Indian Restaurant,3.1,"{'type': 'Point', 'coordinates': [-3.70268, 40.41011]}","Calle de Lavapiés, 34, 28012 Madrid, Spain",indian
-36,Taj Mahal,4.3,"{'type': 'Point', 'coordinates': [-3.6962627, 40.4241613]}","Calle de Belén, 12, 28004 Madrid, Spain",indian
-37,"CURRY & CANELA RESTAURANTE HINDU, INDIO, NEPALI",4.8,"{'type': 'Point', 'coordinates': [-3.6790824, 40.4243352]}","Calle de Espartinas, 7, 28001 Madrid, Spain",indian
-38,Atocha Tandoori,4.4,"{'type': 'Point', 'coordinates': [-3.6951509, 40.4050427]}","Paseo de Santa María de la Cabeza, 27, 28045 Madrid, Spain",indian
-39,Restaurante Hindú Arpit,4.2,"{'type': 'Point', 'coordinates': [-3.6784682, 40.5112122]}","Calle de María Tubau, 19, 28050 Madrid, Spain",indian
-40,SAL Y CHILI *** RESTAURANTE INDIO,4.6,"{'type': 'Point', 'coordinates': [-3.697287899999999, 40.4592263]}","Calle Pensamiento, 16, 28020 Madrid, Spain",indian
-41,Indian Bombay Restaurante,3.9,"{'type': 'Point', 'coordinates': [-3.6971908, 40.4624774]}","Calle de Bravo Murillo, 298, 28020 Madrid, Spain",indian
-42,Restaurante Sagar,4.5,"{'type': 'Point', 'coordinates': [-3.6724106, 40.4358194]}","Calle Alonso Heredia, 22, 28028 Madrid, Spain",indian
-43,Tandoori Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7070988, 40.4109734]}","Plaza de Cascorro, 3, 28012 Madrid, Spain",indian
-44,Mirchi Indian,5.0,"{'type': 'Point', 'coordinates': [-3.6694265, 40.4436959]}","Calle Puenteareas, 15, 28002 Madrid, Spain",indian
-45,SwatValley PAK Indian Restaurant,5.0,"{'type': 'Point', 'coordinates': [-3.6967, 40.41323]}","Calle de las Huertas, CENTRO), 53 BAJOS, 28014 Madrid, Spain",indian
-46,BASMATI,4.6,"{'type': 'Point', 'coordinates': [-3.7049417, 40.4303337]}","Calle de Sandoval, 18, LOCAL IZDA, 28010 Madrid, Spain",indian
-47,Curry Station Indian Restaurant,4.1,"{'type': 'Point', 'coordinates': [-3.6815768, 40.4583685]}","Av. de Alberto de Alcocer, 38, 28016 Madrid, Spain",indian
-48,New Delhi Indian Restaurante,3.8,"{'type': 'Point', 'coordinates': [-3.7046934, 40.4106219]}","Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",indian
-49,GANGES Restaurante Indio,4.3,"{'type': 'Point', 'coordinates': [-3.6780792, 40.4576868]}","C. de Bolivia, 11, 28016 Madrid, Spain",indian
-50,Bangol Indian Restaurant,3.5,"{'type': 'Point', 'coordinates': [-3.6949166, 40.4061031]}","Paseo de Santa María de la Cabeza, 16, 28045 Madrid, Spain",indian
-51,Restaurante Preity Raj,3.4,"{'type': 'Point', 'coordinates': [-3.7008333, 40.4102778]}","Calle del Ave María, 29, 28012 Madrid, Spain",indian
-52,Bombay Blue,4.0,"{'type': 'Point', 'coordinates': [-3.7018565, 40.4058162]}","Calle de Miguel Servet, 23, 28012 Madrid, Spain",indian
-53,Restaurante Himalayan Tandoori,4.5,"{'type': 'Point', 'coordinates': [-3.657942, 40.432647]}","Calle Raquel Meller, 7, 28027 Madrid, Spain",indian
-54,Restaurante Fathe pur,4.4,"{'type': 'Point', 'coordinates': [-3.6735061, 40.4179938]}","Calle de Ibiza, 42, 28009 Madrid, Spain",indian
-55,Restaurante Pakistani Madrid Himalaya,4.3,"{'type': 'Point', 'coordinates': [-3.7079684, 40.4194192]}","Costanilla de los Ángeles, 18, 28013 Madrid, Spain",indian
-56,HOLI HOUSE,4.4,"{'type': 'Point', 'coordinates': [-3.7120167, 40.4492847]}","Calle de Almansa, 89, 28040 Madrid, Spain",indian
-57,Cocina India,4.0,"{'type': 'Point', 'coordinates': [-3.702683, 40.4101439]}","Calle de Jesús y María, 36, 28012 Madrid, Spain",indian
-58,Taj Mahal restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.7020858, 40.4312842]}","Calle del Cardenal Cisneros, 29, 28004 Madrid, Spain",indian
-59,Mantra Restaurante Indio,4.5,"{'type': 'Point', 'coordinates': [-3.6985141, 40.4358393]}","Calle de Viriato, 47, 28010 Madrid, Spain",indian
+,name,rating,location,address,price_level,place
+0,Indian Motor Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.727921199999999, 40.4267782]}","Av. de Valladolid, 19, 28008 Madrid, Spain",,indian
+1,Indian Food Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6991029, 40.4152376]}","Calle de Manuel Fernández y González, 17, 28014 Madrid, Spain",,indian
+2,Taste Of India,4.2,"{'type': 'Point', 'coordinates': [-3.701298099999999, 40.4151569]}","Calle de Núñez de Arce, 15, 28012 Madrid, Spain",1.0,indian
+3,Kundan,4.3,"{'type': 'Point', 'coordinates': [-3.669801699999999, 40.51146019999999]}","Calle de Hospital de Órbigo, 9, 28050 Madrid, Spain",2.0,indian
+4,Tandoori Masala Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6473925, 40.5316347]}","Carr. de Fuencarral, 44, 28108 Alcobendas, Madrid, Spain",2.0,indian
+5,Restaurante Benares,4.3,"{'type': 'Point', 'coordinates': [-3.6938998, 40.4276524]}","Calle de Zurbano, 5, 28010 Madrid, Spain",4.0,indian
+6,Maisha,3.4,"{'type': 'Point', 'coordinates': [-3.6975373, 40.4080848]}","Calle del Dr. Piga, 21, 28012 Madrid, Spain",1.0,indian
+7,Restaurante Indian Spice,3.8,"{'type': 'Point', 'coordinates': [-3.699147, 40.415229]}","Calle de Manuel Fernández y González, 17, 28014 Madrid, Spain",,indian
+8,Restaurant Swagat,4.5,"{'type': 'Point', 'coordinates': [-3.6829117, 40.4244773]}","Calle de Núñez de Balboa, 29, 28001 Madrid, Spain",2.0,indian
+9,Kathmandu Tandoori House,4.8,"{'type': 'Point', 'coordinates': [-3.5787562, 40.47438229999999]}","Calle Acuario, 11, 28042 Madrid, Spain",1.0,indian
+10,Moharaj,4.3,"{'type': 'Point', 'coordinates': [-3.7006761, 40.4109644]}","Calle del Ave María, 18, 28012 Madrid, Spain",1.0,indian
+11,Baisakhi Indian Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.7024723, 40.409801]}","Calle de Lavapiés, 42, 28012 Madrid, Spain",1.0,indian
+12,Atocha Tandoori,4.4,"{'type': 'Point', 'coordinates': [-3.6951509, 40.4050427]}","Paseo de Santa María de la Cabeza, 27, 28045 Madrid, Spain",1.0,indian
+13,Purnima Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6700496, 40.4243609]}","Calle de Goya, 110, 28009 Madrid, Spain",2.0,indian
+14,Indian Bombay Restaurante,3.9,"{'type': 'Point', 'coordinates': [-3.6971908, 40.4624774]}","Calle de Bravo Murillo, 298, 28020 Madrid, Spain",,indian
+15,Restaurante Sagar,4.5,"{'type': 'Point', 'coordinates': [-3.6724106, 40.4358194]}","Calle Alonso Heredia, 22, 28028 Madrid, Spain",2.0,indian
+16,New Delhi Indian Restaurante,3.8,"{'type': 'Point', 'coordinates': [-3.7046934, 40.4106219]}","Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",,indian
+17,Bangol Indian Restaurant,3.5,"{'type': 'Point', 'coordinates': [-3.6949166, 40.4061031]}","Paseo de Santa María de la Cabeza, 16, 28045 Madrid, Spain",,indian
+18,SwatValley PAK Indian Restaurant,5.0,"{'type': 'Point', 'coordinates': [-3.6967, 40.41323]}","Calle de las Huertas, CENTRO), 53 BAJOS, 28014 Madrid, Spain",,indian
+19,Restaurante Preity Raj,3.4,"{'type': 'Point', 'coordinates': [-3.7008333, 40.4102778]}","Calle del Ave María, 29, 28012 Madrid, Spain",1.0,indian
+20,Bombay Blue,4.0,"{'type': 'Point', 'coordinates': [-3.7018565, 40.4058162]}","Calle de Miguel Servet, 23, 28012 Madrid, Spain",,indian
+21,HOLI HOUSE,4.4,"{'type': 'Point', 'coordinates': [-3.7120167, 40.4492847]}","Calle de Almansa, 89, 28040 Madrid, Spain",,indian
+22,Megha Halal cuisine,4.3,"{'type': 'Point', 'coordinates': [-3.7019326, 40.4092178]}","Calle de Lavapiés, 50, 28012 Madrid, Spain",1.0,indian
+23,Anarkoli,4.0,"{'type': 'Point', 'coordinates': [-3.7022833, 40.4095667]}","Calle de Lavapiés, 46, 28012 Madrid, Spain",1.0,indian
+24,Restaurante Agra,4.0,"{'type': 'Point', 'coordinates': [-3.7092132, 40.4212231]}","Calle de Isabel la Católica, 9, 28013 Madrid, Spain",,indian
+25,Indian Aroma,4.4,"{'type': 'Point', 'coordinates': [-3.6989705, 40.4159364]}","Calle de Ventura de la Vega, 6, 28014 Madrid, Spain",2.0,indian
+26,HOLA INDIA,3.2,"{'type': 'Point', 'coordinates': [-3.7245651, 40.3920381]}","Calle Azabache, 3, 28019 Madrid, Spain",,indian
+27,Restaurante Indio Hut,3.0,"{'type': 'Point', 'coordinates': [-3.7269646, 40.3851378]}","Plaza de San Vicente de Paúl, 5, 28025 Madrid, Spain",1.0,indian
+28,indian station comida hindú,3.6,"{'type': 'Point', 'coordinates': [-3.7290304, 40.3076667]}","Calle San Eugenio, 1, 28901 Getafe, Madrid, Spain",,indian
+29,Undaal Indian RestoBar,4.4,"{'type': 'Point', 'coordinates': [-3.718541, 40.427712]}","Calle de Ferraz, 54, 28008 Madrid, Spain",,indian
+30,Curry Masala Restaurante Hindú,4.2,"{'type': 'Point', 'coordinates': [-3.706173, 40.42131]}","Calle de Silva, 16, 28004 Madrid, Spain",,indian
+31,Restaurante Rajasthan Curry,3.0,"{'type': 'Point', 'coordinates': [-3.742068799999999, 40.3918899]}","Calle Vía Carpetana, 143, 28047 Madrid, Spain",,indian
+32,Restaurante Indio Arpit by Diwali,4.2,"{'type': 'Point', 'coordinates': [-3.6784682, 40.5112122]}","Calle de María Tubau, 19, Local B, 28050 Madrid, Spain",1.0,indian
+33,Taj Indian Restaurant Madrid | Cocina Hindú,4.1,"{'type': 'Point', 'coordinates': [-3.6956785, 40.4172511]}","Calle del Marqués de Cubas, 6, 28014 Madrid, Spain",2.0,indian
+34,Indian Flavour,4.7,"{'type': 'Point', 'coordinates': [-3.6790381, 40.4547069]}","Calle Víctor Andrés Belaunde, 6, 28016 Madrid, Spain",,indian
+35,Tandoori Station,4.5,"{'type': 'Point', 'coordinates': [-3.670925, 40.4298444]}","Calle de José Ortega y Gasset, 89, 91, 28006 Madrid, Spain",2.0,indian
+36,Saffron Indian Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6563418, 40.5062263]}","Calle Manuel Pombo Angulo, 10, 28050 Madrid, Spain",1.0,indian
+37,Bangalore Modern Indian Cuisine,4.4,"{'type': 'Point', 'coordinates': [-3.675657, 40.4348074]}","Calle de Diego de León, 63, 28006 Madrid, Spain",2.0,indian
+38,INDIAN KEBAP Y BIRYANI HOUSE,3.9,"{'type': 'Point', 'coordinates': [-3.7019862, 40.4095597]}","Calle de Lavapiés, 43, 28012 Madrid, Spain",,indian
+39,Restaurante Super India,3.6,"{'type': 'Point', 'coordinates': [-3.6974114, 40.4080546]}","Calle de Argumosa, 29, 28012 Madrid, Spain",,indian
+40,Telekebab y Comida India,3.0,"{'type': 'Point', 'coordinates': [-3.7029845, 40.4112556]}","Calle de Lavapiés, 14, 28012 Madrid, Spain",,indian
+41,Indian corner comida indio y kebab para domocilio,4.0,"{'type': 'Point', 'coordinates': [-3.7332767, 40.3786079]}","Camino Viejo de Leganés, 180, 28025 Madrid, Spain",,indian
+42,Adrak Indian Cuisine,4.8,"{'type': 'Point', 'coordinates': [-3.672132599999999, 40.4363803]}","Calle del Pilar de Zaragoza, 68, 28028 Madrid, Spain",2.0,indian
+43,Sabor de India,4.4,"{'type': 'Point', 'coordinates': [-3.7246044, 40.3931039]}","Calle del Gral. Ricardos, 94, 28019 Madrid, Spain",,indian
+44,Everest Tandoori,4.6,"{'type': 'Point', 'coordinates': [-3.6494624, 40.4641914]}","Calle de Pegaso, 13, 28043 Madrid, Spain",2.0,indian
+45,Surya Callao,4.1,"{'type': 'Point', 'coordinates': [-3.7053557, 40.4210035]}","Calle de Tudescos, 4, 28004 Madrid, Spain",2.0,indian
+46,Doli Restaurante Indio,4.4,"{'type': 'Point', 'coordinates': [-3.6839916, 40.4351092]}","Calle de Diego de León, 13, 28006 Madrid, Spain",2.0,indian
+47,Agra Palace,4.3,"{'type': 'Point', 'coordinates': [-3.710707999999999, 40.4175985]}","Calle de Vergara, 7, 28013 Madrid, Spain",,indian
+48,Restaurante Indio,4.0,"{'type': 'Point', 'coordinates': [-3.711847999999999, 40.4252687]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",,indian
+49,Lumbini Tandoori Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6979454, 40.452092]}","Calle del Aviador zorita n° 50, 28020 Madrid, Spain",,indian
+50,Radhuni Indian Restaurant,4.6,"{'type': 'Point', 'coordinates': [-3.6562888, 40.4933901]}","Calle Príncipe Carlos, 21, 28050 Madrid, Spain",2.0,indian
+51,Buddha Palace Tandoori,4.5,"{'type': 'Point', 'coordinates': [-3.6287859, 40.4632026]}","Plaza Andrés Jáuregui, 18, 28043 Madrid, Spain",,indian
+52,Shampan Indian Restaurante,4.6,"{'type': 'Point', 'coordinates': [-3.6716143, 40.4177183]}","Calle de Antonio Arias, 2, 28009 Madrid, Spain",2.0,indian
+53,Bombay Palace,4.2,"{'type': 'Point', 'coordinates': [-3.700918, 40.4106725]}","Calle del Ave María, 26, 28012 Madrid, Spain",,indian
+54,Bollywood Tadka,4.3,"{'type': 'Point', 'coordinates': [-3.6647222, 40.4536111]}","Calle del Eucalipto, 1, Local 3 Posterior, 28016 Madrid, Spain",2.0,indian
+55,Mughal,3.9,"{'type': 'Point', 'coordinates': [-3.710171699999999, 40.4252264]}","Calle de San Bernardino, 10, 28015 Madrid, Spain",2.0,indian
+56,Taj Mahal,4.3,"{'type': 'Point', 'coordinates': [-3.6962627, 40.4241613]}","Calle de Belén, 12, 28004 Madrid, Spain",,indian
+57,"CURRY & CANELA RESTAURANTE HINDU, INDIO, NEPALI",4.8,"{'type': 'Point', 'coordinates': [-3.6790824, 40.4243352]}","Calle de Espartinas, 7, 28001 Madrid, Spain",2.0,indian
+58,Restaurante Hindú Arpit,4.2,"{'type': 'Point', 'coordinates': [-3.6784682, 40.5112122]}","Calle de María Tubau, 19, 28050 Madrid, Spain",,indian
+59,SAL Y CHILI *** RESTAURANTE INDIO,4.6,"{'type': 'Point', 'coordinates': [-3.697287899999999, 40.4592263]}","Calle Pensamiento, 16, 28020 Madrid, Spain",,indian

@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Toma Café 1,4.5,"{'type': 'Point', 'coordinates': [-3.7059373, 40.4264767]}","Calle de la Palma, 49, 28004 Madrid, Spain",coffee
-1,Hola Coffee,4.5,"{'type': 'Point', 'coordinates': [-3.6990835, 40.4070207]}","Calle del Dr. Fourquet, 33, 28012 Madrid, Spain",coffee
-2,Randall Coffee Roasters,4.6,"{'type': 'Point', 'coordinates': [-3.7083432, 40.4343145]}","Calle de Vallehermoso, 36, 28015 Madrid, Spain",coffee
-3,Santa Kafeina,4.8,"{'type': 'Point', 'coordinates': [-3.7001867, 40.4359413]}","Calle de Viriato, 37, 28010 Madrid, Spain",coffee
-4,Misión Café,4.5,"{'type': 'Point', 'coordinates': [-3.7087479, 40.4242402]}","Calle de los Reyes, 5, 28015 Madrid, Spain",coffee
-5,ACID Café,4.4,"{'type': 'Point', 'coordinates': [-3.6949265, 40.411898]}","Calle de la Verónica, 9, 28014 Madrid, Spain",coffee
-6,HanSo Café,4.4,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}","Calle del Pez, 20, 28004 Madrid, Spain",coffee
-7,Plántate: Better Coffee & Brunch,4.6,"{'type': 'Point', 'coordinates': [-3.7044934, 40.4103754]}","Calle del Mesón de Paredes, 28, 28012 Madrid, Spain",coffee
-8,La Colectiva Café,4.4,"{'type': 'Point', 'coordinates': [-3.6999503, 40.4298653]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",coffee
-9,Toma Café Olavide,4.3,"{'type': 'Point', 'coordinates': [-3.7001164, 40.4330877]}","C. de Sta. Feliciana, 5, 28010 Madrid, Spain",coffee
-10,Ruda Café,4.6,"{'type': 'Point', 'coordinates': [-3.707981, 40.41044]}","Calle de la Ruda, 11, 28005 Madrid, Spain",coffee
-11,ZEROPOINT COFFEE (espresso bar),4.8,"{'type': 'Point', 'coordinates': [-3.6968472, 40.4099913]}","Calle de Santa Isabel, 37, 28012 Madrid, Spain",coffee
-12,Religion Speciality Coffee,4.3,"{'type': 'Point', 'coordinates': [-3.685045, 40.4375659]}","Calle de María de Molina, 24, 28006 Madrid, Spain",coffee
-13,Saint Georges Cafe,4.8,"{'type': 'Point', 'coordinates': [-3.7026538, 40.4341908]}","Calle del Cardenal Cisneros, 62, 28010 Madrid, Spain",coffee
-14,Monkee Koffee,4.3,"{'type': 'Point', 'coordinates': [-3.7079974, 40.44044359999999]}","Calle de Vallehermoso, 112, 28003 Madrid, Spain",coffee
-15,Café de la Luz,4.4,"{'type': 'Point', 'coordinates': [-3.7025405, 40.422107]}","Calle de la Puebla, 8, 28004 Madrid, Spain",coffee
-16,Luso Coffee Shop | Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6986691, 40.411997]}","C. de Atocha, 60, 28012 Madrid, Spain",coffee
-17,FELIZ COFFEE Specialty Coffee,4.9,"{'type': 'Point', 'coordinates': [-3.6987351, 40.4138692]}","Calle de Lope de Vega, 2, 28014 Madrid, Spain",coffee
-18,Urbano Specialty Coffee,4.6,"{'type': 'Point', 'coordinates': [-3.7014136, 40.424344]}","C. de Sta. Bárbara, 8, 28004 Madrid, Spain",coffee
-19,MÜR Café,4.3,"{'type': 'Point', 'coordinates': [-3.7121696, 40.4256968]}","Plaza Cristino Martos, 2, 28015 Madrid, Spain",coffee
-20,Prioritè Art Coffee Shop,4.0,"{'type': 'Point', 'coordinates': [-3.7016816, 40.4193429]}","Calle de la Montera, 42, 28013 Madrid, Spain",coffee
-21,Cafelito,4.6,"{'type': 'Point', 'coordinates': [-3.702776799999999, 40.40836530000001]}","Calle del Sombrerete, 20, 28012 Madrid, Spain",coffee
-22,CAFÉS TORNASOL | CAFÉ DE ESPECIALIDAD MADRID | Breakfast | Brunch,4.9,"{'type': 'Point', 'coordinates': [-3.6986562, 40.4115944]}","Calle de Santa Isabel, Nº5, Planta Baja, 28012 Madrid, Spain",coffee
-23,Bô Coffee,4.1,"{'type': 'Point', 'coordinates': [-3.6978346, 40.4405629]}","Calle de Espronceda, 16, 28003 Madrid, Spain",coffee
-24,The Fix - Specialty Coffee,4.6,"{'type': 'Point', 'coordinates': [-3.715002299999999, 40.425718]}","Calle de Luisa Fernanda, 15, 28008 Madrid, Spain",coffee
-25,Bianchi Kiosko Caffé,4.6,"{'type': 'Point', 'coordinates': [-3.70164, 40.4243932]}","Calle de San Joaquín, 9, 28004 Madrid, Spain",coffee
-26,NAJI SPECIALTY COFFEE,4.9,"{'type': 'Point', 'coordinates': [-3.7022127, 40.4317511]}","Calle del Cardenal Cisneros, 39, 28010 Madrid, Spain",coffee
-27,Lots Coffee House,4.8,"{'type': 'Point', 'coordinates': [-3.681427, 40.4359971]}","Calle del Gral Oraá, 40, 28006 Madrid, Spain",coffee
-28,Boconó Specialty Coffee,4.2,"{'type': 'Point', 'coordinates': [-3.7066952, 40.4106002]}","Calle de Embajadores, 3, 28012 Madrid, Spain",coffee
-29,Tempo coffee,4.9,"{'type': 'Point', 'coordinates': [-3.7187438, 40.4218631]}","28008 Madrid, Spain",coffee
-30,Pum Pum Café,4.3,"{'type': 'Point', 'coordinates': [-3.701955, 40.4080621]}","Calle de Tribulete, 6, 28012 Madrid, Spain",coffee
-31,The Little Big Cafe Fernández de Los Ríos,4.6,"{'type': 'Point', 'coordinates': [-3.712739, 40.435222]}","Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",coffee
-32,Lolina Vintage Café,4.3,"{'type': 'Point', 'coordinates': [-3.7029106, 40.4251154]}","Calle del Espíritu Santo, 9, 28004 Madrid, Spain",coffee
-33,Café Federal,4.1,"{'type': 'Point', 'coordinates': [-3.7093012, 40.4270304]}","Plaza de las Comendadoras, 9, 28015 Madrid, Spain",coffee
-34,Sona Coffee & Deli,4.8,"{'type': 'Point', 'coordinates': [-3.6988173, 40.4508173]}","Calle Reina Mercedes, 12, 28020 Madrid, Spain",coffee
-35,J & J Books and Coffee,4.4,"{'type': 'Point', 'coordinates': [-3.706707999999999, 40.4256554]}","Calle del Espíritu Santo, 47, 28004 Madrid, Spain",coffee
-36,Café Angélica,4.8,"{'type': 'Point', 'coordinates': [-3.707379999999999, 40.4232299]}","Calle de San Bernardo, 24, 28015 Madrid, Spain",coffee
-37,The Coffee Corner,4.3,"{'type': 'Point', 'coordinates': [-3.7295851, 40.4285053]}","Av. de Valladolid, 41, 28008 Madrid, Spain",coffee
-38,WAYCUP Specialty Coffee,3.9,"{'type': 'Point', 'coordinates': [-3.6829321, 40.4369956]}","Calle de Velázquez, 126, 28006 Madrid, Spain",coffee
-39,Love Coffee,4.6,"{'type': 'Point', 'coordinates': [-3.6897421, 40.4202998]}","Calle de Salustiano Olózaga, 18, 28001 Madrid, Spain",coffee
-40,Café Comercial,4.1,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}","Glorieta de Bilbao, 7, 28004 Madrid, Spain",coffee
-41,Makis Coffee Shop,4.4,"{'type': 'Point', 'coordinates': [-3.704309099999999, 40.4077661]}","Calle de Embajadores, 56, 28012 Madrid, Spain",coffee
-42,La Bicicleta,4.1,"{'type': 'Point', 'coordinates': [-3.7022328, 40.4238106]}","Plaza de San Ildefonso, 9, 28004 Madrid, Spain",coffee
-43,La Rollerie,4.2,"{'type': 'Point', 'coordinates': [-3.6995404, 40.4164994]}","Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",coffee
-44,Federal Café,4.2,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}","Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",coffee
-45,Cereal Hunters Café,4.5,"{'type': 'Point', 'coordinates': [-3.700732599999999, 40.4205672]}","Calle de la Reina, 1, 28004 Madrid, Spain",coffee
-46,La Rollerie,4.1,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}","C. de Atocha, 20, 28012 Madrid, Spain",coffee
-47,Santa Gloria,3.7,"{'type': 'Point', 'coordinates': [-3.694087199999999, 40.4552254]}","Calle de Pedro Teixeira, 7, 28020 Madrid, Spain",coffee
-48,DELICIUS COFFEE,3.0,"{'type': 'Point', 'coordinates': [-3.6976068, 40.4219292]}","Calle de Augusto Figueroa, 24, 2da planta local, 28004 Madrid, Spain",coffee
-49,El Patio Vertical,4.1,"{'type': 'Point', 'coordinates': [-3.693371, 40.410825]}","Calle de Almadén, 26, 28014 Madrid, Spain",coffee
-50,Cycle coffee S L,3.8,"{'type': 'Point', 'coordinates': [-3.7022439, 40.4238059]}","Plaza de San Ildefonso, 9, 28004 Madrid, Spain",coffee
-51,Café & Té,3.4,"{'type': 'Point', 'coordinates': [-3.7165846, 40.430327]}","Calle del Marqués de Urquijo, 3, 28008 Madrid, Spain",coffee
-52,ABONAVIDA,4.2,"{'type': 'Point', 'coordinates': [-3.7067327, 40.4191483]}","Calle de las Navas de Tolosa, 3, 28013 Madrid, Spain",coffee
-53,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"{'type': 'Point', 'coordinates': [-3.7127786, 40.4343186]}","C. de Fernando el Católico, 50, 28015 Madrid, Spain",coffee
-54,Pastelería Belus,4.6,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}","Calle de Toledo, 26, 28005 Madrid, Spain",coffee
-55,DUNKIN´ESPAÑA,4.1,"{'type': 'Point', 'coordinates': [-3.70231, 40.418975]}","Calle de la Montera, 33, 28013 Madrid, Spain",coffee
-56,Juan Valdez,4.3,"{'type': 'Point', 'coordinates': [-3.7197968, 40.4215819]}","Paseo de la Florida # 2 Stand 5, 28008 Madrid, Spain",coffee
-57,DUNKIN´ESPAÑA,4.1,"{'type': 'Point', 'coordinates': [-3.70174, 40.416647]}","C/ De La Victoria, Carrera de S. Jerónimo, 4, 2 Esq, 28014 Madrid, Spain",coffee
-58,Rebel Cafe,4.2,"{'type': 'Point', 'coordinates': [-3.6985766, 40.4453792]}","Calle de Ponzano, 90, 28003 Madrid, Spain",coffee
-59,Urban Coffee,3.9,"{'type': 'Point', 'coordinates': [-3.6737912, 40.4273547]}","Cl. de Ayala, 87, 28006 Madrid, Spain",coffee
+,name,rating,location,address,price_level,place
+0,Toma Café 1,4.5,"{'type': 'Point', 'coordinates': [-3.7059373, 40.4264767]}","Calle de la Palma, 49, 28004 Madrid, Spain",2.0,coffee
+1,Hola Coffee,4.5,"{'type': 'Point', 'coordinates': [-3.6990835, 40.4070207]}","Calle del Dr. Fourquet, 33, 28012 Madrid, Spain",1.0,coffee
+2,Misión Café,4.5,"{'type': 'Point', 'coordinates': [-3.7087479, 40.4242402]}","Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,coffee
+3,ACID Café,4.4,"{'type': 'Point', 'coordinates': [-3.6949265, 40.411898]}","Calle de la Verónica, 9, 28014 Madrid, Spain",,coffee
+4,HanSo Café,4.4,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}","Calle del Pez, 20, 28004 Madrid, Spain",1.0,coffee
+5,Plántate: Better Coffee & Brunch,4.6,"{'type': 'Point', 'coordinates': [-3.7044934, 40.4103754]}","Calle del Mesón de Paredes, 28, 28012 Madrid, Spain",1.0,coffee
+6,Ruda Café,4.6,"{'type': 'Point', 'coordinates': [-3.707981, 40.41044]}","Calle de la Ruda, 11, 28005 Madrid, Spain",1.0,coffee
+7,Café de la Luz,4.4,"{'type': 'Point', 'coordinates': [-3.7025405, 40.422107]}","Calle de la Puebla, 8, 28004 Madrid, Spain",,coffee
+8,MÜR Café,4.3,"{'type': 'Point', 'coordinates': [-3.7121696, 40.4256968]}","Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,coffee
+9,Toma Café Olavide,4.3,"{'type': 'Point', 'coordinates': [-3.7001164, 40.4330877]}","C. de Sta. Feliciana, 5, 28010 Madrid, Spain",1.0,coffee
+10,Prioritè Art Coffee Shop,4.0,"{'type': 'Point', 'coordinates': [-3.7016816, 40.4193429]}","Calle de la Montera, 42, 28013 Madrid, Spain",2.0,coffee
+11,Pum Pum Café,4.3,"{'type': 'Point', 'coordinates': [-3.701955, 40.4080621]}","Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,coffee
+12,Cafelito,4.6,"{'type': 'Point', 'coordinates': [-3.702776799999999, 40.40836530000001]}","Calle del Sombrerete, 20, 28012 Madrid, Spain",1.0,coffee
+13,CAFÉS TORNASOL | CAFÉ DE ESPECIALIDAD MADRID | Breakfast | Brunch,4.9,"{'type': 'Point', 'coordinates': [-3.6986562, 40.4115944]}","Calle de Santa Isabel, Nº5, Planta Baja, 28012 Madrid, Spain",,coffee
+14,NAJI SPECIALTY COFFEE,4.9,"{'type': 'Point', 'coordinates': [-3.7022127, 40.4317511]}","Calle del Cardenal Cisneros, 39, 28010 Madrid, Spain",,coffee
+15,Bianchi Kiosko Caffé,4.6,"{'type': 'Point', 'coordinates': [-3.70164, 40.4243932]}","Calle de San Joaquín, 9, 28004 Madrid, Spain",,coffee
+16,Boconó Specialty Coffee,4.2,"{'type': 'Point', 'coordinates': [-3.7066952, 40.4106002]}","Calle de Embajadores, 3, 28012 Madrid, Spain",1.0,coffee
+17,Tempo coffee,4.9,"{'type': 'Point', 'coordinates': [-3.7187438, 40.4218631]}","28008 Madrid, Spain",,coffee
+18,The Little Big Cafe Fernández de Los Ríos,4.6,"{'type': 'Point', 'coordinates': [-3.712739, 40.435222]}","Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,coffee
+19,Café Federal,4.1,"{'type': 'Point', 'coordinates': [-3.7093012, 40.4270304]}","Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,coffee
+20,Lolina Vintage Café,4.3,"{'type': 'Point', 'coordinates': [-3.7029106, 40.4251154]}","Calle del Espíritu Santo, 9, 28004 Madrid, Spain",,coffee
+21,Café Comercial,4.1,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}","Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,coffee
+22,The Coffee Corner,4.3,"{'type': 'Point', 'coordinates': [-3.7295851, 40.4285053]}","Av. de Valladolid, 41, 28008 Madrid, Spain",1.0,coffee
+23,WAYCUP Specialty Coffee,3.9,"{'type': 'Point', 'coordinates': [-3.6829321, 40.4369956]}","Calle de Velázquez, 126, 28006 Madrid, Spain",,coffee
+24,Love Coffee,4.6,"{'type': 'Point', 'coordinates': [-3.6897421, 40.4202998]}","Calle de Salustiano Olózaga, 18, 28001 Madrid, Spain",,coffee
+25,Makis Coffee Shop,4.4,"{'type': 'Point', 'coordinates': [-3.704309099999999, 40.4077661]}","Calle de Embajadores, 56, 28012 Madrid, Spain",,coffee
+26,La Bicicleta,4.1,"{'type': 'Point', 'coordinates': [-3.7022328, 40.4238106]}","Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,coffee
+27,La Rollerie,4.2,"{'type': 'Point', 'coordinates': [-3.6995404, 40.4164994]}","Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,coffee
+28,Federal Café,4.2,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}","Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,coffee
+29,Cereal Hunters Café,4.5,"{'type': 'Point', 'coordinates': [-3.700732599999999, 40.4205672]}","Calle de la Reina, 1, 28004 Madrid, Spain",1.0,coffee
+30,La Rollerie,4.1,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}","C. de Atocha, 20, 28012 Madrid, Spain",2.0,coffee
+31,Santa Gloria,3.7,"{'type': 'Point', 'coordinates': [-3.694087199999999, 40.4552254]}","Calle de Pedro Teixeira, 7, 28020 Madrid, Spain",1.0,coffee
+32,DELICIUS COFFEE,3.0,"{'type': 'Point', 'coordinates': [-3.6976068, 40.4219292]}","Calle de Augusto Figueroa, 24, 2da planta local, 28004 Madrid, Spain",,coffee
+33,El Patio Vertical,4.1,"{'type': 'Point', 'coordinates': [-3.693371, 40.410825]}","Calle de Almadén, 26, 28014 Madrid, Spain",2.0,coffee
+34,Cycle coffee S L,3.8,"{'type': 'Point', 'coordinates': [-3.7022439, 40.4238059]}","Plaza de San Ildefonso, 9, 28004 Madrid, Spain",,coffee
+35,Café & Té,3.4,"{'type': 'Point', 'coordinates': [-3.7165846, 40.430327]}","Calle del Marqués de Urquijo, 3, 28008 Madrid, Spain",2.0,coffee
+36,ABONAVIDA,4.2,"{'type': 'Point', 'coordinates': [-3.7067327, 40.4191483]}","Calle de las Navas de Tolosa, 3, 28013 Madrid, Spain",2.0,coffee
+37,Pastelería Belus,4.6,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}","Calle de Toledo, 26, 28005 Madrid, Spain",1.0,coffee
+38,DUNKIN´ESPAÑA,4.1,"{'type': 'Point', 'coordinates': [-3.70231, 40.418975]}","Calle de la Montera, 33, 28013 Madrid, Spain",1.0,coffee
+39,Juan Valdez,4.3,"{'type': 'Point', 'coordinates': [-3.7197968, 40.4215819]}","Paseo de la Florida # 2 Stand 5, 28008 Madrid, Spain",1.0,coffee
+40,DUNKIN´ESPAÑA,4.1,"{'type': 'Point', 'coordinates': [-3.70174, 40.416647]}","C/ De La Victoria, Carrera de S. Jerónimo, 4, 2 Esq, 28014 Madrid, Spain",1.0,coffee
+41,Rebel Cafe,4.2,"{'type': 'Point', 'coordinates': [-3.6985766, 40.4453792]}","Calle de Ponzano, 90, 28003 Madrid, Spain",2.0,coffee
+42,Urban Coffee,3.9,"{'type': 'Point', 'coordinates': [-3.6737912, 40.4273547]}","Cl. de Ayala, 87, 28006 Madrid, Spain",2.0,coffee
+43,Bun Golden Coffee (Specialty coffee-tienda ONLINE de café y cacao natural Madrid),4.9,"{'type': 'Point', 'coordinates': [-3.7074938, 40.4543206]}","Calle de Jerónima Llorente, 42, 28039 Madrid, Spain",,coffee
+44,TAPA CAFE MADRID,2.9,"{'type': 'Point', 'coordinates': [-3.7019139, 40.4167722]}","Carrera de S. Jerónimo, 3, 28014 Madrid, Spain",,coffee
+45,Santa Gloria,3.9,"{'type': 'Point', 'coordinates': [-3.6909718, 40.42233179999999]}","Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,coffee
+46,Granier San Bernardo,3.9,"{'type': 'Point', 'coordinates': [-3.7075654, 40.4221085]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,coffee
+47,Café Belén,4.3,"{'type': 'Point', 'coordinates': [-3.696717, 40.424316]}","Calle de Belén, 5, 28004 Madrid, Spain",1.0,coffee
+48,Pannus,4.1,"{'type': 'Point', 'coordinates': [-3.6998037, 40.421948]}","Calle de Hortaleza, 38, 28004 Madrid, Spain",1.0,coffee
+49,C&Tapas,3.1,"{'type': 'Point', 'coordinates': [-3.7002769, 40.4144842]}","Plaza de Sta. Ana, 6, 28012 Madrid, Spain",2.0,coffee
+50,Randall Coffee Roasters,4.6,"{'type': 'Point', 'coordinates': [-3.7083432, 40.4343145]}","Calle de Vallehermoso, 36, 28015 Madrid, Spain",,coffee
+51,Santa Kafeina,4.8,"{'type': 'Point', 'coordinates': [-3.7001867, 40.4359413]}","Calle de Viriato, 37, 28010 Madrid, Spain",1.0,coffee
+52,Starbucks,3.6,"{'type': 'Point', 'coordinates': [-3.7085757, 40.415732]}","Calle de Cdad. Rodrigo, 5, 28005 Madrid, Spain",2.0,coffee
+53,Starbucks,3.8,"{'type': 'Point', 'coordinates': [-3.7061631, 40.417262]}","Calle del Arenal, 14, 28013 Madrid, Spain",2.0,coffee
+54,Juan Valdez Café,4.1,"{'type': 'Point', 'coordinates': [-3.5982174, 40.3687101]}","Calle Adolfo Bioy # 2, Planta 0, 28051 Madrid, Spain",,coffee
+55,Cafés Guayacán,4.9,"{'type': 'Point', 'coordinates': [-3.7070587, 40.4351118]}","Calle de Fernández de los Ríos, 26, 28015 Madrid, Spain",,coffee
+56,Café & Tapas,2.8,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 28012 Madrid, Spain",2.0,coffee
+57,Granier,3.8,"{'type': 'Point', 'coordinates': [-3.700060799999999, 40.41270189999999]}","C. de Atocha, 42, 28012 Madrid, Spain",1.0,coffee
+58,80’s coffee,4.1,"{'type': 'Point', 'coordinates': [-3.6452041, 40.4343762]}","Calle de Alcalá, 28027 Madrid, Spain",1.0,coffee
+59,Pastelería Lisboa,4.7,"{'type': 'Point', 'coordinates': [-3.6757516, 40.4300843]}","Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",,coffee

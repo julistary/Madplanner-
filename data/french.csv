@@ -1,49 +1,50 @@
-,name,rating,location,address,place
-0,"France Madrid, Academia de Francés y Club cultural",4.8,"{'type': 'Point', 'coordinates': [-3.7030671, 40.4285333]}","C. de Manuela Malasaña, 9, 28004 Madrid, Spain",french
-1,Caripen Bistro,4.3,"{'type': 'Point', 'coordinates': [-3.7120234, 40.4205099]}","Plaza de la Marina Española, 4, 28013 Madrid, Spain",french
-2,Le Bistroman Atelier,4.6,"{'type': 'Point', 'coordinates': [-3.710948, 40.4172816]}","C. de la Amnistía, 10, 28013 Madrid, Spain",french
-3,El Viejo León,4.3,"{'type': 'Point', 'coordinates': [-3.692091, 40.43381]}","Calle de Alfonso X, 6, 28010 Madrid, Spain",french
-4,Le Petit Prince,4.2,"{'type': 'Point', 'coordinates': [-3.6740681, 40.4243517]}","C/ de Fernán González, 7, 28009 Madrid, Spain",french
-5,Les Mauvais Garçons - Los Chicos Malos,4.6,"{'type': 'Point', 'coordinates': [-3.703483599999999, 40.4243617]}","Calle de la Madera, 36, 28004 Madrid, Spain",french
-6,L’Entrecote Café de París,4.4,"{'type': 'Point', 'coordinates': [-3.686689599999999, 40.4218445]}","Calle del Conde de Aranda, 11, 28001 Madrid, Spain",french
-7,La Provencita,5.0,"{'type': 'Point', 'coordinates': [-3.6986587, 40.411631]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",french
-8,La Esquina Del Real,4.6,"{'type': 'Point', 'coordinates': [-3.710359, 40.417369]}","C. de la Amnistía, 4, 28013 Madrid, Spain",french
-9,La Minoterie,4.6,"{'type': 'Point', 'coordinates': [-3.706280699999999, 40.4104985]}","Calle de la Encomienda, 23, 28012 Madrid, Spain",french
-10,Vinos naturales - Cascorro Bistrot,4.1,"{'type': 'Point', 'coordinates': [-3.7074085, 40.411127]}","Plaza de Cascorro, 21, 28005 Madrid, Spain",french
-11,El reataurant Bobu.es en Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7022095, 40.4144594]}","Calle de Espoz y Mina, 23, 28012 Madrid, Spain",french
-12,Petit Comité Chueca Centro - Restaurante en Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6998374, 40.4202844]}","Calle de la Reina, 15, 28004 Madrid, Spain",french
-13,Institut français Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.692186, 40.424746]}","Calle del Marqués de la Ensenada, 12, 28004 Madrid, Spain",french
-14,Mercedes García | Clases de frances en Madrid | Clases particulares de frances | Clases de frances para empresas | Cursos de frances,3.0,"{'type': 'Point', 'coordinates': [-3.7431504, 40.3766039]}","Calle del Real Betis, 2, 1ºD, 28025 Madrid, Spain",french
-15,Academia France,5.0,"{'type': 'Point', 'coordinates': [-3.7029344, 40.4134621]}","Calle de los Relatores, 3, 28012 Madrid, Spain",french
-16,Clases particulares de francés con Thierry profesor nativo Madrid & Online con Zoom. La Classe Française,4.8,"{'type': 'Point', 'coordinates': [-3.7131907, 40.4446234]}","C. del Gral. Asensio Cabanillas, 5, 28003 Madrid, Spain",french
-17,Petit Paris,4.3,"{'type': 'Point', 'coordinates': [-3.7036564, 40.4288396]}","Pedidos & Chef a domicilio, Calle de Ruiz, 20, 28004 Madrid, Spain",french
-18,Embassy of France,3.4,"{'type': 'Point', 'coordinates': [-3.6898476, 40.4207291]}","Calle de Salustiano Olózaga, 9, 28001 Madrid, Spain",french
-19,French Connection martel kee,4.6,"{'type': 'Point', 'coordinates': [-3.695230199999999, 40.4245619]}","Calle Ayala 7, Calle de Fernando VI, 27, Bjo A, 28001 Madrid, Spain",french
-20,French Consulate,3.3,"{'type': 'Point', 'coordinates': [-3.692346699999999, 40.4245587]}","Calle del Marqués de la Ensenada, 10, 28004 Madrid, Spain",french
-21,La France ô si,5.0,"{'type': 'Point', 'coordinates': [-3.7128811, 40.4137895]}","Calle de Segovia, 19, 28005 Madrid, Spain",french
-22,Brasserie Lafayette Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6806805, 40.4410409]}","Calle Recaredo, 2, 28002 Madrid, Spain",french
-23,Tartaline Pastelería,4.9,"{'type': 'Point', 'coordinates': [-3.698326, 40.4452417]}","Calle de Maudes, 37, 28003 Madrid, Spain",french
-24,L´Adoré,4.3,"{'type': 'Point', 'coordinates': [-3.7074683, 40.4108582]}","Plaza de Cascorro, 20, 28005 Madrid, Spain",french
-25,French Institute,0.0,"{'type': 'Point', 'coordinates': [-3.7097241, 40.4210392]}","Calle de Leganitos, 7, 1ºB, 28013 Madrid, Spain",french
-26,French Connection,0.0,"{'type': 'Point', 'coordinates': [-3.693788, 40.4468297]}","El Corte Ingles, Paseo de la Castellana, 79, 28003 Madrid, Spain",french
-27,Crêperie La Rue,4.3,"{'type': 'Point', 'coordinates': [-3.7015061, 40.4238807]}","Calle de Colón, 14, 28004 Madrid, Spain",french
-28,Petit Comité Azca Bernabeu - Bar Restaurante con Terraza en Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6975936, 40.4532494]}","Av. del Pdte. Carmona, 1, 28020 Madrid, Spain",french
-29,Voilà,0.0,"{'type': 'Point', 'coordinates': [-3.7174506, 40.4216053]}","Calle de Estanislao Figueras, 8, BAJO A, 28008 Madrid, Spain",french
-30,La Creperie Easycrep,4.1,"{'type': 'Point', 'coordinates': [-3.7193441, 40.4268608]}","Paseo del Pintor Rosales, 28, 28008 Madrid, Spain",french
-31,Translations - English to Spanish to Russian to French to German and many more.,0.0,"{'type': 'Point', 'coordinates': [-3.6728096, 40.4382489]}","Calle de Cartagena, 28028 Madrid, Spain",french
-32,La MiMé,4.1,"{'type': 'Point', 'coordinates': [-3.676822, 40.4313154]}","Calle de Padilla, 41, 28006 Madrid, Spain",french
-33,Alliance Française de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7088426, 40.4201372]}","Cuesta de Sto. Domingo, 13, 28013 Madrid, Spain",french
-34,L'Art Creperie,3.5,"{'type': 'Point', 'coordinates': [-3.7135053, 40.4241369]}","Calle de Martín de los Heros, 5, 28008 Madrid, Spain",french
-35,Hortensio Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6893843, 40.4263979]}","Calle de Hermosilla, 2, 28001 Madrid, Spain",french
-36,M. French & Partners - Abogados de Extranjería,4.0,"{'type': 'Point', 'coordinates': [-3.6937824, 40.4044996]}","Paseo de las Delicias, 30, 2ª Planta, 28045 Madrid, Spain",french
-37,Augusta Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6773835, 40.4511156]}","Calle del Príncipe de Vergara, 210, 28002 Madrid, Spain",french
-38,Pakitus - French Bulldog Producciones SL,0.0,"{'type': 'Point', 'coordinates': [-3.7053261, 40.4361557]}","C/ de Donoso Cortés, 8, 5 - I, 28015 Madrid, Spain",french
-39,SOLO de UVA,4.1,"{'type': 'Point', 'coordinates': [-3.6772275, 40.4519001]}","Calle del Príncipe de Vergara, 210, 28002 Madrid, Spain",french
-40,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"{'type': 'Point', 'coordinates': [-3.7127786, 40.4343186]}","C. de Fernando el Católico, 50, 28015 Madrid, Spain",french
-41,English-Spanish-French Translation Experts,0.0,"{'type': 'Point', 'coordinates': [-3.7292059, 40.4109688]}","Calle Pedro Fernández Labrada, 19, 2E, 28011 Madrid, Spain",french
-42,French Sport,0.0,"{'type': 'Point', 'coordinates': [-3.6964878, 40.45162380000001]}","C. de Edgar Neville, 30, 28020 Madrid, Spain",french
-43,UBIFRANCE España,0.0,"{'type': 'Point', 'coordinates': [-3.692346699999999, 40.4245587]}","Calle del Marqués de la Ensenada, 10 - 3º, 28004 Madrid, Spain",french
-44,"Sworn translator and interpreter (English, Spanish), also Japanese, German and French; Interpreter, teacher",5.0,"{'type': 'Point', 'coordinates': [-3.6964688, 40.412347]}","C. de Moratín, 20, 28014 Madrid, Spain",french
-45,Chipstar Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.7049814, 40.4191621]}","Calle del Carmen, 26, 28013 Madrid, Spain",french
-46,Franco-Spanish Chamber of Commerce and Industry,5.0,"{'type': 'Point', 'coordinates': [-3.6916897, 40.4599307]}","Calle del Poeta Joan Maragall, 38, 4ª Planta, 28020 Madrid, Spain",french
-47,Puente de los Franceses,4.2,"{'type': 'Point', 'coordinates': [-3.7358665, 40.4336687]}","Calle de Aniceto Marinas, 116, 28008 Madrid, Spain",french
+,name,rating,location,address,price_level,place
+0,"France Madrid, Academia de Francés y Club cultural",4.8,"{'type': 'Point', 'coordinates': [-3.7030671, 40.4285333]}","C. de Manuela Malasaña, 9, 28004 Madrid, Spain",,french
+1,Caripen Bistro,4.3,"{'type': 'Point', 'coordinates': [-3.7120234, 40.4205099]}","Plaza de la Marina Española, 4, 28013 Madrid, Spain",,french
+2,Le Bistroman Atelier,4.6,"{'type': 'Point', 'coordinates': [-3.710948, 40.4172816]}","C. de la Amnistía, 10, 28013 Madrid, Spain",,french
+3,El Viejo León,4.3,"{'type': 'Point', 'coordinates': [-3.692091, 40.43381]}","Calle de Alfonso X, 6, 28010 Madrid, Spain",2.0,french
+4,Le Petit Prince,4.2,"{'type': 'Point', 'coordinates': [-3.6740681, 40.4243517]}","C/ de Fernán González, 7, 28009 Madrid, Spain",2.0,french
+5,Les Mauvais Garçons - Los Chicos Malos,4.6,"{'type': 'Point', 'coordinates': [-3.703483599999999, 40.4243617]}","Calle de la Madera, 36, 28004 Madrid, Spain",2.0,french
+6,L’Entrecote Café de París,4.4,"{'type': 'Point', 'coordinates': [-3.686689599999999, 40.4218445]}","Calle del Conde de Aranda, 11, 28001 Madrid, Spain",2.0,french
+7,La Provencita,5.0,"{'type': 'Point', 'coordinates': [-3.6986587, 40.411631]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",,french
+8,La Esquina Del Real,4.6,"{'type': 'Point', 'coordinates': [-3.710359, 40.417369]}","C. de la Amnistía, 4, 28013 Madrid, Spain",2.0,french
+9,La Minoterie,4.6,"{'type': 'Point', 'coordinates': [-3.706280699999999, 40.4104985]}","Calle de la Encomienda, 23, 28012 Madrid, Spain",1.0,french
+10,Vinos naturales - Cascorro Bistrot,4.1,"{'type': 'Point', 'coordinates': [-3.7074085, 40.411127]}","Plaza de Cascorro, 21, 28005 Madrid, Spain",,french
+11,El reataurant Bobu.es en Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7022095, 40.4144594]}","Calle de Espoz y Mina, 23, 28012 Madrid, Spain",,french
+12,Petit Comité Chueca Centro - Restaurante en Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6998374, 40.4202844]}","Calle de la Reina, 15, 28004 Madrid, Spain",2.0,french
+13,Institut français Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.692186, 40.424746]}","Calle del Marqués de la Ensenada, 12, 28004 Madrid, Spain",,french
+14,Mercedes García | Clases de frances en Madrid | Clases particulares de frances | Clases de frances para empresas | Cursos de frances,3.0,"{'type': 'Point', 'coordinates': [-3.7431504, 40.3766039]}","Calle del Real Betis, 2, 1ºD, 28025 Madrid, Spain",,french
+15,Academia France,5.0,"{'type': 'Point', 'coordinates': [-3.7029344, 40.4134621]}","Calle de los Relatores, 3, 28012 Madrid, Spain",,french
+16,Clases particulares de francés con Thierry profesor nativo Madrid & Online con Zoom. La Classe Française,4.8,"{'type': 'Point', 'coordinates': [-3.7131907, 40.4446234]}","C. del Gral. Asensio Cabanillas, 5, 28003 Madrid, Spain",,french
+17,Petit Paris,4.3,"{'type': 'Point', 'coordinates': [-3.7036564, 40.4288396]}","Pedidos & Chef a domicilio, Calle de Ruiz, 20, 28004 Madrid, Spain",,french
+18,Embassy of France,3.4,"{'type': 'Point', 'coordinates': [-3.6898476, 40.4207291]}","Calle de Salustiano Olózaga, 9, 28001 Madrid, Spain",,french
+19,Atout France,4.0,"{'type': 'Point', 'coordinates': [-3.6880369, 40.4259637]}","Calle de Serrano, 19, 28001 Madrid, Spain",,french
+20,French Consulate,3.3,"{'type': 'Point', 'coordinates': [-3.692346699999999, 40.4245587]}","Calle del Marqués de la Ensenada, 10, 28004 Madrid, Spain",,french
+21,French Connection martel kee,4.6,"{'type': 'Point', 'coordinates': [-3.695230199999999, 40.4245619]}","Calle Ayala 7, Calle de Fernando VI, 27, Bjo A, 28001 Madrid, Spain",3.0,french
+22,La France ô si,5.0,"{'type': 'Point', 'coordinates': [-3.7128811, 40.4137895]}","Calle de Segovia, 19, 28005 Madrid, Spain",,french
+23,Brasserie Lafayette Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6806805, 40.4410409]}","Calle Recaredo, 2, 28002 Madrid, Spain",,french
+24,L´Adoré,4.3,"{'type': 'Point', 'coordinates': [-3.7074683, 40.4108582]}","Plaza de Cascorro, 20, 28005 Madrid, Spain",,french
+25,French Institute,0.0,"{'type': 'Point', 'coordinates': [-3.7097241, 40.4210392]}","Calle de Leganitos, 7, 1ºB, 28013 Madrid, Spain",,french
+26,Tartaline Pastelería,4.9,"{'type': 'Point', 'coordinates': [-3.698326, 40.4452417]}","Calle de Maudes, 37, 28003 Madrid, Spain",,french
+27,French Connection,0.0,"{'type': 'Point', 'coordinates': [-3.693788, 40.4468297]}","El Corte Ingles, Paseo de la Castellana, 79, 28003 Madrid, Spain",3.0,french
+28,Crêperie La Rue,4.3,"{'type': 'Point', 'coordinates': [-3.7015061, 40.4238807]}","Calle de Colón, 14, 28004 Madrid, Spain",1.0,french
+29,Petit Comité Azca Bernabeu - Bar Restaurante con Terraza en Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6975936, 40.4532494]}","Av. del Pdte. Carmona, 1, 28020 Madrid, Spain",,french
+30,Voilà,0.0,"{'type': 'Point', 'coordinates': [-3.7174506, 40.4216053]}","Calle de Estanislao Figueras, 8, BAJO A, 28008 Madrid, Spain",,french
+31,La Creperie Easycrep,4.1,"{'type': 'Point', 'coordinates': [-3.7193441, 40.4268608]}","Paseo del Pintor Rosales, 28, 28008 Madrid, Spain",1.0,french
+32,Translations - English to Spanish to Russian to French to German and many more.,0.0,"{'type': 'Point', 'coordinates': [-3.6728096, 40.4382489]}","Calle de Cartagena, 28028 Madrid, Spain",,french
+33,La MiMé,4.1,"{'type': 'Point', 'coordinates': [-3.676822, 40.4313154]}","Calle de Padilla, 41, 28006 Madrid, Spain",,french
+34,Alliance Française de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7088426, 40.4201372]}","Cuesta de Sto. Domingo, 13, 28013 Madrid, Spain",,french
+35,L'Art Creperie,3.5,"{'type': 'Point', 'coordinates': [-3.7135053, 40.4241369]}","Calle de Martín de los Heros, 5, 28008 Madrid, Spain",,french
+36,Hortensio Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6893843, 40.4263979]}","Calle de Hermosilla, 2, 28001 Madrid, Spain",,french
+37,M. French & Partners - Abogados de Extranjería,4.0,"{'type': 'Point', 'coordinates': [-3.6937824, 40.4044996]}","Paseo de las Delicias, 30, 2ª Planta, 28045 Madrid, Spain",,french
+38,Augusta Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6773835, 40.4511156]}","Calle del Príncipe de Vergara, 210, 28002 Madrid, Spain",,french
+39,Pakitus - French Bulldog Producciones SL,0.0,"{'type': 'Point', 'coordinates': [-3.7053261, 40.4361557]}","C/ de Donoso Cortés, 8, 5 - I, 28015 Madrid, Spain",,french
+40,SOLO de UVA,4.1,"{'type': 'Point', 'coordinates': [-3.6772275, 40.4519001]}","Calle del Príncipe de Vergara, 210, 28002 Madrid, Spain",,french
+41,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"{'type': 'Point', 'coordinates': [-3.7127786, 40.4343186]}","C. de Fernando el Católico, 50, 28015 Madrid, Spain",,french
+42,English-Spanish-French Translation Experts,0.0,"{'type': 'Point', 'coordinates': [-3.7292059, 40.4109688]}","Calle Pedro Fernández Labrada, 19, 2E, 28011 Madrid, Spain",,french
+43,French Sport,0.0,"{'type': 'Point', 'coordinates': [-3.6964878, 40.45162380000001]}","C. de Edgar Neville, 30, 28020 Madrid, Spain",,french
+44,UBIFRANCE España,0.0,"{'type': 'Point', 'coordinates': [-3.692346699999999, 40.4245587]}","Calle del Marqués de la Ensenada, 10 - 3º, 28004 Madrid, Spain",,french
+45,"Sworn translator and interpreter (English, Spanish), also Japanese, German and French; Interpreter, teacher",5.0,"{'type': 'Point', 'coordinates': [-3.6964688, 40.412347]}","C. de Moratín, 20, 28014 Madrid, Spain",,french
+46,Franco-Spanish Chamber of Commerce and Industry,5.0,"{'type': 'Point', 'coordinates': [-3.6916897, 40.4599307]}","Calle del Poeta Joan Maragall, 38, 4ª Planta, 28020 Madrid, Spain",,french
+47,Chipstar Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.7049814, 40.4191621]}","Calle del Carmen, 26, 28013 Madrid, Spain",,french
+48,Puente de los Franceses,4.2,"{'type': 'Point', 'coordinates': [-3.7358665, 40.4336687]}","Calle de Aniceto Marinas, 116, 28008 Madrid, Spain",,french

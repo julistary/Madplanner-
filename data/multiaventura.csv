@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Multiaventura Madrid - Empresa de multiaventura,5.0,"{'type': 'Point', 'coordinates': [-3.6254472, 40.3880888]}","Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,multiaventura
+1,Multiaventura Los Gatos,4.6,"{'type': 'Point', 'coordinates': [-3.6731796, 40.4474835]}","Calle Sánchez Pacheco, 47, 1ª, 28002 Madrid, Spain",,multiaventura
+2,Multiaventura Park en Madrid - Las Rozas,4.5,"{'type': 'Point', 'coordinates': [-3.894031499999999, 40.5007512]}","Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",,multiaventura
+3,Multiaventura Park en Madrid - Parque Europa,4.2,"{'type': 'Point', 'coordinates': [-3.4549893, 40.447292]}","Paseo de los Cipreses, 28850 Torrejón de Ardoz, Madrid, Spain",,multiaventura
+4,Hipica School Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.819551, 40.37602100000001]}","Venta La Rubia, 28925 Alcorcón, Madrid, Spain",,multiaventura
+5,"Alfa sports. Multiaventuras, Esqui, Buceo y más",5.0,"{'type': 'Point', 'coordinates': [-3.625855, 40.4634016]}","Calle de Ramón Power, 64, 28043 Madrid, Spain",,multiaventura
+6,Los Aventureros - Multiaventura y Outdoor Training - Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7096198, 40.4213195]}","Calle de Leganitos, 8, 28030 Madrid, Spain",,multiaventura
+7,✅ Multiaventura en Madrid ✅ PlanetSport Multiaventura,4.9,"{'type': 'Point', 'coordinates': [-3.510078, 40.745156]}","Cl de las Huertas, 13, 28160 Talamanca de Jarama, Madrid, Spain",,multiaventura
+8,Yumping Adventure S.L,4.0,"{'type': 'Point', 'coordinates': [-3.6677835, 40.5006689]}","Calle Sauceda, 10, 28050 Madrid, Spain",,multiaventura
+9,Clamber Park Arroyosur,4.2,"{'type': 'Point', 'coordinates': [-3.773514099999999, 40.2983433]}","Calle Primavera, 1, 28914 Leganés, Madrid, Spain",,multiaventura
+10,Bimbache,0.0,"{'type': 'Point', 'coordinates': [-3.7088026, 40.4221841]}","C/ San Bernardo, 8, 28015 Madrid, Spain",,multiaventura
+11,Aventura Amazonia,4.6,"{'type': 'Point', 'coordinates': [-4.066684899999999, 40.7700195]}","Parque Recreativo de las Berceas Carretera de las Dehesas M-966, Km 3,9, 28470, Madrid, Spain",,multiaventura
+12,Ocius Park - Parque Multiaventura Madrid. Actividades de ocio para adultos y niños. Humor Amarillo. Paintball. Airsoft. Cavernarium,4.4,"{'type': 'Point', 'coordinates': [-3.699919, 40.673496]}","Ocius Park, Carretera Colmenar Viejo-San Agustín de Guadalix, Km 10, 28770 Colmenar Viejo, Madrid, Spain",,multiaventura
+13,Amadablam Viajes Aventura,4.7,"{'type': 'Point', 'coordinates': [-3.698792, 40.443764]}","Calle de Ponzano, 72, 28003 Madrid, Spain",,multiaventura
+14,BarranquismoMadrid.com,0.0,"{'type': 'Point', 'coordinates': [-3.641595, 40.54485]}","Calle de la Constitución, 93, 28100 Alcobendas, Madrid, Spain",,multiaventura
+15,Asdon Aventura,5.0,"{'type': 'Point', 'coordinates': [-3.3538489, 40.4825021]}","Av. Virgen del Val, 1, 28804 Alcalá de Henares, Madrid, Spain",,multiaventura
+16,Multiaventuras Moratalaz,4.3,"{'type': 'Point', 'coordinates': [-3.6405556, 40.4016667]}","Cl. de la Hacienda de Pavones, 196, 28030 Madrid, Spain",,multiaventura
+17,Urban Camp,3.7,"{'type': 'Point', 'coordinates': [-3.894559399999999, 40.5112156]}","Calle Castillo de Simancas, s/n, 28232 Las Rozas de Madrid, Madrid, Spain",,multiaventura
+18,Campamentos Aventurama,4.0,"{'type': 'Point', 'coordinates': [-3.6395798, 40.4678167]}","Calle de Tordomar, 7, 28043 Madrid, Spain",,multiaventura
+19,MBD - Team Building Madrid y Actividades Outdoor para empresas,0.0,"{'type': 'Point', 'coordinates': [-3.505212, 40.5010957]}","Av. Juan Pablo II, 60, Bajo C, 28860 Paracuellos de Jarama, Madrid, Spain",,multiaventura
+20,Campamentos de verano en Madrid - El Jarama,5.0,"{'type': 'Point', 'coordinates': [-3.663415, 40.4227401]}","Calle de Jorge Juan, 175, 28028 Madrid, Spain",,multiaventura
+21,COADECU,3.9,"{'type': 'Point', 'coordinates': [-3.6529041, 40.4379128]}","C/ Virgen De Los Reyes, 5, 28027 Madrid, Spain",,multiaventura
+22,Humor Amarillo Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.7054415, 40.4166846]}","Calle Mayor, 6, 1ºplanta, 28013 Madrid, Spain",,multiaventura
+23,Grupo Asdon,5.0,"{'type': 'Point', 'coordinates': [-3.3490249, 40.4831893]}","Av. Virgen del Val, 28804 Alcalá de Henares, Madrid, Spain",,multiaventura
+24,Riverland,0.0,"{'type': 'Point', 'coordinates': [-3.7945524, 40.4415977]}","Calle Saturno, 1, Planta 2 Derecha, 28224 Pozuelo de Alarcón, Madrid, Spain",,multiaventura
+25,NonameSport (Oficinas),4.7,"{'type': 'Point', 'coordinates': [-3.7136938, 40.5981545]}","OFICINAS, Av. de los Labradores, 14, 28760 Tres Cantos, Madrid, Spain",,multiaventura
+26,"Climbing courses, climbing trips and multisport",0.0,"{'type': 'Point', 'coordinates': [-3.6974274, 40.40162]}","Calle de Tarragona, 8, 28045 Madrid, Spain",,multiaventura
+27,D´excursión,3.0,"{'type': 'Point', 'coordinates': [-3.689790099999999, 40.3585911]}","Av. de Orovilla, 54, 28041 Madrid, Spain",,multiaventura
+28,Animalimit │ Agencia de Viajes Multiaventura Madrid │ Paquetes viajeros,5.0,"{'type': 'Point', 'coordinates': [-3.6861508, 40.4230899]}","Calle de Jorge Juan, 12I, 28001 Madrid, Spain",,multiaventura
+29,Multiaventura Madrid - Asdon Aventura,0.0,"{'type': 'Point', 'coordinates': [-3.730848399999999, 40.9496621]}","Camping Monte Holiday, Carr de Rascafría, 28739 Lozoya, Madrid, Spain",,multiaventura
+30,Cmo Proyectos,5.0,"{'type': 'Point', 'coordinates': [-3.6864192, 40.462312]}","Calle Pedro Muguruza, 1, 28036 Madrid, Spain",,multiaventura
+31,multiaventura clement,0.0,"{'type': 'Point', 'coordinates': [-3.8583702, 40.7294134]}","Calle Cañada, 99, 28410 Manzanares el Real, Madrid, Spain",,multiaventura
+32,Molino de Butrera-Oficina Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.680488, 40.42607479999999]}","Calle de Hermosilla, 60, 28001 Madrid, Spain",,multiaventura
+33,Aventurarte,5.0,"{'type': 'Point', 'coordinates': [-3.6575052, 40.468788]}","Avenida Gran Vía de Hortaleza nº5, M, 6ºC, 28033 Madrid, Spain",,multiaventura
+34,Eventos y Team Building Madrid - Amazonia Team Factory,4.7,"{'type': 'Point', 'coordinates': [-3.7050634, 40.4357353]}","Ctra M-966, km 3,9, 28470 Cercedilla, Madrid, Spain",,multiaventura
+35,NonameSport campo 3Cantos,4.6,"{'type': 'Point', 'coordinates': [-3.6703463, 40.6326919]}","28770 Colmenar Viejo, Madrid, Spain",,multiaventura
+36,MERIDIANO parque de cuerdas,4.7,"{'type': 'Point', 'coordinates': [-3.788075, 40.951138]}","Calle Toril, 1, 28742 Lozoya, Madrid, Spain",,multiaventura
+37,Mini Golf Park Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.894031499999999, 40.5007512]}","Polígono Európolis, Madrid, Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",,multiaventura
+38,MULTIAVENTURA TORRELINO,4.4,"{'type': 'Point', 'coordinates': [-3.9257863, 40.5765657]}","Parque J.H, Calle Julio Herrero, s/n, 28250 Torrelodones, Madrid, Spain",,multiaventura
+39,Vertical Park,4.4,"{'type': 'Point', 'coordinates': [-3.5864863, 40.44789129999999]}","Calle de Aracne, s / n, 28022 Madrid, Spain",,multiaventura
+40,Forest Park Guadarrama,4.5,"{'type': 'Point', 'coordinates': [-4.1122577, 40.6783984]}","Las Encinillas, Área Recreativa, Calle San Macario, 64, 28440 Guadarrama, Madrid, Spain",,multiaventura
+41,Natuaventura,4.7,"{'type': 'Point', 'coordinates': [-3.890667, 40.5037309]}","Calle Varsovia, 27, 28232 Las Rozas de Madrid, Madrid, Spain",,multiaventura
+42,Quad Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6392454, 40.3901514]}","C/ Andaluces, 18, 28038 Madrid, Spain",,multiaventura
+43,Paintball Park Store S L,0.0,"{'type': 'Point', 'coordinates': [-3.8940933, 40.5008254]}","Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",,multiaventura
+44,AVENTURA AMAZONIA Pelayos,4.6,"{'type': 'Point', 'coordinates': [-4.3228309, 40.3671517]}","Camino de la Enfermería, s/n, 28696 Pelayos de la Presa, Madrid, Spain",,multiaventura
+45,RIVERLAND,0.0,"{'type': 'Point', 'coordinates': [-3.697167, 40.35762769999999]}","Finca, Calle la del Soto del Parral, 28380 Madrid, Spain",,multiaventura
+46,MULTIAVENTURAMADRID,4.9,"{'type': 'Point', 'coordinates': [-3.7672906, 40.9493403]}","Carretera, M, 604, 28742 Lozoya, Madrid, Spain",,multiaventura
+47,Madrid Laser Combat,4.7,"{'type': 'Point', 'coordinates': [-3.6564377, 40.5061209]}","Calle Manuel Pombo Angulo, 10, 1-5 5, 28050 Madrid, Spain",,multiaventura
+48,Globalcamp Fernández Pérez García S.L.L,0.0,"{'type': 'Point', 'coordinates': [-3.6778875, 40.4164186]}","Av. de Menéndez Pelayo, 51, 28009 Madrid, Spain",,multiaventura
+49,Megafield Paintball Madrid - Offices,4.6,"{'type': 'Point', 'coordinates': [-3.6962013, 40.4611515]}","Calle de la Infanta Mercedes, 73, 28020 Madrid, Spain",,multiaventura
+50,De Pino a Pino Navacerrada,4.3,"{'type': 'Point', 'coordinates': [-3.9935232, 40.7582713]}","Valle de la Barranca, s/n, 28491 Navacerrada, Madrid, Spain",,multiaventura
+51,MERIDIANO RAID (Cervera de Buitrago),3.9,"{'type': 'Point', 'coordinates': [-3.5304678, 40.919878]}","C/ de la Iglesia, 43, 28193 Cervera de Buitrago, Madrid, Spain",,multiaventura
+52,Campo Real Aventura,4.5,"{'type': 'Point', 'coordinates': [-3.4285166, 40.3261054]}","Camino de Matacuñados, 28510 Campo Real, Madrid, Spain",,multiaventura
+53,Indiana Natural Recreation Park,4.2,"{'type': 'Point', 'coordinates': [-4.415216, 40.397924]}","Crta. Virgen de la Nueva M-957, s/n, 28680 San Martín de Valdeiglesias, Madrid, Spain",,multiaventura
+54,Paintball Madrid Action Live,4.9,"{'type': 'Point', 'coordinates': [-3.7113391, 40.4836372]}","Av del Cardenal Herrera Oria, 173, local 1, 28034 Madrid, Spain",,multiaventura
+55,NonameSport campo Colmenar,4.7,"{'type': 'Point', 'coordinates': [-3.7004233, 40.6731217]}","Unnamed Road,28770, Colmenar Viejo, Madrid, Spain",,multiaventura
+56,Vertical Park,4.5,"{'type': 'Point', 'coordinates': [-3.833647, 40.3587183]}","Centro Comercial Tres Aguas, Av. San Martín de Valdeiglesias, 20, 28922 Alcorcón, Madrid, Spain",,multiaventura
+57,Tabei Adventures,5.0,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}","Calle de Antonio López, 254, 28041 Madrid, Spain",,multiaventura
+58,"Alea Ocio, campamentos de Verano y viajes escolares. Viajes de esquí y snow, ski bus. Reservas viajes Ski Online.",4.7,"{'type': 'Point', 'coordinates': [-3.7042083, 40.3977744]}","C. de Baños de Montemayor, 7, 28005 Madrid, Spain",,multiaventura
+59,Rocódromo Urban Monkey - Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.697531499999999, 40.4016192]}","C/ Tarragona, 8, 28045 Madrid, Spain",,multiaventura

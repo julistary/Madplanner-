@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Bambubox - Thai Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6994404, 40.4204681]}","Calle del Clavel, 7, 28004 Madrid, Spain",thai
-1,Patong Thai,4.1,"{'type': 'Point', 'coordinates': [-3.7010248, 40.41598930000001]}","Calle de la Cruz, 7, 28012 Madrid, Spain",thai
-2,Pui's Thai Tapas,4.4,"{'type': 'Point', 'coordinates': [-3.6966339, 40.4045385]}","Cl. de José Antonio de Armona, 7, 28012 Madrid, Spain",thai
-3,Krachai - Thai Cuisine,4.2,"{'type': 'Point', 'coordinates': [-3.6962042, 40.4253624]}","Calle de Fernando VI, 11, 28004 Madrid, Spain",thai
-4,Thai Zafra,4.7,"{'type': 'Point', 'coordinates': [-3.6669386, 40.4268517]}","Calle del Marqués de Mondéjar, 4, 28028 Madrid, Spain",thai
-5,Thaidy,4.4,"{'type': 'Point', 'coordinates': [-3.6799063, 40.42348339999999]}","Calle de Jorge Juan, 54, 28001 Madrid, Spain",thai
-6,Royal Thai,4.2,"{'type': 'Point', 'coordinates': [-3.6710536, 40.5113074]}","C. de Frómista, 18, 28050 Las Tablas, Madrid, Spain",thai
-7,Thailong Restaurant,4.3,"{'type': 'Point', 'coordinates': [-3.6743055, 40.4210186]}","C/ de Fernán González, 37, 28009 Madrid, Spain",thai
-8,Aroy Thai,4.2,"{'type': 'Point', 'coordinates': [-3.6987028, 40.4475556]}","Calle del Aviador Zorita, 3, 28020 Madrid, Spain",thai
-9,Phuket Thai Restaurante Tailandes,4.1,"{'type': 'Point', 'coordinates': [-3.694546, 40.410348]}","C. de Atocha, 115, 28012 Madrid, Spain",thai
-10,Yothai,4.9,"{'type': 'Point', 'coordinates': [-3.7169266, 40.42051]}","Calle, Cuesta de San Vicente, 32, izquierda, Madrid, Spain",thai
-11,Thai Arturo Soria,4.2,"{'type': 'Point', 'coordinates': [-3.661839, 40.460057]}","C. de Arturo Soria, 205, 28043 Madrid, Spain",thai
-12,Restaurante Pad Thai,4.1,"{'type': 'Point', 'coordinates': [-3.692860699999999, 40.410461]}","Paseo del Prado, 40, 28014 Madrid, Spain",thai
-13,Kao Thai,4.0,"{'type': 'Point', 'coordinates': [-3.701554, 40.424249]}","C. de Sta. Bárbara, 11, 28004 Madrid, Spain",thai
-14,Tuk Tuk Asian Street Food,4.0,"{'type': 'Point', 'coordinates': [-3.6955637, 40.4224033]}","Calle del Barquillo, 26, bajo, 28004 Madrid, Spain",thai
-15,Som Thai,4.3,"{'type': 'Point', 'coordinates': [-3.6982822, 40.4212843]}","Calle de San Marcos, 26, 28004 Madrid, Spain",thai
-16,PadThaiWok La Latina,4.1,"{'type': 'Point', 'coordinates': [-3.709035, 40.411421]}","Plaza de la Cebada, 3, 28005 Madrid, Spain",thai
-17,Tuk Tuk Asian Street Food Perón,4.1,"{'type': 'Point', 'coordinates': [-3.6968825, 40.4522305]}","Av. del General Perón, 16, bajo, 28020 Madrid, Spain",thai
-18,Oam Thong,4.0,"{'type': 'Point', 'coordinates': [-3.6728739, 40.4998761]}","Calle Navarrete, 9, 28050 Madrid, Spain",thai
-19,Kai Thai,4.7,"{'type': 'Point', 'coordinates': [-3.713014, 40.4258299]}","C. de la Princesa, 13, 28008 Madrid, Spain",thai
-20,Royal thai cuzco,4.5,"{'type': 'Point', 'coordinates': [-3.6933333, 40.4577778]}","Av. de Brasil, 30, 28020 Madrid, Spain",thai
-21,BAIYOR Thai Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.7056218, 40.4288055]}","C. de Manuela Malasaña, 37, 28004 Madrid, Spain",thai
-22,Lemongrass Montera / Restaurante tailandés Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.7018321, 40.4190863]}","Calle de la Montera, 36, 28013 Madrid, Spain",thai
-23,Thai Away by Thai Garden 2112,4.6,"{'type': 'Point', 'coordinates': [-3.6747117, 40.40832229999999]}","Calle del Conde de Cartagena, 15, 28007 Madrid, Spain",thai
-24,Siam,4.0,"{'type': 'Point', 'coordinates': [-3.709803099999999, 40.4249382]}","Calle de San Bernardino, 6, 28015 Madrid, Spain",thai
-25,Gingerboy,4.2,"{'type': 'Point', 'coordinates': [-3.7006965, 40.4333183]}","Calle Murillo, 1, 28010 Plaza de Olavide, Madrid, Spain",thai
-26,Tuk Tuk Asian Street Food Bilbao,4.1,"{'type': 'Point', 'coordinates': [-3.7014914, 40.4299217]}","Calle del Cardenal Cisneros, 6, bajo, 28010 Madrid, Spain",thai
-27,Bang Cook Foundation,4.1,"{'type': 'Point', 'coordinates': [-3.691574699999999, 40.4353581]}","Paseo del General Martínez Campos, 43, 28010 Madrid, Spain",thai
-28,Yatai Market,4.5,"{'type': 'Point', 'coordinates': [-3.7039463, 40.4130309]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",thai
-29,Tuk Tuk Asian Street Food Goya,4.1,"{'type': 'Point', 'coordinates': [-3.6729128, 40.4262427]}","Calle de Alcalá, 167, bajo, 28009 Madrid, Spain",thai
-30,Sanuk,3.9,"{'type': 'Point', 'coordinates': [-3.672970099999999, 40.49980060000001]}","Calle Navarrete, 4, 28050 Madrid, Spain",thai
-31,Tuk Tuk Express Las Tablas,4.0,"{'type': 'Point', 'coordinates': [-3.6743993, 40.4971562]}","Calle Estella, 21, 28050 Madrid, Spain",thai
-32,PadThaiWok Madrid López de Hoyos,4.3,"{'type': 'Point', 'coordinates': [-3.6747136, 40.4436195]}","Calle de López de Hoyos, 106, 28002 Madrid, Spain",thai
-33,Wilbran by Krachai,3.8,"{'type': 'Point', 'coordinates': [-3.6939317, 40.4260174]}","Calle de Orellana, 19, 28004 Madrid, Spain",thai
-34,El Flaco,4.7,"{'type': 'Point', 'coordinates': [-3.6705359, 40.4483819]}","Calle Javier Ferrero, 8, 28002 Madrid, Spain",thai
-35,Thai Emotion - Diamantes de Sal Rosa,5.0,"{'type': 'Point', 'coordinates': [-3.7007235, 40.4296151]}","Calle de Eguilaz, 13 esquina, Calle de Luchana, 12, 28010 Madrid, Spain",thai
-36,SmileThai,3.6,"{'type': 'Point', 'coordinates': [-3.6793168, 40.4230229]}","Calle de Alcalá, 84, 28009 Madrid, Spain",thai
-37,Wicked Thai Food,5.0,"{'type': 'Point', 'coordinates': [-3.7089173, 40.4232501]}","Plaza Mostenses, 1, Mercado de Los Mostenses, 62-64, 28015 Madrid, Spain",thai
-38,Kitchen 154 (Mercado de Vallehermoso),4.6,"{'type': 'Point', 'coordinates': [-3.7082645, 40.4341088]}","Mercado de Vallehermoso, Calle de Vallehermoso, 36, 28015 Madrid, Spain",thai
-39,Oam Thong Thai comfort cuisine,4.3,"{'type': 'Point', 'coordinates': [-3.8083829, 40.347822]}","Calle Parque Bujaruelo, 15, 28924 Alcorcón, Madrid, Spain",thai
-40,Art Thai Massage | Thai massage courses in Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6977111, 40.4228641]}","Plaza de Chueca, 6, 28004 Madrid, Spain",thai
-41,Soi Noodle,4.4,"{'type': 'Point', 'coordinates': [-3.695571, 40.4458991]}","Calle de Modesto Lafuente, 88, 28003 Madrid, Spain",thai
-42,Restaurante Saigón by Café Saigón,4.1,"{'type': 'Point', 'coordinates': [-3.693635699999999, 40.4631621]}","Calle de la Infanta Mercedes, 92, 28020 Madrid, Spain",thai
-43,Pure Cuisine - Príncipe Pío,3.8,"{'type': 'Point', 'coordinates': [-3.7197344, 40.4215507]}","Paseo de la Florida, 2, 28008 Madrid, Spain",thai
-44,Chalalai Thai Massage,4.9,"{'type': 'Point', 'coordinates': [-3.690434599999999, 40.4339778]}","C. de Rafael Calvo, 42, 28010 Madrid, Spain",thai
-45,Yoyland,3.0,"{'type': 'Point', 'coordinates': [-3.6983306, 40.4233162]}","Calle de Gravina, 3, 28004 Madrid, Spain",thai
-46,Restaurante Furusato 故里餐馆 - 中餐,4.1,"{'type': 'Point', 'coordinates': [-3.696916, 40.450747]}","Calle Reina Mercedes, 22, 28020 Madrid, Spain",thai
-47,Yommana Thai Concept,4.4,"{'type': 'Point', 'coordinates': [-3.7039247, 40.4321125]}","Calle de Fuencarral, 137, 28010 Madrid, Spain",thai
-48,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}","Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",thai
-49,Wok To Walk Chueca,4.1,"{'type': 'Point', 'coordinates': [-3.700927, 40.420653]}","Calle de Hortaleza, 7, 28004 Madrid, Spain",thai
-50,Mthai,4.5,"{'type': 'Point', 'coordinates': [-3.7128709, 40.4107591]}","Carrera de San Francisco, 11, 28005 Madrid, Spain",thai
-51,Thai Orchid Spa and Massage Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6825683, 40.4398106]}","Calle de Velázquez, 136, Bajo A spa 22, 28006 Madrid, Spain",thai
-52,MEGU,4.4,"{'type': 'Point', 'coordinates': [-3.7111624, 40.4033247]}","Paseo de los Olmos, 28, 28005 Madrid, Spain",thai
-53,ARUKSA Thai Massage,5.0,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}","Calle José Ortega y Gasset, 11 Hall) Bajo Drcho, Pta 2, 28006 Madrid, Spain",thai
-54,Muay Thai en Madrid | Thai Leal Team,5.0,"{'type': 'Point', 'coordinates': [-3.7022464, 40.4520346]}","c/ Bravo Murillo 160, por el callejón, Calle de Teruel, 11, local 15, 28020 Madrid, Spain",thai
-55,ASIAN RESTAURANT,4.1,"{'type': 'Point', 'coordinates': [-3.7076473, 40.42198940000001]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",thai
-56,Killer Bees Muay Thai College Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.710328499999999, 40.3938774]}","Calle del Padre Oltra, 54, 28025 Madrid, Spain",thai
-57,Kinuan. Oriental massage,4.7,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}","Calle de Serrano Anguita, 18, 28004 Madrid, Spain",thai
-58,Amon Thai Massage,4.7,"{'type': 'Point', 'coordinates': [-3.7069239, 40.4198156]}","Calle de Preciados, 38, 1, 28013 Madrid, Spain",thai
-59,Reino de Siam - Masajes thai original y tradicional en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7017494, 40.4268742]}","Calle de Fuencarral, 93, 1 º Izquierda B, 28004 Madrid, Spain",thai
+,name,rating,location,address,price_level,place
+0,Yothai,4.9,"{'type': 'Point', 'coordinates': [-3.7169266, 40.42051]}","Calle, Cuesta de San Vicente, 32, izquierda, Madrid, Spain",,thai
+1,Restaurante Pad Thai,4.1,"{'type': 'Point', 'coordinates': [-3.692860699999999, 40.410461]}","Paseo del Prado, 40, 28014 Madrid, Spain",1.0,thai
+2,Tuk Tuk Asian Street Food,4.0,"{'type': 'Point', 'coordinates': [-3.6955637, 40.4224033]}","Calle del Barquillo, 26, bajo, 28004 Madrid, Spain",1.0,thai
+3,PadThaiWok La Latina,4.1,"{'type': 'Point', 'coordinates': [-3.709035, 40.411421]}","Plaza de la Cebada, 3, 28005 Madrid, Spain",1.0,thai
+4,Tuk Tuk Asian Street Food Perón,4.1,"{'type': 'Point', 'coordinates': [-3.6968825, 40.4522305]}","Av. del General Perón, 16, bajo, 28020 Madrid, Spain",1.0,thai
+5,Oam Thong,4.0,"{'type': 'Point', 'coordinates': [-3.6728739, 40.4998761]}","Calle Navarrete, 9, 28050 Madrid, Spain",2.0,thai
+6,Lemongrass Montera / Restaurante tailandés Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.7018321, 40.4190863]}","Calle de la Montera, 36, 28013 Madrid, Spain",1.0,thai
+7,Tuk Tuk Asian Street Food Bilbao,4.1,"{'type': 'Point', 'coordinates': [-3.7014914, 40.4299217]}","Calle del Cardenal Cisneros, 6, bajo, 28010 Madrid, Spain",2.0,thai
+8,Bambubox - Thai Cuisine,4.5,"{'type': 'Point', 'coordinates': [-3.6994404, 40.4204681]}","Calle del Clavel, 7, 28004 Madrid, Spain",2.0,thai
+9,Yatai Market,4.5,"{'type': 'Point', 'coordinates': [-3.7039463, 40.4130309]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",2.0,thai
+10,Tuk Tuk Asian Street Food Goya,4.1,"{'type': 'Point', 'coordinates': [-3.6729128, 40.4262427]}","Calle de Alcalá, 167, bajo, 28009 Madrid, Spain",1.0,thai
+11,Patong Thai,4.1,"{'type': 'Point', 'coordinates': [-3.7010248, 40.41598930000001]}","Calle de la Cruz, 7, 28012 Madrid, Spain",2.0,thai
+12,Pui's Thai Tapas,4.4,"{'type': 'Point', 'coordinates': [-3.6966339, 40.4045385]}","Cl. de José Antonio de Armona, 7, 28012 Madrid, Spain",2.0,thai
+13,Krachai - Thai Cuisine,4.2,"{'type': 'Point', 'coordinates': [-3.6962042, 40.4253624]}","Calle de Fernando VI, 11, 28004 Madrid, Spain",2.0,thai
+14,Thai Zafra,4.7,"{'type': 'Point', 'coordinates': [-3.6669386, 40.4268517]}","Calle del Marqués de Mondéjar, 4, 28028 Madrid, Spain",2.0,thai
+15,Thaidy,4.4,"{'type': 'Point', 'coordinates': [-3.6799063, 40.42348339999999]}","Calle de Jorge Juan, 54, 28001 Madrid, Spain",2.0,thai
+16,Sanuk,3.9,"{'type': 'Point', 'coordinates': [-3.672970099999999, 40.49980060000001]}","Calle Navarrete, 4, 28050 Madrid, Spain",2.0,thai
+17,Royal Thai,4.2,"{'type': 'Point', 'coordinates': [-3.6710536, 40.5113074]}","C. de Frómista, 18, 28050 Las Tablas, Madrid, Spain",2.0,thai
+18,Thailong Restaurant,4.3,"{'type': 'Point', 'coordinates': [-3.6743055, 40.4210186]}","C/ de Fernán González, 37, 28009 Madrid, Spain",,thai
+19,Aroy Thai,4.2,"{'type': 'Point', 'coordinates': [-3.6987028, 40.4475556]}","Calle del Aviador Zorita, 3, 28020 Madrid, Spain",2.0,thai
+20,Phuket Thai Restaurante Tailandes,4.1,"{'type': 'Point', 'coordinates': [-3.694546, 40.410348]}","C. de Atocha, 115, 28012 Madrid, Spain",1.0,thai
+21,Thai Arturo Soria,4.2,"{'type': 'Point', 'coordinates': [-3.661839, 40.460057]}","C. de Arturo Soria, 205, 28043 Madrid, Spain",3.0,thai
+22,Kao Thai,4.0,"{'type': 'Point', 'coordinates': [-3.701554, 40.424249]}","C. de Sta. Bárbara, 11, 28004 Madrid, Spain",1.0,thai
+23,Som Thai,4.3,"{'type': 'Point', 'coordinates': [-3.6982822, 40.4212843]}","Calle de San Marcos, 26, 28004 Madrid, Spain",2.0,thai
+24,Kai Thai,4.7,"{'type': 'Point', 'coordinates': [-3.713014, 40.4258299]}","C. de la Princesa, 13, 28008 Madrid, Spain",,thai
+25,Royal thai cuzco,4.5,"{'type': 'Point', 'coordinates': [-3.6933333, 40.4577778]}","Av. de Brasil, 30, 28020 Madrid, Spain",,thai
+26,BAIYOR Thai Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.7056218, 40.4288055]}","C. de Manuela Malasaña, 37, 28004 Madrid, Spain",1.0,thai
+27,Thai Away by Thai Garden 2112,4.6,"{'type': 'Point', 'coordinates': [-3.6747117, 40.40832229999999]}","Calle del Conde de Cartagena, 15, 28007 Madrid, Spain",,thai
+28,Siam,4.0,"{'type': 'Point', 'coordinates': [-3.709803099999999, 40.4249382]}","Calle de San Bernardino, 6, 28015 Madrid, Spain",2.0,thai
+29,Gingerboy,4.2,"{'type': 'Point', 'coordinates': [-3.7006965, 40.4333183]}","Calle Murillo, 1, 28010 Plaza de Olavide, Madrid, Spain",,thai
+30,Bang Cook Foundation,4.1,"{'type': 'Point', 'coordinates': [-3.691574699999999, 40.4353581]}","Paseo del General Martínez Campos, 43, 28010 Madrid, Spain",2.0,thai
+31,Tuk Tuk Express Las Tablas,4.0,"{'type': 'Point', 'coordinates': [-3.6743993, 40.4971562]}","Calle Estella, 21, 28050 Madrid, Spain",1.0,thai
+32,PadThaiWok Madrid López de Hoyos,4.3,"{'type': 'Point', 'coordinates': [-3.6747136, 40.4436195]}","Calle de López de Hoyos, 106, 28002 Madrid, Spain",,thai
+33,Wilbran by Krachai,3.8,"{'type': 'Point', 'coordinates': [-3.6939317, 40.4260174]}","Calle de Orellana, 19, 28004 Madrid, Spain",,thai
+34,El Flaco,4.7,"{'type': 'Point', 'coordinates': [-3.6705359, 40.4483819]}","Calle Javier Ferrero, 8, 28002 Madrid, Spain",2.0,thai
+35,Thai Emotion - Diamantes de Sal Rosa,5.0,"{'type': 'Point', 'coordinates': [-3.7007235, 40.4296151]}","Calle de Eguilaz, 13 esquina, Calle de Luchana, 12, 28010 Madrid, Spain",,thai
+36,SmileThai,3.6,"{'type': 'Point', 'coordinates': [-3.6793168, 40.4230229]}","Calle de Alcalá, 84, 28009 Madrid, Spain",,thai
+37,Wicked Thai Food,5.0,"{'type': 'Point', 'coordinates': [-3.7089173, 40.4232501]}","Plaza Mostenses, 1, Mercado de Los Mostenses, 62-64, 28015 Madrid, Spain",,thai
+38,Kitchen 154 (Mercado de Vallehermoso),4.6,"{'type': 'Point', 'coordinates': [-3.7082645, 40.4341088]}","Mercado de Vallehermoso, Calle de Vallehermoso, 36, 28015 Madrid, Spain",1.0,thai
+39,Oam Thong Thai comfort cuisine,4.3,"{'type': 'Point', 'coordinates': [-3.8083829, 40.347822]}","Calle Parque Bujaruelo, 15, 28924 Alcorcón, Madrid, Spain",,thai
+40,Art Thai Massage | Thai massage courses in Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6977111, 40.4228641]}","Plaza de Chueca, 6, 28004 Madrid, Spain",,thai
+41,Soi Noodle,4.4,"{'type': 'Point', 'coordinates': [-3.695571, 40.4458991]}","Calle de Modesto Lafuente, 88, 28003 Madrid, Spain",,thai
+42,Restaurante Saigón by Café Saigón,4.1,"{'type': 'Point', 'coordinates': [-3.693635699999999, 40.4631621]}","Calle de la Infanta Mercedes, 92, 28020 Madrid, Spain",2.0,thai
+43,Pure Cuisine - Príncipe Pío,3.8,"{'type': 'Point', 'coordinates': [-3.7197344, 40.4215507]}","Paseo de la Florida, 2, 28008 Madrid, Spain",1.0,thai
+44,Chalalai Thai Massage,4.9,"{'type': 'Point', 'coordinates': [-3.690434599999999, 40.4339778]}","C. de Rafael Calvo, 42, 28010 Madrid, Spain",,thai
+45,Yoyland,3.0,"{'type': 'Point', 'coordinates': [-3.6983306, 40.4233162]}","Calle de Gravina, 3, 28004 Madrid, Spain",,thai
+46,Restaurante Furusato 故里餐馆 - 中餐,4.1,"{'type': 'Point', 'coordinates': [-3.696916, 40.450747]}","Calle Reina Mercedes, 22, 28020 Madrid, Spain",1.0,thai
+47,Yommana Thai Concept,4.4,"{'type': 'Point', 'coordinates': [-3.7039247, 40.4321125]}","Calle de Fuencarral, 137, 28010 Madrid, Spain",,thai
+48,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}","Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",,thai
+49,Wok To Walk Chueca,4.1,"{'type': 'Point', 'coordinates': [-3.700927, 40.420653]}","Calle de Hortaleza, 7, 28004 Madrid, Spain",1.0,thai
+50,Mthai,4.5,"{'type': 'Point', 'coordinates': [-3.7128709, 40.4107591]}","Carrera de San Francisco, 11, 28005 Madrid, Spain",,thai
+51,Thai Orchid Spa and Massage Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6825683, 40.4398106]}","Calle de Velázquez, 136, Bajo A spa 22, 28006 Madrid, Spain",,thai
+52,MEGU,4.4,"{'type': 'Point', 'coordinates': [-3.7111624, 40.4033247]}","Paseo de los Olmos, 28, 28005 Madrid, Spain",1.0,thai
+53,ARUKSA Thai Massage,5.0,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}","Calle José Ortega y Gasset, 11 Hall) Bajo Drcho, Pta 2, 28006 Madrid, Spain",,thai
+54,Muay Thai en Madrid | Thai Leal Team,5.0,"{'type': 'Point', 'coordinates': [-3.7022464, 40.4520346]}","c/ Bravo Murillo 160, por el callejón, Calle de Teruel, 11, local 15, 28020 Madrid, Spain",,thai
+55,ASIAN RESTAURANT,4.1,"{'type': 'Point', 'coordinates': [-3.7076473, 40.42198940000001]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",,thai
+56,Killer Bees Muay Thai College Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.710328499999999, 40.3938774]}","Calle del Padre Oltra, 54, 28025 Madrid, Spain",,thai
+57,Kinuan. Oriental massage,4.7,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}","Calle de Serrano Anguita, 18, 28004 Madrid, Spain",,thai
+58,Amon Thai Massage,4.7,"{'type': 'Point', 'coordinates': [-3.7069239, 40.4198156]}","Calle de Preciados, 38, 1, 28013 Madrid, Spain",,thai
+59,Reino de Siam - Masajes thai original y tradicional en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7017494, 40.4268742]}","Calle de Fuencarral, 93, 1 º Izquierda B, 28004 Madrid, Spain",,thai

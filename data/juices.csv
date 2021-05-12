@@ -1,21 +1,21 @@
-,name,rating,location,address,place
-0,Juice Lab & Co. ABC Serrano,4.2,"{'type': 'Point', 'coordinates': [-3.6875291, 40.4322743]}","Calle de Serrano, 61, 28006 Madrid, Spain",juices
-1,Juicy Avenue Serrano,4.1,"{'type': 'Point', 'coordinates': [-3.686537899999999, 40.43754200000001]}","Calle de Serrano, 93, 28006 Madrid, Spain",juices
-2,Lulo's Natural Juices,4.1,"{'type': 'Point', 'coordinates': [-3.7099621, 40.4111595]}","Mercado de la Cebada, 28005 Madrid, Spain",juices
-3,Origen Taste The World S.L.,4.2,"{'type': 'Point', 'coordinates': [-3.7080141, 40.4109345]}","Calle de las Maldonadas, 7, 28005 Madrid, Spain",juices
-4,Juicy Avenue,4.1,"{'type': 'Point', 'coordinates': [-3.6558675, 40.5188577]}","CC Moraleja Green, Av. de Europa, 13, 28108 Madrid, Spain",juices
-5,Juice Lab,0.0,"{'type': 'Point', 'coordinates': [-3.6869647, 40.4322143]}","Calle de Serrano, 61, 28006 Madrid, France",juices
-6,Tu Fruta al Momento,4.2,"{'type': 'Point', 'coordinates': [-3.7076701, 40.4146606]}","Calle de Toledo, 6, 28005 Madrid, Spain",juices
-7,Juice Lab & Co,4.9,"{'type': 'Point', 'coordinates': [-3.6880416, 40.4322565]}","Centro Comercial ABC Serrano, Paseo de la Castellana, 34, 28046 Madrid, Spain",juices
-8,DisFruta,4.3,"{'type': 'Point', 'coordinates': [-3.706089, 40.4119064]}","Calle del Duque de Alba, 6, 28012 Madrid, Spain",juices
-9,Frutas Prohibidas,4.4,"{'type': 'Point', 'coordinates': [-3.7103494, 40.4274672]}","Local Frutas Prohibidas, Calle del Conde Duque, 26, 28015 Madrid, Spain",juices
-10,Mr. Ñam Ñam,3.7,"{'type': 'Point', 'coordinates': [-3.7041728, 40.4232257]}","Plaza de Carlos Cambronero, 2, 28004 Madrid, Spain",juices
-11,URBAN FRESH,4.6,"{'type': 'Point', 'coordinates': [-3.7036499, 40.4265887]}","Calle de San Andrés, 12, 28004 Madrid, Spain",juices
-12,Almalibre Açaí House Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6974478, 40.4211367]}","Calle de la Libertad, 17, 28004 Madrid, Spain",juices
-13,Juicy Avenue Islazul,3.7,"{'type': 'Point', 'coordinates': [-3.7389873, 40.3631628]}","Centro Comercial ISLAZUL (Plaza Restauración, Calle Calderilla, 1, 28054 Madrid, Spain",juices
-14,Panther Juice & Sandwich Market,4.1,"{'type': 'Point', 'coordinates': [-3.6915025, 40.4504749]}","Paseo de la Castellana, 91, 28046 Madrid, Spain",juices
-15,Maestro Food and More,2.1,"{'type': 'Point', 'coordinates': [-3.7031203, 40.4142897]}","28012 Madrid, Spain",juices
-16,B13 bar,4.6,"{'type': 'Point', 'coordinates': [-3.7035174, 40.4219461]}","Calle de la Ballesta, 13, 28004 Madrid, Spain",juices
-17,Azotea Forus Barceló,4.0,"{'type': 'Point', 'coordinates': [-3.6988964, 40.4268137]}","C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",juices
-18,Casa Mingo,4.1,"{'type': 'Point', 'coordinates': [-3.7253416, 40.4250914]}","Paseo de la Florida, 34, 28008 Madrid, Spain",juices
-19,Surya Callao,4.1,"{'type': 'Point', 'coordinates': [-3.7053557, 40.4210035]}","Calle de Tudescos, 4, 28004 Madrid, Spain",juices
+,name,rating,location,address,price_level,place
+0,Juice Lab & Co. ABC Serrano,4.2,"{'type': 'Point', 'coordinates': [-3.6875291, 40.4322743]}","Calle de Serrano, 61, 28006 Madrid, Spain",,juices
+1,Juicy Avenue Serrano,4.1,"{'type': 'Point', 'coordinates': [-3.686537899999999, 40.43754200000001]}","Calle de Serrano, 93, 28006 Madrid, Spain",1.0,juices
+2,Lulo's Natural Juices,4.1,"{'type': 'Point', 'coordinates': [-3.7099621, 40.4111595]}","Mercado de la Cebada, 28005 Madrid, Spain",,juices
+3,Origen Taste The World S.L.,4.2,"{'type': 'Point', 'coordinates': [-3.7080141, 40.4109345]}","Calle de las Maldonadas, 7, 28005 Madrid, Spain",1.0,juices
+4,Juicy Avenue,4.1,"{'type': 'Point', 'coordinates': [-3.6558675, 40.5188577]}","CC Moraleja Green, Av. de Europa, 13, 28108 Madrid, Spain",1.0,juices
+5,Tu Fruta al Momento,4.2,"{'type': 'Point', 'coordinates': [-3.7076701, 40.4146606]}","Calle de Toledo, 6, 28005 Madrid, Spain",1.0,juices
+6,Juice Lab & Co,4.9,"{'type': 'Point', 'coordinates': [-3.6880416, 40.4322565]}","Centro Comercial ABC Serrano, Paseo de la Castellana, 34, 28046 Madrid, Spain",,juices
+7,Frutas Prohibidas,4.4,"{'type': 'Point', 'coordinates': [-3.7103494, 40.4274672]}","Local Frutas Prohibidas, Calle del Conde Duque, 26, 28015 Madrid, Spain",,juices
+8,Mr. Ñam Ñam,3.7,"{'type': 'Point', 'coordinates': [-3.7041728, 40.4232257]}","Plaza de Carlos Cambronero, 2, 28004 Madrid, Spain",,juices
+9,Juice Lab,0.0,"{'type': 'Point', 'coordinates': [-3.6869647, 40.4322143]}","Calle de Serrano, 61, 28006 Madrid, France",,juices
+10,URBAN FRESH,4.6,"{'type': 'Point', 'coordinates': [-3.7036499, 40.4265887]}","Calle de San Andrés, 12, 28004 Madrid, Spain",,juices
+11,Almalibre Açaí House Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6974478, 40.4211367]}","Calle de la Libertad, 17, 28004 Madrid, Spain",,juices
+12,DisFruta,4.3,"{'type': 'Point', 'coordinates': [-3.706089, 40.4119064]}","Calle del Duque de Alba, 6, 28012 Madrid, Spain",1.0,juices
+13,Juicy Avenue Islazul,3.7,"{'type': 'Point', 'coordinates': [-3.7389873, 40.3631628]}","Centro Comercial ISLAZUL (Plaza Restauración, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,juices
+14,Panther Juice & Sandwich Market,4.1,"{'type': 'Point', 'coordinates': [-3.6915025, 40.4504749]}","Paseo de la Castellana, 91, 28046 Madrid, Spain",,juices
+15,Maestro Food and More,2.1,"{'type': 'Point', 'coordinates': [-3.7031203, 40.4142897]}","28012 Madrid, Spain",,juices
+16,B13 bar,4.6,"{'type': 'Point', 'coordinates': [-3.7035174, 40.4219461]}","Calle de la Ballesta, 13, 28004 Madrid, Spain",1.0,juices
+17,Azotea Forus Barceló,4.0,"{'type': 'Point', 'coordinates': [-3.6988964, 40.4268137]}","C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",2.0,juices
+18,Casa Mingo,4.1,"{'type': 'Point', 'coordinates': [-3.7253416, 40.4250914]}","Paseo de la Florida, 34, 28008 Madrid, Spain",1.0,juices
+19,Taqueria El Chaparrito,4.5,"{'type': 'Point', 'coordinates': [-3.71014, 40.41567]}","Calle Mayor, 68, 28013 Madrid, Spain",1.0,juices

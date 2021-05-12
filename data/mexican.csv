@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Takos Al Pastor,4.6,"{'type': 'Point', 'coordinates': [-3.7037278, 40.4189911]}","Calle de la Abada, 2, 28013 Madrid, Spain",mexican
-1,Rosa Negra Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6990401, 40.4138325]}","Calle del León, 16, 28014 Madrid, Spain",mexican
-2,La Chamana,4.5,"{'type': 'Point', 'coordinates': [-3.706977, 40.419122]}","Calle de las Navas de Tolosa, 7, 28013 Madrid, Spain",mexican
-3,EL REY DE LOS TACOS,4.6,"{'type': 'Point', 'coordinates': [-3.7096198, 40.41941130000001]}","Cuesta de Sto. Domingo, 8, 28013 Madrid, Spain",mexican
-4,Sahuaro Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7070934, 40.4111597]}","Plaza de Cascorro, 2, 28005 Madrid, Spain",mexican
-5,Tacos & Tapas,4.5,"{'type': 'Point', 'coordinates': [-3.712513999999999, 40.41250000000001]}","Calle de la Redondilla, 7, 28005 Madrid, Spain",mexican
-6,Restaurante Tepic,4.3,"{'type': 'Point', 'coordinates': [-3.687870899999999, 40.4278335]}","Cl. de Ayala, 14, 28001 Madrid, Spain",mexican
-7,El Chaparrito,4.3,"{'type': 'Point', 'coordinates': [-3.698896599999999, 40.4155199]}","Calle de Ventura de la Vega, 11, 28014 Madrid, Spain",mexican
-8,Cómete México - General Pardiñas,4.4,"{'type': 'Point', 'coordinates': [-3.6785611, 40.4243972]}","Calle del Gral. Pardiñas, 12, 28001 Madrid, Spain",mexican
-9,Me gustas MXO,4.4,"{'type': 'Point', 'coordinates': [-3.7122417, 40.414275]}","Calle de la Villa, 3, 28005 Madrid, Spain",mexican
-10,MAWEY Taco Bar - Gran Vía,4.6,"{'type': 'Point', 'coordinates': [-3.708406399999999, 40.4210653]}","Calle de San Bernardo, 5, Local 2, 28013 Madrid, Spain",mexican
-11,Venganza Malinche. Restaurante Mexicano,4.2,"{'type': 'Point', 'coordinates': [-3.7013529, 40.4189893]}","Calle de los Jardines, 5, 28013 Madrid, Spain",mexican
-12,La Mordida Fuentes,4.3,"{'type': 'Point', 'coordinates': [-3.7088054, 40.4169643]}","Calle de las Fuentes, 3, 28013 Madrid, Spain",mexican
-13,OYAMEL,3.7,"{'type': 'Point', 'coordinates': [-3.6740531, 40.4245749]}","Calle de Goya, 82, 28009 Madrid, Spain",mexican
-14,Taqueria El Chaparrito,4.5,"{'type': 'Point', 'coordinates': [-3.71014, 40.41567]}","Calle Mayor, 68, 28013 Madrid, Spain",mexican
-15,El Rincón de los Cuates,4.4,"{'type': 'Point', 'coordinates': [-3.69861, 40.4217289]}","Calle de San Bartolomé, 7, 28004 Madrid, Spain",mexican
-16,La Rodaja,4.6,"{'type': 'Point', 'coordinates': [-3.6640889, 40.4296109]}","Calle de Bocángel, 4, Local 1, 28028 Madrid, Spain",mexican
-17,La Leyenda del Agave,4.2,"{'type': 'Point', 'coordinates': [-3.6828854, 40.4258079]}","Calle de Núñez de Balboa, 37, 28001 Madrid, Spain",mexican
-18,MAWEY Taco Bar - Olid,4.5,"{'type': 'Point', 'coordinates': [-3.702402799999999, 40.4317055]}","Calle de Olid, 6, 28010 Madrid, Spain",mexican
-19,La Venganza de Malinche,4.2,"{'type': 'Point', 'coordinates': [-3.7118469, 40.4251132]}","Calle Duque de Osuna, 6, 28015 Madrid, Spain",mexican
-20,ÁNDELE Ponzano,4.4,"{'type': 'Point', 'coordinates': [-3.700025, 40.44618699999999]}","Calle de Raimundo Fernández Villaverde, 26, 28003 Madrid, Spain",mexican
-21,Punto MX,4.2,"{'type': 'Point', 'coordinates': [-3.678343, 40.427614]}","Calle del Gral. Pardiñas, 40, 28001 Madrid, Spain",mexican
-22,La Mordida Bernabeu,4.3,"{'type': 'Point', 'coordinates': [-3.6930929, 40.4540534]}","Bernabeu's Bite, Av. de Brasil, 6, 28020 Madrid, Spain",mexican
-23,Restaurante Mezcal,4.3,"{'type': 'Point', 'coordinates': [-3.677873, 40.4065466]}","Calle de Narciso Serra, 35, 28007 Madrid, Spain",mexican
-24,Las Mañanitas,4.1,"{'type': 'Point', 'coordinates': [-3.7012962, 40.4266212]}","Calle de Fuencarral, 82, 28004 Madrid, Spain",mexican
-25,Taquería del Alamillo,4.2,"{'type': 'Point', 'coordinates': [-3.712399999999999, 40.41376]}","Plaza de Alamillo, 8, 28005 Madrid, Spain",mexican
-26,Santa Canalla,4.2,"{'type': 'Point', 'coordinates': [-3.707275, 40.4184846]}","Plaza de San Martín, 2, 28013 Madrid, Spain",mexican
-27,Nacho Bravo Taquería,4.5,"{'type': 'Point', 'coordinates': [-3.6947584, 40.3919885]}","Paseo de las Delicias, 139, 28045 Madrid, Spain",mexican
-28,Mero México,4.2,"{'type': 'Point', 'coordinates': [-3.7012922, 40.4157041]}","Calle de Núñez de Arce, 4, 28012 Madrid, Spain",mexican
-29,La Lupita,4.2,"{'type': 'Point', 'coordinates': [-3.6854545, 40.4225647]}","Calle de Villanueva, 15, 28001 Madrid, Spain",mexican
-30,Madrid Mex,4.6,"{'type': 'Point', 'coordinates': [-3.6732106, 40.4231702]}","Calle de Jorge Juan, 100, 28001 Madrid, Spain",mexican
-31,El Mezcalito,3.7,"{'type': 'Point', 'coordinates': [-3.702785199999999, 40.4233303]}","Corredera Baja de San Pablo, 49, 28004 Madrid, Spain",mexican
-32,Sol Azteca (c/ General Pardiñaz),4.3,"{'type': 'Point', 'coordinates': [-3.678211799999999, 40.4319213]}","Calle del Gral. Pardiñas, 61, 28006 Madrid, Spain",mexican
-33,La Mordida,4.2,"{'type': 'Point', 'coordinates': [-3.6959487, 40.4244135]}","Calle de Belén, 13, 28004 Madrid, Spain",mexican
-34,DF BAR Tortería Mexicana,4.4,"{'type': 'Point', 'coordinates': [-3.699269999999999, 40.412793]}","Calle del León, 31, 28014 Madrid, Spain",mexican
-35,Mexcalista,4.6,"{'type': 'Point', 'coordinates': [-3.6985781, 40.4144604]}","Calle del León, 5, 28014 Madrid, Spain",mexican
-36,Cantina Canalla Antracita Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6897269, 40.3903313]}","Calle de la Antracita, 10, 28045 Madrid, Spain",mexican
-37,La Turulita | Restaurante Mexicano Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.677431799999999, 40.4181816]}","dentro del Mercado Municipal!, Calle de Ibiza, 8, Puesto 16, 28009 Madrid, Spain",mexican
-38,Taquería La Lupita,4.3,"{'type': 'Point', 'coordinates': [-3.6940421, 40.4231989]}","Calle del Conde de Xiquena, 10, 28004 Madrid, Spain",mexican
-39,Tacos Chapultepec,4.4,"{'type': 'Point', 'coordinates': [-3.7017557, 40.4301431]}","Calle del Cardenal Cisneros, 13, 28010 Madrid, Spain",mexican
-40,Santita Fuencarral,4.2,"{'type': 'Point', 'coordinates': [-3.7007934, 40.4253363]}","Calle de Fuencarral, 74, 28004 Madrid, Spain",mexican
-41,Entre Suspiro Y Suspiro,4.3,"{'type': 'Point', 'coordinates': [-3.7090349, 40.4186859]}","Calle de los Caños del Peral, 3, 28013 Madrid, Spain",mexican
-42,Taquería Mi Ciudad,4.4,"{'type': 'Point', 'coordinates': [-3.7087199, 40.4174265]}","Calle de las Fuentes, 11, 28013 Madrid, Spain",mexican
-43,Cherry Pecas,4.1,"{'type': 'Point', 'coordinates': [-3.715326, 40.441032]}","Paseo de S. Fco. de Sales, 17, 28003 Madrid, Spain",mexican
-44,Cutzamala Mex Food,4.6,"{'type': 'Point', 'coordinates': [-3.6988085, 40.4115039]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",mexican
-45,De Madrid al Rancho,4.2,"{'type': 'Point', 'coordinates': [-3.7160219, 40.39714310000001]}","Glorieta Marqués de Vadillo, 4, 28019 Madrid, Spain",mexican
-46,Tiki Taco San Bernardo,4.4,"{'type': 'Point', 'coordinates': [-3.7076288, 40.4222449]}","Calle de San Bernardo, 12, 28015 Madrid, Spain",mexican
-47,Central Mexicana Gourmet Experience,3.6,"{'type': 'Point', 'coordinates': [-3.7054769, 40.419842]}","Plaza del Callao, 2, 28013 Madrid, Spain",mexican
-48,La Taquería de Birra Comendadoras,3.8,"{'type': 'Point', 'coordinates': [-3.7084891, 40.4270629]}","Plaza de las Comendadoras, 2, 28015 Madrid, Spain",mexican
-49,DF BAR,4.3,"{'type': 'Point', 'coordinates': [-3.7005546, 40.4284557]}","Calle de Larra, 23, 28004 Madrid, Spain",mexican
-50,IZTAC - Restaurante Mexicano,4.3,"{'type': 'Point', 'coordinates': [-3.678065499999999, 40.4551189]}","Plaza de la República del Ecuador, 4, 28016 Madrid, Spain",mexican
-51,Taquería Mi Ciudad,4.1,"{'type': 'Point', 'coordinates': [-3.710135, 40.42779700000001]}","Calle del Conde Duque, 30, 28015 Madrid, Spain",mexican
-52,Gracias Padre - Taquería,4.2,"{'type': 'Point', 'coordinates': [-3.6756243, 40.4300893]}","Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",mexican
-53,TACAZZO,3.7,"{'type': 'Point', 'coordinates': [-3.6761171, 40.4171515]}","C. de Narváez, 61, Local, 28009 Madrid, Spain",mexican
-54,Tamán,4.8,"{'type': 'Point', 'coordinates': [-3.712048199999999, 40.4131612]}","Calle de Alfonso VI, 6, 28005 Madrid, Spain",mexican
-55,La Chelinda Taqueria Bar,3.7,"{'type': 'Point', 'coordinates': [-3.7013112, 40.4156779]}","Calle de Núñez de Arce, 4, 28012 Madrid, Spain",mexican
-56,El jalapeño Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.686624, 40.461897]}","Calle Pedro Muguruza, 4, 28036 Madrid, Spain",mexican
-57,La Taquería de Birra (Don Pedro),4.4,"{'type': 'Point', 'coordinates': [-3.7134975, 40.411572]}","Calle de Don Pedro, 11, 28005 Madrid, Spain",mexican
-58,María Bonita,4.5,"{'type': 'Point', 'coordinates': [-3.7005443, 40.4115766]}","Calle del Olmo, 23, 28012 Madrid, Spain",mexican
-59,La Mordida Retiro,4.3,"{'type': 'Point', 'coordinates': [-3.673971, 40.41371700000001]}","Calle de Pío Baroja, 9, 28009 Madrid, Spain",mexican
+,name,rating,location,address,price_level,place
+0,Takos Al Pastor,4.6,"{'type': 'Point', 'coordinates': [-3.7037278, 40.4189911]}","Calle de la Abada, 2, 28013 Madrid, Spain",1.0,mexican
+1,Rosa Negra Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6990401, 40.4138325]}","Calle del León, 16, 28014 Madrid, Spain",1.0,mexican
+2,La Chamana,4.5,"{'type': 'Point', 'coordinates': [-3.706977, 40.419122]}","Calle de las Navas de Tolosa, 7, 28013 Madrid, Spain",2.0,mexican
+3,EL REY DE LOS TACOS,4.6,"{'type': 'Point', 'coordinates': [-3.7096198, 40.41941130000001]}","Cuesta de Sto. Domingo, 8, 28013 Madrid, Spain",1.0,mexican
+4,Sahuaro Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7070934, 40.4111597]}","Plaza de Cascorro, 2, 28005 Madrid, Spain",2.0,mexican
+5,Restaurante Tepic,4.3,"{'type': 'Point', 'coordinates': [-3.687870899999999, 40.4278335]}","Cl. de Ayala, 14, 28001 Madrid, Spain",2.0,mexican
+6,MAWEY Taco Bar - Gran Vía,4.6,"{'type': 'Point', 'coordinates': [-3.708406399999999, 40.4210653]}","Calle de San Bernardo, 5, Local 2, 28013 Madrid, Spain",2.0,mexican
+7,Venganza Malinche. Restaurante Mexicano,4.2,"{'type': 'Point', 'coordinates': [-3.7013529, 40.4189893]}","Calle de los Jardines, 5, 28013 Madrid, Spain",2.0,mexican
+8,Taqueria El Chaparrito,4.5,"{'type': 'Point', 'coordinates': [-3.71014, 40.41567]}","Calle Mayor, 68, 28013 Madrid, Spain",1.0,mexican
+9,OYAMEL,3.7,"{'type': 'Point', 'coordinates': [-3.6740531, 40.4245749]}","Calle de Goya, 82, 28009 Madrid, Spain",2.0,mexican
+10,El Rincón de los Cuates,4.4,"{'type': 'Point', 'coordinates': [-3.69861, 40.4217289]}","Calle de San Bartolomé, 7, 28004 Madrid, Spain",2.0,mexican
+11,La Venganza de Malinche,4.2,"{'type': 'Point', 'coordinates': [-3.7118469, 40.4251132]}","Calle Duque de Osuna, 6, 28015 Madrid, Spain",2.0,mexican
+12,Santa Canalla,4.2,"{'type': 'Point', 'coordinates': [-3.707275, 40.4184846]}","Plaza de San Martín, 2, 28013 Madrid, Spain",1.0,mexican
+13,Nacho Bravo Taquería,4.5,"{'type': 'Point', 'coordinates': [-3.6947584, 40.3919885]}","Paseo de las Delicias, 139, 28045 Madrid, Spain",1.0,mexican
+14,Mero México,4.2,"{'type': 'Point', 'coordinates': [-3.7012922, 40.4157041]}","Calle de Núñez de Arce, 4, 28012 Madrid, Spain",,mexican
+15,La Lupita,4.2,"{'type': 'Point', 'coordinates': [-3.6854545, 40.4225647]}","Calle de Villanueva, 15, 28001 Madrid, Spain",2.0,mexican
+16,El Mezcalito,3.7,"{'type': 'Point', 'coordinates': [-3.702785199999999, 40.4233303]}","Corredera Baja de San Pablo, 49, 28004 Madrid, Spain",,mexican
+17,Taquería La Lupita,4.3,"{'type': 'Point', 'coordinates': [-3.6940421, 40.4231989]}","Calle del Conde de Xiquena, 10, 28004 Madrid, Spain",2.0,mexican
+18,La Turulita | Restaurante Mexicano Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.677431799999999, 40.4181816]}","dentro del Mercado Municipal!, Calle de Ibiza, 8, Puesto 16, 28009 Madrid, Spain",,mexican
+19,Santita Fuencarral,4.2,"{'type': 'Point', 'coordinates': [-3.7007934, 40.4253363]}","Calle de Fuencarral, 74, 28004 Madrid, Spain",2.0,mexican
+20,Taquería Mi Ciudad,4.4,"{'type': 'Point', 'coordinates': [-3.7087199, 40.4174265]}","Calle de las Fuentes, 11, 28013 Madrid, Spain",1.0,mexican
+21,De Madrid al Rancho,4.2,"{'type': 'Point', 'coordinates': [-3.7160219, 40.39714310000001]}","Glorieta Marqués de Vadillo, 4, 28019 Madrid, Spain",2.0,mexican
+22,Cutzamala Mex Food,4.6,"{'type': 'Point', 'coordinates': [-3.6988085, 40.4115039]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",,mexican
+23,Cherry Pecas,4.1,"{'type': 'Point', 'coordinates': [-3.715326, 40.441032]}","Paseo de S. Fco. de Sales, 17, 28003 Madrid, Spain",1.0,mexican
+24,La Taquería de Birra Comendadoras,3.8,"{'type': 'Point', 'coordinates': [-3.7084891, 40.4270629]}","Plaza de las Comendadoras, 2, 28015 Madrid, Spain",2.0,mexican
+25,Central Mexicana Gourmet Experience,3.6,"{'type': 'Point', 'coordinates': [-3.7054769, 40.419842]}","Plaza del Callao, 2, 28013 Madrid, Spain",,mexican
+26,Taquería Mi Ciudad,4.1,"{'type': 'Point', 'coordinates': [-3.710135, 40.42779700000001]}","Calle del Conde Duque, 30, 28015 Madrid, Spain",1.0,mexican
+27,Tiki Taco San Bernardo,4.4,"{'type': 'Point', 'coordinates': [-3.7076288, 40.4222449]}","Calle de San Bernardo, 12, 28015 Madrid, Spain",1.0,mexican
+28,Gracias Padre - Taquería,4.2,"{'type': 'Point', 'coordinates': [-3.6756243, 40.4300893]}","Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",2.0,mexican
+29,La Chelinda Taqueria Bar,3.7,"{'type': 'Point', 'coordinates': [-3.7013112, 40.4156779]}","Calle de Núñez de Arce, 4, 28012 Madrid, Spain",2.0,mexican
+30,La Taquería de Birra (Don Pedro),4.4,"{'type': 'Point', 'coordinates': [-3.7134975, 40.411572]}","Calle de Don Pedro, 11, 28005 Madrid, Spain",2.0,mexican
+31,TACAZZO,3.7,"{'type': 'Point', 'coordinates': [-3.6761171, 40.4171515]}","C. de Narváez, 61, Local, 28009 Madrid, Spain",,mexican
+32,IZTAC - Restaurante Mexicano,4.3,"{'type': 'Point', 'coordinates': [-3.678065499999999, 40.4551189]}","Plaza de la República del Ecuador, 4, 28016 Madrid, Spain",3.0,mexican
+33,La Tentación. La taqueria del mercado,4.6,"{'type': 'Point', 'coordinates': [-3.70382, 40.40764]}","Calle de Embajadores, 41, local 36, 28012 Madrid, Spain",,mexican
+34,Restaurante Si Señor,3.7,"{'type': 'Point', 'coordinates': [-3.7029922, 40.4422308]}","Calle de Ríos Rosas, 7, 28003 Madrid, Spain",,mexican
+35,Los Nachos de Oro,4.2,"{'type': 'Point', 'coordinates': [-3.654805, 40.43574350000001]}","Calle Virgen del Portillo, 7, 28027 Madrid, Spain",1.0,mexican
+36,Tacoctelería | Restaurante mexicano | Tacos | Cócteles | Nachos | Michelada,4.9,"{'type': 'Point', 'coordinates': [-3.7021806, 40.42103820000001]}","Calle de Valverde, 7, 28004 Madrid, Spain",,mexican
+37,REGAÑADIENTES,4.4,"{'type': 'Point', 'coordinates': [-3.6930899, 40.4223642]}","Calle del Almte., 24, 28004 Madrid, Spain",,mexican
+38,La Panza es Primero,3.7,"{'type': 'Point', 'coordinates': [-3.6972263, 40.4222448]}","Calle de la Libertad, 33, 28004 Madrid, Spain",1.0,mexican
+39,Gracias Padre - Zona rosa,4.6,"{'type': 'Point', 'coordinates': [-3.6973903, 40.4221674]}","Calle de Augusto Figueroa, 37, 28004 Madrid, Spain",,mexican
+40,Solito Taquería Mexicana,4.8,"{'type': 'Point', 'coordinates': [-3.7087377, 40.4141816]}","Calle de la Pasa, 4, 28005 Madrid, Spain",,mexican
+41,Santita Peligros,4.3,"{'type': 'Point', 'coordinates': [-3.699570999999999, 40.4188647]}","Calle de la Virgen de los Peligros, 10, 28013 Madrid, Spain",,mexican
+42,Canastaco Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6959979, 40.3949509]}","Calle de Miguel Arredondo, 4, 28045 Madrid, Spain",1.0,mexican
+43,Canalla Lounge,4.2,"{'type': 'Point', 'coordinates': [-3.703970999999999, 40.436983]}","Calle de García de Paredes, 2, 28010 Madrid, Spain",2.0,mexican
+44,Wacamole Food & Drink,4.5,"{'type': 'Point', 'coordinates': [-3.70071, 40.4184537]}","Calle de la Aduana, 25, 28013 Madrid, Spain",1.0,mexican
+45,Mezcalería Alambique Restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.7106208, 40.4132261]}","Calle del Príncipe de Anglona, n1, 28005 Madrid, Spain",2.0,mexican
+46,La Diavla “Mexican&Wild”,4.1,"{'type': 'Point', 'coordinates': [-3.6788476, 40.4213363]}","Calle de Antonio Acuña, 19, 28009 Madrid, Spain",,mexican
+47,Gracias Padre Jungle Club,4.2,"{'type': 'Point', 'coordinates': [-3.7047729, 40.430232]}","Calle de Sandoval, 16, 28010 Madrid, Spain",2.0,mexican
+48,Taco Perry,4.5,"{'type': 'Point', 'coordinates': [-3.7195624, 40.413024]}","Calle de Juan Duque, 14, 28005 Madrid, Spain",,mexican
+49,La Chingona,4.0,"{'type': 'Point', 'coordinates': [-3.695144, 40.425101]}","Calle de Argensola, 7, 28005 Madrid, Spain",,mexican
+50,Cascabel,4.0,"{'type': 'Point', 'coordinates': [-3.6870642, 40.4276721]}","El Corte Inglés, Calle de Serrano, 52, 7ma, 28001 planta, Madrid, Spain",3.0,mexican
+51,Puntarena,4.6,"{'type': 'Point', 'coordinates': [-3.7095487, 40.4301103]}","Calle de Alberto Aguilera, 20, 28015 Madrid, Spain",,mexican
+52,La Chelinda,3.6,"{'type': 'Point', 'coordinates': [-3.5978507, 40.3686031]}","Calle Adolfo Bioy Casares, 2 Centro Comercial La Gavia, 2ª planta, 28051 Madrid, Spain",2.0,mexican
+53,"Maíz, Agua & Cal Apodaca",4.6,"{'type': 'Point', 'coordinates': [-3.7012155, 40.4273921]}","Calle de Apodaca, 3, 28004 Madrid, Spain",,mexican
+54,"Comida Mexicana ""TRASGU""",3.9,"{'type': 'Point', 'coordinates': [-3.7162933, 40.4366142]}","28015, C/ de Donoso Cortés, 90, 28015 Madrid, Spain",1.0,mexican
+55,Tacos & Tapas,4.5,"{'type': 'Point', 'coordinates': [-3.712513999999999, 40.41250000000001]}","Calle de la Redondilla, 7, 28005 Madrid, Spain",2.0,mexican
+56,Cómete México - General Pardiñas,4.4,"{'type': 'Point', 'coordinates': [-3.6785611, 40.4243972]}","Calle del Gral. Pardiñas, 12, 28001 Madrid, Spain",2.0,mexican
+57,Chido Castizo & Chingón,4.0,"{'type': 'Point', 'coordinates': [-3.6932926, 40.45430880000001]}","Av. de Brasil, 6, 28020 Madrid, Spain",2.0,mexican
+58,El Chaparrito,4.3,"{'type': 'Point', 'coordinates': [-3.698896599999999, 40.4155199]}","Calle de Ventura de la Vega, 11, 28014 Madrid, Spain",1.0,mexican
+59,Ándele,4.0,"{'type': 'Point', 'coordinates': [-3.6382313, 40.5303415]}","Av. de Bruselas, 21, Local 23B, 28108 Alcobendas, Madrid, Spain",2.0,mexican

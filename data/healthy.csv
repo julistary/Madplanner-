@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Batavia Healthy Food,4.3,"{'type': 'Point', 'coordinates': [-3.6987281, 40.428177]}","Calle de Sagasta, 18, 28004 Madrid, Spain",healthy
-1,Honest Greens Castellana,4.4,"{'type': 'Point', 'coordinates': [-3.691945699999999, 40.4499383]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",healthy
-2,Healthy Poke Madrid - Plaza Mayor - Poke a domicilio,4.5,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}","Calle de Toledo, 26, 28005 Madrid, Spain",healthy
-3,Healthy Hunters,4.9,"{'type': 'Point', 'coordinates': [-3.682568, 40.439811]}","Calle de Velázquez, 136, 28006 Madrid, Spain",healthy
-4,"Rawcoco Madrid, Salamanca",4.2,"{'type': 'Point', 'coordinates': [-3.6787278, 40.4262056]}","Calle del Gral. Pardiñas, 21, 28001 Madrid, Spain",healthy
-5,Healthy Poke Madrid - General Pardiñas - Poke a domicilio,4.5,"{'type': 'Point', 'coordinates': [-3.6787036, 40.42649660000001]}","Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",healthy
-6,Roots Lamarca,4.2,"{'type': 'Point', 'coordinates': [-3.695643, 40.4245974]}","Calle de Fernando VI, 10, Local 4, 28004 Madrid, Spain",healthy
-7,A B O L E A,4.2,"{'type': 'Point', 'coordinates': [-3.7041016, 40.4300975]}","Calle de Sandoval, 10, 12, 28010 Madrid, Spain",healthy
-8,Honest Greens Hortaleza,4.5,"{'type': 'Point', 'coordinates': [-3.6978312, 40.4248241]}","Calle de Hortaleza, 100, 28004 Madrid, Spain",healthy
-9,Honest Greens Velázquez,4.4,"{'type': 'Point', 'coordinates': [-3.6833106, 40.4374378]}","Calle de Velázquez, 123, 28006 Madrid, Spain",healthy
-10,Ohanasana,4.4,"{'type': 'Point', 'coordinates': [-3.6954851, 40.4230194]}","Calle del Barquillo, 34, 28004 Madrid, Spain",healthy
-11,Ambrosía healthy FOOD,4.8,"{'type': 'Point', 'coordinates': [-3.7028105, 40.4362625]}","C. Gral. Álvarez de Castro, 23, 28010 Madrid, Spain",healthy
-12,La Hummuseria,4.6,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}","Calle de Hernán Cortés, 8, 28004 Madrid, Spain",healthy
-13,Healthy´s,4.9,"{'type': 'Point', 'coordinates': [-3.716280299999999, 40.4388814]}","C. de Hilarión Eslava, 64, 28015 Madrid, Spain",healthy
-14,Restaurante Garten True Food - Real Food - Madrid - Comida Sana,4.7,"{'type': 'Point', 'coordinates': [-3.695104, 40.4490664]}","Calle de Orense, 12, 28020 Madrid, Spain",healthy
-15,Healthy Poke - Intercambiador Plaza Castilla - Poke a domicilio,4.7,"{'type': 'Point', 'coordinates': [-3.6888186, 40.4681369]}","En frente de llaollao y Hertz Local : Healthy Poke, Paseo de la Castellana, 193 Superficie del intercambiador, Plaza Castilla, 28046 Madrid, Spain",healthy
-16,Healthy Hunters (Gta Bilbao),4.8,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}","Glorieta de Bilbao, 7, 28004 Madrid, Spain",healthy
-17,𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝗲 𝗚𝗮𝗿𝘁𝗲𝗻 𝗧𝗿𝘂𝗲 𝗙𝗼𝗼𝗱 - Real Food - Madrid - Comida sana,4.4,"{'type': 'Point', 'coordinates': [-3.6818325, 40.4225234]}","Calle de Castelló, 3, 28001 Madrid, Spain",healthy
-18,PANELA & CO,3.9,"{'type': 'Point', 'coordinates': [-3.6872463, 40.436905]}","Calle de López de Hoyos, 10, 28006 Madrid, Spain",healthy
-19,Werfresh Healthy Food,4.7,"{'type': 'Point', 'coordinates': [-3.7019621, 40.446967]}","Calle de Raimundo Fernández Villaverde, 15, 28003 Madrid, Spain",healthy
-20,Honest Greens Serrano,4.4,"{'type': 'Point', 'coordinates': [-3.6875762, 40.4285275]}","Calle de Serrano, 41, 28001 Madrid, Spain",healthy
-21,Naturasi supermarket Bernabéu,4.6,"{'type': 'Point', 'coordinates': [-3.689378999999999, 40.454546]}","Calle del Dr. Fleming, 1, 28036 Madrid, Spain",healthy
-22,Healthy Poke,4.7,"{'type': 'Point', 'coordinates': [-3.7043066, 40.4302651]}","Calle de Sandoval, 12, local 3, 28010 Madrid, Spain",healthy
-23,Roots La Moraleja,4.5,"{'type': 'Point', 'coordinates': [-3.6507989, 40.51865979999999]}","Calle de la Azalea, 1, 28109 Alcobendas, Madrid, Spain",healthy
-24,Cinco Fast & Healthy,4.5,"{'type': 'Point', 'coordinates': [-3.7013149, 40.4268479]}","Calle de Fuencarral, 86, 28004 Madrid, Spain",healthy
-25,Pizza Natura- Restaurante saludable y sin gluten,4.7,"{'type': 'Point', 'coordinates': [-3.6968077, 40.4169235]}","Calle de Jovellanos, 6, 28014 Madrid, Spain",healthy
-26,Rawcoco,4.4,"{'type': 'Point', 'coordinates': [-3.6947817, 40.4281657]}","Calle de Fernando el Santo, 4, 28010 Madrid, Spain",healthy
-27,Bee Healthy Shop,3.9,"{'type': 'Point', 'coordinates': [-3.6987229, 40.41514249999999]}","Calle de Santa Isabel 5, Planta Baja, 3, 28012 Madrid, Spain",healthy
-28,Crack healthy diner,4.0,"{'type': 'Point', 'coordinates': [-3.7063808, 40.4225845]}","Calle de la Luna, 24, 28004 Madrid, Spain",healthy
-29,Flax & Kale Street,4.0,"{'type': 'Point', 'coordinates': [-3.691717999999999, 40.4501669]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",healthy
-30,Restaurante PINALE,4.5,"{'type': 'Point', 'coordinates': [-3.678641, 40.426467]}","Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",healthy
-31,Naked and Sated,4.2,"{'type': 'Point', 'coordinates': [-3.6906529, 40.4633621]}","Calle Estébanez Calderón, 3, 5, 28020 Madrid, Spain",healthy
-32,Health & Go,3.9,"{'type': 'Point', 'coordinates': [-3.6922929, 40.4512057]}","Av. del General Perón, 40, 28020 Madrid, Spain",healthy
-33,Healthy GOurmet,0.0,"{'type': 'Point', 'coordinates': [-3.639622, 40.5310656]}","Av. de Bruselas, 24, 28108 Alcobendas, Madrid, Spain",healthy
-34,Crudo bowl - Chamberí,4.1,"{'type': 'Point', 'coordinates': [-3.6945366, 40.4360118]}","Calle de Fernández de la Hoz, 48, 28010 Madrid, Spain",healthy
-35,Honest Greens El Corte Inglés Castellana,4.3,"{'type': 'Point', 'coordinates': [-3.6942858, 40.4466622]}","Calle de Raimundo Fernández Villaverde, 65, 28003 Madrid, Spain",healthy
-36,Bumpgreen,4.2,"{'type': 'Point', 'coordinates': [-3.6845499, 40.4221562]}","Calle de Velázquez, 11, 28001 Madrid, Spain",healthy
-37,Naked and Sated,4.2,"{'type': 'Point', 'coordinates': [-3.6861546, 40.4353049]}","Calle de Serrano, 110, 28006 Madrid, Spain",healthy
-38,Tasty Market,4.5,"{'type': 'Point', 'coordinates': [-3.6796939, 40.4231328]}","Calle de Alcalá, 125, 28009 Madrid, Spain",healthy
-39,Chop&Chop,2.3,"{'type': 'Point', 'coordinates': [-3.7091164, 40.4408754]}","Av. de Filipinas, 7, 28003 Madrid, Spain",healthy
-40,Crudo bowl - Chamartín,5.0,"{'type': 'Point', 'coordinates': [-3.6789836, 40.4588116]}","Junto al hospital veterinario, Enfrente de Pastelería Mallorca, Av. de Alberto de Alcocer, 47-45 Esquina, 28016 Madrid, Spain",healthy
-41,Superchulo Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7032607, 40.4285343]}","C. de Manuela Malasaña, 11, 28004 Madrid, Spain",healthy
-42,Healthy Fit POKE,4.6,"{'type': 'Point', 'coordinates': [-3.5949467, 40.3603891]}","Calle Embalse de Pinilla, 4, 28051 Madrid, Spain",healthy
-43,Healthy Poke Islazul,4.7,"{'type': 'Point', 'coordinates': [-3.737479099999999, 40.3637278]}","Calle Calderilla, 1, Puesto 148, 28054 Madrid, Spain",healthy
-44,Roots Ayala,4.4,"{'type': 'Point', 'coordinates': [-3.6835874, 40.427657]}","Cl. de Ayala, 44, 28001 Madrid, Spain",healthy
-45,SOMA Healthy Café y Yoga Center,4.1,"{'type': 'Point', 'coordinates': [-3.67878, 40.4196549]}","Calle de Menorca, 3, 28009 Madrid, Spain",healthy
-46,La Nodriza,4.9,"{'type': 'Point', 'coordinates': [-3.7088071, 40.4188609]}","Calle de los Caños del Peral, 5, 28013 Madrid, Spain",healthy
-47,Olivia te Cuida,4.5,"{'type': 'Point', 'coordinates': [-3.6958141, 40.4257195]}","Calle de Sta. Teresa, 8, 28004 Madrid, Spain",healthy
-48,La Huerta de Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7028915, 40.4232098]}","Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",healthy
-49,CLEAS Healthy Food,1.0,"{'type': 'Point', 'coordinates': [-3.695705, 40.424919]}","Calle de Fernando VI, 21, 28004 Madrid, Spain",healthy
-50,Magasand Retiro,4.1,"{'type': 'Point', 'coordinates': [-3.687968, 40.42108899999999]}","Calle de Columela, 4, 28001 Madrid, Spain",healthy
-51,Rocket To Go by Ollywood,4.9,"{'type': 'Point', 'coordinates': [-3.6901394, 40.420448]}","Calle de Salustiano Olózaga, 14, 28001 Madrid, Spain",healthy
-52,BE.ST. Healthy ground,0.0,"{'type': 'Point', 'coordinates': [-3.716933199999999, 40.430668]}","Calle del Marqués de Urquijo, 4, 28008 Madrid, Spain",healthy
-53,Crudo Delicatessen,4.5,"{'type': 'Point', 'coordinates': [-3.6933674, 40.4361881]}","Calle de Zurbano, 61, 28010 Madrid, Spain",healthy
-54,Fresh&easy,4.8,"{'type': 'Point', 'coordinates': [-3.6978065, 40.4252308]}","Calle de Hortaleza, 75, 28004 Madrid, Spain",healthy
-55,Healthy Lab,5.0,"{'type': 'Point', 'coordinates': [-3.6478461, 40.5317022]}","Acuanova, Carr. de Fuencarral, 44, Edificio 3 Piso 2 Puerta L24, 28108 Alcobendas, Madrid, Spain",healthy
-56,Healthy Hunters (Pozuelo),4.8,"{'type': 'Point', 'coordinates': [-3.8028219, 40.43245719999999]}","Vía de las Dos Castillas, 9C, 28224 Pozuelo de Alarcón, Madrid, Spain",healthy
-57,MANDIOCA BAR,4.3,"{'type': 'Point', 'coordinates': [-3.7047274, 40.4320365]}","Calle de San Bernardo, 120, 28015 Madrid, Spain",healthy
-58,Healthy Work,5.0,"{'type': 'Point', 'coordinates': [-3.7208391, 40.42961469999999]}","Calle de Ferraz, 49, 28008 Madrid, Spain",healthy
-59,Aloha Poké,4.4,"{'type': 'Point', 'coordinates': [-3.7015722, 40.4055139]}","Ronda de Valencia, 14, 28012 Madrid, Spain",healthy
+,name,rating,location,address,price_level,place
+0,Honest Greens Castellana,4.4,"{'type': 'Point', 'coordinates': [-3.691945699999999, 40.4499383]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",2.0,healthy
+1,Healthy Poke Madrid - Plaza Mayor - Poke a domicilio,4.5,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}","Calle de Toledo, 26, 28005 Madrid, Spain",1.0,healthy
+2,Roots Lamarca,4.2,"{'type': 'Point', 'coordinates': [-3.695643, 40.4245974]}","Calle de Fernando VI, 10, Local 4, 28004 Madrid, Spain",,healthy
+3,"Rawcoco Madrid, Salamanca",4.2,"{'type': 'Point', 'coordinates': [-3.6787278, 40.4262056]}","Calle del Gral. Pardiñas, 21, 28001 Madrid, Spain",2.0,healthy
+4,Healthy Poke Madrid - General Pardiñas - Poke a domicilio,4.5,"{'type': 'Point', 'coordinates': [-3.6787036, 40.42649660000001]}","Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",,healthy
+5,Ohanasana,4.4,"{'type': 'Point', 'coordinates': [-3.6954851, 40.4230194]}","Calle del Barquillo, 34, 28004 Madrid, Spain",2.0,healthy
+6,Honest Greens Hortaleza,4.5,"{'type': 'Point', 'coordinates': [-3.6978312, 40.4248241]}","Calle de Hortaleza, 100, 28004 Madrid, Spain",2.0,healthy
+7,Honest Greens Velázquez,4.4,"{'type': 'Point', 'coordinates': [-3.6833106, 40.4374378]}","Calle de Velázquez, 123, 28006 Madrid, Spain",2.0,healthy
+8,Batavia Healthy Food,4.3,"{'type': 'Point', 'coordinates': [-3.6987281, 40.428177]}","Calle de Sagasta, 18, 28004 Madrid, Spain",2.0,healthy
+9,La Hummuseria,4.6,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}","Calle de Hernán Cortés, 8, 28004 Madrid, Spain",1.0,healthy
+10,Healthy´s,4.9,"{'type': 'Point', 'coordinates': [-3.716280299999999, 40.4388814]}","C. de Hilarión Eslava, 64, 28015 Madrid, Spain",1.0,healthy
+11,Healthy Poke - Intercambiador Plaza Castilla - Poke a domicilio,4.7,"{'type': 'Point', 'coordinates': [-3.6888186, 40.4681369]}","En frente de llaollao y Hertz Local : Healthy Poke, Paseo de la Castellana, 193 Superficie del intercambiador, Plaza Castilla, 28046 Madrid, Spain",,healthy
+12,Healthy Hunters (Gta Bilbao),4.8,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}","Glorieta de Bilbao, 7, 28004 Madrid, Spain",,healthy
+13,Healthy Hunters,4.9,"{'type': 'Point', 'coordinates': [-3.682568, 40.439811]}","Calle de Velázquez, 136, 28006 Madrid, Spain",1.0,healthy
+14,Honest Greens Serrano,4.4,"{'type': 'Point', 'coordinates': [-3.6875762, 40.4285275]}","Calle de Serrano, 41, 28001 Madrid, Spain",2.0,healthy
+15,Werfresh Healthy Food,4.7,"{'type': 'Point', 'coordinates': [-3.7019621, 40.446967]}","Calle de Raimundo Fernández Villaverde, 15, 28003 Madrid, Spain",,healthy
+16,Naturasi supermarket Bernabéu,4.6,"{'type': 'Point', 'coordinates': [-3.689378999999999, 40.454546]}","Calle del Dr. Fleming, 1, 28036 Madrid, Spain",,healthy
+17,Healthy Poke,4.7,"{'type': 'Point', 'coordinates': [-3.7043066, 40.4302651]}","Calle de Sandoval, 12, local 3, 28010 Madrid, Spain",,healthy
+18,Cinco Fast & Healthy,4.5,"{'type': 'Point', 'coordinates': [-3.7013149, 40.4268479]}","Calle de Fuencarral, 86, 28004 Madrid, Spain",,healthy
+19,A B O L E A,4.2,"{'type': 'Point', 'coordinates': [-3.7041016, 40.4300975]}","Calle de Sandoval, 10, 12, 28010 Madrid, Spain",2.0,healthy
+20,Bee Healthy Shop,3.9,"{'type': 'Point', 'coordinates': [-3.6987229, 40.41514249999999]}","Calle de Santa Isabel 5, Planta Baja, 3, 28012 Madrid, Spain",,healthy
+21,Flax & Kale Street,4.0,"{'type': 'Point', 'coordinates': [-3.691717999999999, 40.4501669]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",,healthy
+22,Naked and Sated,4.2,"{'type': 'Point', 'coordinates': [-3.6906529, 40.4633621]}","Calle Estébanez Calderón, 3, 5, 28020 Madrid, Spain",,healthy
+23,Ambrosía healthy FOOD,4.8,"{'type': 'Point', 'coordinates': [-3.7028105, 40.4362625]}","C. Gral. Álvarez de Castro, 23, 28010 Madrid, Spain",,healthy
+24,Tasty Market,4.5,"{'type': 'Point', 'coordinates': [-3.6796939, 40.4231328]}","Calle de Alcalá, 125, 28009 Madrid, Spain",,healthy
+25,Bumpgreen,4.2,"{'type': 'Point', 'coordinates': [-3.6845499, 40.4221562]}","Calle de Velázquez, 11, 28001 Madrid, Spain",2.0,healthy
+26,Naked and Sated,4.2,"{'type': 'Point', 'coordinates': [-3.6861546, 40.4353049]}","Calle de Serrano, 110, 28006 Madrid, Spain",2.0,healthy
+27,Chop&Chop,2.3,"{'type': 'Point', 'coordinates': [-3.7091164, 40.4408754]}","Av. de Filipinas, 7, 28003 Madrid, Spain",,healthy
+28,Restaurante Garten True Food - Real Food - Madrid - Comida Sana,4.7,"{'type': 'Point', 'coordinates': [-3.695104, 40.4490664]}","Calle de Orense, 12, 28020 Madrid, Spain",,healthy
+29,𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁𝗲 𝗚𝗮𝗿𝘁𝗲𝗻 𝗧𝗿𝘂𝗲 𝗙𝗼𝗼𝗱 - Real Food - Madrid - Comida sana,4.4,"{'type': 'Point', 'coordinates': [-3.6818325, 40.4225234]}","Calle de Castelló, 3, 28001 Madrid, Spain",,healthy
+30,PANELA & CO,3.9,"{'type': 'Point', 'coordinates': [-3.6872463, 40.436905]}","Calle de López de Hoyos, 10, 28006 Madrid, Spain",2.0,healthy
+31,Healthy Poke Islazul,4.7,"{'type': 'Point', 'coordinates': [-3.737479099999999, 40.3637278]}","Calle Calderilla, 1, Puesto 148, 28054 Madrid, Spain",,healthy
+32,Roots Ayala,4.4,"{'type': 'Point', 'coordinates': [-3.6835874, 40.427657]}","Cl. de Ayala, 44, 28001 Madrid, Spain",,healthy
+33,SOMA Healthy Café y Yoga Center,4.1,"{'type': 'Point', 'coordinates': [-3.67878, 40.4196549]}","Calle de Menorca, 3, 28009 Madrid, Spain",,healthy
+34,La Nodriza,4.9,"{'type': 'Point', 'coordinates': [-3.7088071, 40.4188609]}","Calle de los Caños del Peral, 5, 28013 Madrid, Spain",,healthy
+35,La Huerta de Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7028915, 40.4232098]}","Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",1.0,healthy
+36,Roots La Moraleja,4.5,"{'type': 'Point', 'coordinates': [-3.6507989, 40.51865979999999]}","Calle de la Azalea, 1, 28109 Alcobendas, Madrid, Spain",,healthy
+37,Magasand Retiro,4.1,"{'type': 'Point', 'coordinates': [-3.687968, 40.42108899999999]}","Calle de Columela, 4, 28001 Madrid, Spain",2.0,healthy
+38,Pizza Natura- Restaurante saludable y sin gluten,4.7,"{'type': 'Point', 'coordinates': [-3.6968077, 40.4169235]}","Calle de Jovellanos, 6, 28014 Madrid, Spain",,healthy
+39,Rawcoco,4.4,"{'type': 'Point', 'coordinates': [-3.6947817, 40.4281657]}","Calle de Fernando el Santo, 4, 28010 Madrid, Spain",,healthy
+40,Crudo Delicatessen,4.5,"{'type': 'Point', 'coordinates': [-3.6933674, 40.4361881]}","Calle de Zurbano, 61, 28010 Madrid, Spain",,healthy
+41,Crack healthy diner,4.0,"{'type': 'Point', 'coordinates': [-3.7063808, 40.4225845]}","Calle de la Luna, 24, 28004 Madrid, Spain",,healthy
+42,Healthy Lab,5.0,"{'type': 'Point', 'coordinates': [-3.6478461, 40.5317022]}","Acuanova, Carr. de Fuencarral, 44, Edificio 3 Piso 2 Puerta L24, 28108 Alcobendas, Madrid, Spain",,healthy
+43,Healthy Hunters (Pozuelo),4.8,"{'type': 'Point', 'coordinates': [-3.8028219, 40.43245719999999]}","Vía de las Dos Castillas, 9C, 28224 Pozuelo de Alarcón, Madrid, Spain",,healthy
+44,MANDIOCA BAR,4.3,"{'type': 'Point', 'coordinates': [-3.7047274, 40.4320365]}","Calle de San Bernardo, 120, 28015 Madrid, Spain",1.0,healthy
+45,Restaurante PINALE,4.5,"{'type': 'Point', 'coordinates': [-3.678641, 40.426467]}","Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",1.0,healthy
+46,Health & Go,3.9,"{'type': 'Point', 'coordinates': [-3.6922929, 40.4512057]}","Av. del General Perón, 40, 28020 Madrid, Spain",,healthy
+47,Healthy GOurmet,0.0,"{'type': 'Point', 'coordinates': [-3.639622, 40.5310656]}","Av. de Bruselas, 24, 28108 Alcobendas, Madrid, Spain",,healthy
+48,Healthy Work,5.0,"{'type': 'Point', 'coordinates': [-3.7208391, 40.42961469999999]}","Calle de Ferraz, 49, 28008 Madrid, Spain",,healthy
+49,Crudo bowl - Chamberí,4.1,"{'type': 'Point', 'coordinates': [-3.6945366, 40.4360118]}","Calle de Fernández de la Hoz, 48, 28010 Madrid, Spain",,healthy
+50,Aloha Poké,4.4,"{'type': 'Point', 'coordinates': [-3.7015722, 40.4055139]}","Ronda de Valencia, 14, 28012 Madrid, Spain",,healthy
+51,Honest Greens El Corte Inglés Castellana,4.3,"{'type': 'Point', 'coordinates': [-3.6942858, 40.4466622]}","Calle de Raimundo Fernández Villaverde, 65, 28003 Madrid, Spain",,healthy
+52,Vega Alamo,4.6,"{'type': 'Point', 'coordinates': [-3.7091151, 40.4238398]}","Calle del Álamo, 3, 28015 Madrid, Spain",2.0,healthy
+53,Almalibre Açaí House Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6974478, 40.4211367]}","Calle de la Libertad, 17, 28004 Madrid, Spain",,healthy
+54,Aloha Poké,4.7,"{'type': 'Point', 'coordinates': [-3.7133467, 40.4366626]}","Calle de Guzmán el Bueno, 73, 28015 Madrid, Spain",,healthy
+55,Crudo bowl - Chamartín,5.0,"{'type': 'Point', 'coordinates': [-3.6789836, 40.4588116]}","Junto al hospital veterinario, Enfrente de Pastelería Mallorca, Av. de Alberto de Alcocer, 47-45 Esquina, 28016 Madrid, Spain",,healthy
+56,Superchulo Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7032607, 40.4285343]}","C. de Manuela Malasaña, 11, 28004 Madrid, Spain",2.0,healthy
+57,Aloha Poké,4.5,"{'type': 'Point', 'coordinates': [-3.7021041, 40.4247199]}","Corredera Alta de San Pablo, 5, 28004 Madrid, Spain",,healthy
+58,Clinica De Fisioterapia Healthy Life,5.0,"{'type': 'Point', 'coordinates': [-3.6669584, 40.4053216]}","Calle de Federico Moreno Torroba, 9, 28007 Madrid, Spain",,healthy
+59,Healthy Fit POKE,4.6,"{'type': 'Point', 'coordinates': [-3.5949467, 40.3603891]}","Calle Embalse de Pinilla, 4, 28051 Madrid, Spain",,healthy

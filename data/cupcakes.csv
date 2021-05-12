@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Cupcakes Happy To You,4.5,"{'type': 'Point', 'coordinates': [-3.67666, 40.442142]}","Calle de López de Hoyos, 78 Duplicado, 28002 Madrid, Spain",cupcakes
-1,NoSonMagdalenasSonCupcakes,4.9,"{'type': 'Point', 'coordinates': [-3.6255451, 40.3788946]}","Calle Puerto de Alazores, 16, 28031 Madrid, Spain",cupcakes
-2,Cupcake Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6829629, 40.43701009999999]}","Calle de Velázquez, 126, 28006 Madrid, Spain",cupcakes
-3,Oh my cup!,4.1,"{'type': 'Point', 'coordinates': [-3.6109466, 40.38047479999999]}","Calle de Puentelarra, 40, 28031 Madrid, Spain",cupcakes
-4,Ceci Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.696997, 40.4357602]}","Calle de Viriato, 57, 28010 Madrid, Spain",cupcakes
-5,Noni's Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.6945119, 40.4017113]}","Plaza Luca de Tena, 11, 28045 Madrid, Spain",cupcakes
-6,Alma's Cupcakes - Shop,4.6,"{'type': 'Point', 'coordinates': [-3.6722729, 40.4274107]}","Calle de Montesa, 10, 28006 Madrid, Spain",cupcakes
-7,Wicked Sweet Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}","Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",cupcakes
-8,Pastelería Auxai Tartas,4.9,"{'type': 'Point', 'coordinates': [-3.7824568, 40.4581168]}","Plaza San Anacleto, 2, 28023 Madrid, Spain",cupcakes
-9,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",cupcakes
-10,Star Cakes Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.639175, 40.467531]}","c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",cupcakes
-11,Acaramelada Pastelería,4.5,"{'type': 'Point', 'coordinates': [-3.7106253, 40.40454709999999]}","Paseo de los Olmos, 13, 28005 Madrid, Spain",cupcakes
-12,La Galleta Prometida,4.7,"{'type': 'Point', 'coordinates': [-3.7509443, 40.4079422]}","Calle de Villamanín, 32, 28011 Madrid, Spain",cupcakes
-13,CELICIOSO Gluten Free Bakery,4.2,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}","Calle de Hortaleza, 3, 28004 Madrid, Spain",cupcakes
-14,Mia Bakery,4.4,"{'type': 'Point', 'coordinates': [-3.6728972, 40.4526914]}","C. de Víctor de la Serna, 6, 28016 Madrid, Spain",cupcakes
-15,Nuria's Bakery,4.9,"{'type': 'Point', 'coordinates': [-3.5465364, 40.3671593]}","Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",cupcakes
-16,Katy's Bakery,4.6,"{'type': 'Point', 'coordinates': [-3.694635, 40.4238224]}","Plaza de las Salesas, 8, 28004 Madrid, Spain",cupcakes
-17,Ricci's Cakes,4.6,"{'type': 'Point', 'coordinates': [-3.696773899999999, 40.4522897]}","Av. del General Perón, 16, 28020 Madrid, Spain",cupcakes
-18,Decake,4.3,"{'type': 'Point', 'coordinates': [-3.669262, 40.4006245]}","Calle Francisco Abril, 11, 28007 Madrid, Spain",cupcakes
-19,Colette Bakery Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6971859, 40.382371]}","Av. de Córdoba, 25, 28026 Madrid, Spain",cupcakes
-20,Sweet Brothers - Tartas Cakes,4.7,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",cupcakes
-21,CROWN'S BAKERY. Reposteria Creativa,4.8,"{'type': 'Point', 'coordinates': [-3.774312999999999, 40.3958327]}","Calle del Cine, 46, 28024 Madrid, Spain",cupcakes
-22,Maria Mirabelli Party Design,3.9,"{'type': 'Point', 'coordinates': [-3.696805899999999, 40.4394059]}","Calle de Bretón de los Herreros, 38, 28003 Madrid, Spain",cupcakes
-23,Home Bakery,4.3,"{'type': 'Point', 'coordinates': [-3.674447999999999, 40.505456]}","Calle Viloria de La Rioja, 42, 28050 Madrid, Spain",cupcakes
-24,Bakery,4.7,"{'type': 'Point', 'coordinates': [-3.673855499999999, 40.4396634]}","Calle de Cartagena, 101, 28002 Madrid, Spain",cupcakes
-25,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"{'type': 'Point', 'coordinates': [-3.7132583, 40.4025434]}","Calle de Toledo, 171, 28005 Madrid, Spain",cupcakes
-26,Sana Locura Gluten Free Bakery,4.4,"{'type': 'Point', 'coordinates': [-3.6801016, 40.4360652]}","Calle del Gral Oraá, 49, 28006 Madrid, Spain",cupcakes
-27,Madrid tarta fondant Mauricci,4.5,"{'type': 'Point', 'coordinates': [-3.6510764, 40.3863095]}","Calle Río Salado, 1, 2do A, 28018 Madrid, Spain",cupcakes
-28,So sweet,4.8,"{'type': 'Point', 'coordinates': [-3.6730122, 40.4406568]}","Calle Clara del Rey, 11, 28002 Madrid, Spain",cupcakes
-29,La Cocina de mi Vecina,4.5,"{'type': 'Point', 'coordinates': [-3.7019962, 40.4253466]}","Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",cupcakes
-30,London's Bakery,4.7,"{'type': 'Point', 'coordinates': [-3.6872544, 40.45706029999999]}","Calle de Juan Ramón Jiménez, 7, 28036 Madrid, Spain",cupcakes
-31,Levaduramadre,4.5,"{'type': 'Point', 'coordinates': [-3.7040816, 40.4227662]}","Calle del Pez, 1, 28004 Madrid, Spain",cupcakes
-32,Bakery CON Z,4.3,"{'type': 'Point', 'coordinates': [-3.6980579, 40.4253249]}","Calle, Travesía de San Mateo, #7, 28004 Madrid, Spain",cupcakes
-33,Happy Cupcake,4.3,"{'type': 'Point', 'coordinates': [-3.6334706, 40.54152759999999]}","Calle de Costanilla de los Ciegos, 6, 28100 Alcobendas, Madrid, Spain",cupcakes
-34,Artisan bakery Glassé,4.3,"{'type': 'Point', 'coordinates': [-3.695851, 40.4441207]}","Calle de Modesto Lafuente, 57, 28003 Madrid, Spain",cupcakes
-35,BAM Bakery,3.9,"{'type': 'Point', 'coordinates': [-3.6929049, 40.4394661]}","Calle de Zurbano, 83, 28003 Madrid, Spain",cupcakes
-36,La Cachiterie Las Tablas,4.9,"{'type': 'Point', 'coordinates': [-3.6646083, 40.5070501]}","Paseo Tierra de Melide, 15, LOCAL, 28050 Madrid, Spain",cupcakes
-37,La Cocina de mi Vecina (Take Away),4.3,"{'type': 'Point', 'coordinates': [-3.7086485, 40.4382636]}","Calle de Vallehermoso, 75, 28015 Madrid, Spain",cupcakes
-38,Granier San Bernardo,3.9,"{'type': 'Point', 'coordinates': [-3.7075654, 40.4221085]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",cupcakes
-39,Celicioso,3.9,"{'type': 'Point', 'coordinates': [-3.6795075, 40.4215592]}","Calle de O'Donnell, 4, 28009 Madrid, Spain",cupcakes
-40,Madridelicia Bakery & Cafe,4.3,"{'type': 'Point', 'coordinates': [-3.7122608, 40.4572586]}","Calle de Francos Rodríguez, 69, 28039 Madrid, Spain",cupcakes
-41,Panaria,3.9,"{'type': 'Point', 'coordinates': [-3.6966539, 40.4112717]}","C. de Atocha, 89, 28012 Madrid, Spain",cupcakes
-42,Maria's Bakery,4.0,"{'type': 'Point', 'coordinates': [-3.6937754, 40.4288234]}","Calle de Zurbano, 15, 28010 Madrid, Spain",cupcakes
-43,Titis Cookies | Repostería Creativa,4.9,"{'type': 'Point', 'coordinates': [-3.8219519, 40.3516691]}","Calle Porto Colón, Plaza de Lugo, 2, Posterior, 28924 Alcorcón, Madrid, Spain",cupcakes
-44,Panadería y Pastelería en Lavapiés | KASMI,4.7,"{'type': 'Point', 'coordinates': [-3.7006134, 40.4110492]}","Calle del Ave María, 18, 28012 Madrid, Spain",cupcakes
-45,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.709315, 40.42935]}","Calle del Conde Duque, 19, 28015 Madrid, Spain",cupcakes
-46,Pastry Chef pastry,4.8,"{'type': 'Point', 'coordinates': [-3.701097599999999, 40.4841071]}","Calle de Santiago de Compostela, 30, Local 1, 28034 Madrid, Spain",cupcakes
-47,Repostería Creativa Maicookie,4.0,"{'type': 'Point', 'coordinates': [-3.676224399999999, 40.3444435]}","Calle de Berrocal, 9, LOC, 28021 Madrid, Spain",cupcakes
-48,Levaduramadre,4.6,"{'type': 'Point', 'coordinates': [-3.714501099999999, 40.4312027]}","C. de Andrés Mellado, 8, 28015 Madrid, Spain",cupcakes
-49,Bakery pastry Panishop - Studies,4.1,"{'type': 'Point', 'coordinates': [-3.7071689, 40.4115761]}","Calle de los Estudios, 9, 28012 Madrid, Spain",cupcakes
-50,Crustó,3.7,"{'type': 'Point', 'coordinates': [-3.7159323, 40.4310133]}","Calle de Gaztambide, 3, 28015 Madrid, Spain",cupcakes
-51,"Salomé: Panadería, pastelería y cafetería",4.7,"{'type': 'Point', 'coordinates': [-3.7247122, 40.412028]}","C. de Saavedra Fajardo, 34, 28011 Madrid, Spain",cupcakes
-52,Levaduramadre,4.3,"{'type': 'Point', 'coordinates': [-3.7066946, 40.4105791]}","Calle de Embajadores, 3, 28012 Madrid, Spain",cupcakes
-53,FILIFY Bakery & Coffee,4.4,"{'type': 'Point', 'coordinates': [-3.696719499999999, 40.4079347]}","Calle de Argumosa, 35, 28012 Madrid, Spain",cupcakes
-54,La Mallorquina,4.3,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}","Puerta del Sol, 8, 28013 Madrid, Spain",cupcakes
-55,Bakery Zurbano Crusto,3.9,"{'type': 'Point', 'coordinates': [-3.6935275, 40.4291306]}","Calle de Zurbano, 26, 28010 Madrid, Spain",cupcakes
-56,chök - A. Figueroa,4.5,"{'type': 'Point', 'coordinates': [-3.698952, 40.4224802]}","Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",cupcakes
-57,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.698495, 40.4440095]}","Calle de María de Guzmán, 30, 28003 Madrid, Spain",cupcakes
-58,Tartas Artesanales,5.0,"{'type': 'Point', 'coordinates': [-3.6666415, 40.4244959]}","C. de Antonio Toledano, 17, 28028 Madrid, Spain",cupcakes
-59,Santa Gloria,4.0,"{'type': 'Point', 'coordinates': [-3.6828881, 40.4223404]}","Calle de Villanueva, 33, 28001 Madrid, Spain",cupcakes
+,name,rating,location,address,price_level,place
+0,Cupcakes Happy To You,4.5,"{'type': 'Point', 'coordinates': [-3.67666, 40.442142]}","Calle de López de Hoyos, 78 Duplicado, 28002 Madrid, Spain",,cupcakes
+1,Oh my cup!,4.1,"{'type': 'Point', 'coordinates': [-3.6109466, 40.38047479999999]}","Calle de Puentelarra, 40, 28031 Madrid, Spain",,cupcakes
+2,Ceci Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.696997, 40.4357602]}","Calle de Viriato, 57, 28010 Madrid, Spain",,cupcakes
+3,Noni's Bakery,5.0,"{'type': 'Point', 'coordinates': [-3.6945119, 40.4017113]}","Plaza Luca de Tena, 11, 28045 Madrid, Spain",,cupcakes
+4,Pastelería Auxai Tartas,4.9,"{'type': 'Point', 'coordinates': [-3.7824568, 40.4581168]}","Plaza San Anacleto, 2, 28023 Madrid, Spain",,cupcakes
+5,Alma's Cupcakes - Shop,4.6,"{'type': 'Point', 'coordinates': [-3.6722729, 40.4274107]}","Calle de Montesa, 10, 28006 Madrid, Spain",,cupcakes
+6,Wicked Sweet Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}","Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",,cupcakes
+7,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,cupcakes
+8,CELICIOSO Gluten Free Bakery,4.2,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}","Calle de Hortaleza, 3, 28004 Madrid, Spain",,cupcakes
+9,Nuria's Bakery,4.9,"{'type': 'Point', 'coordinates': [-3.5465364, 40.3671593]}","Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",,cupcakes
+10,Katy's Bakery,4.6,"{'type': 'Point', 'coordinates': [-3.694635, 40.4238224]}","Plaza de las Salesas, 8, 28004 Madrid, Spain",1.0,cupcakes
+11,Decake,4.3,"{'type': 'Point', 'coordinates': [-3.669262, 40.4006245]}","Calle Francisco Abril, 11, 28007 Madrid, Spain",,cupcakes
+12,Sweet Brothers - Tartas Cakes,4.7,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,cupcakes
+13,Maria Mirabelli Party Design,3.9,"{'type': 'Point', 'coordinates': [-3.696805899999999, 40.4394059]}","Calle de Bretón de los Herreros, 38, 28003 Madrid, Spain",,cupcakes
+14,Home Bakery,4.3,"{'type': 'Point', 'coordinates': [-3.674447999999999, 40.505456]}","Calle Viloria de La Rioja, 42, 28050 Madrid, Spain",2.0,cupcakes
+15,Cupcake Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6829629, 40.43701009999999]}","Calle de Velázquez, 126, 28006 Madrid, Spain",,cupcakes
+16,Bakery,4.7,"{'type': 'Point', 'coordinates': [-3.673855499999999, 40.4396634]}","Calle de Cartagena, 101, 28002 Madrid, Spain",,cupcakes
+17,NoSonMagdalenasSonCupcakes,4.9,"{'type': 'Point', 'coordinates': [-3.6255451, 40.3788946]}","Calle Puerto de Alazores, 16, 28031 Madrid, Spain",1.0,cupcakes
+18,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"{'type': 'Point', 'coordinates': [-3.7132583, 40.4025434]}","Calle de Toledo, 171, 28005 Madrid, Spain",,cupcakes
+19,Madrid tarta fondant Mauricci,4.5,"{'type': 'Point', 'coordinates': [-3.6510764, 40.3863095]}","Calle Río Salado, 1, 2do A, 28018 Madrid, Spain",1.0,cupcakes
+20,La Cocina de mi Vecina,4.5,"{'type': 'Point', 'coordinates': [-3.7019962, 40.4253466]}","Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",1.0,cupcakes
+21,London's Bakery,4.7,"{'type': 'Point', 'coordinates': [-3.6872544, 40.45706029999999]}","Calle de Juan Ramón Jiménez, 7, 28036 Madrid, Spain",,cupcakes
+22,Levaduramadre,4.5,"{'type': 'Point', 'coordinates': [-3.7040816, 40.4227662]}","Calle del Pez, 1, 28004 Madrid, Spain",,cupcakes
+23,Bakery CON Z,4.3,"{'type': 'Point', 'coordinates': [-3.6980579, 40.4253249]}","Calle, Travesía de San Mateo, #7, 28004 Madrid, Spain",1.0,cupcakes
+24,Artisan bakery Glassé,4.3,"{'type': 'Point', 'coordinates': [-3.695851, 40.4441207]}","Calle de Modesto Lafuente, 57, 28003 Madrid, Spain",2.0,cupcakes
+25,BAM Bakery,3.9,"{'type': 'Point', 'coordinates': [-3.6929049, 40.4394661]}","Calle de Zurbano, 83, 28003 Madrid, Spain",,cupcakes
+26,La Cachiterie Las Tablas,4.9,"{'type': 'Point', 'coordinates': [-3.6646083, 40.5070501]}","Paseo Tierra de Melide, 15, LOCAL, 28050 Madrid, Spain",1.0,cupcakes
+27,Star Cakes Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.639175, 40.467531]}","c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",1.0,cupcakes
+28,La Cocina de mi Vecina (Take Away),4.3,"{'type': 'Point', 'coordinates': [-3.7086485, 40.4382636]}","Calle de Vallehermoso, 75, 28015 Madrid, Spain",,cupcakes
+29,Granier San Bernardo,3.9,"{'type': 'Point', 'coordinates': [-3.7075654, 40.4221085]}","Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,cupcakes
+30,Celicioso,3.9,"{'type': 'Point', 'coordinates': [-3.6795075, 40.4215592]}","Calle de O'Donnell, 4, 28009 Madrid, Spain",,cupcakes
+31,Acaramelada Pastelería,4.5,"{'type': 'Point', 'coordinates': [-3.7106253, 40.40454709999999]}","Paseo de los Olmos, 13, 28005 Madrid, Spain",,cupcakes
+32,Madridelicia Bakery & Cafe,4.3,"{'type': 'Point', 'coordinates': [-3.7122608, 40.4572586]}","Calle de Francos Rodríguez, 69, 28039 Madrid, Spain",,cupcakes
+33,La Galleta Prometida,4.7,"{'type': 'Point', 'coordinates': [-3.7509443, 40.4079422]}","Calle de Villamanín, 32, 28011 Madrid, Spain",1.0,cupcakes
+34,Maria's Bakery,4.0,"{'type': 'Point', 'coordinates': [-3.6937754, 40.4288234]}","Calle de Zurbano, 15, 28010 Madrid, Spain",,cupcakes
+35,Panadería y Pastelería en Lavapiés | KASMI,4.7,"{'type': 'Point', 'coordinates': [-3.7006134, 40.4110492]}","Calle del Ave María, 18, 28012 Madrid, Spain",,cupcakes
+36,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.709315, 40.42935]}","Calle del Conde Duque, 19, 28015 Madrid, Spain",1.0,cupcakes
+37,Repostería Creativa Maicookie,4.0,"{'type': 'Point', 'coordinates': [-3.676224399999999, 40.3444435]}","Calle de Berrocal, 9, LOC, 28021 Madrid, Spain",,cupcakes
+38,Levaduramadre,4.6,"{'type': 'Point', 'coordinates': [-3.714501099999999, 40.4312027]}","C. de Andrés Mellado, 8, 28015 Madrid, Spain",,cupcakes
+39,Bakery pastry Panishop - Studies,4.1,"{'type': 'Point', 'coordinates': [-3.7071689, 40.4115761]}","Calle de los Estudios, 9, 28012 Madrid, Spain",1.0,cupcakes
+40,Mia Bakery,4.4,"{'type': 'Point', 'coordinates': [-3.6728972, 40.4526914]}","C. de Víctor de la Serna, 6, 28016 Madrid, Spain",,cupcakes
+41,Crustó,3.7,"{'type': 'Point', 'coordinates': [-3.7159323, 40.4310133]}","Calle de Gaztambide, 3, 28015 Madrid, Spain",2.0,cupcakes
+42,"Salomé: Panadería, pastelería y cafetería",4.7,"{'type': 'Point', 'coordinates': [-3.7247122, 40.412028]}","C. de Saavedra Fajardo, 34, 28011 Madrid, Spain",,cupcakes
+43,Levaduramadre,4.3,"{'type': 'Point', 'coordinates': [-3.7066946, 40.4105791]}","Calle de Embajadores, 3, 28012 Madrid, Spain",,cupcakes
+44,FILIFY Bakery & Coffee,4.4,"{'type': 'Point', 'coordinates': [-3.696719499999999, 40.4079347]}","Calle de Argumosa, 35, 28012 Madrid, Spain",1.0,cupcakes
+45,La Mallorquina,4.3,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}","Puerta del Sol, 8, 28013 Madrid, Spain",1.0,cupcakes
+46,Ricci's Cakes,4.6,"{'type': 'Point', 'coordinates': [-3.696773899999999, 40.4522897]}","Av. del General Perón, 16, 28020 Madrid, Spain",1.0,cupcakes
+47,Bakery Zurbano Crusto,3.9,"{'type': 'Point', 'coordinates': [-3.6935275, 40.4291306]}","Calle de Zurbano, 26, 28010 Madrid, Spain",2.0,cupcakes
+48,chök - A. Figueroa,4.5,"{'type': 'Point', 'coordinates': [-3.698952, 40.4224802]}","Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",,cupcakes
+49,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.698495, 40.4440095]}","Calle de María de Guzmán, 30, 28003 Madrid, Spain",2.0,cupcakes
+50,Santa Gloria,3.9,"{'type': 'Point', 'coordinates': [-3.6909718, 40.42233179999999]}","Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,cupcakes
+51,Levaduramadre,3.9,"{'type': 'Point', 'coordinates': [-3.676724, 40.416762]}","C/ del Alcalde Sainz de Baranda, 16, 28009 Madrid, Spain",,cupcakes
+52,Levaduramadre,4.5,"{'type': 'Point', 'coordinates': [-3.7119755, 40.4467071]}","Av. de la Reina Victoria, 52, 28003 Madrid, Spain",,cupcakes
+53,Pecados Divinos,4.9,"{'type': 'Point', 'coordinates': [-3.7082834, 40.4341012]}","Calle de Vallehermoso, 36, 28015 Madrid, Spain",,cupcakes
+54,Zesty,4.4,"{'type': 'Point', 'coordinates': [-3.6924646, 40.40309980000001]}","C/ del Áncora, 9, 28045 Madrid, Spain",1.0,cupcakes
+55,Spelta Bakery,4.5,"{'type': 'Point', 'coordinates': [-3.696798199999999, 40.4650328]}","Calle del Capitán Blanco Argibay, 16, 28029 Madrid, Spain",2.0,cupcakes
+56,Colette Bakery Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6971859, 40.382371]}","Av. de Córdoba, 25, 28026 Madrid, Spain",1.0,cupcakes
+57,Granier,3.9,"{'type': 'Point', 'coordinates': [-3.6966905, 40.4068058]}","Ronda de Atocha, 14, 28012 Madrid, Spain",1.0,cupcakes
+58,Granier,3.8,"{'type': 'Point', 'coordinates': [-3.700060799999999, 40.41270189999999]}","C. de Atocha, 42, 28012 Madrid, Spain",1.0,cupcakes
+59,Pastelería Lyon,4.1,"{'type': 'Point', 'coordinates': [-3.6760013, 40.4569345]}","Calle de Colombia, 12, 28016 Madrid, Spain",,cupcakes

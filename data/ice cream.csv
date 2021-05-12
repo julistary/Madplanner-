@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Mistura Ice Cream,4.4,"{'type': 'Point', 'coordinates': [-3.7001373, 40.4229735]}","Calle de Augusto Figueroa, 5, 28004 Madrid, Spain",2.0,ice cream
+1,Mistura Ice Cream,4.2,"{'type': 'Point', 'coordinates': [-3.678401599999999, 40.4247828]}","Calle de Goya, 50, 28001 Madrid, Spain",2.0,ice cream
+2,Mistura Ice Cream,4.4,"{'type': 'Point', 'coordinates': [-3.7084877, 40.4158]}","Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",2.0,ice cream
+3,Labonata heladeria,4.7,"{'type': 'Point', 'coordinates': [-3.6974523, 40.422681]}","Plaza de Chueca, 8, 28004 Madrid, Spain",1.0,ice cream
+4,Amorino,4.4,"{'type': 'Point', 'coordinates': [-3.708414, 40.41611]}","Calle Mayor, 40, 28013 Madrid, Spain",2.0,ice cream
+5,Helados Patagonia Artesanal,4.5,"{'type': 'Point', 'coordinates': [-3.7038799, 40.4125643]}","Plaza de Tirso de Molina, 19, 28012 Madrid, Spain",1.0,ice cream
+6,"GIOELIA Cremeria, Madrid Atocha",4.7,"{'type': 'Point', 'coordinates': [-3.6999978, 40.4127658]}","C. de Atocha, 42, 28012 Madrid, Spain",1.0,ice cream
+7,TÖTO ICE CREAM & COFFEE,4.5,"{'type': 'Point', 'coordinates': [-3.7018976, 40.4251827]}","Corredera Alta de San Pablo, 12, 28004 Madrid, Spain",,ice cream
+8,Gelateria La Romana,4.6,"{'type': 'Point', 'coordinates': [-3.686658, 40.4512712]}","Paseo de la Habana, 27, 28036 Madrid, Spain",2.0,ice cream
+9,Rocambolesc - Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.6871185, 40.4276329]}","Planta 7 El Corte Inglés, Calle de Serrano, 52, 28001 Madrid, Spain",,ice cream
+10,Zúccaru,4.7,"{'type': 'Point', 'coordinates': [-3.7116778, 40.4172333]}","Calle de Vergara, 16, 28013 Madrid, Spain",1.0,ice cream
+11,Heladería Palazzo - Italian Ice Cream,4.0,"{'type': 'Point', 'coordinates': [-3.7074789, 40.4215471]}","C/ Gran Vía, 56, 28013 Madrid, Spain",1.0,ice cream
+12,La Pecera,4.1,"{'type': 'Point', 'coordinates': [-3.7019191, 40.4267833]}","Calle de Velarde, 2, 28004 Madrid, Spain",2.0,ice cream
+13,Amorino,4.1,"{'type': 'Point', 'coordinates': [-3.7051399, 40.4194751]}","Planta 9 Corte Ingles Callao, Plaza del Callao, 2, 28013 Madrid, Spain",2.0,ice cream
+14,Mistura Ice Cream,4.4,"{'type': 'Point', 'coordinates': [-3.7026646, 40.4145141]}","Plaza del Ángel, 2, 28012 Madrid, Spain",2.0,ice cream
+15,Kalúa Fuencarral 149,4.5,"{'type': 'Point', 'coordinates': [-3.7036902, 40.4315159]}","Calle de Fuencarral, 131, 28010 Madrid, Spain",,ice cream
+16,Gelateria La Romana,4.6,"{'type': 'Point', 'coordinates': [-3.7053937, 40.4301801]}","Calle de San Bernardo, 96, 28015 Madrid, Spain",2.0,ice cream
+17,Artisan ice cream tutti frutti,4.4,"{'type': 'Point', 'coordinates': [-3.7155473, 40.420653]}","Cuesta de San Vicente, 22, 28008 Madrid, Spain",1.0,ice cream
+18,Heladería Los Alpes,4.3,"{'type': 'Point', 'coordinates': [-3.7173544, 40.4335169]}","Calle Arcipreste de Hita, 6, 28015 Madrid, Spain",2.0,ice cream
+19,Heladería Palazzo - Italian Ice Cream,4.1,"{'type': 'Point', 'coordinates': [-3.7049571, 40.418766]}","Calle del Carmen, 27, 28013 Madrid, Spain",1.0,ice cream
+20,Heladería Sienna Narváez,4.5,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4186111]}","C. de Narváez, 62, 28009 Madrid, Spain",1.0,ice cream
+21,Mistura Ice Cream,4.1,"{'type': 'Point', 'coordinates': [-3.708629, 40.410802]}","Calle de Toledo, 71, 28005 Madrid, Spain",,ice cream
+22,Mamá Elba Heladería-Cafetería,4.7,"{'type': 'Point', 'coordinates': [-3.710703, 40.438719]}","Calle de Cea Bermúdez, 29, 28003 Madrid, Spain",1.0,ice cream
+23,Mamá Elba Heladería,4.6,"{'type': 'Point', 'coordinates': [-3.708181699999999, 40.4106247]}","Calle de la Ruda, 15, 28005 Madrid, Spain",,ice cream
+24,Gelateria La Romana,4.6,"{'type': 'Point', 'coordinates': [-3.6911296, 40.4621787]}","Calle de Rosario Pino, 6, 28020 Madrid, Spain",2.0,ice cream
+25,Mistura Ice Cream,4.4,"{'type': 'Point', 'coordinates': [-3.6768762, 40.455672]}","Calle del Príncipe de Vergara, 254, 28016 Madrid, Spain",,ice cream
+26,N2 Lab,4.3,"{'type': 'Point', 'coordinates': [-3.6979982, 40.42319699999999]}","Calle de Gravina, 5, 28004 Madrid, Spain",1.0,ice cream
+27,Gelateria Carte D'Or Arenal,4.0,"{'type': 'Point', 'coordinates': [-3.7068135, 40.4173752]}","Calle del Arenal, 18, 28013 Madrid, Spain",,ice cream
+28,Heladería Palazzo - Italian Ice Cream,3.9,"{'type': 'Point', 'coordinates': [-3.682243499999999, 40.42525089999999]}","Calle de Goya, 49, 28013 Madrid, Spain",1.0,ice cream
+29,Heladería Palazzo - Italian Ice Cream,4.0,"{'type': 'Point', 'coordinates': [-3.7012319, 40.4297908]}","Calle de Luchana, 9, 28010 Madrid, Spain",1.0,ice cream
+30,Häagen-Dazs,4.3,"{'type': 'Point', 'coordinates': [-3.7127534, 40.4199572]}","Calle de Bailén, 15, 28013 Madrid, Spain",2.0,ice cream
+31,Ice-Mad The Thai Roll Ice Cream,4.2,"{'type': 'Point', 'coordinates': [-3.587704, 40.4461171]}","Centro Comercial Pleniluio, Calle de Aracne, 3, 28022 Madrid, Spain",,ice cream
+32,Gelateria DaRoma,4.6,"{'type': 'Point', 'coordinates': [-3.7030765, 40.4443991]}","Calle de Sta Engracia, 155, 28003 Madrid, Spain",1.0,ice cream
+33,Heladería Palazzo,3.9,"{'type': 'Point', 'coordinates': [-3.703899, 40.4171798]}","Puerta del Sol, 11, 28013 Madrid, Spain",1.0,ice cream
+34,Amorino Postas,5.0,"{'type': 'Point', 'coordinates': [-3.7053614, 40.416121]}","Calle de Postas, 3, 28012 Madrid, Spain",,ice cream
+35,Lolo Polos,4.5,"{'type': 'Point', 'coordinates': [-3.7030691, 40.4252798]}","Calle del Espíritu Santo, 16, 28004 Madrid, Spain",1.0,ice cream
+36,llaollao,4.1,"{'type': 'Point', 'coordinates': [-3.707062, 40.419787]}","Calle de Preciados, 40, 28013 Madrid, Spain",1.0,ice cream
+37,llaollao,4.1,"{'type': 'Point', 'coordinates': [-3.646594, 40.433984]}","Calle de Alcalá, 347, 28027 Madrid, Spain",1.0,ice cream
+38,Eccolo Gelato,4.6,"{'type': 'Point', 'coordinates': [-3.7021856, 40.4152072]}","Calle de la Cruz, 25, 28012 Madrid, Spain",,ice cream
+39,Heladería Palazzo - Italian Ice Cream,4.1,"{'type': 'Point', 'coordinates': [-3.6756862, 40.422894]}","C. de Narváez, 13, 28009 Madrid, Spain",1.0,ice cream
+40,llaollao,4.1,"{'type': 'Point', 'coordinates': [-3.703705, 40.41784699999999]}","Calle del Carmen, 6, 28013 Madrid, Spain",1.0,ice cream
+41,Di Angelo Gelateria,4.5,"{'type': 'Point', 'coordinates': [-3.7072317, 40.3978588]}","Paseo de las Yeserías, 41, 28005 Madrid, Spain",2.0,ice cream
+42,Horchatería Alboraya,4.5,"{'type': 'Point', 'coordinates': [-3.679656, 40.4232032]}","Calle de Alcalá, 125, 28009 Madrid, Spain",1.0,ice cream
+43,Heladería Palazzo - Italian Ice Cream,4.2,"{'type': 'Point', 'coordinates': [-3.7127343, 40.4201088]}","Calle de Bailén, 11, 28013 Madrid, Spain",1.0,ice cream
+44,Heladería Corleone,4.8,"{'type': 'Point', 'coordinates': [-3.7018462, 40.4254231]}","Corredera Alta de San Pablo, 18, 28004 Madrid, Spain",1.0,ice cream
+45,Gelato Lab,5.0,"{'type': 'Point', 'coordinates': [-3.7100075, 40.4112059]}","Mercado de la Cebada, puesto 37/38, planta baja, 28005 Madrid, Spain",,ice cream
+46,Häagen-Dazs,3.6,"{'type': 'Point', 'coordinates': [-3.796719, 40.394024]}","Calle Edgar Neville, s/n, 28223 Madrid, Spain",2.0,ice cream
+47,Giangrossi,3.7,"{'type': 'Point', 'coordinates': [-3.6842326, 40.4268002]}","Calle de Velázquez, 41, 28001 Madrid, Spain",,ice cream
+48,llaollao,4.0,"{'type': 'Point', 'coordinates': [-3.70177, 40.419065]}","Calle de la Montera, 36, 28013 Madrid, Spain",1.0,ice cream
+49,Freddo Freddo,3.3,"{'type': 'Point', 'coordinates': [-3.7092686, 40.4156878]}","Calle Mayor, 53, 28013 Madrid, Spain",,ice cream
+50,Igo Waffle Fuencarral,4.7,"{'type': 'Point', 'coordinates': [-3.704371, 40.42920350000001]}","Calle de Carranza, 19, 28004 Madrid, Spain",1.0,ice cream
+51,Loco Polo,4.6,"{'type': 'Point', 'coordinates': [-3.7006475, 40.42284859999999]}","Calle de Fuencarral, 40, 28004 Madrid, Spain",,ice cream
+52,IceCoBar,4.6,"{'type': 'Point', 'coordinates': [-3.7199758, 40.4214928]}","Paseo de la Florida 2 Centro Comercial Príncipe Pío. Frente a la Entrada Principal, 28008 Madrid, Spain",1.0,ice cream
+53,Lupita Paleta,4.9,"{'type': 'Point', 'coordinates': [-3.7091917, 40.4101914]}","Calle de Toledo, 81, 28005 Madrid, Spain",,ice cream
+54,Häagen-Dazs,3.9,"{'type': 'Point', 'coordinates': [-3.702186499999999, 40.3909536]}","Centro Comercial Plaza Rio 2 Local Planta calle, Calle de Antonio López, 109, numero 07, 28026 Madrid, Spain",2.0,ice cream
+55,N2 Lab,4.5,"{'type': 'Point', 'coordinates': [-3.704604799999999, 40.4342596]}","Calle de Bravo Murillo, 3, 28015 Madrid, Spain",,ice cream
+56,Martonela - Cremería Slow,4.5,"{'type': 'Point', 'coordinates': [-3.5875446, 40.4462159]}","Calle de Aracne, 28022 Madrid, Spain",,ice cream
+57,Sienna,4.4,"{'type': 'Point', 'coordinates': [-3.661334099999999, 40.4257762]}","Calle de Sancho Dávila, 29, posterior, 28028 Madrid, Spain",1.0,ice cream
+58,Heladería 4D,3.6,"{'type': 'Point', 'coordinates': [-3.7079224, 40.4138774]}","Calle de Latoneros, 3, 28005 Madrid, Spain",,ice cream
+59,Bico de Xeado,4.7,"{'type': 'Point', 'coordinates': [-3.7070647, 40.4158441]}","Plaza Mayor, 29, 28012 Madrid, Spain",1.0,ice cream

@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Madrid Grill - Parrilla - Cerveceria,3.9,"{'type': 'Point', 'coordinates': [-3.707089, 40.417679]}","Calle de San Martín, 3, 28013 Madrid, Spain",grill
-1,Mad Grill,4.5,"{'type': 'Point', 'coordinates': [-3.6956167, 40.42632220000001]}","Calle de Campoamor, 13, 28004 Madrid, Spain",grill
-2,Lara Grill,4.3,"{'type': 'Point', 'coordinates': [-3.6994657, 40.4360181]}","Calle de Sta Engracia, 87, 28010 Madrid, Spain",grill
-3,Beer & Grill,3.9,"{'type': 'Point', 'coordinates': [-3.7157043, 40.4489066]}","Calle de Almansa, 105, 28040 Madrid, Spain",grill
-4,Burger Grill Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7079842, 40.41107179999999]}","Calle de Toledo, 65, L 10, 28005 Madrid, Spain",grill
-5,Buffalo Grill - Alcobendas,3.6,"{'type': 'Point', 'coordinates': [-3.6467198, 40.5299836]}","Ctra de Fuencarral a Alcobendas, km 4,3 Parque Comercial Rio Norte, 28108 Alcobendas, Madrid, Spain",grill
-6,Goiko Grill,4.1,"{'type': 'Point', 'coordinates': [-3.7021417, 40.42938789999999]}","Glorieta de Bilbao, 3, 28004 Madrid, Spain",grill
-7,Lara Grill,4.4,"{'type': 'Point', 'coordinates': [-3.6979416, 40.4246556]}","Calle de Hortaleza, 96, 28004 Madrid, Spain",grill
-8,Mad Grill Cuzco,4.3,"{'type': 'Point', 'coordinates': [-3.6911817, 40.4623064]}","Calle de Rosario Pino, 6, 28020 Madrid, Spain",grill
-9,Lara Grill,4.4,"{'type': 'Point', 'coordinates': [-3.6738901, 40.429996]}","Calle de José Ortega y Gasset, 67, 28006 Madrid, Spain",grill
-10,Pantin Grill,4.6,"{'type': 'Point', 'coordinates': [-3.6996785, 40.4156791]}","Calle de Echegaray, 10, 28014 Madrid, Spain",grill
-11,Madrid Bar Grill,5.0,"{'type': 'Point', 'coordinates': [-3.7013211, 40.4156054]}","Calle de Núñez de Arce, 6, 28012 Madrid, Spain",grill
-12,Goiko Grill,4.2,"{'type': 'Point', 'coordinates': [-3.6985529, 40.4149948]}","Calle del Prado, 15, 28014 Madrid, Spain",grill
-13,SHORTON GRILL,4.2,"{'type': 'Point', 'coordinates': [-3.6980425, 40.4607488]}","Calle de Sor Ángela de la Cruz, 40, 28020 Madrid, Spain",grill
-14,Goiko Grill,4.2,"{'type': 'Point', 'coordinates': [-3.6828556, 40.4231569]}","Calle de Núñez de Balboa, 12, 28001 Madrid, Spain",grill
-15,Baby Grill,3.7,"{'type': 'Point', 'coordinates': [-3.6869892, 40.4605566]}","Calle de Juan Hurtado de Mendoza, 13, 28036 Madrid, Spain",grill
-16,Goiko,4.3,"{'type': 'Point', 'coordinates': [-3.686675, 40.43767500000001]}","Calle de María de Molina, 20, 28006 Madrid, Spain",grill
-17,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6755543, 40.4289354]}","Calle del Conde de Peñalver, 41, 28006 Madrid, Spain",grill
-18,Cokoc Grill,3.7,"{'type': 'Point', 'coordinates': [-3.6743243, 40.423621]}","C/ de Fernán González, 10, 28009 Madrid, Spain",grill
-19,Goiko,4.3,"{'type': 'Point', 'coordinates': [-3.696894, 40.45229450000001]}","Av. del General Perón, 16, 28020 Madrid, Spain",grill
-20,Dogo's Perritos Calientes,4.6,"{'type': 'Point', 'coordinates': [-3.6141177, 40.43942970000001]}","Calle del Canal del Bósforo, 2, Local 1, 28022 Madrid, Spain",grill
-21,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7139495, 40.4277238]}","C. de la Princesa, 26, 28008 Madrid, Spain",grill
-22,COCO Grill,4.4,"{'type': 'Point', 'coordinates': [-3.637752299999999, 40.4270956]}","Calle de Emilio Ferrari, 131, 28017 Madrid, Spain",grill
-23,ESPALLÁ GRILL - Chamberí,4.5,"{'type': 'Point', 'coordinates': [-3.6953832, 40.4415686]}","Calle de Ríos Rosas, 54, Escalera B. Local 5, 28003 Madrid, Spain",grill
-24,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7031777, 40.44455869999999]}","Calle de Sta Engracia, 157, 28003 Madrid, Spain",grill
-25,Aboca Grill,4.6,"{'type': 'Point', 'coordinates': [-3.6342849, 40.44402050000001]}","Calle López de Aranda, 36, 28027 Madrid, Spain",grill
-26,Goiko Grill,4.1,"{'type': 'Point', 'coordinates': [-3.6809697, 40.4583641]}","Av. de Alberto de Alcocer, 42, 28016 Madrid, Spain",grill
-27,MOLA GRILL,0.0,"{'type': 'Point', 'coordinates': [-3.6736138, 40.4330202]}","Calle de Alcántara, 71, Local, 28006 Madrid, Spain",grill
-28,SHAO GRILL やきとり日本食レストラン,4.4,"{'type': 'Point', 'coordinates': [-3.7055405, 40.4108437]}","Calle de la Encomienda, 10, 28012 Madrid, Spain",grill
-29,RICO GRILL RESTAURANT,0.0,"{'type': 'Point', 'coordinates': [-3.7119094, 40.4771592]}","Av. de Betanzos, 28029 Madrid, Spain",grill
-30,Canaima Grill,3.8,"{'type': 'Point', 'coordinates': [-3.686624699999999, 40.35466]}","Calle Delmira Agustini, 4, 28021 Madrid, Spain",grill
-31,Grill77,4.9,"{'type': 'Point', 'coordinates': [-3.7179584, 40.4013059]}","Paseo de los Melancólicos, 32, 28005 Madrid, Spain",grill
-32,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.6948381, 40.4360428]}","Calle de Fernández de la Hoz, 33, 28010 Madrid, Spain",grill
-33,Joe’s BBQ & Grill,2.0,"{'type': 'Point', 'coordinates': [-3.6594028, 40.4545619]}","Calle José Silva, 22, 28043 Madrid, Spain",grill
-34,We Love Grill Restaurante,4.6,"{'type': 'Point', 'coordinates': [-3.692345, 40.4064241]}","C. de Méndez Álvaro, 12, 28045 Madrid, Spain",grill
-35,Hot Hut Grill,3.6,"{'type': 'Point', 'coordinates': [-3.653283, 40.4319575]}","Calle Mateo García, 6, 28017 Madrid, Spain",grill
-36,Bull grill,4.6,"{'type': 'Point', 'coordinates': [-3.7114436, 40.4308809]}","Calle de Blasco de Garay, 10, 28015 Madrid, Spain",grill
-37,Mad Café,4.5,"{'type': 'Point', 'coordinates': [-3.708868, 40.4122347]}","Calle de la Cava Alta, 13, 28005 Madrid, Spain",grill
-38,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6679366, 40.5092581]}","Glorieta Monte del Gozo, 25, 28050 Madrid, Spain",grill
-39,JOHN'S GRILL HOUSE,0.0,"{'type': 'Point', 'coordinates': [-3.7106486, 40.4137269]}","Calle de Segovia, 10, 28005 Madrid, Spain",grill
-40,The sandwich grill,4.3,"{'type': 'Point', 'coordinates': [-3.703068, 40.428533]}","C. de Manuela Malasaña, 9, 28004 Madrid, Spain",grill
-41,Restaurante Reserva Grill,0.0,"{'type': 'Point', 'coordinates': [-3.5859657, 40.4518973]}","Av de la Hispanidad, 2, 4, 28042 Madrid, Spain",grill
-42,Goiko,3.9,"{'type': 'Point', 'coordinates': [-3.6733967, 40.418337]}","Calle de Ibiza, 41, 28009 Madrid, Spain",grill
-43,La Taberna de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.709421599999999, 40.41214189999999]}","Calle de la Cava Baja, 31, 28005 Madrid, Spain",grill
-44,Chill Restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.6725953, 40.4484281]}","Calle Nieremberg, 24, 28002 Madrid, Spain",grill
-45,Aguja Grill,3.9,"{'type': 'Point', 'coordinates': [-3.7005638, 40.43213679999999]}","Calle de Trafalgar, 20, 28010 Madrid, Spain",grill
-46,Catón Grill,4.3,"{'type': 'Point', 'coordinates': [-3.7142832, 40.4350767]}","C. de Andrés Mellado, 54, 28015 Madrid, Spain",grill
-47,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6358879, 40.4632357]}","Calle de Silvano, 77, 28043 Madrid, Spain",grill
-48,Gustos Madrid Plaza Mayor,4.3,"{'type': 'Point', 'coordinates': [-3.708005399999999, 40.4149876]}","Plaza Mayor, 8, 28012 Madrid, Spain",grill
-49,xake grill 东京烤肉自助,4.0,"{'type': 'Point', 'coordinates': [-3.701768, 40.415866]}","Calle de la Victoria, 8, 28012 Madrid, Spain",grill
-50,Goiko,3.9,"{'type': 'Point', 'coordinates': [-3.6506814, 40.4501331]}","C. de Arturo Soria, 126, 28043 Madrid, Spain",grill
-51,Lolo's Burger Grill,4.6,"{'type': 'Point', 'coordinates': [-3.6664262, 40.4255037]}","Calle de Hermosilla, 157, 28028 Madrid, Spain",grill
-52,Steak Grill House Halal,4.6,"{'type': 'Point', 'coordinates': [-3.6943979, 40.4102758]}","C. de Atocha, 117, 28012 Madrid, Spain",grill
-53,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7065753, 40.4243181]}","Calle del Pez, 36, 28004 Madrid, Spain",grill
-54,Goiko,2.7,"{'type': 'Point', 'coordinates': [-3.6991339, 40.45711]}","Calle de San Germán, 50, 28020 Madrid, Spain",grill
-55,Maanain,5.0,"{'type': 'Point', 'coordinates': [-3.6706976, 40.42616950000001]}","Calle de la Fuente del Berro, 15, 28009 Madrid, Spain",grill
-56,PARRILLITAS GRILL,0.0,"{'type': 'Point', 'coordinates': [-3.7105391, 40.4084098]}","Calle de Toledo, 109, local 27, 28005 Madrid, Spain",grill
-57,Miami Meat burger grill,4.3,"{'type': 'Point', 'coordinates': [-3.7032574, 40.429332]}","Calle de Carranza, 6, 28004 Madrid, Spain",grill
-58,Sumo,4.2,"{'type': 'Point', 'coordinates': [-3.675265, 40.435008]}","C/ de Francisco Silvela, 63, 28028 Madrid, Spain",grill
-59,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.7100559, 40.4344628]}","Calle de Galileo, 50, 28015 Madrid, Albacete, Spain",grill
+,name,rating,location,address,price_level,place
+0,Madrid Grill - Parrilla - Cerveceria,3.9,"{'type': 'Point', 'coordinates': [-3.707089, 40.417679]}","Calle de San Martín, 3, 28013 Madrid, Spain",,grill
+1,Beer & Grill,3.9,"{'type': 'Point', 'coordinates': [-3.7157043, 40.4489066]}","Calle de Almansa, 105, 28040 Madrid, Spain",2.0,grill
+2,Burger Grill Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7079842, 40.41107179999999]}","Calle de Toledo, 65, L 10, 28005 Madrid, Spain",,grill
+3,Goiko Grill,4.1,"{'type': 'Point', 'coordinates': [-3.7021417, 40.42938789999999]}","Glorieta de Bilbao, 3, 28004 Madrid, Spain",2.0,grill
+4,Goiko Grill,4.2,"{'type': 'Point', 'coordinates': [-3.6985529, 40.4149948]}","Calle del Prado, 15, 28014 Madrid, Spain",2.0,grill
+5,SHORTON GRILL,4.2,"{'type': 'Point', 'coordinates': [-3.6980425, 40.4607488]}","Calle de Sor Ángela de la Cruz, 40, 28020 Madrid, Spain",,grill
+6,Goiko Grill,4.2,"{'type': 'Point', 'coordinates': [-3.6828556, 40.4231569]}","Calle de Núñez de Balboa, 12, 28001 Madrid, Spain",2.0,grill
+7,Goiko,4.3,"{'type': 'Point', 'coordinates': [-3.686675, 40.43767500000001]}","Calle de María de Molina, 20, 28006 Madrid, Spain",2.0,grill
+8,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6755543, 40.4289354]}","Calle del Conde de Peñalver, 41, 28006 Madrid, Spain",2.0,grill
+9,Cokoc Grill,3.7,"{'type': 'Point', 'coordinates': [-3.6743243, 40.423621]}","C/ de Fernán González, 10, 28009 Madrid, Spain",1.0,grill
+10,Goiko,4.3,"{'type': 'Point', 'coordinates': [-3.696894, 40.45229450000001]}","Av. del General Perón, 16, 28020 Madrid, Spain",2.0,grill
+11,Dogo's Perritos Calientes,4.6,"{'type': 'Point', 'coordinates': [-3.6141177, 40.43942970000001]}","Calle del Canal del Bósforo, 2, Local 1, 28022 Madrid, Spain",,grill
+12,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7139495, 40.4277238]}","C. de la Princesa, 26, 28008 Madrid, Spain",2.0,grill
+13,ESPALLÁ GRILL - Chamberí,4.5,"{'type': 'Point', 'coordinates': [-3.6953832, 40.4415686]}","Calle de Ríos Rosas, 54, Escalera B. Local 5, 28003 Madrid, Spain",,grill
+14,Goiko Grill,4.1,"{'type': 'Point', 'coordinates': [-3.6809697, 40.4583641]}","Av. de Alberto de Alcocer, 42, 28016 Madrid, Spain",2.0,grill
+15,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7031777, 40.44455869999999]}","Calle de Sta Engracia, 157, 28003 Madrid, Spain",2.0,grill
+16,SHAO GRILL やきとり日本食レストラン,4.4,"{'type': 'Point', 'coordinates': [-3.7055405, 40.4108437]}","Calle de la Encomienda, 10, 28012 Madrid, Spain",,grill
+17,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.6948381, 40.4360428]}","Calle de Fernández de la Hoz, 33, 28010 Madrid, Spain",2.0,grill
+18,Canaima Grill,3.8,"{'type': 'Point', 'coordinates': [-3.686624699999999, 40.35466]}","Calle Delmira Agustini, 4, 28021 Madrid, Spain",,grill
+19,We Love Grill Restaurante,4.6,"{'type': 'Point', 'coordinates': [-3.692345, 40.4064241]}","C. de Méndez Álvaro, 12, 28045 Madrid, Spain",,grill
+20,Bull grill,4.6,"{'type': 'Point', 'coordinates': [-3.7114436, 40.4308809]}","Calle de Blasco de Garay, 10, 28015 Madrid, Spain",,grill
+21,Hot Hut Grill,3.6,"{'type': 'Point', 'coordinates': [-3.653283, 40.4319575]}","Calle Mateo García, 6, 28017 Madrid, Spain",1.0,grill
+22,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6679366, 40.5092581]}","Glorieta Monte del Gozo, 25, 28050 Madrid, Spain",2.0,grill
+23,The sandwich grill,4.3,"{'type': 'Point', 'coordinates': [-3.703068, 40.428533]}","C. de Manuela Malasaña, 9, 28004 Madrid, Spain",,grill
+24,JOHN'S GRILL HOUSE,0.0,"{'type': 'Point', 'coordinates': [-3.7106486, 40.4137269]}","Calle de Segovia, 10, 28005 Madrid, Spain",,grill
+25,Goiko,3.9,"{'type': 'Point', 'coordinates': [-3.6733967, 40.418337]}","Calle de Ibiza, 41, 28009 Madrid, Spain",2.0,grill
+26,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.6358879, 40.4632357]}","Calle de Silvano, 77, 28043 Madrid, Spain",2.0,grill
+27,Goiko,3.9,"{'type': 'Point', 'coordinates': [-3.6506814, 40.4501331]}","C. de Arturo Soria, 126, 28043 Madrid, Spain",2.0,grill
+28,Lolo's Burger Grill,4.6,"{'type': 'Point', 'coordinates': [-3.6664262, 40.4255037]}","Calle de Hermosilla, 157, 28028 Madrid, Spain",1.0,grill
+29,Mad Grill,4.5,"{'type': 'Point', 'coordinates': [-3.6956167, 40.42632220000001]}","Calle de Campoamor, 13, 28004 Madrid, Spain",2.0,grill
+30,Steak Grill House Halal,4.6,"{'type': 'Point', 'coordinates': [-3.6943979, 40.4102758]}","C. de Atocha, 117, 28012 Madrid, Spain",,grill
+31,Goiko,4.2,"{'type': 'Point', 'coordinates': [-3.7065753, 40.4243181]}","Calle del Pez, 36, 28004 Madrid, Spain",2.0,grill
+32,PARRILLITAS GRILL,0.0,"{'type': 'Point', 'coordinates': [-3.7105391, 40.4084098]}","Calle de Toledo, 109, local 27, 28005 Madrid, Spain",,grill
+33,Goiko,4.1,"{'type': 'Point', 'coordinates': [-3.7100559, 40.4344628]}","Calle de Galileo, 50, 28015 Madrid, Albacete, Spain",2.0,grill
+34,DISTRITO CENTRO,4.6,"{'type': 'Point', 'coordinates': [-3.7028584, 40.4182672]}","Calle de San Alberto, 3, 28013 Madrid, Spain",,grill
+35,Goiko,4.0,"{'type': 'Point', 'coordinates': [-3.6669928, 40.4489637]}","Calle de López de Hoyos, 161, 28002 Madrid, Spain",2.0,grill
+36,Bar Restaurante Lfamily,4.2,"{'type': 'Point', 'coordinates': [-3.6692639, 40.3996442]}","Calle de Arregui y Aruej, 9, 28007 Madrid, Spain",,grill
+37,Lara Grill,4.3,"{'type': 'Point', 'coordinates': [-3.6994657, 40.4360181]}","Calle de Sta Engracia, 87, 28010 Madrid, Spain",2.0,grill
+38,TAN-GO pizza & Grill,4.4,"{'type': 'Point', 'coordinates': [-3.7461076, 40.4079403]}","C. de El Greco, 12, 28011 Madrid, Spain",1.0,grill
+39,Lara Grill,4.4,"{'type': 'Point', 'coordinates': [-3.6979416, 40.4246556]}","Calle de Hortaleza, 96, 28004 Madrid, Spain",,grill
+40,QW MADRID,4.0,"{'type': 'Point', 'coordinates': [-3.7112946, 40.4174188]}","Calle de Vergara, 12, 28013 Madrid, Spain",1.0,grill
+41,Angelita Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.700386, 40.420274]}","Calle de la Reina, 4, 28004 Madrid, Spain",2.0,grill
+42,LOA GRILL,4.7,"{'type': 'Point', 'coordinates': [-3.6681875, 40.4262569]}","Calle del Dr. Esquerdo, 15, 28028 Madrid, Spain",,grill
+43,Restaurante León V,4.1,"{'type': 'Point', 'coordinates': [-3.706408, 40.4149818]}","Plaza de la Provincia, 3, 28012 Madrid, Spain",1.0,grill
+44,Restaurante Gallego,4.9,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 3ro, 28012 Madrid, Spain",,grill
+45,Súltan Palast Madrid 18,4.2,"{'type': 'Point', 'coordinates': [-3.6998677, 40.4206771]}","Calle de las Infantas, 18, 28004 Madrid, Spain",2.0,grill
+46,Lara Grill,4.4,"{'type': 'Point', 'coordinates': [-3.6738901, 40.429996]}","Calle de José Ortega y Gasset, 67, 28006 Madrid, Spain",,grill
+47,Mad Grill Cuzco,4.3,"{'type': 'Point', 'coordinates': [-3.6911817, 40.4623064]}","Calle de Rosario Pino, 6, 28020 Madrid, Spain",,grill
+48,Buffalo Grill - Alcobendas,3.6,"{'type': 'Point', 'coordinates': [-3.6467198, 40.5299836]}","Ctra de Fuencarral a Alcobendas, km 4,3 Parque Comercial Rio Norte, 28108 Alcobendas, Madrid, Spain",,grill
+49,Pantin Grill,4.6,"{'type': 'Point', 'coordinates': [-3.6996785, 40.4156791]}","Calle de Echegaray, 10, 28014 Madrid, Spain",1.0,grill
+50,Madrid Bar Grill,5.0,"{'type': 'Point', 'coordinates': [-3.7013211, 40.4156054]}","Calle de Núñez de Arce, 6, 28012 Madrid, Spain",1.0,grill
+51,dNorte,4.4,"{'type': 'Point', 'coordinates': [-3.7044, 40.41928]}","Calle de Mesonero Romanos, 8, 28013 Madrid, Spain",1.0,grill
+52,Baby Grill,3.7,"{'type': 'Point', 'coordinates': [-3.6869892, 40.4605566]}","Calle de Juan Hurtado de Mendoza, 13, 28036 Madrid, Spain",,grill
+53,Granada House in Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.7038296, 40.412743]}","Calle del Dr Cortezo, 17, 28012 Madrid, Spain",,grill
+54,"LaLina Bravas, Tapas y Copas",4.3,"{'type': 'Point', 'coordinates': [-3.7089143, 40.4114544]}","Plaza de la Cebada, 2, 28005 Madrid, Spain",2.0,grill
+55,Saccharum Bar & Grill,0.0,"{'type': 'Point', 'coordinates': [-3.6970316, 40.4124311]}","C. de Moratín, 19, 28014 Madrid, Spain",,grill
+56,El Vagón de La Máquina Gran Vía - Terraza & Gourmet,4.3,"{'type': 'Point', 'coordinates': [-3.7051399, 40.4194751]}","Plaza del Callao, 2, 28013 Madrid, Spain",2.0,grill
+57,Grill Kebab,3.8,"{'type': 'Point', 'coordinates': [-3.7246346, 40.3930876]}","Calle del Gral. Ricardos, 94, 28019 Madrid, Spain",,grill
+58,H&H Grill House,3.1,"{'type': 'Point', 'coordinates': [-3.6506346, 40.4381912]}","Calle de la Virgen de la Fuencisla, 19, 28027 Madrid, Spain",1.0,grill
+59,Restaurante Pim Pam Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.704498, 40.4300286]}","Calle de Sandoval, 15, 28010 Madrid, Spain",2.0,grill

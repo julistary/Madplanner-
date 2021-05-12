@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Football fields,4.0,"{'type': 'Point', 'coordinates': [-3.603084999999999, 40.4077606]}","Calle Vivero de la Pilarica, 3, 28032 Madrid, Spain",,campo de futbol
+1,Alquiler campo futbol 7 Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6952822, 40.49489]}","Calle Hospitalet de Llobregat, 13, 28034 Madrid, Spain",,campo de futbol
+2,Campo de futbol 7. Istalacion deportiva,4.5,"{'type': 'Point', 'coordinates': [-3.6978904, 40.5013458]}","28034 Madrid, Spain",,campo de futbol
+3,Alquilar campo fútbol 7 Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7233393, 40.4850078]}","Calle de Ramón Gómez de la Serna, 22, 28035 Madrid, Spain",,campo de futbol
+4,ENGLISH SOCCER CAMP,5.0,"{'type': 'Point', 'coordinates': [-3.7386545, 40.48149]}","Calle Braojos, 21, 28035 Madrid, Spain",,campo de futbol
+5,Alquiler campo futbol 7 Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6578426, 40.4723815]}","Calle del Velacho Bajo, 28033 Madrid, Spain",,campo de futbol
+6,Soccer and basketball court,4.1,"{'type': 'Point', 'coordinates': [-3.6393939, 40.4089781]}","Av. del Dr. García Tapia, 192D, 28030 Madrid, Spain",,campo de futbol
+7,Fútbol 7 Canal,3.7,"{'type': 'Point', 'coordinates': [-3.7088416, 40.4458361]}","Paseo de S. Fco. de Sales, 43, 28003 Madrid, Spain",,campo de futbol
+8,Campo Futbol,4.3,"{'type': 'Point', 'coordinates': [-3.7282994, 40.3772266]}","Vía Lusitana, 19, 28025 Madrid, Spain",,campo de futbol
+9,Campo fútbol CES (cesped artificial),4.4,"{'type': 'Point', 'coordinates': [-3.6422461, 40.4718484]}","Calle Mar Adriático, 11b, 28033 Madrid, Spain",,campo de futbol
+10,Campo De Futbol,2.6,"{'type': 'Point', 'coordinates': [-3.5844723, 40.4520547]}","Calle de Medina de Pomar, 11, 28042 Madrid, Spain",,campo de futbol
+11,Campo De Futbol Celtic Castilla,4.8,"{'type': 'Point', 'coordinates': [-3.7087, 40.44625]}","Paseo de S. Fco. de Sales, 43, 28003 Madrid, Spain",,campo de futbol
+12,Soccer field,5.0,"{'type': 'Point', 'coordinates': [-3.7050681, 40.4708675]}","28029 Madrid, Spain",,campo de futbol
+13,Soccer field,3.0,"{'type': 'Point', 'coordinates': [-3.6430749, 40.4118569]}","28030 Madrid, Spain",,campo de futbol
+14,Estadio de Vallecas,4.2,"{'type': 'Point', 'coordinates': [-3.6587075, 40.392062]}","Calle del Payaso Fofó, 0, 28018 Madrid, Spain",,campo de futbol
+15,Campo de Fútbol de Arena,5.0,"{'type': 'Point', 'coordinates': [-3.7245111, 40.4254112]}","Glorieta San Antonio de la Florida, 7, 28008 Madrid, Spain",,campo de futbol
+16,Soccer field,5.0,"{'type': 'Point', 'coordinates': [-3.6284062, 40.4085596]}","Calle de Flandes, 6, 28030 Madrid, Spain",,campo de futbol
+17,"Campo de Futbol ""Jose Duran"" (HA)",4.2,"{'type': 'Point', 'coordinates': [-3.6642281, 40.3806265]}","Av. del Parque de Palomeras Bajas, 10, 28018 Madrid, Spain",,campo de futbol
+18,Campo Municipal Dehesa de la Villa,3.8,"{'type': 'Point', 'coordinates': [-3.7152612, 40.462387]}","Calle del Alcalde Martín de Alzaga, 4, 28039 Madrid, Spain",,campo de futbol
+19,Campo fútbol AFE,4.3,"{'type': 'Point', 'coordinates': [-3.6537953, 40.4163551]}","Calle Alcalde Garrido Juaristi, 17, 28030 Madrid, Spain",,campo de futbol
+20,Arroyo de la Media Legua Soccer Field,3.7,"{'type': 'Point', 'coordinates': [-3.650418, 40.4224586]}","Av. de las Trece Rosas, 1, 28017 Madrid, Spain",,campo de futbol
+21,Instalación Deportiva Básica Andrés Navarrete,3.9,"{'type': 'Point', 'coordinates': [-3.6947834, 40.4945566]}","Calle Hospitalet de Llobregat, 11, 28034 Madrid, Spain",,campo de futbol
+22,Campo de fútbol Parque Darwin,4.0,"{'type': 'Point', 'coordinates': [-3.6615938, 40.4066347]}","28030 Madrid, Spain",,campo de futbol
+23,CD Canillas,4.0,"{'type': 'Point', 'coordinates': [-3.6487452, 40.4687966]}","Calle Agustín de Iturbide, 1, 28043 Madrid, Spain",,campo de futbol
+24,Campo de fútbol Parque de La Alcazaba,0.0,"{'type': 'Point', 'coordinates': [-3.7076132, 40.4748182]}","Av. el Ferrol, 34P, 28029 Madrid, Spain",,campo de futbol
+25,Campo De Futbol Zofio - Usera,3.9,"{'type': 'Point', 'coordinates': [-3.7176177, 40.3810157]}","Calle de Ricardo Beltrán y Rózpide, 12, 28026 Madrid, Spain",,campo de futbol
+26,Campo de Isla de Tabarca,3.4,"{'type': 'Point', 'coordinates': [-3.7216068, 40.47676209999999]}","28035, Calle la Isla de Tabarca, 2, 28035 Madrid, Spain",,campo de futbol
+27,Fútbol 7 Adelfas,4.7,"{'type': 'Point', 'coordinates': [-3.6684142, 40.4031353]}","Calle Nuevo Baztán, 81, 28007 Madrid, Spain",,campo de futbol
+28,Instalación Deportiva Municipal Básica San Pascual,3.7,"{'type': 'Point', 'coordinates': [-3.6556282, 40.43851850000001]}","Calle de Esteban Mora, s/n, 28027 Madrid, Spain",,campo de futbol
+29,Antiguo campo de futbol puerta bonita,5.0,"{'type': 'Point', 'coordinates': [-3.7328987, 40.3881379]}","Calle del Gral. Ricardos, 166, 28025 Madrid, Spain",,campo de futbol
+30,Campo David Gonzalez Rubio,4.0,"{'type': 'Point', 'coordinates': [-3.702161899999999, 40.37732829999999]}","Calle del Dr. Tolosa Latour, 28041 Madrid, Spain",,campo de futbol
+31,Sede Vallecas Liga Fútbol Madrid,2.5,"{'type': 'Point', 'coordinates': [-3.6153607, 40.3774224]}","28031 Madrid, Spain",,campo de futbol
+32,Campos de fúbol Ganapanes,3.9,"{'type': 'Point', 'coordinates': [-3.71376, 40.47126]}","Av. de Betanzos, 2D, 28029 Madrid, Spain",,campo de futbol
+33,Campo de Fútbol Las Águilas,3.6,"{'type': 'Point', 'coordinates': [-3.748945, 40.3994195]}","Calle Concejal Francisco José Jiménez Martín, 11, 28047 Madrid, Spain",,campo de futbol
+34,Gabriel Fernández Soccer Field,3.5,"{'type': 'Point', 'coordinates': [-3.752244699999999, 40.3966129]}","Calle de la Duquesa de Parcent, 37, 28047 Madrid, Spain",,campo de futbol
+35,Campo de Futbol Parque Europa,3.7,"{'type': 'Point', 'coordinates': [-3.7768158, 40.3846265]}","Parque Europa, Calle Gordolobo, s/n, 28024 Madrid, Spain",,campo de futbol
+36,CD Masriver,4.1,"{'type': 'Point', 'coordinates': [-3.7233896, 40.4850436]}","Calle de Ramón Gómez de la Serna, 22, 28035 Madrid, Spain",,campo de futbol
+37,Polideportivo Rodríguez Sahagún,4.1,"{'type': 'Point', 'coordinates': [-3.7088953, 40.4697819]}","Calle Miramelindos, 5, 28029 Madrid, Spain",,campo de futbol
+38,Campos de futbol Santa Ana,3.9,"{'type': 'Point', 'coordinates': [-3.5460982, 40.3513536]}","Av. de la Técnica, 10, 28522 Rivas-Vaciamadrid, Madrid, Spain",,campo de futbol
+39,Estadio Román Valero,4.2,"{'type': 'Point', 'coordinates': [-3.7052074, 40.3884884]}","Calle de Andrés Arteaga, 1, 28026 Madrid, Spain",,campo de futbol
+40,Campos de Hortaleza (Sporting),3.8,"{'type': 'Point', 'coordinates': [-3.6562297, 40.47828]}","Calle de Monóvar, 17, 28033 Madrid, Spain",,campo de futbol
+41,Club de Futbol Madrid Río,4.2,"{'type': 'Point', 'coordinates': [-3.7048823, 40.3961671]}","Campo de Fútbol, Paseo de las Yeserías, S/N, 28005 Madrid, Spain",,campo de futbol
+42,Campo de Vereda de Ganapanes,3.4,"{'type': 'Point', 'coordinates': [-3.7128669, 40.47063]}","Calle Sinesio Delgado, 3297, 28039 Madrid, Spain",,campo de futbol
+43,Football field Manzanares Park,4.3,"{'type': 'Point', 'coordinates': [-3.684193499999999, 40.3746704]}","28053 Madrid, Spain",,campo de futbol
+44,Campo Cocheras,3.9,"{'type': 'Point', 'coordinates': [-3.6510802, 40.4215521]}","Calle San Lamberto, 20, 28017 Madrid, Spain",,campo de futbol
+45,Campo de fútbol ETSIT,0.0,"{'type': 'Point', 'coordinates': [-3.727283, 40.45348389999999]}","Av. Complutense, 30, 28040 Madrid, Spain",,campo de futbol
+46,Campo de Fútbol Fuentelucha,3.8,"{'type': 'Point', 'coordinates': [-3.6591172, 40.5498409]}","Calle de la Felicidad, 27, 28100 Alcobendas, Madrid, Spain",,campo de futbol
+47,Campo de Fútbol Trivema Naval,4.1,"{'type': 'Point', 'coordinates': [-3.6586578, 40.4724905]}","Calle del Velacho Bajo, s/n, 28033 Madrid, Spain",,campo de futbol
+48,Polideportivo La Cabrera,3.8,"{'type': 'Point', 'coordinates': [-3.7189959, 40.4722033]}","Calle de La Cabrera, s/n, 28035 Madrid, Spain",,campo de futbol
+49,Campo de fútbol público,0.0,"{'type': 'Point', 'coordinates': [-3.6802999, 40.3556544]}","Av. de los Rosales, 91, 28021 Madrid, Spain",,campo de futbol
+50,Campo García de la Mata,4.0,"{'type': 'Point', 'coordinates': [-3.6593055, 40.4472095]}","Calle Ramírez de Arellano, s/n, 28043 Madrid, Spain",,campo de futbol
+51,Campos de futbol Barrio del Puerto,3.8,"{'type': 'Point', 'coordinates': [-3.5743687, 40.4167594]}","Calle del Puerto de Bilbao, 1, 28821 Coslada, Madrid, Spain",,campo de futbol
+52,Campo Municipal San Blas,3.9,"{'type': 'Point', 'coordinates': [-3.6186098, 40.4197944]}","Av. de Guadalajara, 28032 Madrid, Spain",,campo de futbol
+53,Futbol Goya,4.1,"{'type': 'Point', 'coordinates': [-3.73108, 40.404918]}","Calle de Pablo Sarasate, 1, 28047 Madrid, Spain",,campo de futbol
+54,Fútbol,5.0,"{'type': 'Point', 'coordinates': [-3.701379, 40.37751799999999]}","Calle del Dr. Tolosa Latour, 7, 28041 Madrid, Spain",,campo de futbol
+55,Campo 11,5.0,"{'type': 'Point', 'coordinates': [-3.6156508, 40.4783671]}","Av. de Alejandro de la Sota, 28055 Madrid, Spain",,campo de futbol
+56,Campo Mar Abierto,3.7,"{'type': 'Point', 'coordinates': [-3.6172113, 40.3759546]}","Camino de la Suerte, 23, 28031 Madrid, Spain",,campo de futbol
+57,Polideportivo Ernesto Cotorruelo,3.9,"{'type': 'Point', 'coordinates': [-3.7238004, 40.3804126]}","Vía Lusitana, s/n, 28025 Madrid, Spain",,campo de futbol
+58,Campo Vicente del Bosque,4.3,"{'type': 'Point', 'coordinates': [-3.6923799, 40.4779347]}","28001 Madrid, Spain",,campo de futbol
+59,Campo de fútbol José caballero. Luis aragonés,4.1,"{'type': 'Point', 'coordinates': [-3.6232666, 40.5379486]}","Av. de la Transición Española, 7, 28109 Alcobendas, Madrid, Spain",,campo de futbol

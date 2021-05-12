@@ -1,21 +1,21 @@
-,name,rating,location,address,place
-0,"Egeo Suvlakeria Griega, Lavapiés",4.4,"{'type': 'Point', 'coordinates': [-3.7011123, 40.4105036]}","Calle de San Carlos, 17, 28012 Madrid, Spain",greek
-1,PERIPLO,4.8,"{'type': 'Point', 'coordinates': [-3.6963072, 40.4358022]}","Calle de Modesto Lafuente, 4, 28010 Madrid, Spain",greek
-2,Dionisos Huertas Restaurante,4.1,"{'type': 'Point', 'coordinates': [-3.6988803, 40.41377019999999]}","Calle del León, 17, 28014 Madrid, Spain",greek
-3,ZORBA | Restaurante Griego Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6774695, 40.4180658]}","Calle de Ibiza, 8, 28009 Madrid, Spain",greek
-4,Delítaca,3.8,"{'type': 'Point', 'coordinates': [-3.697605099999999, 40.4220461]}","Calle de Augusto Figueroa, 24, 28004 Madrid, Spain",greek
-5,Milos,4.0,"{'type': 'Point', 'coordinates': [-3.671916, 40.4321534]}","C/ de Francisco Silvela, 30, 28028 Madrid, Spain",greek
-6,GREEK and SHOP,4.3,"{'type': 'Point', 'coordinates': [-3.7020288, 40.4249209]}","Corredera Alta de San Pablo, 9, 28004 Madrid, Spain",greek
-7,Kritikos,4.2,"{'type': 'Point', 'coordinates': [-3.6973634, 40.4236947]}","Calle San Gregorio, 11, 28004 Madrid, Spain",greek
-8,La Comedia griega,0.0,"{'type': 'Point', 'coordinates': [-3.7105515, 40.4173738]}","C. de la Amnistía, 6, 28013 Madrid, Spain",greek
-9,Mandrake Greek Street Food,4.6,"{'type': 'Point', 'coordinates': [-3.7103656, 40.4121485]}","Calle del Almendro, 21, 28005 Madrid, Spain",greek
-10,El Rincón de Hércules,3.8,"{'type': 'Point', 'coordinates': [-3.7014494, 40.4067154]}","Calle de Miguel Servet, 12, 28012 Madrid, Spain",greek
-11,"Egeo Suvlakería Griega, Malasaña",4.6,"{'type': 'Point', 'coordinates': [-3.7023872, 40.4231715]}","Calle del Barco, 41, 28004 Madrid, Spain",greek
-12,Taberna Hamburg Exargia,4.3,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Calle de Embajadores, 41, Mercado de San Fernando, Puesto 8, 28012 Madrid, Spain",greek
-13,Dionisos,4.4,"{'type': 'Point', 'coordinates': [-3.699769, 40.422807]}","Calle de Augusto Figueroa, 8, 28004 Madrid, Spain",greek
-14,Taberna Griega,4.4,"{'type': 'Point', 'coordinates': [-3.6780085, 40.40377230000001]}","Calle de Juan de Urbieta, 4, 28007 Madrid, Spain",greek
-15,Jimmy the Greek,0.0,"{'type': 'Point', 'coordinates': [-3.691279699999999, 40.4622226]}","número, Calle de Rosario Pino, 6, 28020 Madrid, Spain",greek
-16,Taberna Griega,3.9,"{'type': 'Point', 'coordinates': [-3.7045062, 40.42517470000001]}","Calle del Tesoro, 6, 28004 Madrid, Spain",greek
-17,Zorba,4.8,"{'type': 'Point', 'coordinates': [-3.7260429, 40.4129666]}","Calle de Doña Urraca, 15, 28011 Madrid, Spain",greek
-18,THE GREEK CLOSET,0.0,"{'type': 'Point', 'coordinates': [-3.7065061, 40.424138]}","Calle del Pez, 27, 28004 Madrid, Spain",greek
-19,Catedral de San Andrés y San Demetrio en Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6729006, 40.4575233]}","Calle de Nicaragua, 12, 28016 Madrid, Spain",greek
+,name,rating,location,address,price_level,place
+0,"Egeo Suvlakeria Griega, Lavapiés",4.4,"{'type': 'Point', 'coordinates': [-3.7011123, 40.4105036]}","Calle de San Carlos, 17, 28012 Madrid, Spain",1.0,greek
+1,ZORBA | Restaurante Griego Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6774695, 40.4180658]}","Calle de Ibiza, 8, 28009 Madrid, Spain",,greek
+2,Delítaca,3.8,"{'type': 'Point', 'coordinates': [-3.697605099999999, 40.4220461]}","Calle de Augusto Figueroa, 24, 28004 Madrid, Spain",,greek
+3,GREEK and SHOP,4.3,"{'type': 'Point', 'coordinates': [-3.7020288, 40.4249209]}","Corredera Alta de San Pablo, 9, 28004 Madrid, Spain",1.0,greek
+4,PERIPLO,4.8,"{'type': 'Point', 'coordinates': [-3.6963072, 40.4358022]}","Calle de Modesto Lafuente, 4, 28010 Madrid, Spain",1.0,greek
+5,Mandrake Greek Street Food,4.6,"{'type': 'Point', 'coordinates': [-3.7103656, 40.4121485]}","Calle del Almendro, 21, 28005 Madrid, Spain",,greek
+6,Dionisos Huertas Restaurante,4.1,"{'type': 'Point', 'coordinates': [-3.6988803, 40.41377019999999]}","Calle del León, 17, 28014 Madrid, Spain",2.0,greek
+7,Taberna Hamburg Exargia,4.3,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Calle de Embajadores, 41, Mercado de San Fernando, Puesto 8, 28012 Madrid, Spain",,greek
+8,"Egeo Suvlakería Griega, Malasaña",4.6,"{'type': 'Point', 'coordinates': [-3.7023872, 40.4231715]}","Calle del Barco, 41, 28004 Madrid, Spain",1.0,greek
+9,Milos,4.0,"{'type': 'Point', 'coordinates': [-3.671916, 40.4321534]}","C/ de Francisco Silvela, 30, 28028 Madrid, Spain",2.0,greek
+10,Kritikos,4.2,"{'type': 'Point', 'coordinates': [-3.6973634, 40.4236947]}","Calle San Gregorio, 11, 28004 Madrid, Spain",2.0,greek
+11,La Comedia griega,0.0,"{'type': 'Point', 'coordinates': [-3.7105515, 40.4173738]}","C. de la Amnistía, 6, 28013 Madrid, Spain",,greek
+12,Taberna Griega,4.4,"{'type': 'Point', 'coordinates': [-3.6780085, 40.40377230000001]}","Calle de Juan de Urbieta, 4, 28007 Madrid, Spain",1.0,greek
+13,El Rincón de Hércules,3.8,"{'type': 'Point', 'coordinates': [-3.7014494, 40.4067154]}","Calle de Miguel Servet, 12, 28012 Madrid, Spain",,greek
+14,Zorba,4.8,"{'type': 'Point', 'coordinates': [-3.7260429, 40.4129666]}","Calle de Doña Urraca, 15, 28011 Madrid, Spain",,greek
+15,Dionisos,4.4,"{'type': 'Point', 'coordinates': [-3.699769, 40.422807]}","Calle de Augusto Figueroa, 8, 28004 Madrid, Spain",,greek
+16,Jimmy the Greek,0.0,"{'type': 'Point', 'coordinates': [-3.691279699999999, 40.4622226]}","número, Calle de Rosario Pino, 6, 28020 Madrid, Spain",,greek
+17,Taberna Griega,3.9,"{'type': 'Point', 'coordinates': [-3.7045062, 40.42517470000001]}","Calle del Tesoro, 6, 28004 Madrid, Spain",2.0,greek
+18,The Quick Greek Alcalá de Henares,4.1,"{'type': 'Point', 'coordinates': [-3.3605771, 40.4858378]}","Av. Guadalajara, 3, 28805 Alcalá de Henares, Madrid, Spain",,greek
+19,THE GREEK CLOSET,0.0,"{'type': 'Point', 'coordinates': [-3.7065061, 40.424138]}","Calle del Pez, 27, 28004 Madrid, Spain",,greek

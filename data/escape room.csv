@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Escape Room EXIT Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.694899899999999, 40.4308919]}","Calle de Caracas, 15, 28010 Madrid, Spain",,escape room
+1,Escape College Madrid / 8 Escape Room en pleno centro,4.4,"{'type': 'Point', 'coordinates': [-3.7083478, 40.4210438]}","Calle de San Bernardo, 5, 28013 Madrid, Spain",,escape room
+2,Madrid Room Escape,4.3,"{'type': 'Point', 'coordinates': [-3.69518, 40.4475789]}","Calle de Orense, 4, 28020 Madrid, Spain",,escape room
+3,Fox in a Box Madrid Escape Room Madrid Chueca,4.7,"{'type': 'Point', 'coordinates': [-3.697661999999999, 40.42017999999999]}","Calle de las Infantas, 25, 28004 Madrid, Spain",,escape room
+4,EXIT / EXIT - Trapped in the Museum - Game Escape Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.703564, 40.424855]}","C/ de Jesús del Valle, 32, 28004 Madrid, Spain",,escape room
+5,The Darkest Room - Escape Room Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.7010767, 40.4499108]}","Calle de Palencia, 31, 28020 Madrid, Spain",,escape room
+6,MAD Escape Room,4.6,"{'type': 'Point', 'coordinates': [-3.7095519, 40.436325]}","C/ de Donoso Cortés, 36, 28015 Madrid, Spain",,escape room
+7,Clue Hunter Madrid - Escape Room,4.7,"{'type': 'Point', 'coordinates': [-3.705657, 40.4112]}","Calle juanelo 13, Local Izdo, 28012 Madrid, Spain",,escape room
+8,The Rombo Code® | Escape Room Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7126084, 40.4353781]}","Calle de Fernández de los Ríos, 70, 28015 Madrid, Spain",,escape room
+9,59:59 Escape Room,4.5,"{'type': 'Point', 'coordinates': [-3.6987517, 40.4536953]}","Calle de Fortunata y Jacinta, 5, 28020 Madrid, Spain",,escape room
+10,Room Escape - Enigma Madrid Game,4.9,"{'type': 'Point', 'coordinates': [-3.7021883, 40.4584008]}","Calle Ntra. Sra. del Carmen, 7, 28039 Madrid, Spain",,escape room
+11,Parapark Primer Escape Room de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.708483, 40.4239472]}","Calle Manzana, 15, 28015 Madrid, Spain",,escape room
+12,Escape Room Komnata Madrid Sol,4.5,"{'type': 'Point', 'coordinates': [-3.701373, 40.415234]}","Calle de Núñez de Arce, 14, Local bajo, 28012 Madrid, Spain",,escape room
+13,The Room Escape Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.671949199999999, 40.4442409]}","Calle de Ros de Olano, 9, 28002 Madrid, Spain",,escape room
+14,Enigma Exprés - Escape Room (Sede Cuatro Caminos),4.6,"{'type': 'Point', 'coordinates': [-3.7017506, 40.4488164]}","Plaza de la Condesa de Gavia, 3, 28020 Sede, Madrid, Spain",,escape room
+15,NCERRADOS ESCAPE ROOM MADRID,4.7,"{'type': 'Point', 'coordinates': [-3.612221, 40.444961]}","Calle Boltaña, 40, Nave 1, 28022 Madrid, Spain",,escape room
+16,Madrid Terror Escape Room,4.9,"{'type': 'Point', 'coordinates': [-3.702484, 40.3985456]}","Paseo de la Esperanza, 53, 28005 Madrid, Spain",,escape room
+17,MINA MADRID ESCAPE ROOM,4.9,"{'type': 'Point', 'coordinates': [-3.6456902, 40.4361153]}","Calle de Sambara, 94, 28027 Madrid, Spain",,escape room
+18,Dark Street Escape Room,4.8,"{'type': 'Point', 'coordinates': [-3.7103439, 40.4172552]}","C. de la Amnistía, 3, 28013 Madrid, Spain",,escape room
+19,ActionHouse - Room Escape & Roleplaying,4.9,"{'type': 'Point', 'coordinates': [-3.676387199999999, 40.443663]}","Calle Luis Vives, 6, Local Izquierda, Puerta Morada, 28002 Madrid, Spain",,escape room
+20,Escape Room A Domicilio,4.7,"{'type': 'Point', 'coordinates': [-3.6782569, 40.4372415]}","Calle de María de Molina, 66, 28006 Madrid, Spain",,escape room
+21,Experiencity Escape Room,4.9,"{'type': 'Point', 'coordinates': [-3.7163837, 40.4048526]}","Plaza de Francisco Morano, 3, 28005 Madrid, Spain",,escape room
+22,Incognito Escape Game,4.9,"{'type': 'Point', 'coordinates': [-3.7205637, 40.4134561]}","Calle de Linneo, 4, 28005 Madrid, Spain",,escape room
+23,The Rombo Code Escape Room Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7100927, 40.4329883]}","Calle de Meléndez Valdés, 18, 28015 Madrid, Spain",,escape room
+24,Escape Room Road Out,5.0,"{'type': 'Point', 'coordinates': [-3.65421, 40.4406898]}","Calle Electrónica, 6, 28027 Madrid, Spain",,escape room
+25,Fox in a Box Escape Room Madrid Centro,4.8,"{'type': 'Point', 'coordinates': [-3.6920181, 40.40278199999999]}","C/ del Áncora, 12, 28045 Madrid, Spain",,escape room
+26,Escape Room RK Games Madrid - Ciencia ficción & Role playing,4.8,"{'type': 'Point', 'coordinates': [-3.662422899999999, 40.3990702]}","Calle Mendívil, 58, 28038 Madrid, Spain",,escape room
+27,La Casa de Papel: Escape Room,4.4,"{'type': 'Point', 'coordinates': [-3.6721373, 40.4233225]}","Calle de Jorge Juan, 99, 28009 Madrid, Spain",,escape room
+28,Esfinge Escape Room,4.8,"{'type': 'Point', 'coordinates': [-3.6768546, 40.4406997]}","Calle de Canillas, 12, 28002 Madrid, Spain",,escape room
+29,Hermético Escape Rooms,4.7,"{'type': 'Point', 'coordinates': [-3.6968354, 40.4299764]}","Calle de Sta Engracia, 15, 28010 Madrid, Spain",,escape room
+30,Escape Room El Búho Games,5.0,"{'type': 'Point', 'coordinates': [-3.7091798, 40.4270546]}","Plaza de las Comendadoras, 28015 Madrid, Spain",,escape room
+31,Dale al Coco Room Escape,4.9,"{'type': 'Point', 'coordinates': [-3.7064017, 40.4093346]}","Calle de San Cayetano, 3B, Local, 28005 Madrid, Spain",,escape room
+32,Escape Room Madrid - Coco Room,4.7,"{'type': 'Point', 'coordinates': [-3.703896, 40.40265]}","C. de Moratines, 18, 28005 Madrid, Spain",,escape room
+33,The Box - Escape Room,4.7,"{'type': 'Point', 'coordinates': [-3.6975783, 40.4300619]}","Calle de Covarrubias, 22, 28010 Madrid, Spain",,escape room
+34,Golden Escape Room Madrid (Coslada),4.7,"{'type': 'Point', 'coordinates': [-3.5419188, 40.4210257]}","Av. de Madrid, 18, 28822 Coslada, Madrid, Spain",,escape room
+35,Linked Minds Escape Room,4.8,"{'type': 'Point', 'coordinates': [-3.7055439, 40.4234971]}","Calle de Pizarro, 22, Dcha, 28004 Madrid, Spain",,escape room
+36,La Estación Escape Room,4.9,"{'type': 'Point', 'coordinates': [-3.6377692, 40.4369717]}","Centro Comercial Alcalá Norte Semisotano 8/9, 28027 Madrid, Spain",,escape room
+37,Mindtrap Escape Rooms,4.9,"{'type': 'Point', 'coordinates': [-3.6982029, 40.4051045]}","Calle de Sebastián Elcano, 21, Local, 28012 Madrid, Spain",,escape room
+38,Yaebi Escape Room,4.8,"{'type': 'Point', 'coordinates': [-3.6248843, 40.3809922]}","Calle de San Jaime, 60, 28031 Madrid, Spain",,escape room
+39,Cubick Madrid Room Escape,4.9,"{'type': 'Point', 'coordinates': [-3.6831743, 40.4041722]}","Calle de Téllez, 3, 28007 Madrid, Spain",,escape room
+40,Escape room - Resolve Solve It,4.6,"{'type': 'Point', 'coordinates': [-3.6921549, 40.4025557]}","Calle de Rafael de Riego, 27, 28045 Madrid, Spain",,escape room
+41,The X-Door Madrid (Centro),4.4,"{'type': 'Point', 'coordinates': [-3.698907599999999, 40.4196696]}","1, C/ Gran Vía, 16, 28013 Madrid, Spain",,escape room
+42,Next Door Escape room,4.7,"{'type': 'Point', 'coordinates': [-3.7092143, 40.4133436]}","Calle del Nuncio, 11, Bajo, 28005 Madrid, Spain",,escape room
+43,Los Escapistas Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6920309, 40.4697709]}","Calle San Leopoldo, 27, 28029 Madrid, Spain",,escape room
+44,The big escape,4.8,"{'type': 'Point', 'coordinates': [-3.7029556, 40.4094107]}","Calle del Amparo, 32, 28012 Madrid, Spain",,escape room
+45,Zig Zag Escape Room,4.9,"{'type': 'Point', 'coordinates': [-3.7315664, 40.3872095]}","Calle de la Parra, 41, 28025 Madrid, Spain",,escape room
+46,Experiencia Escape Room,4.7,"{'type': 'Point', 'coordinates': [-3.7388171, 40.3882629]}","Calle Ramón Sainz, 34, 28025 Madrid, Spain",,escape room
+47,Locktopus Escape Game,5.0,"{'type': 'Point', 'coordinates': [-3.6959027, 40.4040562]}","Calle de la Batalla del Salado, 2, 28045 Madrid, Spain",,escape room
+48,The SafeKey Escape Room Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.5933935, 40.3622123]}","Calle Fernando Chueca Goitia, 52, local, 28051 Madrid, Spain",,escape room
+49,CSI MadRoom - Escape room madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7046687, 40.4254227]}","Calle del Espíritu Santo, 23, 28004 Madrid, Spain",,escape room
+50,Rubikon Escape Room,5.0,"{'type': 'Point', 'coordinates': [-3.7153238, 40.4206855]}","Cuesta de San Vicente, 22, 28008 Madrid, Spain",,escape room
+51,The Riddle Society - Escape Room,4.3,"{'type': 'Point', 'coordinates': [-3.7093212, 40.3952833]}","Calle Esteban de Arteaga, 5, 28019 Madrid, Spain",,escape room
+52,BrainBreak,4.7,"{'type': 'Point', 'coordinates': [-3.7057265, 40.410807]}","Calle de la Encomienda, 12, 28012 Madrid, Spain",,escape room
+53,Escape The City Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4115343]}","Calle del Duque de Alba, 15, 1º, 28012 Madrid, Spain",,escape room
+54,TRIVIUS Escape Room Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.641432099999999, 40.4371507]}","Calle Germán Pérez Carrasco, 78, Local Izquierda, 28027 Madrid, Spain",,escape room
+55,INTUITION ESCAPE ROOM,4.9,"{'type': 'Point', 'coordinates': [-3.6543717, 40.42568139999999]}","Calle Luis Piernas, 14, 28017 Madrid, Spain",,escape room
+56,Aventurico,4.6,"{'type': 'Point', 'coordinates': [-3.6635114, 40.4300792]}","Calle Alejandro González, 3, 28028 Madrid, Spain",,escape room
+57,Golden Celebraciones,4.9,"{'type': 'Point', 'coordinates': [-3.7044319, 40.3971772]}","Paseo de las Yeserías, 63, 28005 Madrid, Spain",,escape room
+58,Escape Room Instinto,5.0,"{'type': 'Point', 'coordinates': [-3.7017126, 40.4201773]}","C/ Gran Vía, 28, 28013 Madrid, Spain",,escape room
+59,Dale al Coco 2 Room Escape,3.0,"{'type': 'Point', 'coordinates': [-3.7020164, 40.4124139]}","Calle de la Magdalena, 11, 28012 Madrid, Spain",,escape room

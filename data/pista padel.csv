@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Padel Urban Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.6312679, 40.5294794]}","Brains Nursery School, Calle de la Salvia, 44, 28109 Alcobendas, Madrid, Spain",,pista padel
+1,Padel Madrid Las Tablas,4.3,"{'type': 'Point', 'coordinates': [-3.6739338, 40.5026389]}","Av. del Camino de Santiago, 25, 28050 Madrid, Spain",,pista padel
+2,Club de pádel La Moraleja,4.1,"{'type': 'Point', 'coordinates': [-3.6399259, 40.5292916]}","Av. de Bruselas, 29, 28108 Alcobendas, Madrid, Spain",,pista padel
+3,Pádel Hangar,4.3,"{'type': 'Point', 'coordinates': [-3.6489796, 40.5320144]}","Calle de la Metalurgia, 8, posterior, 28108 Alcobendas, Madrid, Spain",,pista padel
+4,Padel Norte,4.3,"{'type': 'Point', 'coordinates': [-3.6629685, 40.5221828]}","Calle de los Aragoneses, 8, 28108 Alcobendas, Madrid, Madrid, Spain",,pista padel
+5,PADEL SPACE,4.0,"{'type': 'Point', 'coordinates': [-3.6747473, 40.4939002]}","28050 Madrid, Spain",,pista padel
+6,Madrid Central Padel,4.5,"{'type': 'Point', 'coordinates': [-3.5869869, 40.4044614]}","Calle de Boyer, 28, 28052 Madrid, Spain",,pista padel
+7,Pista pádel,2.3,"{'type': 'Point', 'coordinates': [-3.6785622, 40.40074010000001]}","28007 Madrid, Spain",,pista padel
+8,Cristalia Club Padel,3.7,"{'type': 'Point', 'coordinates': [-3.6321562, 40.4754788]}","VÍA DE LOS POBLADOS, 3, 28033 Madrid, Spain",,pista padel
+9,Padel and Tennis Club Fuencarral,4.4,"{'type': 'Point', 'coordinates': [-3.7101731, 40.5027626]}","Calle del Monasterio de Las Huelgas, 15, 28049 Madrid, Spain",,pista padel
+10,Pistas de Padel Marqués de Monistrol - Río San Pol,3.3,"{'type': 'Point', 'coordinates': [-3.7251906, 40.4219458]}","Calle de la Ribera del Manzanares, 1, Bis, 28008 Madrid, Spain",,pista padel
+11,Match Ball Padel,0.0,"{'type': 'Point', 'coordinates': [-3.65577, 40.54674]}","Av. de Camilo José Cela, 3, 28100 Alcobendas, Madrid, Spain",,pista padel
+12,Bnfit Padel,4.4,"{'type': 'Point', 'coordinates': [-3.6859552, 40.45666930000001]}","C. del Padre Damián, 26, 28036 Madrid, Spain",,pista padel
+13,Padel Brains,5.0,"{'type': 'Point', 'coordinates': [-3.631315, 40.5297546]}","28109 Alcobendas, Madrid, Spain",,pista padel
+14,Pistas de pádel (Fabricante),4.0,"{'type': 'Point', 'coordinates': [-3.6951159, 40.4027019]}","28045 Madrid, Spain",,pista padel
+15,Club y Escuela de Padel IberiaMart Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.6944674, 40.45451569999999]}","Calle de Orense, 34, 28020 Madrid, Spain",,pista padel
+16,Pista De Pádel,5.0,"{'type': 'Point', 'coordinates': [-3.6111914, 40.4573063]}","28042, Madrid, Spain",,pista padel
+17,School Padel Center,4.2,"{'type': 'Point', 'coordinates': [-3.6752609, 40.4767896]}","Av. de Burgos, 18-20, 28036 Madrid, Spain",,pista padel
+18,Pádel Tres Olivos,3.9,"{'type': 'Point', 'coordinates': [-3.690843, 40.4989886]}","Calle Cueva De Montesinos, 0 S N Urbanización 3 Olivos, 28034 Madrid, Spain",,pista padel
+19,Club Deportivo Madrid Norte Padel and Tennis,4.1,"{'type': 'Point', 'coordinates': [-3.581559, 40.588761]}","Camino de la Alberca, 20, 28708 San Sebastián de los Reyes, Madrid, Spain",,pista padel
+20,Padel Club Teypasport,4.2,"{'type': 'Point', 'coordinates': [-3.620362, 40.458726]}","Av. de las Piceas, 13, 28043 Madrid, Spain",,pista padel
+21,Ciudad De La Raqueta,4.2,"{'type': 'Point', 'coordinates': [-3.7133467, 40.4996145]}","C. del Monasterio de El Paular, 2, 28049 Madrid, Spain",2.0,pista padel
+22,Pistas de pádel,0.0,"{'type': 'Point', 'coordinates': [-3.715579, 40.37444230000001]}","Av. de Rafaela Ybarra, 4A, 28026 Madrid, Spain",,pista padel
+23,Pistas de Pádel Somontes,4.1,"{'type': 'Point', 'coordinates': [-3.758192, 40.49238709999999]}","Carr Madrid-El Pardo, KM 3, 400, 28048 Madrid, Spain",,pista padel
+24,Padel Sport Home,4.5,"{'type': 'Point', 'coordinates': [-3.5237014, 40.5966301]}","Travesía Villa Esther, 20, 28119 Algete, Madrid, Spain",,pista padel
+25,Club de Tenis Chamartin,4.2,"{'type': 'Point', 'coordinates': [-3.6676444, 40.4608479]}","Calle Federico Salmón, 4, 28016 Madrid, Spain",,pista padel
+26,Arena Rio Padel,4.5,"{'type': 'Point', 'coordinates': [-3.7190357, 40.3925363]}","Calle Zarco Hermanos, 9, 28019 Madrid, Spain",,pista padel
+27,Centro Deportivo Alcalá 525,3.9,"{'type': 'Point', 'coordinates': [-3.6287799, 40.4419429]}","Calle Alcalá 525, entrada por calle Iquitos, 28027 Madrid, Spain",,pista padel
+28,Leisure and Sports Canal,3.7,"{'type': 'Point', 'coordinates': [-3.7064776, 40.4438587]}","Av. de Filipinas, s/n, 28003 Madrid, Spain",,pista padel
+29,RANKING PADEL,0.0,"{'type': 'Point', 'coordinates': [-3.627031, 40.5448608]}","Calle Radio Utopía, 16, 28703 San Sebastián de los Reyes, Madrid, Spain",,pista padel
+30,Padel Vicalvaro,4.1,"{'type': 'Point', 'coordinates': [-3.5871419, 40.404232]}","Calle de Boyer, 20, 28052 Madrid, Spain",,pista padel
+31,Pistas Tenis,4.6,"{'type': 'Point', 'coordinates': [-3.648745, 40.3920327]}","Calle de Carlos Sole, 11, 28038 Madrid, Spain",,pista padel
+32,Golf Park,4.0,"{'type': 'Point', 'coordinates': [-3.6603233, 40.5172843]}","Av. de Europa, 10, 28108 Alcobendas, Madrid, Spain",,pista padel
+33,Federación Madrileña de Pádel,4.2,"{'type': 'Point', 'coordinates': [-3.7491381, 40.4607968]}","Parque Deportivo Puerta de Hierro, 1, 28035 Madrid, Spain",,pista padel
+34,Ciudad Deportiva Jarama,4.4,"{'type': 'Point', 'coordinates': [-3.5783321, 40.5821531]}","Avenida Talavera de la Reina, M-100, s/n, 28709 Algete, Madrid, Spain",,pista padel
+35,School Padel El Valle,3.2,"{'type': 'Point', 'coordinates': [-3.6606591, 40.5044479]}","Calle de Palas de Rey, 4, 28050 Madrid, Spain",,pista padel
+36,MOMO by Making Padel,4.6,"{'type': 'Point', 'coordinates': [-3.5812122, 40.4443775]}","Azotea Parque Comercial Las Rejas, Calle de Navaridas, 9, 28022 Madrid, Spain",,pista padel
+37,Aparcamiento pista Padel El Hangar,5.0,"{'type': 'Point', 'coordinates': [-3.6492292, 40.5325671]}","Carr. de Fuencarral, 44, 28108 Alcobendas, Madrid, Spain",,pista padel
+38,Hitpadel Indoor Coslada,4.2,"{'type': 'Point', 'coordinates': [-3.5366222, 40.4367029]}","Calle de Juan de la Cierva, 32, 28823 Coslada, Madrid, Spain",,pista padel
+39,The Masó Sports Club,4.3,"{'type': 'Point', 'coordinates': [-3.7143535, 40.48935840000001]}","C/ de La Masó, 34, 28035 Madrid, Spain",,pista padel
+40,Moraleja Central Padel,3.4,"{'type': 'Point', 'coordinates': [-3.6377127, 40.5080167]}","Calle Camino del Cura, 233, 28055 Madrid, Spain",,pista padel
+41,Playtomic,3.0,"{'type': 'Point', 'coordinates': [-3.6916485, 40.4509505]}","Paseo de la Castellana, 93, Planta 10, 28046 Madrid, Spain",,pista padel
+42,Madrid Rackets - Squash - Padel - CrossFit,4.6,"{'type': 'Point', 'coordinates': [-3.887573, 40.500307]}","Polígono Európolis, Calle del Cabo Rufino Lázaro, 3, 28232 Las Rozas de Madrid, Madrid, Spain",,pista padel
+43,Pista,0.0,"{'type': 'Point', 'coordinates': [-3.6577691, 40.5187183]}","Unnamed Road, 28108, 28108 Alcobendas, Madrid, Spain",,pista padel
+44,Pistas de Pádel CTM,3.7,"{'type': 'Point', 'coordinates': [-3.6499628, 40.3641659]}","Calle Eje 8, 17, 28053 Madrid, Spain",,pista padel
+45,Padel madrid,4.0,"{'type': 'Point', 'coordinates': [-3.7492203, 40.4606973]}","Parque Deportivo Puerta de Hierro, 28023 Madrid, Spain",,pista padel
+46,Centro Deportivo Puente de Praga,3.8,"{'type': 'Point', 'coordinates': [-3.7058472, 40.3947012]}","Av del Manzanares, s/n, 28019 Madrid, Spain",,pista padel
+47,Pistas Padel,3.0,"{'type': 'Point', 'coordinates': [-3.6150173, 40.4282008]}","Calle Thader, 51, 28037 Madrid, Spain",,pista padel
+48,Padel Kas,3.8,"{'type': 'Point', 'coordinates': [-3.6472687, 40.3755744]}","Calle de Luis I, 56, 28031 Madrid, Spain",,pista padel
+49,Centro deportivo SMP,4.2,"{'type': 'Point', 'coordinates': [-3.6711062, 40.4141402]}","Calle del Dr. Esquerdo, 64, 65, 28007 Madrid, Spain",,pista padel
+50,Grupo de Padel Arganzuela - Quedadas y Pozos Padel (LOS GALLURAZOS),4.0,"{'type': 'Point', 'coordinates': [-3.7353674, 40.398517]}","Calle de Gallur, 2, 28047 Madrid, Spain",,pista padel
+51,Padel Indoor Alcorcon,4.4,"{'type': 'Point', 'coordinates': [-3.8168377, 40.3337992]}","Calle Electrónica, 40, 28923 Alcorcón, Madrid, Spain",,pista padel
+52,Escuela de Padel Y Tenis. CD RAQUETAS VILLA DE VALLECAS,4.9,"{'type': 'Point', 'coordinates': [-3.618443399999999, 40.4005966]}","Calle de Cordel de Pavones, 100Q, 28032 Madrid, Spain",,pista padel
+53,Club Alameda,4.2,"{'type': 'Point', 'coordinates': [-3.59587, 40.455115]}","Paseo de la Alameda de Osuna, 52, 28042 Madrid, Spain",,pista padel
+54,indoor paddle planet,4.2,"{'type': 'Point', 'coordinates': [-3.4834333, 40.4525151]}","Av. del Sol, 3, 28850 Madrid, Spain",,pista padel
+55,Club Suanzes Deporte y Ocio,3.9,"{'type': 'Point', 'coordinates': [-3.6235415, 40.4452677]}","Plaza de las Olivas, 5, 28027 Madrid, Spain",,pista padel
+56,Pistas padel,0.0,"{'type': 'Point', 'coordinates': [-3.7239982, 40.4231307]}","Calle de Aniceto Marinas, 44, 28008 Madrid, Spain",,pista padel
+57,Pistas de pádel,3.0,"{'type': 'Point', 'coordinates': [-3.8331169, 40.4418206]}","28223 Pozuelo de Alarcón, Madrid, Spain",,pista padel
+58,Club De Tenis La Moraleja,4.4,"{'type': 'Point', 'coordinates': [-3.639552999999999, 40.5195655]}","Calle del Camino Nuevo, 80, 92, 28109 Alcobendas, Madrid, Spain",,pista padel
+59,PADEL EN TU PISTA,5.0,"{'type': 'Point', 'coordinates': [-3.6126635, 40.49777599999999]}","Calle de César Cort Botí, Nª53, 28055 Madrid, Spain",,pista padel

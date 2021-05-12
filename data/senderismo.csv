@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Actívate Senderismo,4.5,"{'type': 'Point', 'coordinates': [-3.647928, 40.4104751]}","Calle del Corregidor José de Pasamonte, 21, 28030 Madrid, Spain",,senderismo
+1,Pinar de Valdelatas,4.5,"{'type': 'Point', 'coordinates': [-3.6649982, 40.532928]}","Av. de Peñalara, 22, 28108 Alcobendas, Madrid, Spain",,senderismo
+2,"Senderismo Activo, rutas y viajes",4.7,"{'type': 'Point', 'coordinates': [-3.7079228, 40.4103252]}","Calle de Santa Ana, 4, local derecha, 28005 Madrid, Spain",,senderismo
+3,Pura Vida Senderismo,4.7,"{'type': 'Point', 'coordinates': [-3.6259813, 40.3872365]}","Calle de Arboleda, 18, Nave 6, 28031 Madrid, Spain",,senderismo
+4,Sendergran Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6907122, 40.3715084]}","Centro de Mayores, Av. de San Fermín, 15, 28041 Madrid, Spain",,senderismo
+5,Grupo de Montaña CSIC,4.9,"{'type': 'Point', 'coordinates': [-3.6874582, 40.4406438]}","Calle de Serrano, 115 bis, 28006 Madrid, Spain",,senderismo
+6,Cristal de Roca,4.8,"{'type': 'Point', 'coordinates': [-3.6892305, 40.4686317]}","Paseo de la Castellana, 199, 28046 Madrid, Spain",,senderismo
+7,Valdelatas Lookout,4.5,"{'type': 'Point', 'coordinates': [-3.683944299999999, 40.5298943]}","Carr. Vía de Servicio, 10D, 28049, Madrid, Spain",,senderismo
+8,Alto del Mojón Dehesa de la villa,4.7,"{'type': 'Point', 'coordinates': [-3.7189444, 40.4563889]}","C/ de los Pirineos, 21, 28040 Madrid, Spain",,senderismo
+9,Bunker Puente de la Culebra,0.0,"{'type': 'Point', 'coordinates': [-3.7713167, 40.401845]}","Anillo Verde Ciclista, 28011 Madrid, Spain",,senderismo
+10,Camino de Madrid a Santiago de Compostela,0.0,"{'type': 'Point', 'coordinates': [-3.6978925, 40.5071111]}","Camino de la Cañada, 28034 Madrid, Spain",,senderismo
+11,Tunel O'Donnell,0.0,"{'type': 'Point', 'coordinates': [-3.6536159, 40.4173771]}","28030 Madrid, Spain",,senderismo
+12,Ruta de Paseo de Los Olmos,4.4,"{'type': 'Point', 'coordinates': [-3.51327, 40.41342]}","Paseo de Plátanos, 28830 San Fernando de Henares, Madrid, Spain",,senderismo
+13,Active Tourism Club Get Going,4.8,"{'type': 'Point', 'coordinates': [-3.626989099999999, 40.5430637]}","Calle del Dos de Mayo, 6, 28703 San Sebastián de los Reyes, Madrid, Spain",,senderismo
+14,Asociación Senderismo Joven,0.0,"{'type': 'Point', 'coordinates': [-3.644107, 40.43648170000001]}","Calle de Elfo, 132, 28027 Madrid, Spain",,senderismo
+15,Hiking Tours and Travel S.L.,4.6,"{'type': 'Point', 'coordinates': [-3.6866175, 40.448083]}","Alcantara, 11, 28006 Madrid, Spain",,senderismo
+16,Sendero y Luna,4.4,"{'type': 'Point', 'coordinates': [-3.676189099999999, 40.3936152]}","Calle Retama, 7, 28045 Madrid, Spain",,senderismo
+17,ANDARA RUTAS S.L.,4.7,"{'type': 'Point', 'coordinates': [-3.6591045, 40.4074056]}","Av. de Moratalaz, 37, 28030 Madrid, Spain",,senderismo
+18,Dreampeaks,4.6,"{'type': 'Point', 'coordinates': [-3.6737909, 40.4392797]}","Avenida de América, 29, 28002 Madrid, Spain",,senderismo
+19,Coslada,0.0,"{'type': 'Point', 'coordinates': [-3.6912528, 40.4359364]}","Calle de Miguel Ángel, 23-11, 28010 Madrid, Spain",,senderismo
+20,EL ÍBICE | SENDERISMO MADRID,0.0,"{'type': 'Point', 'coordinates': [-3.7179444, 40.4208357]}","Paseo del Rey, 6, 28008 Madrid, Spain",,senderismo
+21,Senderismo Por El Pardo,4.4,"{'type': 'Point', 'coordinates': [-3.7919306, 40.5317282]}","28048 Madrid, Spain",,senderismo
+22,Chorros Del Manzanares,4.8,"{'type': 'Point', 'coordinates': [-3.7091523, 40.3967469]}","Av del Manzanares, 152, 28019 Madrid, Spain",,senderismo
+23,Sendero de la Risa,4.6,"{'type': 'Point', 'coordinates': [-3.6494977, 40.5702162]}","28702, Madrid, Spain",,senderismo
+24,Corredor Ambiental del Río Manzanares,4.4,"{'type': 'Point', 'coordinates': [-3.7558737, 40.4886244]}","Carr Madrid-El Pardo, 11B, 28023 Madrid, Spain",,senderismo
+25,Fire land,4.4,"{'type': 'Point', 'coordinates': [-3.709673199999999, 40.425762]}","Travesía de Conde Duque, 3, 28015 Madrid, Spain",,senderismo
+26,Atuaire Viajes,4.1,"{'type': 'Point', 'coordinates': [-3.6691174, 40.3998249]}","Calle de Arregui y Aruej, 11, Local, 28007 Madrid, Spain",,senderismo
+27,Geographica,4.6,"{'type': 'Point', 'coordinates': [-3.695043499999999, 40.449755]}","Calle de Orense, 16, 8º B, 28020 Madrid, Spain",,senderismo
+28,SubAlpino Senderismo en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.8763031, 40.3300218]}","Calle Pintor Velazquez, 39, 28933 Móstoles, Madrid, Spain",,senderismo
+29,Club Senderismo PisaMontañas,3.8,"{'type': 'Point', 'coordinates': [-3.7057846, 40.4531271]}","Calle de Castilla, 40, 28039 Madrid, Spain",,senderismo
+30,Monte Olimpo,0.0,"{'type': 'Point', 'coordinates': [-3.6503497, 40.561689]}","28701 San Sebastián de los Reyes, Madrid, Spain",,senderismo
+31,"Montaventura, esquí y senderismo",4.7,"{'type': 'Point', 'coordinates': [-3.696216, 40.4100759]}","Calle del Marqués de Toca, 8, 28012 Madrid, Spain",,senderismo
+32,ASOCIACIÓN MEDIOAMBIENTE Y SENDERISMO,0.0,"{'type': 'Point', 'coordinates': [-3.6761953, 40.4159274]}","C. de Narváez, 71, 28009 Madrid, Spain",,senderismo
+33,Nanuk Experience,5.0,"{'type': 'Point', 'coordinates': [-3.7058044, 40.5980239]}","Calle de Buenos Aires, 41, 28760 Tres Cantos, Madrid, Spain",,senderismo
+34,Vía Pecuaria SS de los Reyes,0.0,"{'type': 'Point', 'coordinates': [-3.6430547, 40.562082]}","Av. de los Arribes del Duero, 28702 San Sebastián de los Reyes, Madrid, Spain",,senderismo
+35,Arawak Viajes,4.4,"{'type': 'Point', 'coordinates': [-3.702530299999999, 40.4022951]}","Calle de Ercilla, 28, 28005 Madrid, Spain",,senderismo
+36,Madrid Mountaineering Federation,3.8,"{'type': 'Point', 'coordinates': [-3.6839605, 40.48604510000001]}","Av. de Salas de los Infantes, 1, 5º, 28034 Madrid, Spain",,senderismo
+37,Amadablam Viajes Aventura,4.7,"{'type': 'Point', 'coordinates': [-3.698792, 40.443764]}","Calle de Ponzano, 72, 28003 Madrid, Spain",,senderismo
+38,Casa de Campo,4.5,"{'type': 'Point', 'coordinates': [-3.7489783, 40.419748]}","Paseo de la Puerta del Ángel, 1, 28011 Madrid, Spain",,senderismo
+39,Nos Vamos de Aventura,4.9,"{'type': 'Point', 'coordinates': [-3.5949802, 40.4512515]}","Calle Catamarán, 3, 28042 Madrid, Spain",,senderismo
+40,NOMADATREK,4.7,"{'type': 'Point', 'coordinates': [-3.681875, 40.4261]}","Calle de Hermosilla, 48, 28001 Madrid, Spain",,senderismo
+41,"Laguna ""El Soto""",4.3,"{'type': 'Point', 'coordinates': [-3.5096169, 40.3703273]}","28891 Velilla de San Antonio, Madrid, Spain",,senderismo
+42,Senderismo por la Laguna de La Esperilla y la Laguna de Aceite,0.0,"{'type': 'Point', 'coordinates': [-3.5054077, 40.3040528]}","Diseminado Cm Cambroneras, 26D, 28500 Madrid, Spain",,senderismo
+43,Forestal de Valdelatas Park,4.6,"{'type': 'Point', 'coordinates': [-3.6927852, 40.53358739999999]}","28049 Madrid, Spain",,senderismo
+44,1° PARADA BUS CLUB SENDERISMO CRISTAL DE ROCA,2.0,"{'type': 'Point', 'coordinates': [-3.7191078, 40.3249921]}","Fuente de Goya, 28903 Getafe, Madrid, Spain",,senderismo
+45,The Bear Outdoor,5.0,"{'type': 'Point', 'coordinates': [-3.5741345, 40.4178522]}","Plaza del Mar Caspio, 5, 28821 Coslada, Madrid, Spain",,senderismo
+46,"Fisura, tienda de escalada",4.8,"{'type': 'Point', 'coordinates': [-3.7039355, 40.4346793]}","Calle de Feijóo, 4, 28010 Madrid, Spain",,senderismo
+47,Naturaleza y Deporte,5.0,"{'type': 'Point', 'coordinates': [-3.7314501, 40.4316752]}","Av. de Valladolid, 28008 Madrid, Spain",,senderismo
+48,Tabei Adventures,5.0,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}","Calle de Antonio López, 254, 28041 Madrid, Spain",,senderismo
+49,Entornos trekking,0.0,"{'type': 'Point', 'coordinates': [-3.7086485, 40.4233184]}","Square ofPlaza de, Plaza de los Mostenses, 13, 3º, office 39, 28015 Madrid, Spain",,senderismo
+50,Fuente de los Neveros,4.4,"{'type': 'Point', 'coordinates': [-3.735396, 40.4172314]}","Paseo de la Puerta del Ángel, 13, 28011 Madrid, Spain",,senderismo
+51,Excursiones Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7033129, 40.41542630000001]}","Calle de Carretas, 10, 28012 Madrid, Spain",,senderismo
+52,Molino de Butrera-Oficina Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.680488, 40.42607479999999]}","Calle de Hermosilla, 60, 28001 Madrid, Spain",,senderismo
+53,Sendero Vertical,5.0,"{'type': 'Point', 'coordinates': [-3.7149483, 40.6040199]}","Sector Oficios, 25, 28760 Tres Cantos, Madrid, Spain",,senderismo
+54,Pinar de las Siete Hermanas,4.7,"{'type': 'Point', 'coordinates': [-3.747750099999999, 40.4161868]}","Camino del Robledal, 2, 28011 Madrid, Spain",,senderismo
+55,Madridadventours,5.0,"{'type': 'Point', 'coordinates': [-3.6966769, 40.4023894]}","Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",,senderismo
+56,CarpetaniaMadrid,4.7,"{'type': 'Point', 'coordinates': [-3.7044763, 40.4243483]}","C/ de Jesús del Valle, 11, 28004 Madrid, Spain",,senderismo
+57,Trekking and Adventure S.L.,3.8,"{'type': 'Point', 'coordinates': [-3.7142491, 40.42437169999999]}","C. de Ventura Rodríguez, 15, 28008 Madrid, Spain",,senderismo
+58,Rutas Pangea,4.7,"{'type': 'Point', 'coordinates': [-3.70984, 40.399667]}","Paseo de las Yeserías, 15, 28005 Madrid, Spain",,senderismo
+59,La Pedriza,4.8,"{'type': 'Point', 'coordinates': [-3.870032, 40.772523]}","28410 Manzanares el Real, Madrid, Spain",,senderismo

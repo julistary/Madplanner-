@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",nightlife
-1,Planet Club,4.6,"{'type': 'Point', 'coordinates': [-3.7005493, 40.4152145]}","C. del Príncipe, 20, 28012 Madrid, Spain",nightlife
-2,Nightlife Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6845998, 40.4278501]}","Cl. de Ayala, 27, 28001 Madrid, Spain",nightlife
-3,ThunderCat Club,3.9,"{'type': 'Point', 'coordinates': [-3.695741899999999, 40.426252]}","Calle de Campoamor, 11, 28004 Madrid, Spain",nightlife
-4,Cibeles Night Club,3.7,"{'type': 'Point', 'coordinates': [-3.7075008, 40.4179793]}","Calle de las Hileras, 17, 28013 Madrid, Spain",nightlife
-5,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",nightlife
-6,Goya Social Club,3.6,"{'type': 'Point', 'coordinates': [-3.682990999999999, 40.425301]}","Calle de Goya, 43, 28001 Madrid, Spain",nightlife
-7,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",nightlife
-8,Eleven Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6995514, 40.41562649999999]}","Calle de Echegaray, 11, 28014 Madrid, Spain",nightlife
-9,Club 54,4.1,"{'type': 'Point', 'coordinates': [-3.6982414, 40.42099109999999]}","Calle de Barbieri, 7, 28004 Madrid, Spain",nightlife
-10,1862 Dry Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}","Calle del Pez, 27, 28004 Madrid, Spain",nightlife
-11,Sunset 80's,4.4,"{'type': 'Point', 'coordinates': [-3.698727, 40.41364]}","Calle de las Huertas, 31, 28014 Madrid, Spain",nightlife
-12,Kapital,3.8,"{'type': 'Point', 'coordinates': [-3.6931083, 40.4097611]}","C. de Atocha, 125, 28012 Madrid, Spain",nightlife
-13,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",nightlife
-14,Samsara,3.7,"{'type': 'Point', 'coordinates': [-3.7009025, 40.4159966]}","Calle de la Cruz, 7, 28012 Madrid, Spain",nightlife
-15,Discoteca Velvet Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7077554, 40.4203458]}","Calle de Jacometrezo, 6, 28013 Madrid, Spain",nightlife
-16,Joy Eslava Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7065661, 40.4171637]}","Calle del Arenal, 11, 28013 Madrid, Spain",nightlife
-17,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",nightlife
-18,OPIUM CLUB,3.8,"{'type': 'Point', 'coordinates': [-3.692209, 40.437878]}","Calle de José Abascal, 56, 28003 Madrid, Spain",nightlife
-19,Clubbers Tour,2.9,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}","Calle de la Cruz, 33, 28012 Madrid, Spain",nightlife
-20,Berlín Cabaret,3.5,"{'type': 'Point', 'coordinates': [-3.7106608, 40.412346]}","Costanilla de San Pedro, 11, 28005 Madrid, Spain",nightlife
-21,Stardust,3.8,"{'type': 'Point', 'coordinates': [-3.7089682, 40.4211093]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",nightlife
-22,Sala El Sol,4.4,"{'type': 'Point', 'coordinates': [-3.7016593, 40.4190502]}","Calle de los Jardines, 3, 28013 Madrid, Spain",nightlife
-23,Graf Madrid,3.4,"{'type': 'Point', 'coordinates': [-3.6810589, 40.4371539]}","Calle de María de Molina, 50, 28006 Madrid, Spain",nightlife
-24,Bling Bling Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.691738, 40.4250798]}","Calle de Génova, 28, 28004 Madrid, Spain",nightlife
-25,Fucking Monday Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7089062, 40.42110390000001]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",nightlife
-26,Ochoymedio,3.6,"{'type': 'Point', 'coordinates': [-3.6997571, 40.4270749]}","C. de Barceló, 11, 28004 Madrid, Spain",nightlife
-27,Hashtag Friday Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7034155, 40.4138647]}","Calle del Dr Cortezo, 1, 28012 Madrid, Spain",nightlife
-28,Hopper,4.3,"{'type': 'Point', 'coordinates': [-3.7102615, 40.4119537]}","Calle de la Cava Baja, 40, 28005 Madrid, Spain",nightlife
-29,Mondo Disko,3.9,"{'type': 'Point', 'coordinates': [-3.698812499999999, 40.4170817]}","Calle de Alcalá, 20, 28014 Madrid, Spain",nightlife
-30,The Room Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}","Calle de la Cruz, 33, 28012 Madrid, Spain",nightlife
-31,Medias Puri,3.9,"{'type': 'Point', 'coordinates': [-3.7034333, 40.41234910000001]}","Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",nightlife
-32,Night Club,4.0,"{'type': 'Point', 'coordinates': [-3.712771, 40.413812]}","Calle de Segovia, 19, 28005 Madrid, Spain",nightlife
-33,New Garamond,3.5,"{'type': 'Point', 'coordinates': [-3.692955, 40.462761]}","Calle de Rosario Pino, 14, 28020 Madrid, Spain",nightlife
-34,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",nightlife
-35,MADRID CLUB ROCKNROLLA,4.2,"{'type': 'Point', 'coordinates': [-3.6966068, 40.4129171]}","Costanilla de los Desamparados, 4, 28014 Madrid, Spain",nightlife
-36,Bearbie Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.699808899999999, 40.4211844]}","Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",nightlife
-37,New Black Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6983512, 40.4172965]}","Calle de Cedaceros, 7, 28014 Madrid, Spain",nightlife
-38,Jazz Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6958959, 40.4125735]}","C. de Moratín, 35, 28014 Madrid, Spain",nightlife
-39,Black & White,3.9,"{'type': 'Point', 'coordinates': [-3.6967534, 40.4226249]}","Calle de la Libertad, 34, 28004 Madrid, Spain",nightlife
-40,Blackbird Rock Bar,4.4,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}","Calle de las Huertas, 22, 28014 Madrid, Spain",nightlife
-41,Discoteca Serrano 41,3.7,"{'type': 'Point', 'coordinates': [-3.6873588, 40.4289888]}","Calle de Serrano, 41, 28001 Madrid, Spain",nightlife
-42,YOU&ME,4.3,"{'type': 'Point', 'coordinates': [-3.698625799999999, 40.421518]}","Calle de San Bartolomé, 6, 28004 Madrid, Spain",nightlife
-43,Sala HYSTERIA,5.0,"{'type': 'Point', 'coordinates': [-3.7149378, 40.4331491]}","Calle de Meléndez Valdés, 52, 28015 Madrid, Spain",nightlife
-44,Sala Stella,3.9,"{'type': 'Point', 'coordinates': [-3.6988457, 40.4170757]}","Calle de Arlabán, 7, 28014 Madrid, Spain",nightlife
-45,ZARPA BEAR DE COPAS,4.3,"{'type': 'Point', 'coordinates': [-3.6991339, 40.42049009999999]}","Calle de las Infantas, 26, 28004 Madrid, Spain",nightlife
-46,Star Coyote 54,3.5,"{'type': 'Point', 'coordinates': [-3.7036066, 40.4190511]}","Plaza del Carmen, 3, 28013 Madrid, Spain",nightlife
-47,Barceló Theatre,3.7,"{'type': 'Point', 'coordinates': [-3.699822, 40.42692900000001]}","C. de Barceló, 11, 28004 Madrid, Spain",nightlife
-48,Chelsea Cabaret Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7075672, 40.4207748]}","Calle de Silva, 6, 28013 Madrid, Spain",nightlife
-49,Salmon Guru,4.7,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}","Calle de Echegaray, 21, 28014 Madrid, Spain",nightlife
-50,Minis Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6996742, 40.4151132]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",nightlife
-51,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",nightlife
-52,Baila Cariño,2.6,"{'type': 'Point', 'coordinates': [-3.7090011, 40.4211109]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",nightlife
-53,VOALÁ MADRID,0.0,"{'type': 'Point', 'coordinates': [-3.710154999999999, 40.4324127]}","Calle de Galileo, 26, 28015 Madrid, Spain",nightlife
-54,CHA CHÁ The Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6983705, 40.4173993]}","Calle de Alcalá, 20, 28014 Madrid, Spain",nightlife
-55,Ya'sta Club,3.7,"{'type': 'Point', 'coordinates': [-3.7019926, 40.4211199]}","Calle de Valverde, 10, 28004 Madrid, Spain",nightlife
-56,Edén de Huertas Bar de Copas y Cachimbas,4.7,"{'type': 'Point', 'coordinates': [-3.695893299999999, 40.41320959999999]}","Calle de las Huertas, 67, 28014 Madrid, Spain",nightlife
-57,Madrid me Mata,4.2,"{'type': 'Point', 'coordinates': [-3.701771999999999, 40.4263132]}","Corredera Alta de San Pablo, 31, 28004 Madrid, Spain",nightlife
-58,La Coquette,4.6,"{'type': 'Point', 'coordinates': [-3.7075658, 40.4177289]}","Calle de las Hileras, 14, 28013 Madrid, Spain",nightlife
-59,Santamaría Coctelería,4.7,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4213371]}","Calle de la Ballesta, 6, 28004 Madrid, Spain",nightlife
+,name,rating,location,address,price_level,place
+0,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,nightlife
+1,Planet Club,4.6,"{'type': 'Point', 'coordinates': [-3.7005493, 40.4152145]}","C. del Príncipe, 20, 28012 Madrid, Spain",,nightlife
+2,Nightlife Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6845998, 40.4278501]}","Cl. de Ayala, 27, 28001 Madrid, Spain",,nightlife
+3,Cibeles Night Club,3.7,"{'type': 'Point', 'coordinates': [-3.7075008, 40.4179793]}","Calle de las Hileras, 17, 28013 Madrid, Spain",1.0,nightlife
+4,ThunderCat Club,3.9,"{'type': 'Point', 'coordinates': [-3.695741899999999, 40.426252]}","Calle de Campoamor, 11, 28004 Madrid, Spain",2.0,nightlife
+5,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,nightlife
+6,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",,nightlife
+7,Goya Social Club,3.6,"{'type': 'Point', 'coordinates': [-3.682990999999999, 40.425301]}","Calle de Goya, 43, 28001 Madrid, Spain",2.0,nightlife
+8,Eleven Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6995514, 40.41562649999999]}","Calle de Echegaray, 11, 28014 Madrid, Spain",,nightlife
+9,Sunset 80's,4.4,"{'type': 'Point', 'coordinates': [-3.698727, 40.41364]}","Calle de las Huertas, 31, 28014 Madrid, Spain",2.0,nightlife
+10,Club 54,4.1,"{'type': 'Point', 'coordinates': [-3.6982414, 40.42099109999999]}","Calle de Barbieri, 7, 28004 Madrid, Spain",2.0,nightlife
+11,1862 Dry Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}","Calle del Pez, 27, 28004 Madrid, Spain",2.0,nightlife
+12,Kapital,3.8,"{'type': 'Point', 'coordinates': [-3.6931083, 40.4097611]}","C. de Atocha, 125, 28012 Madrid, Spain",3.0,nightlife
+13,Clubbers Tour,2.9,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}","Calle de la Cruz, 33, 28012 Madrid, Spain",,nightlife
+14,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,nightlife
+15,Discoteca Velvet Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7077554, 40.4203458]}","Calle de Jacometrezo, 6, 28013 Madrid, Spain",2.0,nightlife
+16,Samsara,3.7,"{'type': 'Point', 'coordinates': [-3.7009025, 40.4159966]}","Calle de la Cruz, 7, 28012 Madrid, Spain",2.0,nightlife
+17,Stardust,3.8,"{'type': 'Point', 'coordinates': [-3.7089682, 40.4211093]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",,nightlife
+18,Joy Eslava Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7065661, 40.4171637]}","Calle del Arenal, 11, 28013 Madrid, Spain",3.0,nightlife
+19,OPIUM CLUB,3.8,"{'type': 'Point', 'coordinates': [-3.692209, 40.437878]}","Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,nightlife
+20,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",1.0,nightlife
+21,Berlín Cabaret,3.5,"{'type': 'Point', 'coordinates': [-3.7106608, 40.412346]}","Costanilla de San Pedro, 11, 28005 Madrid, Spain",2.0,nightlife
+22,Sala El Sol,4.4,"{'type': 'Point', 'coordinates': [-3.7016593, 40.4190502]}","Calle de los Jardines, 3, 28013 Madrid, Spain",,nightlife
+23,Fucking Monday Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7089062, 40.42110390000001]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",,nightlife
+24,Hashtag Friday Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7034155, 40.4138647]}","Calle del Dr Cortezo, 1, 28012 Madrid, Spain",,nightlife
+25,Bling Bling Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.691738, 40.4250798]}","Calle de Génova, 28, 28004 Madrid, Spain",3.0,nightlife
+26,Ochoymedio,3.6,"{'type': 'Point', 'coordinates': [-3.6997571, 40.4270749]}","C. de Barceló, 11, 28004 Madrid, Spain",3.0,nightlife
+27,Hopper,4.3,"{'type': 'Point', 'coordinates': [-3.7102615, 40.4119537]}","Calle de la Cava Baja, 40, 28005 Madrid, Spain",2.0,nightlife
+28,Medias Puri,3.9,"{'type': 'Point', 'coordinates': [-3.7034333, 40.41234910000001]}","Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,nightlife
+29,The Room Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}","Calle de la Cruz, 33, 28012 Madrid, Spain",,nightlife
+30,Mondo Disko,3.9,"{'type': 'Point', 'coordinates': [-3.698812499999999, 40.4170817]}","Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,nightlife
+31,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,nightlife
+32,MADRID CLUB ROCKNROLLA,4.2,"{'type': 'Point', 'coordinates': [-3.6966068, 40.4129171]}","Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,nightlife
+33,New Garamond,3.5,"{'type': 'Point', 'coordinates': [-3.692955, 40.462761]}","Calle de Rosario Pino, 14, 28020 Madrid, Spain",2.0,nightlife
+34,Night Club,4.0,"{'type': 'Point', 'coordinates': [-3.712771, 40.413812]}","Calle de Segovia, 19, 28005 Madrid, Spain",2.0,nightlife
+35,Bearbie Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.699808899999999, 40.4211844]}","Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",1.0,nightlife
+36,New Black Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6983512, 40.4172965]}","Calle de Cedaceros, 7, 28014 Madrid, Spain",,nightlife
+37,Blackbird Rock Bar,4.4,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}","Calle de las Huertas, 22, 28014 Madrid, Spain",2.0,nightlife
+38,Black & White,3.9,"{'type': 'Point', 'coordinates': [-3.6967534, 40.4226249]}","Calle de la Libertad, 34, 28004 Madrid, Spain",,nightlife
+39,Discoteca Serrano 41,3.7,"{'type': 'Point', 'coordinates': [-3.6873588, 40.4289888]}","Calle de Serrano, 41, 28001 Madrid, Spain",2.0,nightlife
+40,Sala HYSTERIA,5.0,"{'type': 'Point', 'coordinates': [-3.7149378, 40.4331491]}","Calle de Meléndez Valdés, 52, 28015 Madrid, Spain",,nightlife
+41,Sala Stella,3.9,"{'type': 'Point', 'coordinates': [-3.6988457, 40.4170757]}","Calle de Arlabán, 7, 28014 Madrid, Spain",1.0,nightlife
+42,ZARPA BEAR DE COPAS,4.3,"{'type': 'Point', 'coordinates': [-3.6991339, 40.42049009999999]}","Calle de las Infantas, 26, 28004 Madrid, Spain",1.0,nightlife
+43,Star Coyote 54,3.5,"{'type': 'Point', 'coordinates': [-3.7036066, 40.4190511]}","Plaza del Carmen, 3, 28013 Madrid, Spain",1.0,nightlife
+44,Barceló Theatre,3.7,"{'type': 'Point', 'coordinates': [-3.699822, 40.42692900000001]}","C. de Barceló, 11, 28004 Madrid, Spain",3.0,nightlife
+45,Chelsea Cabaret Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7075672, 40.4207748]}","Calle de Silva, 6, 28013 Madrid, Spain",,nightlife
+46,Salmon Guru,4.7,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}","Calle de Echegaray, 21, 28014 Madrid, Spain",2.0,nightlife
+47,Minis Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6996742, 40.4151132]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",,nightlife
+48,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",2.0,nightlife
+49,Baila Cariño,2.6,"{'type': 'Point', 'coordinates': [-3.7090011, 40.4211109]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",,nightlife
+50,VOALÁ MADRID,0.0,"{'type': 'Point', 'coordinates': [-3.710154999999999, 40.4324127]}","Calle de Galileo, 26, 28015 Madrid, Spain",,nightlife
+51,CHA CHÁ The Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6983705, 40.4173993]}","Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,nightlife
+52,Ya'sta Club,3.7,"{'type': 'Point', 'coordinates': [-3.7019926, 40.4211199]}","Calle de Valverde, 10, 28004 Madrid, Spain",,nightlife
+53,Edén de Huertas Bar de Copas y Cachimbas,4.7,"{'type': 'Point', 'coordinates': [-3.695893299999999, 40.41320959999999]}","Calle de las Huertas, 67, 28014 Madrid, Spain",1.0,nightlife
+54,Madrid me Mata,4.2,"{'type': 'Point', 'coordinates': [-3.701771999999999, 40.4263132]}","Corredera Alta de San Pablo, 31, 28004 Madrid, Spain",2.0,nightlife
+55,La Coquette,4.6,"{'type': 'Point', 'coordinates': [-3.7075658, 40.4177289]}","Calle de las Hileras, 14, 28013 Madrid, Spain",2.0,nightlife
+56,Santamaría Coctelería,4.7,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4213371]}","Calle de la Ballesta, 6, 28004 Madrid, Spain",,nightlife
+57,The Dash,4.4,"{'type': 'Point', 'coordinates': [-3.7006417, 40.4334982]}","C/ de Murillo, 5, 28010 Madrid, Spain",2.0,nightlife
+58,La Boite,3.2,"{'type': 'Point', 'coordinates': [-3.7032049, 40.4183219]}","Calle de Tetuán, 27, 28013 Madrid, Spain",,nightlife
+59,La Fontana de Oro,4.1,"{'type': 'Point', 'coordinates': [-3.701585, 40.41640100000001]}","Calle de la Victoria, 1, 28012 Madrid, Spain",2.0,nightlife

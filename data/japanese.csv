@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Japanese Club,4.2,"{'type': 'Point', 'coordinates': [-3.6830877, 40.4330013]}","Calle de Juan Bravo, 11, 28006 Madrid, Spain",japanese
-1,Miyama,4.6,"{'type': 'Point', 'coordinates': [-3.6896583, 40.4356778]}","Paseo de la Castellana, 45, 28046 Madrid, Spain",japanese
-2,Sublime Tokyo,4.6,"{'type': 'Point', 'coordinates': [-3.7083009, 40.4198225]}","Cuesta de Sto. Domingo, 24, 28013 Madrid, Spain",japanese
-3,Izakaya Han,4.6,"{'type': 'Point', 'coordinates': [-3.6984705, 40.4218249]}","Calle de San Bartolomé, 10, 28004 Madrid, Spain",japanese
-4,YOKALOKA,4.5,"{'type': 'Point', 'coordinates': [-3.6986778, 40.4116083]}","DENTRO DEL MERCADO DE ANTÓN MARTÍN, Calle de Santa Isabel, 5, 28012 Madrid, Spain",japanese
-5,Naomi,4.6,"{'type': 'Point', 'coordinates': [-3.7006115, 40.4525693]}","Calle de Ávila, 14, 28020 Madrid, Spain",japanese
-6,Sr. Ito,4.5,"{'type': 'Point', 'coordinates': [-3.697380399999999, 40.4241058]}","Calle de Pelayo, 60, 28004 Madrid, Spain",japanese
-7,Restaurante Doki Doki,4.4,"{'type': 'Point', 'coordinates': [-3.689808999999999, 40.421046]}","Calle Villalar, 4, 28001 Madrid, Spain",japanese
-8,Umiko Restaurante Japonés Fusión,4.5,"{'type': 'Point', 'coordinates': [-3.6973425, 40.4175316]}","Calle de los Madrazo, 18, 28014 Madrid, Spain",japanese
-9,JANATOMO,4.5,"{'type': 'Point', 'coordinates': [-3.698991, 40.4200162]}","Calle de la Reina, 27, 28004 Madrid, Spain",japanese
-10,Konnichiwa,4.4,"{'type': 'Point', 'coordinates': [-3.7017833, 40.42788609999999]}","Calle de Fuencarral, 98, 28004 Madrid, Spain",japanese
-11,Restaurante Japonés Art & Sushi Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.703373, 40.42904679999999]}","Calle de Carranza, 9 Glorieta de Bilbao, 28004 Madrid, Spain",japanese
-12,Donzoko,4.5,"{'type': 'Point', 'coordinates': [-3.6995699, 40.4161876]}","Calle de Echegaray, 3, 28014 Madrid, Spain",japanese
-13,Ramen Kagura Ópera,4.6,"{'type': 'Point', 'coordinates': [-3.708749, 40.416807]}","Calle de las Fuentes, 1, 28013 Madrid, Spain",japanese
-14,Livin'Japan,4.6,"{'type': 'Point', 'coordinates': [-3.6994991, 40.41059569999999]}","Calle de la Torrecilla del Leal, 20, 28012 Madrid, Spain",japanese
-15,Restaurante Shinatora Ya,4.5,"{'type': 'Point', 'coordinates': [-3.6866895, 40.4257681]}","Calle de Claudio Coello, 41, 28001 Madrid, Spain",japanese
-16,Saisho,4.6,"{'type': 'Point', 'coordinates': [-3.716534899999999, 40.4257121]}","Calle de Evaristo San Miguel, 21, 28008 Madrid, Spain",japanese
-17,99 Sushi Bar Eurobuilding,4.6,"{'type': 'Point', 'coordinates': [-3.6858002, 40.4585474]}","C. del Padre Damián, 23, 28036 Madrid, Spain",japanese
-18,Nigiri Fuencarral,4.0,"{'type': 'Point', 'coordinates': [-3.701579, 40.426644]}","Calle de Fuencarral, 91, 28004 Madrid, Spain",japanese
-19,Miss Sushi,4.0,"{'type': 'Point', 'coordinates': [-3.6863311, 40.4315886]}","Calle de Padilla, 4, 28006 Madrid, Spain",japanese
-20,Kabuki Wellington,4.6,"{'type': 'Point', 'coordinates': [-3.6842278, 40.421975]}","Calle de Velázquez, 6, 28001 Madrid, Spain",japanese
-21,Ayala Japón Restaurante japonés,4.3,"{'type': 'Point', 'coordinates': [-3.6765164, 40.4275256]}","Cl. de Ayala, 67, 28001 Madrid, Spain",japanese
-22,Sushi YAKUZA,4.5,"{'type': 'Point', 'coordinates': [-3.6871355, 40.43767649999999]}","Calle de María de Molina, 16, 28006 Madrid, Spain",japanese
-23,Hattori Hanzo,3.9,"{'type': 'Point', 'coordinates': [-3.7041425, 40.4209596]}","Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",japanese
-24,Kira Kira,4.6,"{'type': 'Point', 'coordinates': [-3.6944377, 40.4306254]}","Calle de Caracas, 8, 28010 Madrid, Spain",japanese
-25,Okashi Sanda,4.5,"{'type': 'Point', 'coordinates': [-3.7032679, 40.42575009999999]}","Calle de San Vicente Ferrer, 22, 28004 Madrid, Spain",japanese
-26,WAGARA Restaurante Japonés,4.9,"{'type': 'Point', 'coordinates': [-3.6748356, 40.4383684]}","Calle del Pilar de Zaragoza, 95, 28028 Madrid, Spain",japanese
-27,Yakiniku Rikyu,4.6,"{'type': 'Point', 'coordinates': [-3.6903491, 40.4281177]}","Paseo de la Castellana, 15, 28046 Madrid, Spain",japanese
-28,Kabuki,4.6,"{'type': 'Point', 'coordinates': [-3.696854999999999, 40.453204]}","Av. del Pdte. Carmona, 2, 28020 Madrid, Spain",japanese
-29,Tsukiji Sushi Bar Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6378208, 40.4624709]}","Calle de Silvano, 92, 28043 Madrid, Spain",japanese
-30,Restaurante Japones,4.0,"{'type': 'Point', 'coordinates': [-3.679147, 40.4543087]}","Calle Víctor Andrés Belaunde, 1, 28016 Madrid, Spain",japanese
-31,Sibuya Urban Sushi Bar,4.3,"{'type': 'Point', 'coordinates': [-3.695073399999999, 40.4237481]}","Calle de Santo Tomé, 5, 28004 Madrid, Spain",japanese
-32,Yan Ken Pon - Sushi Ramen y Librería,4.4,"{'type': 'Point', 'coordinates': [-3.7070697, 40.4109037]}","Plaza de Cascorro, 3, 28012 Madrid, Spain",japanese
-33,Kirikata,4.2,"{'type': 'Point', 'coordinates': [-3.6792501, 40.4203695]}","Av. de Menéndez Pelayo, 13, 28009 Madrid, Spain",japanese
-34,MUSASHI,4.5,"{'type': 'Point', 'coordinates': [-3.7076722, 40.4190371]}","Calle de las Conchas, 4, 28013 Madrid, Spain",japanese
-35,Sushi Store Express,4.0,"{'type': 'Point', 'coordinates': [-3.6981238, 40.4192068]}","C/ Gran Vía, 1, 28013 Madrid, Spain",japanese
-36,Txatei,4.5,"{'type': 'Point', 'coordinates': [-3.679148999999999, 40.4289777]}","Calle de Don Ramón de la Cruz, 49, 28001 Madrid, Spain",japanese
-37,Okasan,4.4,"{'type': 'Point', 'coordinates': [-3.7053377, 40.4198028]}","El Corte Inglés, Gourmet Experience Gran Vía, Plaza del Callao, 2, 28013 Madrid, Spain",japanese
-38,Sto Globo Sushi Room,4.8,"{'type': 'Point', 'coordinates': [-3.6958339, 40.4257604]}","Calle de Sta. Teresa, 8, 28004 Madrid, Spain",japanese
-39,Restaurante Ichiban,4.2,"{'type': 'Point', 'coordinates': [-3.6847162, 40.4581183]}","Av. de Alberto de Alcocer, 22 bis, 28036 Madrid, Spain",japanese
-40,Kuraya,4.4,"{'type': 'Point', 'coordinates': [-3.7087385, 40.4166538]}","Plaza de Herradores, 7, 28013 Madrid, Spain",japanese
-41,Nippon 2,4.4,"{'type': 'Point', 'coordinates': [-3.6985945, 40.41995360000001]}","Calle de la Reina, 31, 28004 Madrid, Spain",japanese
-42,KIPPU,4.6,"{'type': 'Point', 'coordinates': [-3.6780589, 40.430559]}","Calle del Gral. Pardiñas, 70, 28006 Madrid, Spain",japanese
-43,Restaurante Japonés SAORI,4.6,"{'type': 'Point', 'coordinates': [-3.689529, 40.4133508]}","Calle de Alberto Bosch, 14, 28014 Madrid, Spain",japanese
-44,Sr.Ito Lab,4.6,"{'type': 'Point', 'coordinates': [-3.7005531, 40.4312475]}","Calle de Trafalgar, 7, local 2, 28010 Madrid, Spain",japanese
-45,Restaurante Ikigai,4.3,"{'type': 'Point', 'coordinates': [-3.7097981, 40.4221971]}","Calle de la Flor Baja, 5, 28013 Madrid, Spain",japanese
-46,Teppanyakifish,4.1,"{'type': 'Point', 'coordinates': [-3.679289, 40.426217]}","Calle de Hermosilla, 69, 28001 Madrid, Spain",japanese
-47,99 Sushi Bar Hermosilla,4.5,"{'type': 'Point', 'coordinates': [-3.6887643, 40.4264441]}","Calle de Hermosilla, 4, 28001 Madrid, Spain",japanese
-48,Hanakura,4.5,"{'type': 'Point', 'coordinates': [-3.7004709, 40.4332403]}","C/ de Murillo, 4, 28010 Madrid, Spain",japanese
-49,Morikaen,4.2,"{'type': 'Point', 'coordinates': [-3.7168924, 40.4336725]}","C. de Hilarión Eslava, 17, 28015 Madrid, Spain",japanese
-50,FUKU restaurante japonés,4.3,"{'type': 'Point', 'coordinates': [-3.6874406, 40.4311194]}","Calle Marqués de Villamejor, 8, 28006 Madrid, Spain",japanese
-51,Miss Sushi Santa Ana,4.0,"{'type': 'Point', 'coordinates': [-3.7000911, 40.4145294]}","Calle del Prado, 2, 28014 Madrid, Spain",japanese
-52,Maitake Alcalá,4.2,"{'type': 'Point', 'coordinates': [-3.682834, 40.421852]}","Calle de Alcalá, 105 local 2, 28009 Madrid, Spain",japanese
-53,Restaurante Izariya Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.693201, 40.43626]}","Calle de Zurbano, 63, 28010 Madrid, Spain",japanese
-54,Chow Chow,4.3,"{'type': 'Point', 'coordinates': [-3.6804104, 40.4519609]}","Av. de Concha Espina, 55, 28016 Madrid, Spain",japanese
-55,Nigiri Plaza de España,4.1,"{'type': 'Point', 'coordinates': [-3.7120238, 40.4244248]}","C. de la Princesa, 1, 28008 Madrid, Spain",japanese
-56,Restaurante Kappo,4.6,"{'type': 'Point', 'coordinates': [-3.6937511, 40.4392571]}","Calle de Bretón de los Herreros, 54, 28003 Madrid, Spain",japanese
-57,YAN KEN PON Mercado de San Fernando,4.2,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Calle de Embajadores, 41, Local 11, 28012 Madrid, Spain",japanese
-58,Nagoya Trafalgar,4.1,"{'type': 'Point', 'coordinates': [-3.700510299999999, 40.43114569999999]}","Calle de Trafalgar, 7, 28010 Madrid, Spain",japanese
-59,Miki,4.5,"{'type': 'Point', 'coordinates': [-3.6793721, 40.4419586]}","Calle del Duque de Sevilla, 4, 28002 Madrid, Spain",japanese
+,name,rating,location,address,price_level,place
+0,YOKALOKA,4.5,"{'type': 'Point', 'coordinates': [-3.6986778, 40.4116083]}","DENTRO DEL MERCADO DE ANTÓN MARTÍN, Calle de Santa Isabel, 5, 28012 Madrid, Spain",2.0,japanese
+1,Konnichiwa,4.4,"{'type': 'Point', 'coordinates': [-3.7017833, 40.42788609999999]}","Calle de Fuencarral, 98, 28004 Madrid, Spain",2.0,japanese
+2,Nigiri Fuencarral,4.0,"{'type': 'Point', 'coordinates': [-3.701579, 40.426644]}","Calle de Fuencarral, 91, 28004 Madrid, Spain",1.0,japanese
+3,Ayala Japón Restaurante japonés,4.3,"{'type': 'Point', 'coordinates': [-3.6765164, 40.4275256]}","Cl. de Ayala, 67, 28001 Madrid, Spain",2.0,japanese
+4,Hattori Hanzo,3.9,"{'type': 'Point', 'coordinates': [-3.7041425, 40.4209596]}","Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",,japanese
+5,Yakiniku Rikyu,4.6,"{'type': 'Point', 'coordinates': [-3.6903491, 40.4281177]}","Paseo de la Castellana, 15, 28046 Madrid, Spain",,japanese
+6,Sushi Store Express,4.0,"{'type': 'Point', 'coordinates': [-3.6981238, 40.4192068]}","C/ Gran Vía, 1, 28013 Madrid, Spain",1.0,japanese
+7,Okasan,4.4,"{'type': 'Point', 'coordinates': [-3.7053377, 40.4198028]}","El Corte Inglés, Gourmet Experience Gran Vía, Plaza del Callao, 2, 28013 Madrid, Spain",,japanese
+8,Restaurante Ichiban,4.2,"{'type': 'Point', 'coordinates': [-3.6847162, 40.4581183]}","Av. de Alberto de Alcocer, 22 bis, 28036 Madrid, Spain",3.0,japanese
+9,FUKU restaurante japonés,4.3,"{'type': 'Point', 'coordinates': [-3.6874406, 40.4311194]}","Calle Marqués de Villamejor, 8, 28006 Madrid, Spain",,japanese
+10,Chow Chow,4.3,"{'type': 'Point', 'coordinates': [-3.6804104, 40.4519609]}","Av. de Concha Espina, 55, 28016 Madrid, Spain",2.0,japanese
+11,Nigiri Plaza de España,4.1,"{'type': 'Point', 'coordinates': [-3.7120238, 40.4244248]}","C. de la Princesa, 1, 28008 Madrid, Spain",,japanese
+12,Ikki Restaurant,4.1,"{'type': 'Point', 'coordinates': [-3.7180556, 40.4322222]}","Calle de Benito Gutiérrez, 4, 28008 Madrid, Spain",,japanese
+13,Tokyo-ya Japanese Food Store Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6974034, 40.4546255]}","Av. del Pdte. Carmona, 9, 28020 Madrid, Spain",,japanese
+14,Japanese Club,4.2,"{'type': 'Point', 'coordinates': [-3.6830877, 40.4330013]}","Calle de Juan Bravo, 11, 28006 Madrid, Spain",,japanese
+15,Miyama,4.6,"{'type': 'Point', 'coordinates': [-3.6896583, 40.4356778]}","Paseo de la Castellana, 45, 28046 Madrid, Spain",3.0,japanese
+16,Sublime Tokyo,4.6,"{'type': 'Point', 'coordinates': [-3.7083009, 40.4198225]}","Cuesta de Sto. Domingo, 24, 28013 Madrid, Spain",2.0,japanese
+17,Izakaya Han,4.6,"{'type': 'Point', 'coordinates': [-3.6984705, 40.4218249]}","Calle de San Bartolomé, 10, 28004 Madrid, Spain",2.0,japanese
+18,Naomi,4.6,"{'type': 'Point', 'coordinates': [-3.7006115, 40.4525693]}","Calle de Ávila, 14, 28020 Madrid, Spain",2.0,japanese
+19,Sr. Ito,4.5,"{'type': 'Point', 'coordinates': [-3.697380399999999, 40.4241058]}","Calle de Pelayo, 60, 28004 Madrid, Spain",2.0,japanese
+20,Kirei,4.1,"{'type': 'Point', 'coordinates': [-3.5704655, 40.4633669]}","Melton St, 28042 Madrid, Spain",,japanese
+21,Running Sushi in Osaka,4.3,"{'type': 'Point', 'coordinates': [-3.6738303, 40.4259521]}","Calle de Hermosilla, 103, 28009 Madrid, Spain",,japanese
+22,Tokyo Restaurant,3.7,"{'type': 'Point', 'coordinates': [-3.7162808, 40.43322999999999]}","Calle de Meléndez Valdés, 64, 28015 Madrid, Spain",,japanese
+23,Nipponsei Sushi and Club,0.0,"{'type': 'Point', 'coordinates': [-3.7084988, 40.4205559]}","Plaza de Santo Domingo, 28013 Madrid, Spain",,japanese
+24,DAISUKI Japanese Experience,0.0,"{'type': 'Point', 'coordinates': [-3.6315413, 40.4359708]}","Calle de Albasanz, 14B, 28037 Madrid, Spain",,japanese
+25,Panda Patisserie,3.8,"{'type': 'Point', 'coordinates': [-3.7039909, 40.4209581]}","Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",,japanese
+26,Sushi Market,3.8,"{'type': 'Point', 'coordinates': [-3.7089801, 40.4154491]}","Plaza de San Miguel, s/n, 28005 Madrid, Spain",,japanese
+27,Miss Sushi Hortaleza,4.0,"{'type': 'Point', 'coordinates': [-3.697372299999999, 40.4255088]}","Calle de Hortaleza, 108, 28004 Madrid, Spain",2.0,japanese
+28,Helados Refrescos Japan Market,4.2,"{'type': 'Point', 'coordinates': [-3.705180999999999, 40.4161337]}","Calle de Esparteros, 4, 28012 Madrid, Spain",,japanese
+29,Stacksando - Japanese Comfort Kitchen 🇯🇵,0.0,"{'type': 'Point', 'coordinates': [-3.697799, 40.413677]}","Calle de Lope de Vega, 16, 28014 Madrid, Spain",,japanese
+30,Restaurante Doki Doki,4.4,"{'type': 'Point', 'coordinates': [-3.689808999999999, 40.421046]}","Calle Villalar, 4, 28001 Madrid, Spain",3.0,japanese
+31,Umiko Restaurante Japonés Fusión,4.5,"{'type': 'Point', 'coordinates': [-3.6973425, 40.4175316]}","Calle de los Madrazo, 18, 28014 Madrid, Spain",2.0,japanese
+32,JANATOMO,4.5,"{'type': 'Point', 'coordinates': [-3.698991, 40.4200162]}","Calle de la Reina, 27, 28004 Madrid, Spain",2.0,japanese
+33,Restaurante Japonés Art & Sushi Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.703373, 40.42904679999999]}","Calle de Carranza, 9 Glorieta de Bilbao, 28004 Madrid, Spain",2.0,japanese
+34,Donzoko,4.5,"{'type': 'Point', 'coordinates': [-3.6995699, 40.4161876]}","Calle de Echegaray, 3, 28014 Madrid, Spain",2.0,japanese
+35,Ramen Kagura Ópera,4.6,"{'type': 'Point', 'coordinates': [-3.708749, 40.416807]}","Calle de las Fuentes, 1, 28013 Madrid, Spain",1.0,japanese
+36,Livin'Japan,4.6,"{'type': 'Point', 'coordinates': [-3.6994991, 40.41059569999999]}","Calle de la Torrecilla del Leal, 20, 28012 Madrid, Spain",1.0,japanese
+37,Restaurante Shinatora Ya,4.5,"{'type': 'Point', 'coordinates': [-3.6866895, 40.4257681]}","Calle de Claudio Coello, 41, 28001 Madrid, Spain",,japanese
+38,Saisho,4.6,"{'type': 'Point', 'coordinates': [-3.716534899999999, 40.4257121]}","Calle de Evaristo San Miguel, 21, 28008 Madrid, Spain",,japanese
+39,99 Sushi Bar Eurobuilding,4.6,"{'type': 'Point', 'coordinates': [-3.6858002, 40.4585474]}","C. del Padre Damián, 23, 28036 Madrid, Spain",4.0,japanese
+40,Miss Sushi,4.0,"{'type': 'Point', 'coordinates': [-3.6863311, 40.4315886]}","Calle de Padilla, 4, 28006 Madrid, Spain",2.0,japanese
+41,Kabuki Wellington,4.6,"{'type': 'Point', 'coordinates': [-3.6842278, 40.421975]}","Calle de Velázquez, 6, 28001 Madrid, Spain",4.0,japanese
+42,Sushi YAKUZA,4.5,"{'type': 'Point', 'coordinates': [-3.6871355, 40.43767649999999]}","Calle de María de Molina, 16, 28006 Madrid, Spain",2.0,japanese
+43,Kira Kira,4.6,"{'type': 'Point', 'coordinates': [-3.6944377, 40.4306254]}","Calle de Caracas, 8, 28010 Madrid, Spain",,japanese
+44,Okashi Sanda,4.5,"{'type': 'Point', 'coordinates': [-3.7032679, 40.42575009999999]}","Calle de San Vicente Ferrer, 22, 28004 Madrid, Spain",2.0,japanese
+45,WAGARA Restaurante Japonés,4.9,"{'type': 'Point', 'coordinates': [-3.6748356, 40.4383684]}","Calle del Pilar de Zaragoza, 95, 28028 Madrid, Spain",,japanese
+46,Kabuki,4.6,"{'type': 'Point', 'coordinates': [-3.696854999999999, 40.453204]}","Av. del Pdte. Carmona, 2, 28020 Madrid, Spain",4.0,japanese
+47,Tsukiji Sushi Bar Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6378208, 40.4624709]}","Calle de Silvano, 92, 28043 Madrid, Spain",2.0,japanese
+48,Meiyo Japanese Kitchen,0.0,"{'type': 'Point', 'coordinates': [-3.7266508, 40.4067582]}","Calle Sepúlveda, 3, 28011 Madrid, Spain",,japanese
+49,Peyote San,3.9,"{'type': 'Point', 'coordinates': [-3.6919884, 40.4253974]}","Calle del Marqués de la Ensenada, 16, 28004 Madrid, Spain",3.0,japanese
+50,Restaurante Japones,4.0,"{'type': 'Point', 'coordinates': [-3.679147, 40.4543087]}","Calle Víctor Andrés Belaunde, 1, 28016 Madrid, Spain",,japanese
+51,Sibuya Urban Sushi Bar,4.3,"{'type': 'Point', 'coordinates': [-3.695073399999999, 40.4237481]}","Calle de Santo Tomé, 5, 28004 Madrid, Spain",2.0,japanese
+52,Yan Ken Pon - Sushi Ramen y Librería,4.4,"{'type': 'Point', 'coordinates': [-3.7070697, 40.4109037]}","Plaza de Cascorro, 3, 28012 Madrid, Spain",2.0,japanese
+53,Kirikata,4.2,"{'type': 'Point', 'coordinates': [-3.6792501, 40.4203695]}","Av. de Menéndez Pelayo, 13, 28009 Madrid, Spain",3.0,japanese
+54,MUSASHI,4.5,"{'type': 'Point', 'coordinates': [-3.7076722, 40.4190371]}","Calle de las Conchas, 4, 28013 Madrid, Spain",1.0,japanese
+55,Txatei,4.5,"{'type': 'Point', 'coordinates': [-3.679148999999999, 40.4289777]}","Calle de Don Ramón de la Cruz, 49, 28001 Madrid, Spain",3.0,japanese
+56,Sto Globo Sushi Room,4.8,"{'type': 'Point', 'coordinates': [-3.6958339, 40.4257604]}","Calle de Sta. Teresa, 8, 28004 Madrid, Spain",2.0,japanese
+57,Kuraya,4.4,"{'type': 'Point', 'coordinates': [-3.7087385, 40.4166538]}","Plaza de Herradores, 7, 28013 Madrid, Spain",,japanese
+58,Nippon 2,4.4,"{'type': 'Point', 'coordinates': [-3.6985945, 40.41995360000001]}","Calle de la Reina, 31, 28004 Madrid, Spain",2.0,japanese
+59,KIPPU,4.6,"{'type': 'Point', 'coordinates': [-3.6780589, 40.430559]}","Calle del Gral. Pardiñas, 70, 28006 Madrid, Spain",2.0,japanese

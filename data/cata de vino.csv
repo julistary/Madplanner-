@@ -1,0 +1,21 @@
+,name,rating,location,address,price_level,place
+0,Catas de Vinos en Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.688921199999999, 40.4636363]}","Paseo de la Castellana, 214, 28036 Madrid, Spain",,cata de vino
+1,Cena Cata de Vinos en Maridaje en Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.712253, 40.4241904]}","Plaza de España, s/n, 28008 Madrid, Spain",,cata de vino
+2,La Bodega de Los Reyes,4.8,"{'type': 'Point', 'coordinates': [-3.7092347, 40.4243419]}","Calle de los Reyes, 6, 28015 Madrid, Spain",,cata de vino
+3,Reserva y Cata,4.9,"{'type': 'Point', 'coordinates': [-3.694196099999999, 40.4234476]}","Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",,cata de vino
+4,VinoPremier,4.2,"{'type': 'Point', 'coordinates': [-3.671582, 40.43110009999999]}","C/ de Francisco Silvela, 25, 28028 Madrid, Spain",,cata de vino
+5,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"{'type': 'Point', 'coordinates': [-3.6967946, 40.4151702]}","Calle de San Agustín, 3, 28014 Madrid, Spain",,cata de vino
+6,Vino & Compañía,4.6,"{'type': 'Point', 'coordinates': [-3.7016862, 40.4326845]}","Plaza de Olavide, 5, 28010 Madrid, Spain",,cata de vino
+7,Gourmet Madrid Tours,4.9,"{'type': 'Point', 'coordinates': [-3.6778226, 40.416241]}","Av. de Menéndez Pelayo, 53, 28009 Madrid, Spain",,cata de vino
+8,AULA ESPAÑOLA DEL VINO S.L.,4.3,"{'type': 'Point', 'coordinates': [-3.6925723, 40.4662859]}","C. Simancas, 21, 28029 Madrid, Spain",,cata de vino
+9,Escuela Española de Cata,4.8,"{'type': 'Point', 'coordinates': [-3.6706892, 40.4289839]}","Calle de las Mártires Concepcionistas, 19, Local 2, 28006 Madrid, Spain",,cata de vino
+10,Lavinia,4.4,"{'type': 'Point', 'coordinates': [-3.6843632, 40.4302083]}","Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",3.0,cata de vino
+11,Enoteca Barolo,4.7,"{'type': 'Point', 'coordinates': [-3.677905, 40.4510127]}","Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",,cata de vino
+12,Cata Spanish School,0.0,"{'type': 'Point', 'coordinates': [-3.6706741, 40.4291007]}","Calle de las Mártires Concepcionistas, 19, 28006 Madrid, Spain",,cata de vino
+13,MARES Vinos: Vinoteca en Madrid. Vinos distintivos en el barrio Salamanca,4.6,"{'type': 'Point', 'coordinates': [-3.6782276, 40.428785]}","Calle de Don Ramón de la Cruz, 46, 28001 Madrid, Spain",,cata de vino
+14,Entre Cepas Catas y Enoturismo,4.7,"{'type': 'Point', 'coordinates': [-3.8010808, 40.3493027]}","28925 Alcorcón, Madrid, Spain",,cata de vino
+15,Taca de vi | Cata de Vinos & Tours en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6655243, 40.4118397]}","Calle Pez Austral, 15, 28007 Madrid, Spain",,cata de vino
+16,CATAR VINO EN CASA,0.0,"{'type': 'Point', 'coordinates': [-3.6952896, 40.4563733]}","Av Brasil 4, planta 9 puerta 4g, 28020 Madrid, Spain",,cata de vino
+17,El vino en catas,0.0,"{'type': 'Point', 'coordinates': [-3.7018917, 40.4198789]}","C/ Gran Vía, 23, 28013 Madrid, Spain",,cata de vino
+18,STARVINOS,4.1,"{'type': 'Point', 'coordinates': [-3.7126132, 40.4380572]}","Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",,cata de vino
+19,La Caja de Vinos,4.7,"{'type': 'Point', 'coordinates': [-3.708092199999999, 40.4162902]}","Calle de San Felipe Neri, 2, 28013 Madrid, Spain",,cata de vino

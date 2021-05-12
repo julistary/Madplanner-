@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Centro Comercial Príncipe Pío,4.2,"{'type': 'Point', 'coordinates': [-3.7206155, 40.4221409]}","Paseo de la Florida, 2, 28008 Madrid, Spain",,centro comercial
+1,Plaza Río 2 Shopping Center,4.3,"{'type': 'Point', 'coordinates': [-3.7014217, 40.3908753]}","Av del Manzanares, 210, 28026 Madrid, Spain",,centro comercial
+2,Centro Comercial ABC Serrano,4.0,"{'type': 'Point', 'coordinates': [-3.6880669, 40.4322926]}","Paseo de la Castellana, 34, 28046 Madrid, Spain",,centro comercial
+3,Centro Comercial La Vaguada,4.3,"{'type': 'Point', 'coordinates': [-3.7074566, 40.4800101]}","Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",,centro comercial
+4,Centro Comercial Moda Shopping,3.8,"{'type': 'Point', 'coordinates': [-3.6926706, 40.45127919999999]}","Av. del General Perón, 38-40, 28020 Madrid, Spain",,centro comercial
+5,Castellana 200,3.9,"{'type': 'Point', 'coordinates': [-3.6886626, 40.4625427]}","Paseo de la Castellana, 196-204, 28046 Madrid, Spain",,centro comercial
+6,Centro Comercial Madrid Sur,3.9,"{'type': 'Point', 'coordinates': [-3.6634111, 40.3813158]}","Av. Pablo Neruda, 91-97, 28018 Madrid, Spain",,centro comercial
+7,Plenilunio,4.3,"{'type': 'Point', 'coordinates': [-3.587343, 40.446969]}","Calle de Aracne, s / n, 28022 Madrid, Spain",,centro comercial
+8,La Ermita Shopping Center,3.5,"{'type': 'Point', 'coordinates': [-3.7245791, 40.407094]}","Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",,centro comercial
+9,Centro Comercial La Vega,3.7,"{'type': 'Point', 'coordinates': [-3.6372222, 40.5347222]}","Av. Olímpica, 9, 28108 Alcobendas, Madrid, Spain",,centro comercial
+10,Centro Comercial Islazul,4.2,"{'type': 'Point', 'coordinates': [-3.737494, 40.3637111]}","Calle Calderilla, 1, 28054 Madrid, Spain",,centro comercial
+11,Centro comercial Alcalá Norte,3.2,"{'type': 'Point', 'coordinates': [-3.6382137, 40.4369798]}","Calle de Alcalá, 414, 28027 Madrid, Spain",,centro comercial
+12,Granviadehortaleza,4.2,"{'type': 'Point', 'coordinates': [-3.6410582, 40.4695711]}","Gran Vía de Hortaleza, S/N, 28043 Madrid, Spain",,centro comercial
+13,La Remonta Centro Comercial,4.1,"{'type': 'Point', 'coordinates': [-3.6963815, 40.4640625]}","Calle de Bravo Murillo, 327, 28020 Madrid, Spain",,centro comercial
+14,Montecarmelo Mall,3.7,"{'type': 'Point', 'coordinates': [-3.6902004, 40.5102592]}","Calle del Monasterio de Arlanza, 20, 28034 Madrid, Spain",,centro comercial
+15,Outlet Sambil Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.7766788, 40.3594243]}","Calle de Mondragón, s/n, 28917 Leganés, Madrid, Spain",,centro comercial
+16,Colombia Mall,3.7,"{'type': 'Point', 'coordinates': [-3.6364566, 40.4721448]}","Av. de Bucaramanga, 2, 28033 Madrid, Spain",,centro comercial
+17,La Gavia,4.2,"{'type': 'Point', 'coordinates': [-3.5990357, 40.3690139]}","Calle Adolfo Bioy Casares, 2, 28051 Madrid, Spain",,centro comercial
+18,Carrefour Alcobendas Shopping Center,4.2,"{'type': 'Point', 'coordinates': [-3.6500178, 40.5274248]}","Carr. de Madrid a Burgos, A1, Km. 14,500, 28108 Alcobendas, Madrid, Spain",,centro comercial
+19,Centro Comercial Las Rosas,4.0,"{'type': 'Point', 'coordinates': [-3.620972099999999, 40.4187285]}","Av. de Guadalajara, 2, 28032 Madrid, Spain",,centro comercial
+20,Centro comercial Criseever,0.0,"{'type': 'Point', 'coordinates': [-3.7054027, 40.4202824]}","C/ Gran Vía, 28013 Madrid, Spain",,centro comercial
+21,Parquesur Shopping Center,4.3,"{'type': 'Point', 'coordinates': [-3.7331842, 40.3401454]}","Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid, Spain",,centro comercial
+22,Sixth Avenue Mall,3.6,"{'type': 'Point', 'coordinates': [-3.8152648, 40.4677758]}","Av. de la Victoria, 2, 28023 Madrid, Spain",,centro comercial
+23,Albufera Plaza,3.8,"{'type': 'Point', 'coordinates': [-3.6560277, 40.3921495]}","Av. de la Albufera, 153, 28038 Madrid, Spain",,centro comercial
+24,Isla Azul Shopping Center,4.4,"{'type': 'Point', 'coordinates': [-3.7373713, 40.3646834]}","Calle Real, 9, 28054 Madrid, Spain",,centro comercial
+25,Arturo Soria Plaza,4.0,"{'type': 'Point', 'coordinates': [-3.6511111, 40.45]}","C. de Arturo Soria, 126, 28043 Madrid, Spain",,centro comercial
+26,Centro comercial El Corte Inglés Preciados,4.3,"{'type': 'Point', 'coordinates': [-3.7040592, 40.4173848]}","Calle de Preciados, 3, 28013 Madrid, Spain",,centro comercial
+27,Bueno para Ti,4.5,"{'type': 'Point', 'coordinates': [-3.7026227, 40.4202565]}","C/ Gran Vía, 30, 28013 Madrid, Spain",,centro comercial
+28,Moraleja Green,4.0,"{'type': 'Point', 'coordinates': [-3.6553541, 40.5186645]}","Av. de Europa, 13, 28108 Alcobendas, Madrid, Spain",,centro comercial
+29,Cinturón,0.0,"{'type': 'Point', 'coordinates': [-3.7065128, 40.4163436]}","28013 Madrid, Spain",,centro comercial
+30,Centro Comercial Arturo Soria,4.2,"{'type': 'Point', 'coordinates': [-3.6510688, 40.4499682]}","C. de Arturo Soria, 126, 28043 Madrid, Spain",,centro comercial
+31,Plaza Norte 2,4.3,"{'type': 'Point', 'coordinates': [-3.613513, 40.5408496]}","Plaza del Comercio, 11-12, 28703 San Sebastián de los Reyes, Madrid, Spain",,centro comercial
+32,GRAN GALERIA,0.0,"{'type': 'Point', 'coordinates': [-3.708406399999999, 40.4210653]}","Calle de San Bernardo, 5, 28013 Madrid, Spain",,centro comercial
+33,Centro Comercial Plaza Aluche,4.0,"{'type': 'Point', 'coordinates': [-3.764143099999999, 40.3864175]}","Av. de los Poblados, 58, 28044 Madrid, Spain",,centro comercial
+34,Palacio de Hielo,4.1,"{'type': 'Point', 'coordinates': [-3.6373448, 40.4631976]}","Calle de Silvano, 77, 28043 Madrid, Spain",,centro comercial
+35,Centro Comercial Los Ángeles,3.9,"{'type': 'Point', 'coordinates': [-3.6918659, 40.3633103]}","Av. de Andalucía, 1, 28041 Madrid, Spain",,centro comercial
+36,Gran vía Galeria,0.0,"{'type': 'Point', 'coordinates': [-3.7082478, 40.42109079999999]}","Calle de San Bernardo, 7, 28013 Madrid, Spain",,centro comercial
+37,Outlet Madrid Bags,0.0,"{'type': 'Point', 'coordinates': [-3.7042064, 40.41714]}","Calle de Preciados, 1, 28013 Madrid, Spain",,centro comercial
+38,Market Tirso Molina,5.0,"{'type': 'Point', 'coordinates': [-3.704842599999999, 40.4127059]}","Plaza de Tirso de Molina, 15, 28012 Madrid, Spain",,centro comercial
+39,Shopping Mall Valdebernardo,3.6,"{'type': 'Point', 'coordinates': [-3.6184176, 40.3976601]}","Calle de los Pinillas, 48, 28032 Madrid, Spain",,centro comercial
+40,Centro Comercial Moda Shopping,4.0,"{'type': 'Point', 'coordinates': [-3.6926706, 40.4512794]}","Paseo de la Castellana, 97B, 28046 Madrid, Spain",,centro comercial
+41,DREAMS Palacio de Hielo,4.2,"{'type': 'Point', 'coordinates': [-3.6377676, 40.46306360000001]}","Calle de Silvano, 77, 28043 Madrid, Spain",,centro comercial
+42,Galería Canalejas Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7006732, 40.4168479]}","Plaza de Canalejas, 28014 Madrid, Spain",,centro comercial
+43,Centro Comercial Los Valles,3.7,"{'type': 'Point', 'coordinates': [-3.5436263, 40.4253054]}","Av. de los Príncipes de España, 45, 28823 Coslada, Madrid, Spain",,centro comercial
+44,Plaza de los Cubos,3.9,"{'type': 'Point', 'coordinates': [-3.7132456, 40.4249873]}","C. de la Princesa, 3, 28008 Madrid, Spain",,centro comercial
+45,Centro Comercial Mirasierra,0.0,"{'type': 'Point', 'coordinates': [-3.7151913, 40.496997]}","28035 Madrid, Spain",,centro comercial
+46,Parque Comercial Camino Real,3.8,"{'type': 'Point', 'coordinates': [-3.5231915, 40.4477289]}","A-2, 28830 San Fernando de Henares, Madrid, Spain",,centro comercial
+47,Centro Comercial Pasillo Verde,3.8,"{'type': 'Point', 'coordinates': [-3.7146619, 40.4040895]}","no name, Paseo de Juan Antonio Vallejo-Nájera Botas, 50, 28005 Madrid, Spain",,centro comercial
+48,Centro Comercial Rivas Centro,3.7,"{'type': 'Point', 'coordinates': [-3.5473023, 40.3557574]}","Plaza de la Constitución, 2, 28522 Rivas-Vaciamadrid, Madrid, Spain",,centro comercial
+49,El Centro Comercial Abierto La Rampa 1,5.0,"{'type': 'Point', 'coordinates': [-3.6089846, 40.4073441]}","Calle de Villajimena, 2, 28032 Madrid, Spain",,centro comercial
+50,Zielo,4.0,"{'type': 'Point', 'coordinates': [-3.783985299999999, 40.4413409]}","Av. de Europa, 26B, 28224 Pozuelo de Alarcón, Madrid, Spain",,centro comercial
+51,Centro comercial Vicalvaro,3.9,"{'type': 'Point', 'coordinates': [-3.6085046, 40.4044908]}","C. de S. Cipriano, s/n, 28032 Madrid, Spain",,centro comercial
+52,LA RAMBLA Mall,3.6,"{'type': 'Point', 'coordinates': [-3.5438532, 40.4245186]}","Calle de Honduras, 25, 27, 28820 Coslada, Madrid, Spain",,centro comercial
+53,Estetica,0.0,"{'type': 'Point', 'coordinates': [-3.7054949, 40.4172863]}","Calle de Tetuán, 4, 28013 Madrid, Spain",,centro comercial
+54,La Ermita Centro Comercial. Street Food,3.7,"{'type': 'Point', 'coordinates': [-3.724733899999999, 40.4067649]}","Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",,centro comercial
+55,New Park Plaza Shopping,4.1,"{'type': 'Point', 'coordinates': [-3.7585059, 40.3450028]}","Av. Puerta del Sol, 2, 28918 Leganés, Madrid, Spain",,centro comercial
+56,Heron Diversia,4.2,"{'type': 'Point', 'coordinates': [-3.6385163, 40.5304025]}","Av. de Bruselas, 21, 28108 Alcobendas, Madrid, Spain",,centro comercial
+57,Edificio antiguo hotel Internacional,5.0,"{'type': 'Point', 'coordinates': [-3.7080947, 40.4176086]}","Calle del Arenal, 19, 28013 Madrid, Spain",,centro comercial
+58,Miramadrid Mall,3.6,"{'type': 'Point', 'coordinates': [-3.5137508, 40.5027573]}","Paseo de las Camelia, s/n, 28860 Paracuellos de Jarama, Madrid, Spain",,centro comercial
+59,Galerías Costa,4.3,"{'type': 'Point', 'coordinates': [-3.701452799999999, 40.4244493]}","Calle de San Joaquín, 7, 28004 Madrid, Spain",,centro comercial

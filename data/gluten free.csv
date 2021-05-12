@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,CELICIOSO Gluten Free Bakery,4.2,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}","Calle de Hortaleza, 3, 28004 Madrid, Spain",,gluten free
+1,[0% Gluten] Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7088897, 40.4331079]}","Calle de Vallehermoso, 33, 28015 Madrid, Spain",,gluten free
+2,As De Bastos Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7079958, 40.453162]}","Calle de Castilla, 62, 28039 Madrid, Spain",2.0,gluten free
+3,Celicioso,3.9,"{'type': 'Point', 'coordinates': [-3.6795075, 40.4215592]}","Calle de O'Donnell, 4, 28009 Madrid, Spain",,gluten free
+4,Katz Madrid Gluten free,5.0,"{'type': 'Point', 'coordinates': [-3.6795358, 40.4437358]}","Calle de Gabriel Lobo, 24, 28002 Madrid, Spain",,gluten free
+5,Rosa Negra Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6990401, 40.4138325]}","Calle del León, 16, 28014 Madrid, Spain",1.0,gluten free
+6,"LaLina Bravas, Tapas y Copas",4.3,"{'type': 'Point', 'coordinates': [-3.7089143, 40.4114544]}","Plaza de la Cebada, 2, 28005 Madrid, Spain",2.0,gluten free
+7,"Restaurante Italiano ""Il Piccolino Della Farfalla""",4.1,"{'type': 'Point', 'coordinates': [-3.7009911, 40.4140114]}","Calle de las Huertas, 6, 28012 Madrid, Spain",1.0,gluten free
+8,Sana Locura Gluten Free Bakery,4.4,"{'type': 'Point', 'coordinates': [-3.6801016, 40.4360652]}","Calle del Gral Oraá, 49, 28006 Madrid, Spain",2.0,gluten free
+9,Celikatessen,4.6,"{'type': 'Point', 'coordinates': [-3.675598999999999, 40.404382]}","Mercado de Pacífico (planta baja, Calle de Valderribas, 30, 28007 Madrid, Spain",,gluten free
+10,La Tape,4.2,"{'type': 'Point', 'coordinates': [-3.7058795, 40.4288476]}","Calle de San Bernardo, 88, 28015 Madrid, Spain",2.0,gluten free
+11,Grosso Napoletano Gluten Free,4.6,"{'type': 'Point', 'coordinates': [-3.6955787, 40.424795]}","Calle de Fernando VI, 23, Local Izquierdo, 28004 Madrid, Spain",2.0,gluten free
+12,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.709315, 40.42935]}","Calle del Conde Duque, 19, 28015 Madrid, Spain",1.0,gluten free
+13,LAIB Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.67994, 40.40719]}","Paseo de la R. Cristina, 30, 28014 Madrid, Spain",,gluten free
+14,Restaurante La Jauría,3.9,"{'type': 'Point', 'coordinates': [-3.7011607, 40.4238805]}","Calle de Colón, 10, 28004 Madrid, Spain",2.0,gluten free
+15,Méntrida,4.0,"{'type': 'Point', 'coordinates': [-3.701479399999999, 40.4324076]}","Plaza de Olavide, 3, 28010 Madrid, Spain",1.0,gluten free
+16,Restaurante Vegetariano Artemisa Sol - Gran Vía,4.4,"{'type': 'Point', 'coordinates': [-3.7028659, 40.4192584]}","Calle de las Tres Cruces, 4, 28013 Madrid, Spain",2.0,gluten free
+17,Komoenkasa,3.0,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4077339]}","Calle de Embajadores, 41, 28012 Madrid, Spain",,gluten free
+18,Da Nicola Gran Vía,4.3,"{'type': 'Point', 'coordinates': [-3.708687, 40.4230288]}","Plaza de los Mostenses, 11, LOCAL, 28015 Madrid, Spain",2.0,gluten free
+19,Celicioso Callao,4.0,"{'type': 'Point', 'coordinates': [-3.7049295, 40.4195161]}","Plaza del Callao, 2, 9º planta, 28013 Madrid, Spain",2.0,gluten free
+20,Celicioso Barquillo,4.2,"{'type': 'Point', 'coordinates': [-3.695701, 40.422141]}","Calle del Barquillo, 19, 28004 Madrid, Spain",,gluten free
+21,Flavia Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6896, 40.422401]}","Calle Gil de Santivañes, 2, 28001 Madrid, Spain",2.0,gluten free
+22,BARISTA,4.5,"{'type': 'Point', 'coordinates': [-3.6991585, 40.4230651]}","Calle de Hortaleza, 51, 28004 Madrid, Spain",,gluten free
+23,Taberna LA CONCHA,4.5,"{'type': 'Point', 'coordinates': [-3.7083581, 40.4131907]}","Calle de la Cava Baja, 7, 28005 Madrid, Spain",2.0,gluten free
+24,Pastelería La Oriental con gluten,4.5,"{'type': 'Point', 'coordinates': [-3.7208391, 40.42961469999999]}","Calle de Ferraz, 49, 28008 Madrid, Spain",,gluten free
+25,EL CAFE DE LA REINA,3.8,"{'type': 'Point', 'coordinates': [-3.6932757, 40.40890599999999]}","Calle del Dr. Drumen, 6, 28012 Madrid, Spain",,gluten free
+26,Restaurante Vegetariano Artemisa Sol - Huertas,4.4,"{'type': 'Point', 'coordinates': [-3.6989251, 40.4160178]}","Calle de Ventura de la Vega, 4, 28014 Madrid, Spain",2.0,gluten free
+27,Restaurante lapizza+sana,4.4,"{'type': 'Point', 'coordinates': [-3.6244434, 40.4576184]}","Av. de Machupichu, 16, 28043 Madrid, Spain",2.0,gluten free
+28,Pastelería La Oriental Sin gluten,4.0,"{'type': 'Point', 'coordinates': [-3.7207932, 40.4295994]}","Calle de Ferraz, 47, 28008 Madrid, Spain",,gluten free
+29,Maná Productos Sin Gluten. Tu tienda especialista,4.3,"{'type': 'Point', 'coordinates': [-3.6651992, 40.4243798]}","Calle Lanuza, 19, 28028 Madrid, Spain",,gluten free
+30,Pizza End Gluten,4.5,"{'type': 'Point', 'coordinates': [-3.6708058, 40.427713]}","Calle de las Mártires Concepcionistas, 5, 28006 Madrid, Spain",,gluten free
+31,Maestro Churrero,3.6,"{'type': 'Point', 'coordinates': [-3.7032202, 40.4141747]}","Plaza de Jacinto Benavente, 2, 28012 Madrid, Spain",1.0,gluten free
+32,El Patio Vertical,4.1,"{'type': 'Point', 'coordinates': [-3.693371, 40.410825]}","Calle de Almadén, 26, 28014 Madrid, Spain",2.0,gluten free
+33,Emma & Julia Italian Restaurant,4.2,"{'type': 'Point', 'coordinates': [-3.708932, 40.41252]}","Calle de la Cava Baja, 19, 28005 Madrid, Spain",2.0,gluten free
+34,Katz Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6794571, 40.4437959]}","Calle de Gabriel Lobo, 26, 28002 Madrid, Spain",,gluten free
+35,Guasa Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6990311, 40.4251615]}","Calle de San Lorenzo, 9, 28004 Madrid, Spain",,gluten free
+36,LEON THE BAKER,4.4,"{'type': 'Point', 'coordinates': [-3.698495, 40.4440095]}","Calle de María de Guzmán, 30, 28003 Madrid, Spain",2.0,gluten free
+37,Restaurante La Venganza de Malinche,4.2,"{'type': 'Point', 'coordinates': [-3.7117837, 40.4251238]}","Calle Duque de Osuna, 6, 28015 Madrid, Spain",,gluten free
+38,LEON THE BAKER,4.6,"{'type': 'Point', 'coordinates': [-3.676922, 40.423302]}","Calle de Jorge Juan, 72, 28001 Madrid, Spain",,gluten free
+39,Vega Alamo,4.6,"{'type': 'Point', 'coordinates': [-3.7091151, 40.4238398]}","Calle del Álamo, 3, 28015 Madrid, Spain",2.0,gluten free
+40,La Finca de Susana,4.0,"{'type': 'Point', 'coordinates': [-3.7004754, 40.4160028]}","C. del Príncipe, 10, 28012 Madrid, Spain",1.0,gluten free
+41,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,gluten free
+42,Okashi Sanda,4.5,"{'type': 'Point', 'coordinates': [-3.7032679, 40.42575009999999]}","Calle de San Vicente Ferrer, 22, 28004 Madrid, Spain",2.0,gluten free
+43,Cacao,4.6,"{'type': 'Point', 'coordinates': [-3.6970316, 40.4124311]}","C. de Moratín, 19, 28014 Madrid, Spain",2.0,gluten free
+44,Chess Café,4.1,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4037399]}","Paseo de las Acacias, 25, 28005 Madrid, Spain",1.0,gluten free
+45,Café de la Luz,4.4,"{'type': 'Point', 'coordinates': [-3.7025405, 40.422107]}","Calle de la Puebla, 8, 28004 Madrid, Spain",,gluten free
+46,Pastelería Artediet,4.7,"{'type': 'Point', 'coordinates': [-3.608575999999999, 40.406921]}","Calle Villardondiego, 22, 28032 Madrid, Spain",,gluten free
+47,Pizza Natura- Restaurante saludable y sin gluten,4.7,"{'type': 'Point', 'coordinates': [-3.6968077, 40.4169235]}","Calle de Jovellanos, 6, 28014 Madrid, Spain",,gluten free
+48,LEON THE BAKER,5.0,"{'type': 'Point', 'coordinates': [-3.6963865, 40.4274653]}","Plaza de Sta. Bárbara, 4, 28004 Madrid, Spain",,gluten free
+49,Restaurante lapizza+sana,5.0,"{'type': 'Point', 'coordinates': [-3.695477, 40.4239408]}","Calle del Barquillo, 42, 28004 Madrid, Spain",,gluten free
+50,Sony´s Food,4.6,"{'type': 'Point', 'coordinates': [-3.7169088, 40.4353911]}","Calle de Fernández de los Ríos, 91, 28015 Madrid, Spain",1.0,gluten free
+51,Solo de Croquetas,4.2,"{'type': 'Point', 'coordinates': [-3.6995733, 40.4160129]}","Calle de Echegaray, 5, 28014 Madrid, Spain",,gluten free
+52,La Encomienda,4.5,"{'type': 'Point', 'coordinates': [-3.7059791, 40.4105898]}","Calle de la Encomienda, 19, 28012 Madrid, Spain",2.0,gluten free
+53,Cucurucho Bar Chamartin,4.4,"{'type': 'Point', 'coordinates': [-3.684132, 40.4672544]}","Calle Mateo Inurria, 19, 28036 Madrid, Spain",,gluten free
+54,Public,4.2,"{'type': 'Point', 'coordinates': [-3.7042381, 40.4210047]}","Calle del Desengaño, 11, 28004 Madrid, Spain",1.0,gluten free
+55,Panadería Gluten Free,4.8,"{'type': 'Point', 'coordinates': [-3.6801016, 40.4360652]}","Calle del Gral Oraá, 49, 28006 Madrid, Spain",,gluten free
+56,LEON THE BAKER,5.0,"{'type': 'Point', 'coordinates': [-3.6748618, 40.4314106]}","Calle del Conde de Peñalver, 66, 28006 Madrid, Spain",,gluten free
+57,Juanchi's Burgers,4.4,"{'type': 'Point', 'coordinates': [-3.7083359, 40.41493639999999]}","Cava de San Miguel, 6, 28005 Madrid, Spain",,gluten free
+58,Chocolateria 1902,4.3,"{'type': 'Point', 'coordinates': [-3.7068409, 40.4175983]}","Calle de San Martín, 2, 28013 Madrid, Spain",1.0,gluten free
+59,Lemongrass Montera / Restaurante tailandés Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.7018321, 40.4190863]}","Calle de la Montera, 36, 28013 Madrid, Spain",1.0,gluten free

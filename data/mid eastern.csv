@@ -1,6 +1,6 @@
-,name,rating,location,address,place
-0,Beytna,4.7,"{'type': 'Point', 'coordinates': [-3.648126, 40.4568544]}","Calle del Moscatelar, 18, 28043 Madrid, Spain",mid eastern
-1,مطعم سوليدير,4.4,"{'type': 'Point', 'coordinates': [-3.667651, 40.452187]}","Av. de Alfonso XIII, 39, 28002 Madrid, Spain",mid eastern
-2,Restaurante La Libanesa,3.8,"{'type': 'Point', 'coordinates': [-3.707718099999999, 40.4200992]}","Calle de Jacometrezo, 15, 28013 Madrid, Spain",mid eastern
-3,Tawakal Turkito - Doner Kebab HALAL,4.3,"{'type': 'Point', 'coordinates': [-3.6710981, 40.4332787]}","Calle de Azcona, 16, 28028 Madrid, Spain",mid eastern
-4,BARGANZO,4.9,"{'type': 'Point', 'coordinates': [-3.6968127, 40.4210726]}","Calle de Colmenares, 13, 28004 Madrid, Spain",mid eastern
+,name,rating,location,address,price_level,place
+0,Beytna,4.7,"{'type': 'Point', 'coordinates': [-3.648126, 40.4568544]}","Calle del Moscatelar, 18, 28043 Madrid, Spain",2.0,mid eastern
+1,مطعم سوليدير,4.4,"{'type': 'Point', 'coordinates': [-3.667651, 40.452187]}","Av. de Alfonso XIII, 39, 28002 Madrid, Spain",2.0,mid eastern
+2,Restaurante La Libanesa,3.8,"{'type': 'Point', 'coordinates': [-3.707718099999999, 40.4200992]}","Calle de Jacometrezo, 15, 28013 Madrid, Spain",1.0,mid eastern
+3,Tawakal Turkito - Doner Kebab HALAL,4.3,"{'type': 'Point', 'coordinates': [-3.6710981, 40.4332787]}","Calle de Azcona, 16, 28028 Madrid, Spain",1.0,mid eastern
+4,BARGANZO,4.9,"{'type': 'Point', 'coordinates': [-3.6968127, 40.4210726]}","Calle de Colmenares, 13, 28004 Madrid, Spain",,mid eastern

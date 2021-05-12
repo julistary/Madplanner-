@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Yerbabuena,4.4,"{'type': 'Point', 'coordinates': [-3.7078252, 40.4163939]}","Calle de Bordadores, 3, 28013 Madrid, Spain",vegetarian
-1,La Hummuseria,4.6,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}","Calle de Hernán Cortés, 8, 28004 Madrid, Spain",vegetarian
-2,Mad Mad Vegan,4.8,"{'type': 'Point', 'coordinates': [-3.6986087, 40.4226983]}","Calle de Pelayo, 19, 28004 Madrid, Spain",vegetarian
-3,VEGA,4.5,"{'type': 'Point', 'coordinates': [-3.706148, 40.422335]}","Calle de la Luna, 9, 28004 Madrid, Spain",vegetarian
-4,Distrito Vegano,4.5,"{'type': 'Point', 'coordinates': [-3.6996503, 40.4070547]}","Calle del Dr. Fourquet, 32, 28012 Madrid, Spain",vegetarian
-5,Sanissimo Opera Vegan,4.5,"{'type': 'Point', 'coordinates': [-3.7093565, 40.4190636]}","Calle de Campomanes, 5, 28013 Madrid, Spain",vegetarian
-6,Landareak,4.9,"{'type': 'Point', 'coordinates': [-3.7040096, 40.4277407]}","Calle de Ruiz, 5, 28004 Madrid, Spain",vegetarian
-7,Chillin' Cafe,4.6,"{'type': 'Point', 'coordinates': [-3.706212, 40.42205209999999]}","Calle de la Estrella, 5, 28004 Madrid, Spain",vegetarian
-8,Hakuna Matata Veggie,4.7,"{'type': 'Point', 'coordinates': [-3.7103047, 40.4309181]}","Calle de Galileo, 12, 28015 Madrid, Spain",vegetarian
-9,VIVA BURGER,4.4,"{'type': 'Point', 'coordinates': [-3.711851, 40.412475]}","Costanilla de San Andrés, 16, 28005 Madrid, Spain",vegetarian
-10,Pura Vida Vegan Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6972604, 40.4102089]}","Calle de Santa Isabel, 27, 28012 Madrid, Spain",vegetarian
-11,B13 bar,4.6,"{'type': 'Point', 'coordinates': [-3.7035174, 40.4219461]}","Calle de la Ballesta, 13, 28004 Madrid, Spain",vegetarian
-12,La Encomienda,4.5,"{'type': 'Point', 'coordinates': [-3.7059791, 40.4105898]}","Calle de la Encomienda, 19, 28012 Madrid, Spain",vegetarian
-13,Restaurante Vegetariano,4.3,"{'type': 'Point', 'coordinates': [-3.7105275, 40.416362]}","Calle de Santiago, 9, 28013 Madrid, Spain",vegetarian
-14,THUNDER,4.8,"{'type': 'Point', 'coordinates': [-3.702365, 40.424533]}","Calle de Don Felipe, 4, 28004 Madrid, Spain",vegetarian
-15,The Vegan Burger,2.6,"{'type': 'Point', 'coordinates': [-3.6822315, 40.435986]}","Calle del Gral Oraá, 34, 28006 Madrid, Spain",vegetarian
-16,La Oveja Negra taberna vegana.,4.3,"{'type': 'Point', 'coordinates': [-3.6999137, 40.4093413]}","C. de Buenavista, 42, 28012 Madrid, Spain",vegetarian
-17,Los Andenes,4.8,"{'type': 'Point', 'coordinates': [-3.7105515, 40.4351027]}","Calle de Fernández de los Ríos, 43, 28015 Madrid, Spain",vegetarian
-18,La Colectiva Café,4.4,"{'type': 'Point', 'coordinates': [-3.6999503, 40.4298653]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",vegetarian
-19,Cookaluzka,4.6,"{'type': 'Point', 'coordinates': [-3.6690602, 40.4083057]}","Calle de Lira, 8, 28007 Madrid, Spain",vegetarian
-20,Bunny's Deli,4.8,"{'type': 'Point', 'coordinates': [-3.6972644, 40.4240014]}","Calle San Gregorio, 17, 28004 Madrid, Spain",vegetarian
-21,El Fogón Verde,4.5,"{'type': 'Point', 'coordinates': [-3.6939766, 40.41230830000001]}","Calle de la Alameda, 4, 28014 Madrid, Spain",vegetarian
-22,Levél Veggie Bistro,4.5,"{'type': 'Point', 'coordinates': [-3.6776369, 40.4157066]}","Av. de Menéndez Pelayo, 61, 28009 Madrid, Spain",vegetarian
-23,SHI-SHANG,4.2,"{'type': 'Point', 'coordinates': [-3.7048624, 40.4207103]}","Calle de Concepcion Arenal, 3, 28004 Madrid, Spain",vegetarian
-24,BLoved Veggie Corner,4.5,"{'type': 'Point', 'coordinates': [-3.6991325, 40.4192046]}","C/ Gran Vía, 9, 28013 Madrid, Spain",vegetarian
-25,Viva Chapata,4.3,"{'type': 'Point', 'coordinates': [-3.7008587, 40.4094335]}","Calle del Ave María, 43, 28012 Madrid, Spain",vegetarian
-26,Ecocentro,4.2,"{'type': 'Point', 'coordinates': [-3.7048417, 40.4428361]}","Calle Esquilache, 2, 12, 28003 Madrid, Spain",vegetarian
-27,La Biotika,3.9,"{'type': 'Point', 'coordinates': [-3.6981875, 40.4132331]}","C. del Amor de Dios, 3, 28014 Madrid, Spain",vegetarian
-28,Vega Alamo,4.6,"{'type': 'Point', 'coordinates': [-3.7091151, 40.4238398]}","Calle del Álamo, 3, 28015 Madrid, Spain",vegetarian
-29,Reineta Vegetariano,4.6,"{'type': 'Point', 'coordinates': [-3.6990493, 40.4143588]}","Calle del Infante, 5, 28014 Madrid, Spain",vegetarian
-30,Restaurante CRUCINA,4.2,"{'type': 'Point', 'coordinates': [-3.7055085, 40.4279915]}","Calle del Divino Pastor, 30, 28004 Madrid, Spain",vegetarian
-31,Sanissimo Gran Via Vegan,4.7,"{'type': 'Point', 'coordinates': [-3.7027476, 40.4213911]}","Calle del Barco, 8, 28004 Madrid, Spain",vegetarian
-32,El Triángulo de las Verduras,4.1,"{'type': 'Point', 'coordinates': [-3.7282261, 40.4134386]}","Calle de Antillón, 1, 28011 Madrid, Spain",vegetarian
-33,Choose Restaurante Vegano y Vegetariano,4.7,"{'type': 'Point', 'coordinates': [-3.7123766, 40.4137852]}","Calle de Segovia, 17, 28005 Madrid, Spain",vegetarian
-34,La Huerta de Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7028915, 40.4232098]}","Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",vegetarian
-35,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",vegetarian
-36,La Huerta De Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7073483, 40.4115521]}","Calle de San Millán, 2, 28005 Madrid, Spain",vegetarian
-37,Sanissimo Principe Pío Vegan,4.5,"{'type': 'Point', 'coordinates': [-3.7233034, 40.4227584]}","Paseo de la Florida, 37, 28008 Madrid, Spain",vegetarian
-38,La Tía Carlota,4.6,"{'type': 'Point', 'coordinates': [-3.699805, 40.407482]}","Calle de la Sombrerería, 6, 28012 Madrid, Spain",vegetarian
-39,Avocado Love,4.3,"{'type': 'Point', 'coordinates': [-3.7036348, 40.4252672]}","Calle Marqués de Santa Ana, 34, Calle del Espíritu Santo, 15, 28004 Madrid, Spain",vegetarian
-40,Mandarina Plant Based Kitchen,4.8,"{'type': 'Point', 'coordinates': [-3.7157433, 40.424834]}","Calle de Luisa Fernanda, 27, 28008 Madrid, Spain",vegetarian
-41,VEGAN FRESH,4.5,"{'type': 'Point', 'coordinates': [-3.6988569, 40.4267717]}","C. de Barceló, 6, 28004 Madrid, Spain",vegetarian
-42,Restaurante Vegetariano Artemisa Sol - Gran Vía,4.4,"{'type': 'Point', 'coordinates': [-3.7028659, 40.4192584]}","Calle de las Tres Cruces, 4, 28013 Madrid, Spain",vegetarian
-43,Restaurante Vegetariano Artemisa Sol - Huertas,4.4,"{'type': 'Point', 'coordinates': [-3.6989251, 40.4160178]}","Calle de Ventura de la Vega, 4, 28014 Madrid, Spain",vegetarian
-44,Mad Mad Vegan,5.0,"{'type': 'Point', 'coordinates': [-3.7030389, 40.4111134]}","Calle de Lavapiés, 16, 28012 Madrid, Spain",vegetarian
-45,Pizzi & Dixie,4.5,"{'type': 'Point', 'coordinates': [-3.7028365, 40.4256976]}","Calle de San Vicente Ferrer, 16, 28004 Madrid, Spain",vegetarian
-46,El Perro Gamberro,4.6,"{'type': 'Point', 'coordinates': [-3.667755, 40.4264636]}","Calle Benito de Castro, nº 4, 28028 Madrid, Spain",vegetarian
-47,VegMadrid,0.0,"{'type': 'Point', 'coordinates': [-3.6983413, 40.413917]}","Calle de Lope de Vega, 7, 28014 Madrid, Spain",vegetarian
-48,Alma Food Restaurante Vegetariano,3.5,"{'type': 'Point', 'coordinates': [-3.707762, 40.416289]}","Calle de Bordadores, 2, 28013 Madrid, Spain",vegetarian
-49,La Huerta de Almería,3.8,"{'type': 'Point', 'coordinates': [-3.6967304, 40.4124558]}","C. de Moratín, 25, 28014 Madrid, Spain",vegetarian
-50,FANTASTIC V,4.9,"{'type': 'Point', 'coordinates': [-3.7020316, 40.4244549]}","Corredera Alta de San Pablo, 2, 28004 Madrid, Spain",vegetarian
-51,Vegaviana,4.7,"{'type': 'Point', 'coordinates': [-3.6980666, 40.4234567]}","Calle de Pelayo, 35, 28004 Madrid, Spain",vegetarian
-52,La Alpargata Taberna Vegana,4.2,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Mercado de San Fernando, Calle de Embajadores, 41, 28012 Madrid, Spain",vegetarian
-53,Vegania Veggie Bar Carabanchel,4.8,"{'type': 'Point', 'coordinates': [-3.7477357, 40.3850859]}","C. de Ntra. Sra. de la Luz, 62, 28047 Madrid, Spain",vegetarian
-54,Ceres,4.6,"{'type': 'Point', 'coordinates': [-3.7043487, 40.4510654]}","Calle Topete, 32, 28039 Madrid, Spain",vegetarian
-55,Lumbini Tandoori Restaurante,4.5,"{'type': 'Point', 'coordinates': [-3.6979454, 40.452092]}","Calle del Aviador zorita n° 50, 28020 Madrid, Spain",vegetarian
-56,Honest Greens Serrano,4.4,"{'type': 'Point', 'coordinates': [-3.6875762, 40.4285275]}","Calle de Serrano, 41, 28001 Madrid, Spain",vegetarian
-57,A Burgers - Dirty Vegan Burgers 🌱 🍔 🍟,3.0,"{'type': 'Point', 'coordinates': [-3.697799, 40.413677]}","Calle de Lope de Vega, 16, 28014 Madrid, Spain",vegetarian
-58,SOPA VEGGIE,5.0,"{'type': 'Point', 'coordinates': [-3.6727422, 40.4480704]}","Calle Nieremberg, 23, 28002 Madrid, Spain",vegetarian
-59,La Alegría de la Huerta,4.6,"{'type': 'Point', 'coordinates': [-3.7062094, 40.41029839999999]}","Calle de las Dos Hermanas, 22, 28012 Madrid, Spain",vegetarian
+,name,rating,location,address,price_level,place
+0,La Hummuseria,4.6,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}","Calle de Hernán Cortés, 8, 28004 Madrid, Spain",1.0,vegetarian
+1,Mad Mad Vegan,4.8,"{'type': 'Point', 'coordinates': [-3.6986087, 40.4226983]}","Calle de Pelayo, 19, 28004 Madrid, Spain",2.0,vegetarian
+2,Distrito Vegano,4.5,"{'type': 'Point', 'coordinates': [-3.6996503, 40.4070547]}","Calle del Dr. Fourquet, 32, 28012 Madrid, Spain",2.0,vegetarian
+3,Sanissimo Opera Vegan,4.5,"{'type': 'Point', 'coordinates': [-3.7093565, 40.4190636]}","Calle de Campomanes, 5, 28013 Madrid, Spain",1.0,vegetarian
+4,B13 bar,4.6,"{'type': 'Point', 'coordinates': [-3.7035174, 40.4219461]}","Calle de la Ballesta, 13, 28004 Madrid, Spain",1.0,vegetarian
+5,Chillin' Cafe,4.6,"{'type': 'Point', 'coordinates': [-3.706212, 40.42205209999999]}","Calle de la Estrella, 5, 28004 Madrid, Spain",,vegetarian
+6,VIVA BURGER,4.4,"{'type': 'Point', 'coordinates': [-3.711851, 40.412475]}","Costanilla de San Andrés, 16, 28005 Madrid, Spain",2.0,vegetarian
+7,Pura Vida Vegan Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6972604, 40.4102089]}","Calle de Santa Isabel, 27, 28012 Madrid, Spain",1.0,vegetarian
+8,THUNDER,4.8,"{'type': 'Point', 'coordinates': [-3.702365, 40.424533]}","Calle de Don Felipe, 4, 28004 Madrid, Spain",1.0,vegetarian
+9,BLoved Veggie Corner,4.5,"{'type': 'Point', 'coordinates': [-3.6991325, 40.4192046]}","C/ Gran Vía, 9, 28013 Madrid, Spain",,vegetarian
+10,The Vegan Burger,2.6,"{'type': 'Point', 'coordinates': [-3.6822315, 40.435986]}","Calle del Gral Oraá, 34, 28006 Madrid, Spain",,vegetarian
+11,Cookaluzka,4.6,"{'type': 'Point', 'coordinates': [-3.6690602, 40.4083057]}","Calle de Lira, 8, 28007 Madrid, Spain",1.0,vegetarian
+12,Viva Chapata,4.3,"{'type': 'Point', 'coordinates': [-3.7008587, 40.4094335]}","Calle del Ave María, 43, 28012 Madrid, Spain",2.0,vegetarian
+13,Ecocentro,4.2,"{'type': 'Point', 'coordinates': [-3.7048417, 40.4428361]}","Calle Esquilache, 2, 12, 28003 Madrid, Spain",,vegetarian
+14,La Biotika,3.9,"{'type': 'Point', 'coordinates': [-3.6981875, 40.4132331]}","C. del Amor de Dios, 3, 28014 Madrid, Spain",1.0,vegetarian
+15,Vega Alamo,4.6,"{'type': 'Point', 'coordinates': [-3.7091151, 40.4238398]}","Calle del Álamo, 3, 28015 Madrid, Spain",2.0,vegetarian
+16,Freedom Cakes Café,4.6,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}","Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,vegetarian
+17,La Huerta de Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7028915, 40.4232098]}","Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",1.0,vegetarian
+18,La Huerta De Almeria,4.1,"{'type': 'Point', 'coordinates': [-3.7073483, 40.4115521]}","Calle de San Millán, 2, 28005 Madrid, Spain",,vegetarian
+19,Sanissimo Principe Pío Vegan,4.5,"{'type': 'Point', 'coordinates': [-3.7233034, 40.4227584]}","Paseo de la Florida, 37, 28008 Madrid, Spain",2.0,vegetarian
+20,Mad Mad Vegan,5.0,"{'type': 'Point', 'coordinates': [-3.7030389, 40.4111134]}","Calle de Lavapiés, 16, 28012 Madrid, Spain",,vegetarian
+21,La Huerta de Almería,3.8,"{'type': 'Point', 'coordinates': [-3.6967304, 40.4124558]}","C. de Moratín, 25, 28014 Madrid, Spain",1.0,vegetarian
+22,Honest Greens Serrano,4.4,"{'type': 'Point', 'coordinates': [-3.6875762, 40.4285275]}","Calle de Serrano, 41, 28001 Madrid, Spain",2.0,vegetarian
+23,La Alpargata Taberna Vegana,4.2,"{'type': 'Point', 'coordinates': [-3.7038198, 40.4076403]}","Mercado de San Fernando, Calle de Embajadores, 41, 28012 Madrid, Spain",,vegetarian
+24,La Alegría de la Huerta,4.6,"{'type': 'Point', 'coordinates': [-3.7062094, 40.41029839999999]}","Calle de las Dos Hermanas, 22, 28012 Madrid, Spain",1.0,vegetarian
+25,Kathmandu Tandoori House,4.8,"{'type': 'Point', 'coordinates': [-3.5787562, 40.47438229999999]}","Calle Acuario, 11, 28042 Madrid, Spain",1.0,vegetarian
+26,Yerbabuena,4.4,"{'type': 'Point', 'coordinates': [-3.7078252, 40.4163939]}","Calle de Bordadores, 3, 28013 Madrid, Spain",,vegetarian
+27,Vegicano,4.5,"{'type': 'Point', 'coordinates': [-3.7260429, 40.4129666]}","Calle de Doña Urraca, 15, 28011 Madrid, Spain",,vegetarian
+28,A Burgers - Dirty Vegan Burgers 🌱 🍔 🍟,3.0,"{'type': 'Point', 'coordinates': [-3.697799, 40.413677]}","Calle de Lope de Vega, 16, 28014 Madrid, Spain",,vegetarian
+29,Honest Greens Hortaleza,4.5,"{'type': 'Point', 'coordinates': [-3.6978312, 40.4248241]}","Calle de Hortaleza, 100, 28004 Madrid, Spain",2.0,vegetarian
+30,Arugula,4.4,"{'type': 'Point', 'coordinates': [-3.681833, 40.422523]}","Calle de Castelló, 3, 28001 Madrid, Spain",1.0,vegetarian
+31,VEGA,4.5,"{'type': 'Point', 'coordinates': [-3.706148, 40.422335]}","Calle de la Luna, 9, 28004 Madrid, Spain",2.0,vegetarian
+32,Honest Greens Castellana,4.4,"{'type': 'Point', 'coordinates': [-3.691945699999999, 40.4499383]}","Paseo de la Castellana, 89, 28046 Madrid, Spain",2.0,vegetarian
+33,Prima Madrid (Bar & Restaurante),3.8,"{'type': 'Point', 'coordinates': [-3.7147458, 40.4325383]}","C. de Andrés Mellado, 21, 28015 Madrid, Spain",,vegetarian
+34,Almalibre Açaí House Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6974478, 40.4211367]}","Calle de la Libertad, 17, 28004 Madrid, Spain",,vegetarian
+35,Honest Greens Velázquez,4.4,"{'type': 'Point', 'coordinates': [-3.6833106, 40.4374378]}","Calle de Velázquez, 123, 28006 Madrid, Spain",2.0,vegetarian
+36,Landareak,4.9,"{'type': 'Point', 'coordinates': [-3.7040096, 40.4277407]}","Calle de Ruiz, 5, 28004 Madrid, Spain",,vegetarian
+37,Hakuna Matata Veggie,4.7,"{'type': 'Point', 'coordinates': [-3.7103047, 40.4309181]}","Calle de Galileo, 12, 28015 Madrid, Spain",1.0,vegetarian
+38,La Encomienda,4.5,"{'type': 'Point', 'coordinates': [-3.7059791, 40.4105898]}","Calle de la Encomienda, 19, 28012 Madrid, Spain",2.0,vegetarian
+39,Restaurante Vegetariano,4.3,"{'type': 'Point', 'coordinates': [-3.7105275, 40.416362]}","Calle de Santiago, 9, 28013 Madrid, Spain",,vegetarian
+40,La Oveja Negra taberna vegana.,4.3,"{'type': 'Point', 'coordinates': [-3.6999137, 40.4093413]}","C. de Buenavista, 42, 28012 Madrid, Spain",1.0,vegetarian
+41,Los Andenes,4.8,"{'type': 'Point', 'coordinates': [-3.7105515, 40.4351027]}","Calle de Fernández de los Ríos, 43, 28015 Madrid, Spain",1.0,vegetarian
+42,La Colectiva Café,4.4,"{'type': 'Point', 'coordinates': [-3.6999503, 40.4298653]}","Calle Francisco de Rojas, 9, 28010 Madrid, Spain",2.0,vegetarian
+43,Bunny's Deli,4.8,"{'type': 'Point', 'coordinates': [-3.6972644, 40.4240014]}","Calle San Gregorio, 17, 28004 Madrid, Spain",,vegetarian
+44,El Fogón Verde,4.5,"{'type': 'Point', 'coordinates': [-3.6939766, 40.41230830000001]}","Calle de la Alameda, 4, 28014 Madrid, Spain",1.0,vegetarian
+45,Levél Veggie Bistro,4.5,"{'type': 'Point', 'coordinates': [-3.6776369, 40.4157066]}","Av. de Menéndez Pelayo, 61, 28009 Madrid, Spain",3.0,vegetarian
+46,POKE&GREENS,4.8,"{'type': 'Point', 'coordinates': [-3.7047633, 40.4107203]}","Calle del Mesón de Paredes, 20, 28012 Madrid, Spain",,vegetarian
+47,SHI-SHANG,4.2,"{'type': 'Point', 'coordinates': [-3.7048624, 40.4207103]}","Calle de Concepcion Arenal, 3, 28004 Madrid, Spain",1.0,vegetarian
+48,Roots Lamarca,4.2,"{'type': 'Point', 'coordinates': [-3.695643, 40.4245974]}","Calle de Fernando VI, 10, Local 4, 28004 Madrid, Spain",,vegetarian
+49,Frutas Prohibidas,4.4,"{'type': 'Point', 'coordinates': [-3.7103494, 40.4274672]}","Local Frutas Prohibidas, Calle del Conde Duque, 26, 28015 Madrid, Spain",,vegetarian
+50,Lemongrass Montera / Restaurante tailandés Madrid,3.9,"{'type': 'Point', 'coordinates': [-3.7018321, 40.4190863]}","Calle de la Montera, 36, 28013 Madrid, Spain",1.0,vegetarian
+51,Reineta Vegetariano,4.6,"{'type': 'Point', 'coordinates': [-3.6990493, 40.4143588]}","Calle del Infante, 5, 28014 Madrid, Spain",1.0,vegetarian
+52,Restaurante CRUCINA,4.2,"{'type': 'Point', 'coordinates': [-3.7055085, 40.4279915]}","Calle del Divino Pastor, 30, 28004 Madrid, Spain",2.0,vegetarian
+53,Sanissimo Gran Via Vegan,4.7,"{'type': 'Point', 'coordinates': [-3.7027476, 40.4213911]}","Calle del Barco, 8, 28004 Madrid, Spain",,vegetarian
+54,El Triángulo de las Verduras,4.1,"{'type': 'Point', 'coordinates': [-3.7282261, 40.4134386]}","Calle de Antillón, 1, 28011 Madrid, Spain",1.0,vegetarian
+55,Choose Restaurante Vegano y Vegetariano,4.7,"{'type': 'Point', 'coordinates': [-3.7123766, 40.4137852]}","Calle de Segovia, 17, 28005 Madrid, Spain",,vegetarian
+56,Veggie Room,4.9,"{'type': 'Point', 'coordinates': [-3.70286, 40.425579]}","Calle de San Vicente Ferrer, 19, 28004 Madrid, Spain",,vegetarian
+57,La Tía Carlota,4.6,"{'type': 'Point', 'coordinates': [-3.699805, 40.407482]}","Calle de la Sombrerería, 6, 28012 Madrid, Spain",2.0,vegetarian
+58,Avocado Love,4.3,"{'type': 'Point', 'coordinates': [-3.7036348, 40.4252672]}","Calle Marqués de Santa Ana, 34, Calle del Espíritu Santo, 15, 28004 Madrid, Spain",1.0,vegetarian
+59,Healthy Poke Madrid - Plaza Mayor - Poke a domicilio,4.5,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}","Calle de Toledo, 26, 28005 Madrid, Spain",1.0,vegetarian

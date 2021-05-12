@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Flow escuela de baile y pole dance EN MADRID,4.6,"{'type': 'Point', 'coordinates': [-3.6998981, 40.4572721]}","Calle de San Germán, 56, 28020 Madrid, Spain",dancing
-1,Báilame Dance Studio,4.8,"{'type': 'Point', 'coordinates': [-3.707351, 40.422743]}","Calle de San Bernardo, 20, bajo izquierda, 28015 Madrid, Spain",dancing
-2,Kilatinum - Club Bailarios,4.0,"{'type': 'Point', 'coordinates': [-3.7074702, 40.4227306]}","Calle de San Bernardo, 20, 28015 Madrid, Spain",dancing
-3,Dancing Dreams,4.7,"{'type': 'Point', 'coordinates': [-3.6715391, 40.4029055]}","C. de los Pajaritos, 19, 28007 Madrid, Spain",dancing
-4,Madrid Salsa Club,1.0,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}","Calle de Santa Isabel, 9, 28012 Madrid, Spain",dancing
-5,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",dancing
-6,A Ritmo de Swing,5.0,"{'type': 'Point', 'coordinates': [-3.6966, 40.401565]}","Calle de Tarragona, 18, 28045 Madrid, Spain",dancing
-7,Salsa Madrid Centro,4.4,"{'type': 'Point', 'coordinates': [-3.6891317, 40.41919770000001]}","Plaza de la Independencia, 8, 28001 Madrid, Spain",dancing
-8,The Host Club,4.2,"{'type': 'Point', 'coordinates': [-3.7172868, 40.4263181]}","Calle de Ferraz, 38, 28008 Madrid, Spain",dancing
-9,Dancing Boulevard,4.9,"{'type': 'Point', 'coordinates': [-3.6441465, 40.458986]}","Calle de Andorra, 65, 28043 Madrid, Spain",dancing
-10,Circle Dance,4.7,"{'type': 'Point', 'coordinates': [-3.707742, 40.430269]}","Pl. del Conde del Valle de Súchil, 3, 28015 Madrid, Spain",dancing
-11,"ABAILARMADRID - Dance, friends and fun",4.9,"{'type': 'Point', 'coordinates': [-3.6687524, 40.4345285]}","Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",dancing
-12,Dancing Drama,5.0,"{'type': 'Point', 'coordinates': [-3.6333899, 40.43862720000001]}","Calle Jaime Hermida, 16, 28037 Madrid, Spain",dancing
-13,International Ballet School and Dance Center,5.0,"{'type': 'Point', 'coordinates': [-3.693957, 40.436558]}","Calle de García de Paredes, 76, 28010 Madrid, Spain",dancing
-14,Madrid Pole Dance Studio,4.6,"{'type': 'Point', 'coordinates': [-3.665589, 40.424669]}","Calle Fundadores, 29, 28028 Madrid, Spain",dancing
-15,Claquetap Dance Studio,4.9,"{'type': 'Point', 'coordinates': [-3.668046799999999, 40.411556]}","Calle de la Cruz del Sur, 5, 28007 Madrid, Spain",dancing
-16,Big Mama Swing,4.9,"{'type': 'Point', 'coordinates': [-3.700028499999999, 40.4043683]}","Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",dancing
-17,Discoteca Azúcar,3.7,"{'type': 'Point', 'coordinates': [-3.6952526, 40.4106491]}","28012, C. de Atocha, 107, 28012 Madrid, Spain",dancing
-18,WOSAP Dance School,4.7,"{'type': 'Point', 'coordinates': [-3.7043237, 40.4093326]}","Calle de los Cabestreros, 5, 28012 Madrid, Spain",dancing
-19,Jennifer Lisette Lopez Dance,5.0,"{'type': 'Point', 'coordinates': [-3.7080288, 40.4100046]}","Calle de Santa Ana, 7, 28005 Madrid, Spain",dancing
-20,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6970864, 40.4075344]}","Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",dancing
-21,Madrid Dance Center,4.7,"{'type': 'Point', 'coordinates': [-3.7201213, 40.389393]}","Calle de La Solana de Opañel, 6, 28019 Madrid, Spain",dancing
-22,Big South,4.9,"{'type': 'Point', 'coordinates': [-3.7048682, 40.4028187]}","Calle del Laurel, 14, 28005 Madrid, Spain",dancing
-23,Acting School of Performing Arts,4.9,"{'type': 'Point', 'coordinates': [-3.7162738, 40.42762200000001]}","Calle de Martín de los Heros, 52, 28008 Madrid, Spain",dancing
-24,Dance esCool,5.0,"{'type': 'Point', 'coordinates': [-3.6880775, 40.4561509]}","Calle Prof. Waksman, 9, 28036 Madrid, Spain",dancing
-25,Central Pole,4.8,"{'type': 'Point', 'coordinates': [-3.7425123, 40.4082662]}","Paseo de Extremadura, 159, 28011 Madrid, Spain",dancing
-26,OrienteOccidente - Belly Dance in Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6775164, 40.4357383]}","Calle del Gral Oraá, 76, 28006 Madrid, Spain",dancing
-27,Juan Brenes Dancer,4.9,"{'type': 'Point', 'coordinates': [-3.716234199999999, 40.4276882]}","28008, Calle de Martín de los Heros, 52, 28008 Madrid, Spain",dancing
-28,Danza 13 Dance center,4.6,"{'type': 'Point', 'coordinates': [-3.6485219, 40.4305335]}","Calle Carlos Hernández, 28, 28017 Madrid, Spain",dancing
-29,Blanco y Negro Studio,4.5,"{'type': 'Point', 'coordinates': [-3.622875999999999, 40.436576]}","Calle de Julian Camarillo, 47, Portal D Local 007, 28037 Madrid, Spain",dancing
-30,www.Pro-studio.es,4.7,"{'type': 'Point', 'coordinates': [-3.6912343, 40.401839]}","Calle de Canarias, 41, 28045 Madrid, Spain",dancing
-31,Paso a Paso Madrid. Escuela de baile,4.3,"{'type': 'Point', 'coordinates': [-3.6986523, 40.40868]}","Centro La Corrala de la Danza, Calle del Dr. Piga, 5 Bis, 28012 Madrid, Spain",dancing
-32,La Forja Dance Academy,5.0,"{'type': 'Point', 'coordinates': [-3.7497215, 40.37278999999999]}","Calle de la Duquesa de Tamames, 7, 28044 Madrid, Spain",dancing
-33,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"{'type': 'Point', 'coordinates': [-3.6771376, 40.4289177]}","Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",dancing
-34,Extreme Pole Dance Studio Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.672952, 40.4367159]}","Calle del Pilar de Zaragoza, 75b, 28028 Madrid, Spain",dancing
-35,GLOBAL DANCE,0.0,"{'type': 'Point', 'coordinates': [-3.6817252, 40.4716431]}","Estación de Chamartín, s/n, 28036 Madrid, Spain",dancing
-36,Dance Studio Montecarmelo,4.7,"{'type': 'Point', 'coordinates': [-3.7006753, 40.5033938]}","Av. del Monasterio de El Escorial, 40D, 28049 Madrid, Spain",dancing
-37,School of Flamenco and Spanish Dance Isabel Quintero,4.9,"{'type': 'Point', 'coordinates': [-3.697465, 40.420588]}","Calle de la Libertad, 7, 28004 Madrid, Spain",dancing
-38,Fit Dancing,4.1,"{'type': 'Point', 'coordinates': [-3.7154665, 40.3174227]}","Av. Don Juan de Borbón, local 10, 28903 Getafe, Madrid, Spain",dancing
-39,Ballet Flamenco de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.70316, 40.418401]}","Plaza del Carmen, 1, 28013 Madrid, Spain",dancing
-40,Sanse Danza,4.8,"{'type': 'Point', 'coordinates': [-3.6169686, 40.5594074]}","Av. de Tenerife, 28, 28703 San Sebastián de los Reyes, Madrid, Spain",dancing
-41,Flamenco Show,0.0,"{'type': 'Point', 'coordinates': [-3.7141641, 40.4126847]}","Calle de la Moreria, 17, 28005 Madrid, Spain",dancing
-42,ART DANCING MUSIC - Escuela de Artes Escénicas en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7793307, 40.4595765]}","Av. de la Osa Mayor, 32, 28023 Madrid, Spain",dancing
-43,Funflow Dance,5.0,"{'type': 'Point', 'coordinates': [-3.701919, 40.42107860000001]}","Calle de Valverde, 10, 28004 Madrid, Spain",dancing
-44,Faena Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.6930276, 40.40969219999999]}","C. de Atocha, 125, 28012 Madrid, Spain",dancing
-45,Orishas Dance,4.9,"{'type': 'Point', 'coordinates': [-3.6094692, 40.4310956]}","Calle de Longares, 10, 28022 Madrid, Spain",dancing
-46,Centro de Danza y Arte de Madrid (CDAM),4.7,"{'type': 'Point', 'coordinates': [-3.6396922, 40.4389592]}","Calle de los Misterios, 8, 28027 Madrid, Spain",dancing
-47,The Place Dance Studio Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6081518, 40.4367881]}","Calle Musas, 16, 28022 Madrid, Spain",dancing
-48,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"{'type': 'Point', 'coordinates': [-3.672469, 40.430664]}","Calle de Montesa, 43, 28006 Madrid, Spain",dancing
-49,Studio11® La Escuela de Baile,4.8,"{'type': 'Point', 'coordinates': [-3.6664831, 40.438095]}","Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",dancing
-50,Karnak bellydance,4.8,"{'type': 'Point', 'coordinates': [-3.6974781, 40.4205609]}","Calle de la Libertad, 7, 28004 Madrid, Spain",dancing
-51,Pasión Dance,4.8,"{'type': 'Point', 'coordinates': [-3.6845211, 40.4681966]}","Calle de Manuel Ferrero, 5, 28036 Madrid, Spain",dancing
-52,Escuela de Baile D'angus Dance,4.9,"{'type': 'Point', 'coordinates': [-3.6678461, 40.4293631]}","C/ del Dr. Gómez Ulla, 8, 28028 Madrid, Spain",dancing
-53,EL HORNO,4.4,"{'type': 'Point', 'coordinates': [-3.704451, 40.41107]}","Calle de la Esgrima, 11, 28012 Madrid, Spain",dancing
-54,Salsabachata Quevedo,4.8,"{'type': 'Point', 'coordinates': [-3.7050633, 40.4357353]}","Calle Cercedilla, 3, 28015 Madrid, Spain",dancing
-55,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",dancing
-56,SpazioDanza,4.6,"{'type': 'Point', 'coordinates': [-3.699093999999999, 40.44868]}","Cl. de Don Quijote, 28, 28020 Madrid, Spain",dancing
-57,Dame2Salsa - Salsa cubana en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7178349, 40.43092]}","Calle del Tutor, 52, 28008 Madrid, Spain",dancing
-58,BSK DANCE VISTA ALEGRE,4.6,"{'type': 'Point', 'coordinates': [-3.7415055, 40.3892783]}","Calle de, Calle Bernardina Aranguren, 10, 28025 Madrid, Spain",dancing
-59,Salsabachata Avenida de América,4.7,"{'type': 'Point', 'coordinates': [-3.6734278, 40.4383234]}","Calle de Coslada, 19, 28028 Madrid, Spain",dancing
+,name,rating,location,address,price_level,place
+0,Flow escuela de baile y pole dance EN MADRID,4.6,"{'type': 'Point', 'coordinates': [-3.6998981, 40.4572721]}","Calle de San Germán, 56, 28020 Madrid, Spain",,dancing
+1,Báilame Dance Studio,4.8,"{'type': 'Point', 'coordinates': [-3.707351, 40.422743]}","Calle de San Bernardo, 20, bajo izquierda, 28015 Madrid, Spain",,dancing
+2,Kilatinum - Club Bailarios,4.0,"{'type': 'Point', 'coordinates': [-3.7074702, 40.4227306]}","Calle de San Bernardo, 20, 28015 Madrid, Spain",,dancing
+3,Dancing Dreams,4.7,"{'type': 'Point', 'coordinates': [-3.6715391, 40.4029055]}","C. de los Pajaritos, 19, 28007 Madrid, Spain",,dancing
+4,Madrid Salsa Club,1.0,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}","Calle de Santa Isabel, 9, 28012 Madrid, Spain",,dancing
+5,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",,dancing
+6,A Ritmo de Swing,5.0,"{'type': 'Point', 'coordinates': [-3.6966, 40.401565]}","Calle de Tarragona, 18, 28045 Madrid, Spain",,dancing
+7,Salsa Madrid Centro,4.4,"{'type': 'Point', 'coordinates': [-3.6891317, 40.41919770000001]}","Plaza de la Independencia, 8, 28001 Madrid, Spain",,dancing
+8,The Host Club,4.2,"{'type': 'Point', 'coordinates': [-3.7172868, 40.4263181]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,dancing
+9,Dancing Boulevard,4.9,"{'type': 'Point', 'coordinates': [-3.6441465, 40.458986]}","Calle de Andorra, 65, 28043 Madrid, Spain",,dancing
+10,Circle Dance,4.7,"{'type': 'Point', 'coordinates': [-3.707742, 40.430269]}","Pl. del Conde del Valle de Súchil, 3, 28015 Madrid, Spain",,dancing
+11,"ABAILARMADRID - Dance, friends and fun",4.9,"{'type': 'Point', 'coordinates': [-3.6687524, 40.4345285]}","Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",,dancing
+12,Dancing Drama,5.0,"{'type': 'Point', 'coordinates': [-3.6333899, 40.43862720000001]}","Calle Jaime Hermida, 16, 28037 Madrid, Spain",,dancing
+13,International Ballet School and Dance Center,5.0,"{'type': 'Point', 'coordinates': [-3.693957, 40.436558]}","Calle de García de Paredes, 76, 28010 Madrid, Spain",,dancing
+14,Madrid Pole Dance Studio,4.6,"{'type': 'Point', 'coordinates': [-3.665589, 40.424669]}","Calle Fundadores, 29, 28028 Madrid, Spain",,dancing
+15,Claquetap Dance Studio,4.9,"{'type': 'Point', 'coordinates': [-3.668046799999999, 40.411556]}","Calle de la Cruz del Sur, 5, 28007 Madrid, Spain",,dancing
+16,Big Mama Swing,4.9,"{'type': 'Point', 'coordinates': [-3.700028499999999, 40.4043683]}","Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",,dancing
+17,Discoteca Azúcar,3.7,"{'type': 'Point', 'coordinates': [-3.6952526, 40.4106491]}","28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,dancing
+18,WOSAP Dance School,4.7,"{'type': 'Point', 'coordinates': [-3.7043237, 40.4093326]}","Calle de los Cabestreros, 5, 28012 Madrid, Spain",,dancing
+19,Jennifer Lisette Lopez Dance,5.0,"{'type': 'Point', 'coordinates': [-3.7080288, 40.4100046]}","Calle de Santa Ana, 7, 28005 Madrid, Spain",,dancing
+20,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6970864, 40.4075344]}","Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",,dancing
+21,Madrid Dance Center,4.7,"{'type': 'Point', 'coordinates': [-3.7201213, 40.389393]}","Calle de La Solana de Opañel, 6, 28019 Madrid, Spain",,dancing
+22,Big South,4.9,"{'type': 'Point', 'coordinates': [-3.7048682, 40.4028187]}","Calle del Laurel, 14, 28005 Madrid, Spain",,dancing
+23,Acting School of Performing Arts,4.9,"{'type': 'Point', 'coordinates': [-3.7162738, 40.42762200000001]}","Calle de Martín de los Heros, 52, 28008 Madrid, Spain",,dancing
+24,Dance esCool,5.0,"{'type': 'Point', 'coordinates': [-3.6880775, 40.4561509]}","Calle Prof. Waksman, 9, 28036 Madrid, Spain",,dancing
+25,Central Pole,4.8,"{'type': 'Point', 'coordinates': [-3.7425123, 40.4082662]}","Paseo de Extremadura, 159, 28011 Madrid, Spain",,dancing
+26,OrienteOccidente - Belly Dance in Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6775164, 40.4357383]}","Calle del Gral Oraá, 76, 28006 Madrid, Spain",,dancing
+27,Juan Brenes Dancer,4.9,"{'type': 'Point', 'coordinates': [-3.716234199999999, 40.4276882]}","28008, Calle de Martín de los Heros, 52, 28008 Madrid, Spain",,dancing
+28,Danza 13 Dance center,4.6,"{'type': 'Point', 'coordinates': [-3.6485219, 40.4305335]}","Calle Carlos Hernández, 28, 28017 Madrid, Spain",,dancing
+29,Blanco y Negro Studio,4.5,"{'type': 'Point', 'coordinates': [-3.622875999999999, 40.436576]}","Calle de Julian Camarillo, 47, Portal D Local 007, 28037 Madrid, Spain",,dancing
+30,www.Pro-studio.es,4.7,"{'type': 'Point', 'coordinates': [-3.6912343, 40.401839]}","Calle de Canarias, 41, 28045 Madrid, Spain",,dancing
+31,Paso a Paso Madrid. Escuela de baile,4.3,"{'type': 'Point', 'coordinates': [-3.6986523, 40.40868]}","Centro La Corrala de la Danza, Calle del Dr. Piga, 5 Bis, 28012 Madrid, Spain",,dancing
+32,School of Flamenco and Spanish Dance Isabel Quintero,4.9,"{'type': 'Point', 'coordinates': [-3.697465, 40.420588]}","Calle de la Libertad, 7, 28004 Madrid, Spain",,dancing
+33,La Forja Dance Academy,5.0,"{'type': 'Point', 'coordinates': [-3.7497215, 40.37278999999999]}","Calle de la Duquesa de Tamames, 7, 28044 Madrid, Spain",,dancing
+34,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"{'type': 'Point', 'coordinates': [-3.6771376, 40.4289177]}","Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",,dancing
+35,Extreme Pole Dance Studio Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.672952, 40.4367159]}","Calle del Pilar de Zaragoza, 75b, 28028 Madrid, Spain",,dancing
+36,GLOBAL DANCE,0.0,"{'type': 'Point', 'coordinates': [-3.6817252, 40.4716431]}","Estación de Chamartín, s/n, 28036 Madrid, Spain",,dancing
+37,Dance Studio Montecarmelo,4.7,"{'type': 'Point', 'coordinates': [-3.7006753, 40.5033938]}","Av. del Monasterio de El Escorial, 40D, 28049 Madrid, Spain",,dancing
+38,Fit Dancing,4.1,"{'type': 'Point', 'coordinates': [-3.7154665, 40.3174227]}","Av. Don Juan de Borbón, local 10, 28903 Getafe, Madrid, Spain",,dancing
+39,Ballet Flamenco de Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.70316, 40.418401]}","Plaza del Carmen, 1, 28013 Madrid, Spain",,dancing
+40,Sanse Danza,4.8,"{'type': 'Point', 'coordinates': [-3.6169686, 40.5594074]}","Av. de Tenerife, 28, 28703 San Sebastián de los Reyes, Madrid, Spain",,dancing
+41,Flamenco Show,0.0,"{'type': 'Point', 'coordinates': [-3.7141641, 40.4126847]}","Calle de la Moreria, 17, 28005 Madrid, Spain",,dancing
+42,ART DANCING MUSIC - Escuela de Artes Escénicas en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7793307, 40.4595765]}","Av. de la Osa Mayor, 32, 28023 Madrid, Spain",,dancing
+43,Funflow Dance,5.0,"{'type': 'Point', 'coordinates': [-3.701919, 40.42107860000001]}","Calle de Valverde, 10, 28004 Madrid, Spain",,dancing
+44,Faena Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.6930276, 40.40969219999999]}","C. de Atocha, 125, 28012 Madrid, Spain",,dancing
+45,Centro de Danza y Arte de Madrid (CDAM),4.7,"{'type': 'Point', 'coordinates': [-3.6396922, 40.4389592]}","Calle de los Misterios, 8, 28027 Madrid, Spain",,dancing
+46,Orishas Dance,4.9,"{'type': 'Point', 'coordinates': [-3.6094692, 40.4310956]}","Calle de Longares, 10, 28022 Madrid, Spain",,dancing
+47,The Place Dance Studio Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6081518, 40.4367881]}","Calle Musas, 16, 28022 Madrid, Spain",,dancing
+48,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"{'type': 'Point', 'coordinates': [-3.672469, 40.430664]}","Calle de Montesa, 43, 28006 Madrid, Spain",,dancing
+49,Studio11® La Escuela de Baile,4.8,"{'type': 'Point', 'coordinates': [-3.6664831, 40.438095]}","Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",,dancing
+50,Karnak bellydance,4.8,"{'type': 'Point', 'coordinates': [-3.6974781, 40.4205609]}","Calle de la Libertad, 7, 28004 Madrid, Spain",,dancing
+51,Pasión Dance,4.8,"{'type': 'Point', 'coordinates': [-3.6845211, 40.4681966]}","Calle de Manuel Ferrero, 5, 28036 Madrid, Spain",,dancing
+52,Escuela de Baile D'angus Dance,4.9,"{'type': 'Point', 'coordinates': [-3.6678461, 40.4293631]}","C/ del Dr. Gómez Ulla, 8, 28028 Madrid, Spain",,dancing
+53,Salsabachata Quevedo,4.8,"{'type': 'Point', 'coordinates': [-3.7050633, 40.4357353]}","Calle Cercedilla, 3, 28015 Madrid, Spain",,dancing
+54,EL HORNO,4.4,"{'type': 'Point', 'coordinates': [-3.704451, 40.41107]}","Calle de la Esgrima, 11, 28012 Madrid, Spain",,dancing
+55,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,dancing
+56,SpazioDanza,4.6,"{'type': 'Point', 'coordinates': [-3.699093999999999, 40.44868]}","Cl. de Don Quijote, 28, 28020 Madrid, Spain",,dancing
+57,Dame2Salsa - Salsa cubana en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7178349, 40.43092]}","Calle del Tutor, 52, 28008 Madrid, Spain",,dancing
+58,BSK DANCE VISTA ALEGRE,4.6,"{'type': 'Point', 'coordinates': [-3.7415055, 40.3892783]}","Calle de, Calle Bernardina Aranguren, 10, 28025 Madrid, Spain",,dancing
+59,Salsabachata Avenida de América,4.7,"{'type': 'Point', 'coordinates': [-3.6734278, 40.4383234]}","Calle de Coslada, 19, 28028 Madrid, Spain",,dancing

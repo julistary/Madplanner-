@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 import os
 import pandas as pd
 import src.foursquares as fs
+import numpy as np
 load_dotenv()
 
 key = os.getenv("key")
@@ -11,7 +12,7 @@ key = os.getenv("key")
 url_query = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 what = "query="
 key_endpoint = "&key=" + key
-fields = "&fields=place_id, rating, name, geometry, formatted_address"
+fields = "&fields=place_id, rating, name, price_level, geometry, formatted_address"
 pt = "pagetoken="
 
 
@@ -29,6 +30,7 @@ def request_to_df(query):
     longitude = []
     addres = []
     rating = []
+    price_level = []
 
     for d in data:
         list_ = {}
@@ -37,6 +39,10 @@ def request_to_df(query):
         list_["latitude"] = d.get("geometry").get("location").get("lat")
         list_["longitude"] = d.get("geometry").get("location").get("lng")
         list_["address"] = d.get("formatted_address")
+        try:
+            list_["price_level"] = d.get("price_level")
+        except:
+            list_["price_level"] = np.nan
         lista.append(list_)
 
     documentos = []
@@ -45,8 +51,8 @@ def request_to_df(query):
             "name": diccionario.get("name"),
             "rating" : diccionario.get("rating"),
             "location": {"type": "Point", "coordinates": [diccionario.get("longitude"), diccionario.get("latitude")]},
-            "address" : diccionario.get("address")
-
+            "address" : diccionario.get("address"),
+            "price_level" : diccionario.get("price_level")
         }
         documentos.append(temporal)
 

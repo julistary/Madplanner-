@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Wellness Boutique Experience / Day Spa Massage,4.9,"{'type': 'Point', 'coordinates': [-3.6961082, 40.4258066]}","Calle de Campoamor, 5, 28004 Madrid, Spain",spa
-1,The Organic Spa,4.6,"{'type': 'Point', 'coordinates': [-3.684683699999999, 40.4307528]}","Calle de Lagasca, 90, 28006 Madrid, Spain",spa
-2,Private Spa Madrid - Plaza Castilla,4.6,"{'type': 'Point', 'coordinates': [-3.6873826, 40.4636558]}","Calle del Dr. Fleming, 60, B, 28036 Madrid, Spain",spa
-3,Madrid Day Spa by Nuilea,4.7,"{'type': 'Point', 'coordinates': [-3.6988429, 40.4144911]}","Calle del León, 4, 28014 Madrid, Spain",spa
-4,Hammam Al Ándalus Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.704224, 40.4142904]}","C. de Atocha, 14, 28012 Madrid, Spain",spa
-5,Esenzias,4.4,"{'type': 'Point', 'coordinates': [-3.702844199999999, 40.4147944]}","Calle de la Cruz, 28, 28012 Madrid, Spain",spa
-6,Spa Balneario Madrid Sol y Agua,4.2,"{'type': 'Point', 'coordinates': [-3.6976168, 40.4574713]}","Calle de la Infanta Mercedes, 36, 28020 Madrid, Spain",spa
-7,Auditorium Spa,4.2,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4455556]}","Cl. de Suero de Quiñones, 22, 28002 Madrid, Spain",spa
-8,Fariolen - Oriental Massage,4.6,"{'type': 'Point', 'coordinates': [-3.684728, 40.42903039999999]}","Calle de Lagasca, 80, 28001 Madrid, Spain",spa
-9,Flotexperience,4.8,"{'type': 'Point', 'coordinates': [-3.6717795, 40.5048951]}","Calle Campo de la Estrella, 7, 28050 Madrid, Spain",spa
-10,Los Nogales,4.1,"{'type': 'Point', 'coordinates': [-3.7165304, 40.4054061]}","Paseo Imperial, 26, 28035 Madrid, Spain",spa
-11,CorpoDieci Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}","Calle del Dr. Santero, 10, 28039 Madrid, Spain",spa
-12,Senzia Gran Vía Spa & Wellness,3.2,"{'type': 'Point', 'coordinates': [-3.7099719, 40.4226075]}","C/ Gran Vía, 70, 28013 Madrid, Spain",spa
-13,Caroli Health Club,4.2,"{'type': 'Point', 'coordinates': [-3.703443, 40.486518]}","Hotel Eurostars Suites Mirasierra, C. de Alfredo Marqueríe, 43, 28034 Madrid, Spain",spa
-14,Templo del Masaje Goya,4.8,"{'type': 'Point', 'coordinates': [-3.6701576, 40.42371139999999]}","Calle de la Povedilla, 6, 28009 Madrid, Spain",spa
-15,Kinnaree Thai Traditional Massage,4.6,"{'type': 'Point', 'coordinates': [-3.694731, 40.425695]}","Calle de Argensola, 11, Bajo Izquierda, 28004 Madrid, Spain",spa
-16,Masvitalzenter,0.0,"{'type': 'Point', 'coordinates': [-3.7028911, 40.4147618]}","Calle de la Cruz, 28, 28012 Madrid, Spain",spa
-17,AquaBody,3.7,"{'type': 'Point', 'coordinates': [-3.7403321, 40.3859279]}","Calle de Castrojeriz, 9, 28025 Madrid, Spain",spa
-18,Spaxión Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6918502, 40.4582778]}","Calle del Poeta Joan Maragall, 30, 28020 Madrid, Spain",spa
-19,Balneario Aguai+,3.3,"{'type': 'Point', 'coordinates': [-3.6308001, 40.4656938]}","Calle de las Pedroñeras, 11, 28043 Madrid, Spain",spa
-20,Biloba Spa VP,2.0,"{'type': 'Point', 'coordinates': [-3.7113558, 40.422886]}","Plaza de España, 3, 28008 Madrid, Spain",spa
-21,ABSARA SPA WELLNESS,3.7,"{'type': 'Point', 'coordinates': [-3.7034552, 40.4865386]}","Calle de Alfredo Marquerie, 43, 28034 Madrid, Spain",spa
-22,Massage Temple Princess,4.7,"{'type': 'Point', 'coordinates': [-3.7173002, 40.4284753]}","Calle de Martín de los Heros, 59, 28008 Madrid, Spain",spa
-23,Centro de Masajes | Barrio Salamanca Madrid | Beauty & Health,5.0,"{'type': 'Point', 'coordinates': [-3.6852601, 40.4277011]}","Cl. de Ayala, 32, Bajo izquierda, 28001 Madrid, Spain",spa
-24,Caroli Health Club,0.0,"{'type': 'Point', 'coordinates': [-3.690215299999999, 40.4363445]}","Hotel Intercontinental, Paseo de la Castellana, 49, 28046 Madrid, Spain",spa
-25,"The Beauty Concept at Mandarin Oriental Ritz, Madrid",0.0,"{'type': 'Point', 'coordinates': [-3.6925557, 40.4157026]}","Plaza de la Lealtad, 5, 28014 Madrid, Spain",spa
-26,Spaxion El Corte Inglés Callao,0.0,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}","Plaza del Callao, nº 3, 28013 Madrid, Spain",spa
-27,Manila Look and Feel Good,4.1,"{'type': 'Point', 'coordinates': [-3.638833, 40.535586]}","Av. Olímpica, 32, Local 9, 28108 Alcobendas, Madrid, Spain",spa
-28,The Spa at Four Seasons Hotel Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.700388, 40.4170089]}","Calle de Sevilla, 3, 28014 Madrid, Spain",spa
-29,Thai Orchid Spa and Massage Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6825683, 40.4398106]}","Calle de Velázquez, 136, Bajo A spa 22, 28006 Madrid, Spain",spa
-30,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}","Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",spa
-31,Madrid Le Max Wellness Fitness Club,4.7,"{'type': 'Point', 'coordinates': [-3.6841896, 40.4218231]}","Hotel Wellington, Calle de Velázquez, 6, 28001 Madrid, Spain",spa
-32,Caroli Health Club,4.6,"{'type': 'Point', 'coordinates': [-3.6921475, 40.4614403]}","Hotel Melia Castilla, Calle del Poeta Joan Maragall, 43, 28020 Madrid, Spain",spa
-33,Metropolitan Eurobuilding,4.3,"{'type': 'Point', 'coordinates': [-3.6859762, 40.4583783]}","Planta Superior Hotel NH Collection Eurobuilding, 28036, C. del Padre Damián, 23, 28036 Madrid, Spain",spa
-34,Centro Vitam,4.9,"{'type': 'Point', 'coordinates': [-3.7019258, 40.418511]}","Calle de la Montera, 24, 1ºE, 28013 Madrid, Spain",spa
-35,Clarins Skin Spa,4.5,"{'type': 'Point', 'coordinates': [-3.7059781, 40.47993690000001]}","Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",spa
-36,Arte-Spa,3.0,"{'type': 'Point', 'coordinates': [-3.7620607, 40.3955261]}","C. de Escalona, 77, 28024 Madrid, Spain",spa
-37,Vir Fdez Skin Heath & Antiaging,4.7,"{'type': 'Point', 'coordinates': [-3.6970534, 40.4219596]}","Calle de Augusto Figueroa, 28, 28004 Madrid, Spain",spa
-38,Six Harmonies Spa,5.0,"{'type': 'Point', 'coordinates': [-3.6897675, 40.4204887]}","Calle de Salustiano Olózaga, 11, bajo, 28001 Madrid, Spain",spa
-39,Goya Massage,3.7,"{'type': 'Point', 'coordinates': [-3.6765915, 40.4245791]}","Calle de Alcalá, 149, izquierda, 28009 Madrid, Spain",spa
-40,Boutique Gym & Spa by O2 Centro Wellness,4.0,"{'type': 'Point', 'coordinates': [-3.6816922, 40.4291211]}","Calle de Don Ramón de la Cruz, 31, 33, 28001 Madrid, Spain",spa
-41,Kinuan. Oriental massage,4.7,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}","Calle de Serrano Anguita, 18, 28004 Madrid, Spain",spa
-42,Le Max Wellness Club,5.0,"{'type': 'Point', 'coordinates': [-3.699806199999999, 40.41592]}","Gran Hotel Inglés, Calle de Echegaray, 8, 28014 Madrid, Spain",spa
-43,Urban Chic Estetic,3.9,"{'type': 'Point', 'coordinates': [-3.6563234, 40.4631029]}","Carr. de Canillas, 6, 28043 Madrid, Spain",spa
-44,Aloha Day Spa Aravaca,3.8,"{'type': 'Point', 'coordinates': [-3.7806171, 40.4595118]}","Paseo de la Ermita, 6, 28023 Madrid, Spain",spa
-45,Spaxión Castellana,4.1,"{'type': 'Point', 'coordinates': [-3.6942496, 40.4469068]}","Calle de Raimundo Fernández Villaverde, 79, 28003 Madrid, Spain",spa
-46,Kamiraku. oriental wellness,4.7,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}","Calle de José Ortega y Gasset, 11, bajo interior derecha, 28006 Madrid, Spain",spa
-47,Metropolitan Palacio Santa Ana,4.1,"{'type': 'Point', 'coordinates': [-3.7019151, 40.41442]}","Junto al hotel Me de la, Plaza del Ángel, Plaza de Sta. Ana, 6, 28012 Madrid, Spain",spa
-48,Kenika Thai Massage,4.8,"{'type': 'Point', 'coordinates': [-3.6876743, 40.4498992]}","Paseo de la Habana, 42, Local, 28036 Madrid, Spain",spa
-49,Quiromasaje Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7059, 40.420012]}","Plaza del Callao, 28004 Madrid, Spain",spa
-50,Redefinity spa,4.8,"{'type': 'Point', 'coordinates': [-3.689827, 40.421676]}","Calle de Recoletos, 16, 28001 Madrid, Spain",spa
-51,Relax Center,0.0,"{'type': 'Point', 'coordinates': [-3.7034487, 40.4149117]}","Calle de Carretas, 14, 28012 Madrid, Spain",spa
-52,Metropolitan Abascal,4.4,"{'type': 'Point', 'coordinates': [-3.693803, 40.4380095]}","Calle de José Abascal, 46, 28003 Madrid, Spain",spa
-53,SPA D & C Beauty,3.9,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}","Calle del Dr. Santero, 10, 28039 Madrid, Spain",spa
-54,Espacio de Bienestar,0.0,"{'type': 'Point', 'coordinates': [-3.708997, 40.4153716]}","Mercado de San Miguel, 28005, 28005, Madrid, Spain",spa
-55,Centro de Relajacion Tailandes XXI S.L.,0.0,"{'type': 'Point', 'coordinates': [-3.6958736, 40.4186243]}","Calle de Alcalá, 44, 28014 Madrid, Spain",spa
-56,Connecting Divernis SPA,4.1,"{'type': 'Point', 'coordinates': [-3.673486, 40.43065]}","Calle de Alcántara, 54, 28006 Madrid, Spain",spa
-57,Premium Sauna Gay Madrid,2.6,"{'type': 'Point', 'coordinates': [-3.708525, 40.418477]}","Calle de la Priora, 2, 28013 Madrid, Spain",spa
-58,Masajes eróticos Zentopía,4.4,"{'type': 'Point', 'coordinates': [-3.697840599999999, 40.4308603]}","Calle de Manuel Cortina, 9, 28010 Madrid, Spain",spa
-59,TATSU BALI,4.0,"{'type': 'Point', 'coordinates': [-3.7010569, 40.4185719]}","Calle de la Aduana, 23, 28013 Madrid, Spain",spa
+,name,rating,location,address,price_level,place
+0,Wellness Boutique Experience / Day Spa Massage,4.9,"{'type': 'Point', 'coordinates': [-3.6961082, 40.4258066]}","Calle de Campoamor, 5, 28004 Madrid, Spain",,spa
+1,The Organic Spa,4.6,"{'type': 'Point', 'coordinates': [-3.684683699999999, 40.4307528]}","Calle de Lagasca, 90, 28006 Madrid, Spain",,spa
+2,Private Spa Madrid - Plaza Castilla,4.6,"{'type': 'Point', 'coordinates': [-3.6873826, 40.4636558]}","Calle del Dr. Fleming, 60, B, 28036 Madrid, Spain",,spa
+3,Madrid Day Spa by Nuilea,4.7,"{'type': 'Point', 'coordinates': [-3.6988429, 40.4144911]}","Calle del León, 4, 28014 Madrid, Spain",,spa
+4,Hammam Al Ándalus Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.704224, 40.4142904]}","C. de Atocha, 14, 28012 Madrid, Spain",,spa
+5,Esenzias,4.4,"{'type': 'Point', 'coordinates': [-3.702844199999999, 40.4147944]}","Calle de la Cruz, 28, 28012 Madrid, Spain",,spa
+6,Spa Balneario Madrid Sol y Agua,4.2,"{'type': 'Point', 'coordinates': [-3.6976168, 40.4574713]}","Calle de la Infanta Mercedes, 36, 28020 Madrid, Spain",,spa
+7,Auditorium Spa,4.2,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4455556]}","Cl. de Suero de Quiñones, 22, 28002 Madrid, Spain",,spa
+8,Fariolen - Oriental Massage,4.6,"{'type': 'Point', 'coordinates': [-3.684728, 40.42903039999999]}","Calle de Lagasca, 80, 28001 Madrid, Spain",,spa
+9,Flotexperience,4.8,"{'type': 'Point', 'coordinates': [-3.6717795, 40.5048951]}","Calle Campo de la Estrella, 7, 28050 Madrid, Spain",,spa
+10,Los Nogales,4.1,"{'type': 'Point', 'coordinates': [-3.7165304, 40.4054061]}","Paseo Imperial, 26, 28035 Madrid, Spain",,spa
+11,CorpoDieci Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}","Calle del Dr. Santero, 10, 28039 Madrid, Spain",,spa
+12,Senzia Gran Vía Spa & Wellness,3.2,"{'type': 'Point', 'coordinates': [-3.7099719, 40.4226075]}","C/ Gran Vía, 70, 28013 Madrid, Spain",,spa
+13,Caroli Health Club,4.2,"{'type': 'Point', 'coordinates': [-3.703443, 40.486518]}","Hotel Eurostars Suites Mirasierra, C. de Alfredo Marqueríe, 43, 28034 Madrid, Spain",,spa
+14,Templo del Masaje Goya,4.8,"{'type': 'Point', 'coordinates': [-3.6701576, 40.42371139999999]}","Calle de la Povedilla, 6, 28009 Madrid, Spain",,spa
+15,Kinnaree Thai Traditional Massage,4.6,"{'type': 'Point', 'coordinates': [-3.694731, 40.425695]}","Calle de Argensola, 11, Bajo Izquierda, 28004 Madrid, Spain",,spa
+16,Masvitalzenter,0.0,"{'type': 'Point', 'coordinates': [-3.7028911, 40.4147618]}","Calle de la Cruz, 28, 28012 Madrid, Spain",,spa
+17,AquaBody,3.7,"{'type': 'Point', 'coordinates': [-3.7403321, 40.3859279]}","Calle de Castrojeriz, 9, 28025 Madrid, Spain",,spa
+18,Spaxión Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6918502, 40.4582778]}","Calle del Poeta Joan Maragall, 30, 28020 Madrid, Spain",,spa
+19,Biloba Spa VP,2.0,"{'type': 'Point', 'coordinates': [-3.7113558, 40.422886]}","Plaza de España, 3, 28008 Madrid, Spain",,spa
+20,Balneario Aguai+,3.3,"{'type': 'Point', 'coordinates': [-3.6308001, 40.4656938]}","Calle de las Pedroñeras, 11, 28043 Madrid, Spain",,spa
+21,ABSARA SPA WELLNESS,3.7,"{'type': 'Point', 'coordinates': [-3.7034552, 40.4865386]}","Calle de Alfredo Marquerie, 43, 28034 Madrid, Spain",,spa
+22,Massage Temple Princess,4.7,"{'type': 'Point', 'coordinates': [-3.7173002, 40.4284753]}","Calle de Martín de los Heros, 59, 28008 Madrid, Spain",,spa
+23,Centro de Masajes | Barrio Salamanca Madrid | Beauty & Health,5.0,"{'type': 'Point', 'coordinates': [-3.6852601, 40.4277011]}","Cl. de Ayala, 32, Bajo izquierda, 28001 Madrid, Spain",,spa
+24,Caroli Health Club,0.0,"{'type': 'Point', 'coordinates': [-3.690215299999999, 40.4363445]}","Hotel Intercontinental, Paseo de la Castellana, 49, 28046 Madrid, Spain",,spa
+25,"The Beauty Concept at Mandarin Oriental Ritz, Madrid",0.0,"{'type': 'Point', 'coordinates': [-3.6925557, 40.4157026]}","Plaza de la Lealtad, 5, 28014 Madrid, Spain",,spa
+26,Spaxion El Corte Inglés Callao,0.0,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}","Plaza del Callao, nº 3, 28013 Madrid, Spain",,spa
+27,Manila Look and Feel Good,4.1,"{'type': 'Point', 'coordinates': [-3.638833, 40.535586]}","Av. Olímpica, 32, Local 9, 28108 Alcobendas, Madrid, Spain",,spa
+28,The Spa at Four Seasons Hotel Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.700388, 40.4170089]}","Calle de Sevilla, 3, 28014 Madrid, Spain",,spa
+29,Thai Orchid Spa and Massage Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.6825683, 40.4398106]}","Calle de Velázquez, 136, Bajo A spa 22, 28006 Madrid, Spain",,spa
+30,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}","Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",,spa
+31,Madrid Le Max Wellness Fitness Club,4.7,"{'type': 'Point', 'coordinates': [-3.6841896, 40.4218231]}","Hotel Wellington, Calle de Velázquez, 6, 28001 Madrid, Spain",,spa
+32,Caroli Health Club,4.6,"{'type': 'Point', 'coordinates': [-3.6921475, 40.4614403]}","Hotel Melia Castilla, Calle del Poeta Joan Maragall, 43, 28020 Madrid, Spain",,spa
+33,Metropolitan Eurobuilding,4.3,"{'type': 'Point', 'coordinates': [-3.6859762, 40.4583783]}","Planta Superior Hotel NH Collection Eurobuilding, 28036, C. del Padre Damián, 23, 28036 Madrid, Spain",,spa
+34,Centro Vitam,4.9,"{'type': 'Point', 'coordinates': [-3.7019258, 40.418511]}","Calle de la Montera, 24, 1ºE, 28013 Madrid, Spain",,spa
+35,Clarins Skin Spa,4.5,"{'type': 'Point', 'coordinates': [-3.7059781, 40.47993690000001]}","Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",,spa
+36,Arte-Spa,3.0,"{'type': 'Point', 'coordinates': [-3.7620607, 40.3955261]}","C. de Escalona, 77, 28024 Madrid, Spain",,spa
+37,Vir Fdez Skin Heath & Antiaging,4.7,"{'type': 'Point', 'coordinates': [-3.6970534, 40.4219596]}","Calle de Augusto Figueroa, 28, 28004 Madrid, Spain",,spa
+38,Six Harmonies Spa,5.0,"{'type': 'Point', 'coordinates': [-3.6897675, 40.4204887]}","Calle de Salustiano Olózaga, 11, bajo, 28001 Madrid, Spain",,spa
+39,Goya Massage,3.7,"{'type': 'Point', 'coordinates': [-3.6765915, 40.4245791]}","Calle de Alcalá, 149, izquierda, 28009 Madrid, Spain",,spa
+40,Boutique Gym & Spa by O2 Centro Wellness,4.0,"{'type': 'Point', 'coordinates': [-3.6816922, 40.4291211]}","Calle de Don Ramón de la Cruz, 31, 33, 28001 Madrid, Spain",,spa
+41,Kinuan. Oriental massage,4.7,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}","Calle de Serrano Anguita, 18, 28004 Madrid, Spain",,spa
+42,Le Max Wellness Club,5.0,"{'type': 'Point', 'coordinates': [-3.699806199999999, 40.41592]}","Gran Hotel Inglés, Calle de Echegaray, 8, 28014 Madrid, Spain",,spa
+43,Urban Chic Estetic,3.9,"{'type': 'Point', 'coordinates': [-3.6563234, 40.4631029]}","Carr. de Canillas, 6, 28043 Madrid, Spain",,spa
+44,Aloha Day Spa Aravaca,3.8,"{'type': 'Point', 'coordinates': [-3.7806171, 40.4595118]}","Paseo de la Ermita, 6, 28023 Madrid, Spain",,spa
+45,Spaxión Castellana,4.1,"{'type': 'Point', 'coordinates': [-3.6942496, 40.4469068]}","Calle de Raimundo Fernández Villaverde, 79, 28003 Madrid, Spain",,spa
+46,Kamiraku. oriental wellness,4.7,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}","Calle de José Ortega y Gasset, 11, bajo interior derecha, 28006 Madrid, Spain",,spa
+47,Metropolitan Palacio Santa Ana,4.1,"{'type': 'Point', 'coordinates': [-3.7019151, 40.41442]}","Junto al hotel Me de la, Plaza del Ángel, Plaza de Sta. Ana, 6, 28012 Madrid, Spain",,spa
+48,Kenika Thai Massage,4.8,"{'type': 'Point', 'coordinates': [-3.6876743, 40.4498992]}","Paseo de la Habana, 42, Local, 28036 Madrid, Spain",,spa
+49,Quiromasaje Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7059, 40.420012]}","Plaza del Callao, 28004 Madrid, Spain",,spa
+50,Redefinity spa,4.8,"{'type': 'Point', 'coordinates': [-3.689827, 40.421676]}","Calle de Recoletos, 16, 28001 Madrid, Spain",,spa
+51,Relax Center,0.0,"{'type': 'Point', 'coordinates': [-3.7034487, 40.4149117]}","Calle de Carretas, 14, 28012 Madrid, Spain",,spa
+52,Metropolitan Abascal,4.4,"{'type': 'Point', 'coordinates': [-3.693803, 40.4380095]}","Calle de José Abascal, 46, 28003 Madrid, Spain",,spa
+53,SPA D & C Beauty,3.9,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}","Calle del Dr. Santero, 10, 28039 Madrid, Spain",,spa
+54,Espacio de Bienestar,0.0,"{'type': 'Point', 'coordinates': [-3.708997, 40.4153716]}","Mercado de San Miguel, 28005, 28005, Madrid, Spain",,spa
+55,Centro de Relajacion Tailandes XXI S.L.,0.0,"{'type': 'Point', 'coordinates': [-3.6958736, 40.4186243]}","Calle de Alcalá, 44, 28014 Madrid, Spain",,spa
+56,Connecting Divernis SPA,4.1,"{'type': 'Point', 'coordinates': [-3.673486, 40.43065]}","Calle de Alcántara, 54, 28006 Madrid, Spain",,spa
+57,Premium Sauna Gay Madrid,2.6,"{'type': 'Point', 'coordinates': [-3.708525, 40.418477]}","Calle de la Priora, 2, 28013 Madrid, Spain",,spa
+58,Masajes eróticos Zentopía,4.4,"{'type': 'Point', 'coordinates': [-3.697840599999999, 40.4308603]}","Calle de Manuel Cortina, 9, 28010 Madrid, Spain",,spa
+59,TATSU BALI,4.0,"{'type': 'Point', 'coordinates': [-3.7010569, 40.4185719]}","Calle de la Aduana, 23, 28013 Madrid, Spain",,spa

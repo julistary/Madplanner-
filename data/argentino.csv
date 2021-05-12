@@ -1,49 +1,52 @@
-,name,rating,location,address,place
-0,MEJOR RESTAURANTE ARGENTINO: La Cabaña Argentina Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6990102, 40.4157139]}","Calle de Ventura de la Vega, 10, 28014 Madrid, Spain",argentino
-1,El Viejo Almacén de Buenos Aires,4.6,"{'type': 'Point', 'coordinates': [-3.7234308, 40.4811978]}","Calle de Ramón Gómez de la Serna, 4, 28035 Madrid, Spain",argentino
-2,Restaurante argentino Piantao,4.8,"{'type': 'Point', 'coordinates': [-3.6961166, 40.3920659]}","Paseo de la Chopera, 69, 28045 Madrid, Spain",argentino
-3,Restaurante Argentino El Camoatí,4.5,"{'type': 'Point', 'coordinates': [-3.7123849, 40.413363]}","Calle de Alfonso VI, 3, 28005 Madrid, Spain",argentino
-4,Che!!! Asador Argentino (CC. Plenilunio),4.0,"{'type': 'Point', 'coordinates': [-3.5875159, 40.4468641]}","Calle de Aracne, s/n, 28022 Madrid, Spain",argentino
-5,Pampa Beef,4.6,"{'type': 'Point', 'coordinates': [-3.7003198, 40.4163195]}","C. del Príncipe, 3, 28012 Madrid, Spain",argentino
-6,Parrilla El Gaucho,4.5,"{'type': 'Point', 'coordinates': [-3.703043, 40.418173]}","Calle de Tetuán, 34, 28013 Madrid, Spain",argentino
-7,Tango Restaurante Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6765445, 40.4342967]}","Calle del General Díaz Porlier, 95, 28006 Madrid, Spain",argentino
-8,Pecados Argentinos,4.1,"{'type': 'Point', 'coordinates': [-3.7071333, 40.4097738]}","Plaza de Cascorro, 11, 28005 Madrid, Spain",argentino
-9,KPrichos Argentinos,4.5,"{'type': 'Point', 'coordinates': [-3.6767426, 40.4257162]}","Calle del General Díaz Porlier, 8, 28001 Madrid, Spain",argentino
-10,De María,4.4,"{'type': 'Point', 'coordinates': [-3.697362, 40.425832]}","Calle de Hortaleza, 81, 28004 Madrid, Spain",argentino
-11,MU! El Placer de la Carne,4.6,"{'type': 'Point', 'coordinates': [-3.7040549, 40.4194979]}","Calle de Chinchilla, 3, 28013 Madrid, Spain",argentino
-12,Bayres Beef Argentina en tapas,4.4,"{'type': 'Point', 'coordinates': [-3.6756144, 40.4482223]}","Calle de Pradillo, 6, 28002 Madrid, Spain",argentino
-13,MU! El Placer de la Carne,4.4,"{'type': 'Point', 'coordinates': [-3.701754, 40.4157387]}","Calle de la Victoria, 12, 28012 Madrid, Spain",argentino
-14,GRACIANA Empanadas Argentinas,4.6,"{'type': 'Point', 'coordinates': [-3.7090686, 40.4256731]}","Calle del Noviciado, 9, Loc 6, 28015 Madrid, Spain",argentino
-15,Pasiones Argentinas,4.0,"{'type': 'Point', 'coordinates': [-3.6593175, 40.5453564]}","Paseo de la Chopera, 196, 28100 Alcobendas, Madrid, Spain",argentino
-16,De Maria Parrilla,4.4,"{'type': 'Point', 'coordinates': [-3.7063692, 40.4197484]}","Calle de Preciados, 32, 28013 Madrid, Spain",argentino
-17,Empanadas en Madrid: Empanadas Buenos Aires,4.4,"{'type': 'Point', 'coordinates': [-3.6890101, 40.4738489]}","Calle de las Magnolias, 120, 28029 Madrid, Spain",argentino
-18,De María,4.4,"{'type': 'Point', 'coordinates': [-3.7015425, 40.4167375]}","Carrera de S. Jerónimo, 5, 28014 Madrid, Spain",argentino
-19,El Taller La Churrasquita,4.4,"{'type': 'Point', 'coordinates': [-3.6789098, 40.5108145]}","Calle Federico Mompou, 12, 28050 Madrid, Spain",argentino
-20,La Churrasquita,4.2,"{'type': 'Point', 'coordinates': [-3.6935061, 40.4625881]}","Calle de Rosario Pino, 18, 28020 Madrid, Spain",argentino
-21,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.6884867, 40.4635505]}","Calle Félix Boix, 3, 28036 Madrid, Spain",argentino
-22,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.716484, 40.436156]}","C. de Hilarión Eslava, 38, 28015 Madrid, Spain",argentino
-23,Tan-Go,4.2,"{'type': 'Point', 'coordinates': [-3.713706, 40.42789399999999]}","Calle de los Mártires de Alcalá, 3, 28015 Madrid, Spain",argentino
-24,De María Felix Boix,4.5,"{'type': 'Point', 'coordinates': [-3.6882528, 40.4634639]}","Calle Félix Boix, 5, 28036 Madrid, Spain",argentino
-25,Pizzería El Trébol,4.2,"{'type': 'Point', 'coordinates': [-3.7025353, 40.4151172]}","Calle de Barcelona, 13, 28012 Madrid, Spain",argentino
-26,De María,4.4,"{'type': 'Point', 'coordinates': [-3.704406999999999, 40.416417]}","Calle del Correo, 2, 28012 Madrid, Spain",argentino
-27,TSG Steak,4.5,"{'type': 'Point', 'coordinates': [-3.7074465, 40.4180342]}","Calle de las Hileras, 17, 19, 28013 Madrid, Spain",argentino
-28,Chacabuco 9-30 Parrilla argentina,4.7,"{'type': 'Point', 'coordinates': [-3.5841478, 40.4697073]}","Paseo del Zurrón, 53, 28042 Madrid, Spain",argentino
-29,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.6687738, 40.5091898]}","Calle Toques, 21, 28050 Madrid, Spain",argentino
-30,De María Ópera,4.4,"{'type': 'Point', 'coordinates': [-3.7088196, 40.4180252]}","Plaza de Isabel II, 8, 28013 Madrid, Spain",argentino
-31,Pizzería El Trébol,4.0,"{'type': 'Point', 'coordinates': [-3.701259, 40.415278]}","Calle de Núñez de Arce, 11, 28012 Madrid, Spain",argentino
-32,Beef Place Restaurante,3.9,"{'type': 'Point', 'coordinates': [-3.6583409, 40.4589843]}","Calle de Matías Turrión, 4, 28043 Madrid, Spain",argentino
-33,Empanadas Malvón,4.6,"{'type': 'Point', 'coordinates': [-3.6720489, 40.4457677]}","Calle de López de Hoyos, 113, 28002 Madrid, Spain",argentino
-34,PASIONES ARGENTINAS,4.0,"{'type': 'Point', 'coordinates': [-3.6122429, 40.5398916]}","Av. del Juncal, 22, 28703 San Sebastián de los Reyes, Madrid, Spain",argentino
-35,Empanadas Aiken,5.0,"{'type': 'Point', 'coordinates': [-3.6998237, 40.4369968]}","Calle de Sta Engracia, 101, 28010 Madrid, Spain",argentino
-36,Empanadas Malvón,4.6,"{'type': 'Point', 'coordinates': [-3.6824001, 40.4220139]}","Calle de Alcalá, 109, 28009 Madrid, Spain",argentino
-37,Pastelería América III,4.2,"{'type': 'Point', 'coordinates': [-3.679607, 40.433103]}","Calle del Príncipe de Vergara, 57, 28006 Madrid, Spain",argentino
-38,Empanadas Malvón,4.8,"{'type': 'Point', 'coordinates': [-3.6751839, 40.4243836]}","Av. de Felipe II, 54, 28009 Madrid, Spain",argentino
-39,Buenas y Santas,4.5,"{'type': 'Point', 'coordinates': [-3.6928751, 40.3919811]}","Calle de Bolívar, 9, 28045 Madrid, Spain",argentino
-40,Empanadas Malvón,5.0,"{'type': 'Point', 'coordinates': [-3.701701, 40.4294733]}","Calle de Luchana, 3, 28010 Madrid, Spain",argentino
-41,Milanesa Social Club,4.8,"{'type': 'Point', 'coordinates': [-3.6914653, 40.4269088]}","Calle Amador de los Ríos, 1, 28010 Madrid, Spain",argentino
-42,Colegio Mayor Argentino,4.4,"{'type': 'Point', 'coordinates': [-3.731811899999999, 40.43610839999999]}","C. de Martín Fierro, 3, 28040 Madrid, Spain",argentino
-43,The Knife Restaurant,4.0,"{'type': 'Point', 'coordinates': [-3.6499795, 40.4501918]}","C.C Arturo Soria Plaza, C. de Arturo Soria, 126, 28043 Madrid, Spain",argentino
-44,Delirio Gaucho,2.6,"{'type': 'Point', 'coordinates': [-3.695404, 40.4253935]}","Calle de Sta. Teresa, 12, 28004 Madrid, Spain",argentino
-45,GUSTO ARGENTINO,4.0,"{'type': 'Point', 'coordinates': [-3.7102455, 40.4276525]}","Calle del Conde Duque, 28, 28015 Madrid, Spain",argentino
-46,Bar Caminito,4.7,"{'type': 'Point', 'coordinates': [-3.6988718, 40.4091341]}","Calle del Salitre, 27, 28012 Madrid, Spain",argentino
-47,Consulate of Argentina,3.7,"{'type': 'Point', 'coordinates': [-3.6930108, 40.4282564]}","Calle de Fernando el Santo, 15, 28010 Madrid, Spain",argentino
+,name,rating,location,address,price_level,place
+0,Parrilla El Gaucho,4.5,"{'type': 'Point', 'coordinates': [-3.703043, 40.418173]}","Calle de Tetuán, 34, 28013 Madrid, Spain",2.0,argentino
+1,KPrichos Argentinos,4.5,"{'type': 'Point', 'coordinates': [-3.6767426, 40.4257162]}","Calle del General Díaz Porlier, 8, 28001 Madrid, Spain",1.0,argentino
+2,De María,4.4,"{'type': 'Point', 'coordinates': [-3.697362, 40.425832]}","Calle de Hortaleza, 81, 28004 Madrid, Spain",2.0,argentino
+3,MU! El Placer de la Carne,4.6,"{'type': 'Point', 'coordinates': [-3.7040549, 40.4194979]}","Calle de Chinchilla, 3, 28013 Madrid, Spain",1.0,argentino
+4,Bayres Beef Argentina en tapas,4.4,"{'type': 'Point', 'coordinates': [-3.6756144, 40.4482223]}","Calle de Pradillo, 6, 28002 Madrid, Spain",2.0,argentino
+5,MEJOR RESTAURANTE ARGENTINO: La Cabaña Argentina Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6990102, 40.4157139]}","Calle de Ventura de la Vega, 10, 28014 Madrid, Spain",2.0,argentino
+6,MU! El Placer de la Carne,4.4,"{'type': 'Point', 'coordinates': [-3.701754, 40.4157387]}","Calle de la Victoria, 12, 28012 Madrid, Spain",,argentino
+7,GRACIANA Empanadas Argentinas,4.6,"{'type': 'Point', 'coordinates': [-3.7090686, 40.4256731]}","Calle del Noviciado, 9, Loc 6, 28015 Madrid, Spain",,argentino
+8,Pasiones Argentinas,4.0,"{'type': 'Point', 'coordinates': [-3.6593175, 40.5453564]}","Paseo de la Chopera, 196, 28100 Alcobendas, Madrid, Spain",2.0,argentino
+9,De Maria Parrilla,4.4,"{'type': 'Point', 'coordinates': [-3.7063692, 40.4197484]}","Calle de Preciados, 32, 28013 Madrid, Spain",2.0,argentino
+10,El Viejo Almacén de Buenos Aires,4.6,"{'type': 'Point', 'coordinates': [-3.7234308, 40.4811978]}","Calle de Ramón Gómez de la Serna, 4, 28035 Madrid, Spain",2.0,argentino
+11,Empanadas en Madrid: Empanadas Buenos Aires,4.4,"{'type': 'Point', 'coordinates': [-3.6890101, 40.4738489]}","Calle de las Magnolias, 120, 28029 Madrid, Spain",,argentino
+12,Restaurante argentino Piantao,4.8,"{'type': 'Point', 'coordinates': [-3.6961166, 40.3920659]}","Paseo de la Chopera, 69, 28045 Madrid, Spain",3.0,argentino
+13,Restaurante Argentino El Camoatí,4.5,"{'type': 'Point', 'coordinates': [-3.7123849, 40.413363]}","Calle de Alfonso VI, 3, 28005 Madrid, Spain",2.0,argentino
+14,De María,4.4,"{'type': 'Point', 'coordinates': [-3.7015425, 40.4167375]}","Carrera de S. Jerónimo, 5, 28014 Madrid, Spain",2.0,argentino
+15,Che!!! Asador Argentino (CC. Plenilunio),4.0,"{'type': 'Point', 'coordinates': [-3.5875159, 40.4468641]}","Calle de Aracne, s/n, 28022 Madrid, Spain",2.0,argentino
+16,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.6884867, 40.4635505]}","Calle Félix Boix, 3, 28036 Madrid, Spain",1.0,argentino
+17,Pampa Beef,4.6,"{'type': 'Point', 'coordinates': [-3.7003198, 40.4163195]}","C. del Príncipe, 3, 28012 Madrid, Spain",1.0,argentino
+18,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.716484, 40.436156]}","C. de Hilarión Eslava, 38, 28015 Madrid, Spain",1.0,argentino
+19,Tan-Go,4.2,"{'type': 'Point', 'coordinates': [-3.713706, 40.42789399999999]}","Calle de los Mártires de Alcalá, 3, 28015 Madrid, Spain",2.0,argentino
+20,Tango Restaurante Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6765445, 40.4342967]}","Calle del General Díaz Porlier, 95, 28006 Madrid, Spain",2.0,argentino
+21,De María,4.4,"{'type': 'Point', 'coordinates': [-3.704406999999999, 40.416417]}","Calle del Correo, 2, 28012 Madrid, Spain",2.0,argentino
+22,Pecados Argentinos,4.1,"{'type': 'Point', 'coordinates': [-3.7071333, 40.4097738]}","Plaza de Cascorro, 11, 28005 Madrid, Spain",,argentino
+23,Empanadas Malvón,4.5,"{'type': 'Point', 'coordinates': [-3.6687738, 40.5091898]}","Calle Toques, 21, 28050 Madrid, Spain",1.0,argentino
+24,De María Ópera,4.4,"{'type': 'Point', 'coordinates': [-3.7088196, 40.4180252]}","Plaza de Isabel II, 8, 28013 Madrid, Spain",2.0,argentino
+25,Empanadas Malvón,4.6,"{'type': 'Point', 'coordinates': [-3.6720489, 40.4457677]}","Calle de López de Hoyos, 113, 28002 Madrid, Spain",,argentino
+26,PASIONES ARGENTINAS,4.0,"{'type': 'Point', 'coordinates': [-3.6122429, 40.5398916]}","Av. del Juncal, 22, 28703 San Sebastián de los Reyes, Madrid, Spain",,argentino
+27,Pizzería El Trébol,4.2,"{'type': 'Point', 'coordinates': [-3.7025353, 40.4151172]}","Calle de Barcelona, 13, 28012 Madrid, Spain",,argentino
+28,Empanadas Aiken,5.0,"{'type': 'Point', 'coordinates': [-3.6998237, 40.4369968]}","Calle de Sta Engracia, 101, 28010 Madrid, Spain",,argentino
+29,Empanadas Malvón,4.6,"{'type': 'Point', 'coordinates': [-3.6824001, 40.4220139]}","Calle de Alcalá, 109, 28009 Madrid, Spain",,argentino
+30,Empanadas Malvón,4.8,"{'type': 'Point', 'coordinates': [-3.6751839, 40.4243836]}","Av. de Felipe II, 54, 28009 Madrid, Spain",1.0,argentino
+31,Empanadas Malvón,5.0,"{'type': 'Point', 'coordinates': [-3.701701, 40.4294733]}","Calle de Luchana, 3, 28010 Madrid, Spain",,argentino
+32,Pizzería El Trébol,4.0,"{'type': 'Point', 'coordinates': [-3.701259, 40.415278]}","Calle de Núñez de Arce, 11, 28012 Madrid, Spain",,argentino
+33,Colegio Mayor Argentino,4.4,"{'type': 'Point', 'coordinates': [-3.731811899999999, 40.43610839999999]}","C. de Martín Fierro, 3, 28040 Madrid, Spain",,argentino
+34,GUSTO ARGENTINO,4.0,"{'type': 'Point', 'coordinates': [-3.7102455, 40.4276525]}","Calle del Conde Duque, 28, 28015 Madrid, Spain",,argentino
+35,Bar Caminito,4.7,"{'type': 'Point', 'coordinates': [-3.6988718, 40.4091341]}","Calle del Salitre, 27, 28012 Madrid, Spain",1.0,argentino
+36,LA PANERA ROSA | Restaurante Cocina Casera Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.673127, 40.4299337]}","Calle de José Ortega y Gasset, 73, 28006 Madrid, Spain",,argentino
+37,El Taller La Churrasquita,4.4,"{'type': 'Point', 'coordinates': [-3.6789098, 40.5108145]}","Calle Federico Mompou, 12, 28050 Madrid, Spain",2.0,argentino
+38,La Churrasquita,4.2,"{'type': 'Point', 'coordinates': [-3.6935061, 40.4625881]}","Calle de Rosario Pino, 18, 28020 Madrid, Spain",,argentino
+39,De María Felix Boix,4.5,"{'type': 'Point', 'coordinates': [-3.6882528, 40.4634639]}","Calle Félix Boix, 5, 28036 Madrid, Spain",3.0,argentino
+40,Casa Federica,4.6,"{'type': 'Point', 'coordinates': [-3.7087237, 40.4239678]}","Calle Manzana, 19, 28015 Madrid, Spain",1.0,argentino
+41,TSG Steak,4.5,"{'type': 'Point', 'coordinates': [-3.7074465, 40.4180342]}","Calle de las Hileras, 17, 19, 28013 Madrid, Spain",,argentino
+42,Chacabuco 9-30 Parrilla argentina,4.7,"{'type': 'Point', 'coordinates': [-3.5841478, 40.4697073]}","Paseo del Zurrón, 53, 28042 Madrid, Spain",2.0,argentino
+43,Beef Place Restaurante,3.9,"{'type': 'Point', 'coordinates': [-3.6583409, 40.4589843]}","Calle de Matías Turrión, 4, 28043 Madrid, Spain",3.0,argentino
+44,Pastelería América III,4.2,"{'type': 'Point', 'coordinates': [-3.679607, 40.433103]}","Calle del Príncipe de Vergara, 57, 28006 Madrid, Spain",1.0,argentino
+45,Buenas y Santas,4.5,"{'type': 'Point', 'coordinates': [-3.6928751, 40.3919811]}","Calle de Bolívar, 9, 28045 Madrid, Spain",2.0,argentino
+46,Milanesa Social Club,4.8,"{'type': 'Point', 'coordinates': [-3.6914653, 40.4269088]}","Calle Amador de los Ríos, 1, 28010 Madrid, Spain",,argentino
+47,The Knife Restaurant,4.0,"{'type': 'Point', 'coordinates': [-3.6499795, 40.4501918]}","C.C Arturo Soria Plaza, C. de Arturo Soria, 126, 28043 Madrid, Spain",2.0,argentino
+48,Delirio Gaucho,2.6,"{'type': 'Point', 'coordinates': [-3.695404, 40.4253935]}","Calle de Sta. Teresa, 12, 28004 Madrid, Spain",,argentino
+49,Pipo&Cia,5.0,"{'type': 'Point', 'coordinates': [-3.698657, 40.411603]}","Mercado Antón Martin, Calle de Santa Isabel, 5, 28012 Madrid, Spain",,argentino
+50,Consulate of Argentina,3.7,"{'type': 'Point', 'coordinates': [-3.6930108, 40.4282564]}","Calle de Fernando el Santo, 15, 28010 Madrid, Spain",,argentino

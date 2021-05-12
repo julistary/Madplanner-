@@ -1,0 +1,21 @@
+,name,rating,location,address,price_level,place
+0,Pista de Hielo Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6378945, 40.4630082]}","Calle de Silvano, 77, 28043 Madrid, Spain",,pista de hielo
+1,Pista Patinaje,4.1,"{'type': 'Point', 'coordinates': [-3.6672014, 40.3963014]}","Plaza Puerto Rubio, 16, 28053 Madrid, Spain",,pista de hielo
+2,Pista de Hielo Matadero,2.9,"{'type': 'Point', 'coordinates': [-3.6976585, 40.391165]}","28045 Madrid, Spain",,pista de hielo
+3,Ice Pavilion Leganes,4.2,"{'type': 'Point', 'coordinates': [-3.744467, 40.3327331]}","Av. de Alemania, 2, 28916 Leganés, Madrid, Spain",,pista de hielo
+4,Pista de patinaje Madrid Rio,4.5,"{'type': 'Point', 'coordinates': [-3.7014028, 40.3943447]}","Autopista de Circunvalación M-30, 28045 Madrid, Spain",,pista de hielo
+5,Roller Center Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6407718, 40.4017318]}","Cl. de la Hacienda de Pavones, 196, Primera Planta, 28030 Madrid, Spain",,pista de hielo
+6,Pista de Patinaje - rollermania,4.4,"{'type': 'Point', 'coordinates': [-3.7202755, 40.4642839]}","Calle Sinesio Delgado, 20, 28035 Madrid, Spain",,pista de hielo
+7,Pista de Patinaje,3.7,"{'type': 'Point', 'coordinates': [-3.6367566, 40.4649384]}","28043 Madrid, Spain",,pista de hielo
+8,Patinaje JCI,4.0,"{'type': 'Point', 'coordinates': [-3.6091841, 40.4650353]}","28042 Madrid, Spain",,pista de hielo
+9,Pista De Patinaje,3.6,"{'type': 'Point', 'coordinates': [-3.584136, 40.4734261]}","Calle Alar del Rey, 35, 28042 Madrid, Spain",,pista de hielo
+10,Ice Rink Factory,0.0,"{'type': 'Point', 'coordinates': [-3.6802139, 40.4301418]}","Calle de José Ortega y Gasset, 28006 Madrid, Spain",,pista de hielo
+11,Palacio de Hielo,4.1,"{'type': 'Point', 'coordinates': [-3.6373448, 40.4631976]}","Calle de Silvano, 77, 28043 Madrid, Spain",,pista de hielo
+12,Pista de patinaje/zona multiusos del Centro Comercial La Vaguada,0.0,"{'type': 'Point', 'coordinates': [-3.7061872, 40.4800858]}","C.C La Vaguada, Av. de Monforte de Lemos, S/N, 28029 Madrid, Spain",,pista de hielo
+13,Rollermaniacos - Pista de Patinaje Pública,4.5,"{'type': 'Point', 'coordinates': [-3.7051826, 40.470699]}","28029 Madrid, Spain",,pista de hielo
+14,Madrid Skating School,5.0,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}","Calle de Santa Isabel, 9, 28012 Madrid, Spain",,pista de hielo
+15,Roller skating rink,3.7,"{'type': 'Point', 'coordinates': [-3.6088801, 40.3999785]}","28032 Madrid, Spain",,pista de hielo
+16,Pista Patinaje Municipal,4.2,"{'type': 'Point', 'coordinates': [-3.606638, 40.4289101]}","Av. de Niza, 4, 28022 Madrid, Spain",,pista de hielo
+17,pista de patinaje,4.6,"{'type': 'Point', 'coordinates': [-3.5948593, 40.3688851]}","Calle de Cañada del Santísimo, 3, 28051 Madrid, Spain",,pista de hielo
+18,Pista de patinaje,4.7,"{'type': 'Point', 'coordinates': [-3.8134927, 40.3574308]}","Alcorcón, Madrid, Spain",,pista de hielo
+19,Pista de patinaje,4.0,"{'type': 'Point', 'coordinates': [-3.7150997, 40.3216863]}","28903 Getafe, Madrid, Spain",,pista de hielo

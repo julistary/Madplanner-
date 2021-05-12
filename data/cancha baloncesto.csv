@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Pista Baloncesto Pacifico,4.5,"{'type': 'Point', 'coordinates': [-3.6764067, 40.40026390000001]}","28007 Madrid, Spain",,cancha baloncesto
+1,Cancha de Baloncesto del Seminario Conciliar de Madrid,3.0,"{'type': 'Point', 'coordinates': [-3.7160242, 40.4099677]}","Calle Jerte, 10D, 28005 Madrid, Spain",,cancha baloncesto
+2,Cancha Baloncesto Pública Luis Mitjans,4.0,"{'type': 'Point', 'coordinates': [-3.670488, 40.4012458]}","Calle de Luis Mitjans, 13D, 28007 Madrid, Spain",,cancha baloncesto
+3,Canchas De Baloncesto,4.1,"{'type': 'Point', 'coordinates': [-3.655488799999999, 40.47096639999999]}","Av. de San Luis, 25C, 28033 Madrid, Spain",,cancha baloncesto
+4,Cancha de Baloncesto,4.3,"{'type': 'Point', 'coordinates': [-3.7259586, 40.4305274]}","Paseo de Camoens, 28008 Madrid, Spain",,cancha baloncesto
+5,Canchas De Embajadores,3.2,"{'type': 'Point', 'coordinates': [-3.7037669, 40.4068782]}","Calle de Embajadores, 68, 28012 Madrid, Spain",,cancha baloncesto
+6,Cancha de Baloncesto Acacias,4.1,"{'type': 'Point', 'coordinates': [-3.7076055, 40.4024295]}","Calle del Gasómetro, 38, 28005 Madrid, Spain",,cancha baloncesto
+7,Cancha de Baloncesto Parque Mirasierra,2.0,"{'type': 'Point', 'coordinates': [-3.7194209, 40.4942299]}","28035 Madrid, Spain",,cancha baloncesto
+8,Cancha de Baloncesto,3.7,"{'type': 'Point', 'coordinates': [-3.6874525, 40.3985099]}","Calle de Ramírez de Prado, 2, 28045 Madrid, Spain",,cancha baloncesto
+9,Campos de baloncesto,4.0,"{'type': 'Point', 'coordinates': [-3.6393882, 40.4090324]}","Av. del Dr. García Tapia, 192D, 28030 Madrid, Spain",,cancha baloncesto
+10,Basketball court,3.0,"{'type': 'Point', 'coordinates': [-3.6120786, 40.4113535]}","28032 Madrid, Spain",,cancha baloncesto
+11,"La Jaula, Pista de Baloncesto Publica",3.4,"{'type': 'Point', 'coordinates': [-3.6716038, 40.4093005]}","Calle Antonio Diaz, 1, 28007 Madrid, Spain",,cancha baloncesto
+12,Cancha de Baloncesto,4.6,"{'type': 'Point', 'coordinates': [-3.7115085, 40.4698301]}","Calle Miramelindos, 3, 28029 Madrid, Spain",,cancha baloncesto
+13,Basketball court Cruz del Rayo,4.0,"{'type': 'Point', 'coordinates': [-3.677157, 40.4455024]}","Cl. de Suero de Quiñones, 17, 28002 Madrid, Spain",,cancha baloncesto
+14,Cancha de Baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.6237961, 40.50116999999999]}","28055 Madrid, Spain",,cancha baloncesto
+15,Cancha de baloncesto,1.0,"{'type': 'Point', 'coordinates': [-3.7077361, 40.4745676]}","28029 Madrid, Spain",,cancha baloncesto
+16,Cancha baloncesto,4.0,"{'type': 'Point', 'coordinates': [-3.5901106, 40.4514066]}","Calle del Balandro, 1D, 28042 Madrid, Spain",,cancha baloncesto
+17,Cancha baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.587019699999999, 40.4547809]}","Calle de la Carabela, 1D, 28042 Madrid, Spain",,cancha baloncesto
+18,Pistas de baloncesto,4.2,"{'type': 'Point', 'coordinates': [-3.7045846, 40.4710817]}","parque cerca de, Calle Rodríguez Sahagún, Villanueva de Alcardete, Spain",,cancha baloncesto
+19,Basketball court,3.0,"{'type': 'Point', 'coordinates': [-3.63159, 40.4099997]}","Calle Cdad. de Águilas, 9, 28030 Madrid, Spain",,cancha baloncesto
+20,Cancha De Baloncesto,4.0,"{'type': 'Point', 'coordinates': [-3.6536179, 40.4575943]}","28043 Madrid, Spain",,cancha baloncesto
+21,Cancha de baloncesto,1.8,"{'type': 'Point', 'coordinates': [-3.7170303, 40.4573799]}","C/ de los Pirineos, 9, 28040 Madrid, Spain",,cancha baloncesto
+22,Cancha De Baloncesto,3.0,"{'type': 'Point', 'coordinates': [-3.6537173, 40.4608115]}","Calle Puerto Real, 7, 28043 Madrid, Spain",,cancha baloncesto
+23,Pista baloncesto,3.0,"{'type': 'Point', 'coordinates': [-3.6733959, 40.3454594]}","28021 Madrid, Spain",,cancha baloncesto
+24,Cancha de baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.6558438, 40.4303124]}","Calle José Villena, 18, 28017 Madrid, Spain",,cancha baloncesto
+25,Cancha de baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.6332636, 40.3906756]}","28038 Madrid, Spain",,cancha baloncesto
+26,Canchas de baloncesto Arroyopozuelo,0.0,"{'type': 'Point', 'coordinates': [-3.7733528, 40.4519638]}","28023 Madrid, Spain",,cancha baloncesto
+27,Canchas de baloncesto,4.0,"{'type': 'Point', 'coordinates': [-3.6240625, 40.3734469]}","28031 Madrid, Spain",,cancha baloncesto
+28,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6339071, 40.4066074]}","28030 Madrid, Spain",,cancha baloncesto
+29,Basketball court,4.0,"{'type': 'Point', 'coordinates': [-3.6457269, 40.4119846]}","Av. del Dr. García Tapia, 53, 28030 Madrid, Spain",,cancha baloncesto
+30,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6078632, 40.3995824]}","28032 Madrid, Spain",,cancha baloncesto
+31,Canchas de baloncesto y fútbol sala,4.2,"{'type': 'Point', 'coordinates': [-3.6182188, 40.4287403]}","Calle Alberique, 30, 28037 Madrid, Spain",,cancha baloncesto
+32,Cancha baloncesto,4.6,"{'type': 'Point', 'coordinates': [-3.607160099999999, 40.4569904]}","de, Calle Vía Dublín, 2I, 28042 Madrid, Spain",,cancha baloncesto
+33,Cancha de Baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.6134492, 40.3648341]}","28051 Madrid, Spain",,cancha baloncesto
+34,Basketball courts,0.0,"{'type': 'Point', 'coordinates': [-3.6030087, 40.4082392]}","Calle Vivero de la Pilarica, 3, 28032 Madrid, Spain",,cancha baloncesto
+35,Cancha de Baloncesto,5.0,"{'type': 'Point', 'coordinates': [-3.597429, 40.401719]}","28032 Madrid, Spain",,cancha baloncesto
+36,Pista De Baloncesto,4.7,"{'type': 'Point', 'coordinates': [-3.6318803, 40.4620922]}","28043 Madrid, Spain",,cancha baloncesto
+37,Cancha de Baloncesto,1.0,"{'type': 'Point', 'coordinates': [-3.733788499999999, 40.4307254]}","Calle Loeches, 10, 28008 Madrid, Spain",,cancha baloncesto
+38,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6152094, 40.40931339999999]}","28032 Madrid, Spain",,cancha baloncesto
+39,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6084706, 40.4098645]}","28032 Madrid, Spain",,cancha baloncesto
+40,Cancha de baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.5843539, 40.47200249999999]}","C. de Algemesí, 19, 28042 Madrid, Spain",,cancha baloncesto
+41,Basketball courts,3.0,"{'type': 'Point', 'coordinates': [-3.6167737, 40.41096170000001]}","28032 Madrid, Spain",,cancha baloncesto
+42,Canchas de baloncesto Nuevos Ministerios,4.5,"{'type': 'Point', 'coordinates': [-3.6937565, 40.4490229]}","28020 Madrid, Spain",,cancha baloncesto
+43,Canchas deportivas,0.0,"{'type': 'Point', 'coordinates': [-3.7049072, 40.4708756]}","28029 Madrid, Spain",,cancha baloncesto
+44,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6292682, 40.4059201]}","Calle la Riviera, 4, 28030 Madrid, Spain",,cancha baloncesto
+45,"Canchas de Baloncesto "" San Lamberto""",5.0,"{'type': 'Point', 'coordinates': [-3.6504845, 40.42195479999999]}","Calle de Sta Genoveva, 9B, 28017 Madrid, Spain",,cancha baloncesto
+46,Cancha de baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.6923387, 40.3527289]}","Calle de Sáhara, 60, 28041 Madrid, Spain",,cancha baloncesto
+47,Cancha de Baloncesto,0.0,"{'type': 'Point', 'coordinates': [-3.5056992, 40.49704970000001]}","28860 Paracuellos de Jarama, Madrid, Spain",,cancha baloncesto
+48,Pista baloncesto y futbol,0.0,"{'type': 'Point', 'coordinates': [-3.5944186, 40.3658381]}","Poligono UZP0103 Ensanche Vallecas, 551, 28051 Madrid, Spain",,cancha baloncesto
+49,Canchas de baloncesto Mallorca / Agastia 9,5.0,"{'type': 'Point', 'coordinates': [-3.6481161, 40.4434323]}","Calle de Agastia, 9, 28027 Madrid, Spain",,cancha baloncesto
+50,Colombia Pistas,3.8,"{'type': 'Point', 'coordinates': [-3.669111099999999, 40.4601456]}","Av. de Alfonso XIII, 136, 28016 Madrid, Spain",,cancha baloncesto
+51,"Cancha de Baloncesto ""Santa Eugenia""",4.1,"{'type': 'Point', 'coordinates': [-3.6030577, 40.3792632]}","Calle Poza de la Sal, 2, 28031 Madrid, Spain",,cancha baloncesto
+52,Instalación Deportiva Municipal Básica - Baloncesto,4.2,"{'type': 'Point', 'coordinates': [-3.6175051, 40.4415842]}","Calle Osiris, 11, 28037 Madrid, Spain",,cancha baloncesto
+53,Pista Baloncesto Valdezarza 2,4.4,"{'type': 'Point', 'coordinates': [-3.7113951, 40.4693501]}","28039 Madrid, Spain",,cancha baloncesto
+54,Basketball court,0.0,"{'type': 'Point', 'coordinates': [-3.6605598, 40.4369073]}","Av. de Brasilia, 9, 28028 Madrid, Spain",,cancha baloncesto
+55,Instalación Deportiva Municipal Básica Santa Hortensia,3.3,"{'type': 'Point', 'coordinates': [-3.6647659, 40.4438748]}","Calle de Sta Hortensia, 34, 28002 Madrid, Spain",,cancha baloncesto
+56,Pista deportiva,5.0,"{'type': 'Point', 'coordinates': [-3.65001, 40.4789232]}","28033 Madrid, Spain",,cancha baloncesto
+57,Canchas Minibaloncesto,4.3,"{'type': 'Point', 'coordinates': [-3.651291099999999, 40.4736554]}","Calle Luis Buitrago, 2, 28033 Madrid, Spain",,cancha baloncesto
+58,Pista Baloncesto Valdezarza,3.5,"{'type': 'Point', 'coordinates': [-3.7111322, 40.466791]}","28039 Madrid, Spain",,cancha baloncesto
+59,Basket Eduardo Barreiros,4.6,"{'type': 'Point', 'coordinates': [-3.695857, 40.3690049]}","28041 Madrid, Spain",,cancha baloncesto

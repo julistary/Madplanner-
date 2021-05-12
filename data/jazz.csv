@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,Jazz Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6958959, 40.4125735]}","C. de Moratín, 35, 28014 Madrid, Spain",jazz
-1,El Junco Jazz,4.3,"{'type': 'Point', 'coordinates': [-3.6963631, 40.4263524]}","Plaza de Sta. Bárbara, 10, 28004 Madrid, Spain",jazz
-2,Café Central,4.2,"{'type': 'Point', 'coordinates': [-3.701869599999999, 40.4141868]}","Plaza del Ángel, 10, 28012 Madrid, Spain",jazz
-3,The Jungle Jazz Club,4.2,"{'type': 'Point', 'coordinates': [-3.6851584, 40.4237394]}","Calle de Jorge Juan, 20, 28001 Madrid, Spain",jazz
-4,Clamores,4.2,"{'type': 'Point', 'coordinates': [-3.7009577, 40.431118]}","Calle de Alburquerque, 14, 28010 Madrid, Spain",jazz
-5,Moe,4.1,"{'type': 'Point', 'coordinates': [-3.6828651, 40.4583984]}","Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",jazz
-6,Recoletos Jazz,0.0,"{'type': 'Point', 'coordinates': [-3.6894872, 40.4214878]}","Calle de Recoletos, 18, 28001 Madrid, Spain",jazz
-7,Intruso Bar,4.2,"{'type': 'Point', 'coordinates': [-3.7002265, 40.4231123]}","Calle de Augusto Figueroa, 3, 28004 Madrid, Spain",jazz
-8,Café El Despertar,4.1,"{'type': 'Point', 'coordinates': [-3.6995308, 40.41080789999999]}","Calle de la Torrecilla del Leal, 18, 28012 Madrid, Spain",jazz
-9,La Coquette,4.6,"{'type': 'Point', 'coordinates': [-3.7075658, 40.4177289]}","Calle de las Hileras, 14, 28013 Madrid, Spain",jazz
-10,Café Berlín,4.3,"{'type': 'Point', 'coordinates': [-3.707943, 40.4195885]}","C, Costanilla de los Ángeles, 20, 28013 Madrid, Spain",jazz
-11,Barco,4.0,"{'type': 'Point', 'coordinates': [-3.7022359, 40.4232058]}","Calle del Barco, 34, 28004 Madrid, Spain",jazz
-12,Tempo Club,4.0,"{'type': 'Point', 'coordinates': [-3.711892, 40.425275]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",jazz
-13,Smooth Hot Jazz,5.0,"{'type': 'Point', 'coordinates': [-3.6809834, 40.4399404]}","Calle de López de Hoyos, 42, 28006 Madrid, Spain",jazz
-14,Amazonico Jazz Club,4.1,"{'type': 'Point', 'coordinates': [-3.685041, 40.4237285]}","Calle de Jorge Juan, 20, 28001 Madrid, Spain",jazz
-15,Sala Soul,3.4,"{'type': 'Point', 'coordinates': [-3.7084304, 40.4196879]}","Cuesta de Sto. Domingo, 22, 28013 Madrid, Spain",jazz
-16,Danny's Jazz,4.3,"{'type': 'Point', 'coordinates': [-3.723625, 40.4736132]}","C. del Dr. Ramón Castroviejo, 63, 28035 Madrid, Spain",jazz
-17,Little ROSE Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6967889, 40.4123677]}","C. de Moratín, 16, 28014 Madrid, Spain",jazz
-18,Clazz Latin Jazz Festival,4.2,"{'type': 'Point', 'coordinates': [-3.7051994, 40.4381752]}","Calle de Cea Bermúdez, 1, 28003 Madrid, Spain",jazz
-19,Casa Pueblo,4.4,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}","Calle del León, 3, 28014 Madrid, Spain",jazz
-20,Patisserie Y Bar Cine-Jazz,0.0,"{'type': 'Point', 'coordinates': [-3.698942599999999, 40.4158174]}","Calle de Ventura de la Vega, 28014 Madrid, Spain",jazz
-21,La Noche En Vivo,4.6,"{'type': 'Point', 'coordinates': [-3.708589, 40.4236185]}","Plaza de los Mostenses, 7, 28015 Madrid, Spain",jazz
-22,Blanco y Negro Studio,0.0,"{'type': 'Point', 'coordinates': [-3.701994099999999, 40.421128]}","Calle de Valverde, 10, 28004 Madrid, Spain",jazz
-23,Smooth Hot Jazz,5.0,"{'type': 'Point', 'coordinates': [-3.6809834, 40.4399404]}","Calle de López de Hoyos, 42, 28001 Madrid, Spain",jazz
-24,Café La Palma,4.1,"{'type': 'Point', 'coordinates': [-3.708014, 40.4268379]}","28015, Calle de la Palma, 62, 28015 Madrid, Spain",jazz
-25,JAZZYMAS.COM,4.8,"{'type': 'Point', 'coordinates': [-3.7043464, 40.4263396]}","Calle de la Palma, 28, 28004 Madrid, Spain",jazz
-26,JAZZ,0.0,"{'type': 'Point', 'coordinates': [-3.6908309, 40.4427867]}","Paseo de la Castellana, 86, 28046 Madrid, Spain",jazz
-27,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6970864, 40.4075344]}","Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",jazz
-28,El Juglar,4.1,"{'type': 'Point', 'coordinates': [-3.702099999999999, 40.4097139]}","Calle de Lavapiés, 37, 28012 Madrid, Spain",jazz
-29,Blackbird Rock Bar,4.4,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}","Calle de las Huertas, 22, 28014 Madrid, Spain",jazz
-30,Spanish jazz Carlos Sir Charles González,5.0,"{'type': 'Point', 'coordinates': [-3.7102339, 40.4246187]}","Calle de los Dos Amigos, 3, 28015 Madrid, Spain",jazz
-31,Big Mama Swing,4.9,"{'type': 'Point', 'coordinates': [-3.700028499999999, 40.4043683]}","Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",jazz
-32,Rincón del Arte Nuevo,3.6,"{'type': 'Point', 'coordinates': [-3.7123399, 40.4138035]}","Calle de Segovia, 17, 28005 Madrid, Spain",jazz
-33,"Clases de piano, Armonía moderna, Jazz, Blues, Boogie-Woogie, Clásico.",5.0,"{'type': 'Point', 'coordinates': [-3.6997719, 40.399746]}","Paseo de Santa María de la Cabeza, 63, 28045 Madrid, Spain",jazz
-34,Jazz Colecciones,5.0,"{'type': 'Point', 'coordinates': [-3.6953176, 40.435193]}","Paseo del General Martínez Campos, 23, 28010 Madrid, Spain",jazz
-35,The Maderfaker,4.3,"{'type': 'Point', 'coordinates': [-3.7027155, 40.4255567]}","Calle de San Vicente Ferrer, 17, 28004 Madrid, Spain",jazz
-36,Fun House,4.4,"{'type': 'Point', 'coordinates': [-3.7011393, 40.4313726]}","Calle de Palafox, 8, 28010 Madrid, Spain",jazz
-37,Danny's jazz,4.5,"{'type': 'Point', 'coordinates': [-3.7250993, 40.4646567]}","Calle de la Isla de Oza, 38, 28035 Madrid, Spain",jazz
-38,El 14 RockBar,4.4,"{'type': 'Point', 'coordinates': [-3.7110621, 40.426401]}","Calle del Conde Duque, 14, 28015 Madrid, Spain",jazz
-39,Sol & Sombra Bar,3.3,"{'type': 'Point', 'coordinates': [-3.69965, 40.415222]}","Calle de Echegaray, 18, 28005 Madrid, Spain",jazz
-40,Escuela de Música Creativa,4.1,"{'type': 'Point', 'coordinates': [-3.704477599999999, 40.4263358]}","Calle de la Palma, 35, 28004 Madrid, Spain",jazz
-41,Hangar 48,3.6,"{'type': 'Point', 'coordinates': [-3.7140411, 40.41139630000001]}","Calle de Bailén, 24, 28005 Madrid, Spain",jazz
-42,Crisser Jazz,4.0,"{'type': 'Point', 'coordinates': [-3.6148767, 40.5489699]}","Av de la Fuente Nueva, 8, 28700 San Sebastián de los Reyes, Madrid, Spain",jazz
-43,Centro de Cultura Contemporánea Condeduque,4.4,"{'type': 'Point', 'coordinates': [-3.7107195, 40.4274072]}","Calle del Conde Duque, 11, 28015 Madrid, Spain",jazz
-44,El Imperfecto,4.2,"{'type': 'Point', 'coordinates': [-3.6997222, 40.4136833]}","Plaza de Matute, 2, 28012 Madrid, Spain",jazz
-45,Restaurante Amazonico,4.3,"{'type': 'Point', 'coordinates': [-3.6851287, 40.4237431]}","C. Jorge Juan, 20, 28001 Madrid, Spain",jazz
-46,Don Viriato Jazz Food,0.0,"{'type': 'Point', 'coordinates': [-3.6946951, 40.4509488]}","Calle de Orense, 8, 28020 Madrid, Spain",jazz
-47,AC Hotel by Marriott Recoletos,4.4,"{'type': 'Point', 'coordinates': [-3.6895566, 40.42144649999999]}","Calle de Recoletos, 18, 28001 Madrid, Spain",jazz
-48,National Music Auditorium,4.7,"{'type': 'Point', 'coordinates': [-3.6776944, 40.445905]}","Calle del Príncipe de Vergara, 146, 28002 Madrid, Spain",jazz
-49,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"{'type': 'Point', 'coordinates': [-3.672469, 40.430664]}","Calle de Montesa, 43, 28006 Madrid, Spain",jazz
-50,Fernán Gómez Centro Cultural de la Villa,4.4,"{'type': 'Point', 'coordinates': [-3.6898599, 40.42463300000001]}","Plaza de Colón, 4, 28001 Madrid, Spain",jazz
-51,Calvario bar,4.5,"{'type': 'Point', 'coordinates': [-3.7020732, 40.4114707]}","Calle del Calvario, 16, 28012 Madrid, Spain",jazz
-52,MARKETING-JAZZ,5.0,"{'type': 'Point', 'coordinates': [-3.6509684, 40.5402784]}","Calle de Huelva, 16, 28108 Alcobendas, Madrid, Spain",jazz
-53,Woodside Jazz - Escuela de baile Swing,0.0,"{'type': 'Point', 'coordinates': [-3.71866, 40.4091421]}","Paseo de los Melancólicos, 11, 28005 Madrid, Spain",jazz
-54,"CLASES DE CANTO LÍRICO, TEATRO MUSICAL, JAZZ , POP...",0.0,"{'type': 'Point', 'coordinates': [-3.723247, 40.4320864]}","Calle de Ferraz, 77, 28008 Madrid, Spain",jazz
-55,Félix Santos Guindel,0.0,"{'type': 'Point', 'coordinates': [-3.6444435, 40.4343187]}","Calle de Gutierre de Cetina, 5, 28017 Madrid, Spain",jazz
-56,Paolo by Danny's Jazz,4.4,"{'type': 'Point', 'coordinates': [-3.7086208, 40.4136438]}","Plaza de Puerta Cerrada, 6, 28005 Madrid, Spain",jazz
-57,Big South,4.9,"{'type': 'Point', 'coordinates': [-3.7048682, 40.4028187]}","Calle del Laurel, 14, 28005 Madrid, Spain",jazz
-58,Taller de Músicos y Artes Plásticas,5.0,"{'type': 'Point', 'coordinates': [-3.676686, 40.4437912]}","Calle Luis Vives, 3, 28002 Madrid, Spain",jazz
-59,"Piano Madrid, Clases de piano en Madrid, Centro.",5.0,"{'type': 'Point', 'coordinates': [-3.697774, 40.400187]}","C. de Cdad. Real, 34, 28045 Madrid, Spain",jazz
+,name,rating,location,address,price_level,place
+0,Jazz Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6958959, 40.4125735]}","C. de Moratín, 35, 28014 Madrid, Spain",,jazz
+1,El Junco Jazz,4.3,"{'type': 'Point', 'coordinates': [-3.6963631, 40.4263524]}","Plaza de Sta. Bárbara, 10, 28004 Madrid, Spain",2.0,jazz
+2,Café Central,4.2,"{'type': 'Point', 'coordinates': [-3.701869599999999, 40.4141868]}","Plaza del Ángel, 10, 28012 Madrid, Spain",2.0,jazz
+3,The Jungle Jazz Club,4.2,"{'type': 'Point', 'coordinates': [-3.6851584, 40.4237394]}","Calle de Jorge Juan, 20, 28001 Madrid, Spain",4.0,jazz
+4,Clamores,4.2,"{'type': 'Point', 'coordinates': [-3.7009577, 40.431118]}","Calle de Alburquerque, 14, 28010 Madrid, Spain",,jazz
+5,Moe,4.1,"{'type': 'Point', 'coordinates': [-3.6828651, 40.4583984]}","Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",2.0,jazz
+6,Recoletos Jazz,0.0,"{'type': 'Point', 'coordinates': [-3.6894872, 40.4214878]}","Calle de Recoletos, 18, 28001 Madrid, Spain",,jazz
+7,Intruso Bar,4.2,"{'type': 'Point', 'coordinates': [-3.7002265, 40.4231123]}","Calle de Augusto Figueroa, 3, 28004 Madrid, Spain",2.0,jazz
+8,Café El Despertar,4.1,"{'type': 'Point', 'coordinates': [-3.6995308, 40.41080789999999]}","Calle de la Torrecilla del Leal, 18, 28012 Madrid, Spain",1.0,jazz
+9,La Coquette,4.6,"{'type': 'Point', 'coordinates': [-3.7075658, 40.4177289]}","Calle de las Hileras, 14, 28013 Madrid, Spain",2.0,jazz
+10,Café Berlín,4.3,"{'type': 'Point', 'coordinates': [-3.707943, 40.4195885]}","C, Costanilla de los Ángeles, 20, 28013 Madrid, Spain",,jazz
+11,Barco,4.0,"{'type': 'Point', 'coordinates': [-3.7022359, 40.4232058]}","Calle del Barco, 34, 28004 Madrid, Spain",,jazz
+12,Tempo Club,4.0,"{'type': 'Point', 'coordinates': [-3.711892, 40.425275]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",,jazz
+13,Smooth Hot Jazz,5.0,"{'type': 'Point', 'coordinates': [-3.6809834, 40.4399404]}","Calle de López de Hoyos, 42, 28006 Madrid, Spain",,jazz
+14,JazzVille,4.3,"{'type': 'Point', 'coordinates': [-3.6709719, 40.4097636]}","C. de Jesús Aprendiz, 19, 28007 Madrid, Spain",1.0,jazz
+15,Amazonico Jazz Club,4.1,"{'type': 'Point', 'coordinates': [-3.685041, 40.4237285]}","Calle de Jorge Juan, 20, 28001 Madrid, Spain",4.0,jazz
+16,Sala Soul,3.4,"{'type': 'Point', 'coordinates': [-3.7084304, 40.4196879]}","Cuesta de Sto. Domingo, 22, 28013 Madrid, Spain",,jazz
+17,Danny's Jazz,4.3,"{'type': 'Point', 'coordinates': [-3.723625, 40.4736132]}","C. del Dr. Ramón Castroviejo, 63, 28035 Madrid, Spain",1.0,jazz
+18,Little ROSE Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6967889, 40.4123677]}","C. de Moratín, 16, 28014 Madrid, Spain",1.0,jazz
+19,Clazz Latin Jazz Festival,4.2,"{'type': 'Point', 'coordinates': [-3.7051994, 40.4381752]}","Calle de Cea Bermúdez, 1, 28003 Madrid, Spain",,jazz
+20,Casa Pueblo,4.4,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}","Calle del León, 3, 28014 Madrid, Spain",1.0,jazz
+21,Patisserie Y Bar Cine-Jazz,0.0,"{'type': 'Point', 'coordinates': [-3.698942599999999, 40.4158174]}","Calle de Ventura de la Vega, 28014 Madrid, Spain",,jazz
+22,La Noche En Vivo,4.6,"{'type': 'Point', 'coordinates': [-3.708589, 40.4236185]}","Plaza de los Mostenses, 7, 28015 Madrid, Spain",,jazz
+23,Blanco y Negro Studio,0.0,"{'type': 'Point', 'coordinates': [-3.701994099999999, 40.421128]}","Calle de Valverde, 10, 28004 Madrid, Spain",,jazz
+24,Smooth Hot Jazz,5.0,"{'type': 'Point', 'coordinates': [-3.6809834, 40.4399404]}","Calle de López de Hoyos, 42, 28001 Madrid, Spain",,jazz
+25,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6970864, 40.4075344]}","Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",,jazz
+26,Café La Palma,4.1,"{'type': 'Point', 'coordinates': [-3.708014, 40.4268379]}","28015, Calle de la Palma, 62, 28015 Madrid, Spain",,jazz
+27,JAZZYMAS.COM,4.8,"{'type': 'Point', 'coordinates': [-3.7043464, 40.4263396]}","Calle de la Palma, 28, 28004 Madrid, Spain",,jazz
+28,JAZZ,0.0,"{'type': 'Point', 'coordinates': [-3.6908309, 40.4427867]}","Paseo de la Castellana, 86, 28046 Madrid, Spain",,jazz
+29,El Juglar,4.1,"{'type': 'Point', 'coordinates': [-3.702099999999999, 40.4097139]}","Calle de Lavapiés, 37, 28012 Madrid, Spain",2.0,jazz
+30,Spanish jazz Carlos Sir Charles González,5.0,"{'type': 'Point', 'coordinates': [-3.7102339, 40.4246187]}","Calle de los Dos Amigos, 3, 28015 Madrid, Spain",,jazz
+31,Blackbird Rock Bar,4.4,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}","Calle de las Huertas, 22, 28014 Madrid, Spain",2.0,jazz
+32,Big Mama Swing,4.9,"{'type': 'Point', 'coordinates': [-3.700028499999999, 40.4043683]}","Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",,jazz
+33,Rincón del Arte Nuevo,3.6,"{'type': 'Point', 'coordinates': [-3.7123399, 40.4138035]}","Calle de Segovia, 17, 28005 Madrid, Spain",,jazz
+34,"Clases de piano, Armonía moderna, Jazz, Blues, Boogie-Woogie, Clásico.",5.0,"{'type': 'Point', 'coordinates': [-3.6997719, 40.399746]}","Paseo de Santa María de la Cabeza, 63, 28045 Madrid, Spain",,jazz
+35,The Maderfaker,4.3,"{'type': 'Point', 'coordinates': [-3.7027155, 40.4255567]}","Calle de San Vicente Ferrer, 17, 28004 Madrid, Spain",,jazz
+36,Jazz Colecciones,5.0,"{'type': 'Point', 'coordinates': [-3.6953176, 40.435193]}","Paseo del General Martínez Campos, 23, 28010 Madrid, Spain",,jazz
+37,Danny's jazz,4.5,"{'type': 'Point', 'coordinates': [-3.7250993, 40.4646567]}","Calle de la Isla de Oza, 38, 28035 Madrid, Spain",1.0,jazz
+38,Fun House,4.4,"{'type': 'Point', 'coordinates': [-3.7011393, 40.4313726]}","Calle de Palafox, 8, 28010 Madrid, Spain",,jazz
+39,El 14 RockBar,4.4,"{'type': 'Point', 'coordinates': [-3.7110621, 40.426401]}","Calle del Conde Duque, 14, 28015 Madrid, Spain",2.0,jazz
+40,Sol & Sombra Bar,3.3,"{'type': 'Point', 'coordinates': [-3.69965, 40.415222]}","Calle de Echegaray, 18, 28005 Madrid, Spain",2.0,jazz
+41,Escuela de Música Creativa,4.1,"{'type': 'Point', 'coordinates': [-3.704477599999999, 40.4263358]}","Calle de la Palma, 35, 28004 Madrid, Spain",,jazz
+42,Hangar 48,3.6,"{'type': 'Point', 'coordinates': [-3.7140411, 40.41139630000001]}","Calle de Bailén, 24, 28005 Madrid, Spain",,jazz
+43,Crisser Jazz,4.0,"{'type': 'Point', 'coordinates': [-3.6148767, 40.5489699]}","Av de la Fuente Nueva, 8, 28700 San Sebastián de los Reyes, Madrid, Spain",1.0,jazz
+44,Centro de Cultura Contemporánea Condeduque,4.4,"{'type': 'Point', 'coordinates': [-3.7107195, 40.4274072]}","Calle del Conde Duque, 11, 28015 Madrid, Spain",,jazz
+45,El Imperfecto,4.2,"{'type': 'Point', 'coordinates': [-3.6997222, 40.4136833]}","Plaza de Matute, 2, 28012 Madrid, Spain",1.0,jazz
+46,Restaurante Amazonico,4.3,"{'type': 'Point', 'coordinates': [-3.6851287, 40.4237431]}","C. Jorge Juan, 20, 28001 Madrid, Spain",4.0,jazz
+47,Don Viriato Jazz Food,0.0,"{'type': 'Point', 'coordinates': [-3.6946951, 40.4509488]}","Calle de Orense, 8, 28020 Madrid, Spain",,jazz
+48,AC Hotel by Marriott Recoletos,4.4,"{'type': 'Point', 'coordinates': [-3.6895566, 40.42144649999999]}","Calle de Recoletos, 18, 28001 Madrid, Spain",,jazz
+49,National Music Auditorium,4.7,"{'type': 'Point', 'coordinates': [-3.6776944, 40.445905]}","Calle del Príncipe de Vergara, 146, 28002 Madrid, Spain",,jazz
+50,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"{'type': 'Point', 'coordinates': [-3.672469, 40.430664]}","Calle de Montesa, 43, 28006 Madrid, Spain",,jazz
+51,Fernán Gómez Centro Cultural de la Villa,4.4,"{'type': 'Point', 'coordinates': [-3.6898599, 40.42463300000001]}","Plaza de Colón, 4, 28001 Madrid, Spain",,jazz
+52,Calvario bar,4.5,"{'type': 'Point', 'coordinates': [-3.7020732, 40.4114707]}","Calle del Calvario, 16, 28012 Madrid, Spain",1.0,jazz
+53,MARKETING-JAZZ,5.0,"{'type': 'Point', 'coordinates': [-3.6509684, 40.5402784]}","Calle de Huelva, 16, 28108 Alcobendas, Madrid, Spain",,jazz
+54,Woodside Jazz - Escuela de baile Swing,0.0,"{'type': 'Point', 'coordinates': [-3.71866, 40.4091421]}","Paseo de los Melancólicos, 11, 28005 Madrid, Spain",,jazz
+55,"CLASES DE CANTO LÍRICO, TEATRO MUSICAL, JAZZ , POP...",0.0,"{'type': 'Point', 'coordinates': [-3.723247, 40.4320864]}","Calle de Ferraz, 77, 28008 Madrid, Spain",,jazz
+56,Félix Santos Guindel,0.0,"{'type': 'Point', 'coordinates': [-3.6444435, 40.4343187]}","Calle de Gutierre de Cetina, 5, 28017 Madrid, Spain",,jazz
+57,Paolo by Danny's Jazz,4.4,"{'type': 'Point', 'coordinates': [-3.7086208, 40.4136438]}","Plaza de Puerta Cerrada, 6, 28005 Madrid, Spain",,jazz
+58,Big South,4.9,"{'type': 'Point', 'coordinates': [-3.7048682, 40.4028187]}","Calle del Laurel, 14, 28005 Madrid, Spain",,jazz
+59,Taller de Músicos y Artes Plásticas,5.0,"{'type': 'Point', 'coordinates': [-3.676686, 40.4437912]}","Calle Luis Vives, 3, 28002 Madrid, Spain",,jazz

@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Discoteca Velvet Madrid,3.6,"{'type': 'Point', 'coordinates': [-3.7077554, 40.4203458]}","Calle de Jacometrezo, 6, 28013 Madrid, Spain",2.0,discoteca
+1,Samsara,3.7,"{'type': 'Point', 'coordinates': [-3.7009025, 40.4159966]}","Calle de la Cruz, 7, 28012 Madrid, Spain",2.0,discoteca
+2,Joy Eslava Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7065661, 40.4171637]}","Calle del Arenal, 11, 28013 Madrid, Spain",3.0,discoteca
+3,Eleven Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6995514, 40.41562649999999]}","Calle de Echegaray, 11, 28014 Madrid, Spain",,discoteca
+4,Goya Social Club,3.6,"{'type': 'Point', 'coordinates': [-3.682990999999999, 40.425301]}","Calle de Goya, 43, 28001 Madrid, Spain",2.0,discoteca
+5,Planet Club,4.6,"{'type': 'Point', 'coordinates': [-3.7005493, 40.4152145]}","C. del Príncipe, 20, 28012 Madrid, Spain",,discoteca
+6,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,discoteca
+7,OPIUM CLUB,3.8,"{'type': 'Point', 'coordinates': [-3.692209, 40.437878]}","Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,discoteca
+8,Kapital,3.8,"{'type': 'Point', 'coordinates': [-3.6931083, 40.4097611]}","C. de Atocha, 125, 28012 Madrid, Spain",3.0,discoteca
+9,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,discoteca
+10,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,discoteca
+11,Cibeles Night Club,3.7,"{'type': 'Point', 'coordinates': [-3.7075008, 40.4179793]}","Calle de las Hileras, 17, 28013 Madrid, Spain",1.0,discoteca
+12,Sala El Sol,4.4,"{'type': 'Point', 'coordinates': [-3.7016593, 40.4190502]}","Calle de los Jardines, 3, 28013 Madrid, Spain",,discoteca
+13,Le Boutique Club,3.5,"{'type': 'Point', 'coordinates': [-3.6875989, 40.4292138]}","Calle de Serrano, 45, 28001 Madrid, Spain",3.0,discoteca
+14,The Host Club,4.2,"{'type': 'Point', 'coordinates': [-3.7172868, 40.4263181]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,discoteca
+15,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",1.0,discoteca
+16,GUNILLA CLUB,3.4,"{'type': 'Point', 'coordinates': [-3.6910073, 40.4226066]}","Paseo de Recoletos, 16, 28001 Madrid, Spain",3.0,discoteca
+17,Bling Bling Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.691738, 40.4250798]}","Calle de Génova, 28, 28004 Madrid, Spain",3.0,discoteca
+18,Palace Disco Club,3.4,"{'type': 'Point', 'coordinates': [-3.7089488, 40.4184349]}","Plaza de Isabel II, 7, 28013 Madrid, Spain",2.0,discoteca
+19,Bearbie Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.699808899999999, 40.4211844]}","Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",1.0,discoteca
+20,Ochoymedio,3.6,"{'type': 'Point', 'coordinates': [-3.6997571, 40.4270749]}","C. de Barceló, 11, 28004 Madrid, Spain",3.0,discoteca
+21,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,discoteca
+22,Discoteca Azúcar,3.7,"{'type': 'Point', 'coordinates': [-3.6952526, 40.4106491]}","28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,discoteca
+23,Executives Club Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6847934, 40.4375802]}","Calle de María de Molina, 26, 28006 Madrid, Spain",,discoteca
+24,Sala Morocco,3.8,"{'type': 'Point', 'coordinates': [-3.707419, 40.422116]}","Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",2.0,discoteca
+25,Delirium Dance Club,3.8,"{'type': 'Point', 'coordinates': [-3.696954899999999, 40.42497840000001]}","Calle de Pelayo, 59, 28004 Madrid, Spain",,discoteca
+26,Factory Air-Show Girls Discoteca,4.6,"{'type': 'Point', 'coordinates': [-3.5648067, 40.4470272]}","Av. de Gumersindo Llorente, 19, 28022 Madrid, Spain",,discoteca
+27,CHA CHÁ The Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6983705, 40.4173993]}","Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,discoteca
+28,Copérnico The Club,3.6,"{'type': 'Point', 'coordinates': [-3.7135605, 40.4352709]}","Calle de Fernández de los Ríos, 67, 28015 Madrid, Spain",,discoteca
+29,Kluster,4.2,"{'type': 'Point', 'coordinates': [-3.6981612, 40.43166919999999]}","Calle de Covarrubias, 42, 28010 Madrid, Spain",2.0,discoteca
+30,Medias Puri,3.9,"{'type': 'Point', 'coordinates': [-3.7034333, 40.41234910000001]}","Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,discoteca
+31,In Da Club Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7095126, 40.4386454]}","Calle de Cea Bermúdez, Número 21, 28003 Madrid, Spain",,discoteca
+32,Mondo Disko,3.9,"{'type': 'Point', 'coordinates': [-3.698812499999999, 40.4170817]}","Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,discoteca
+33,Blackhaus,3.7,"{'type': 'Point', 'coordinates': [-3.766801, 40.461301]}","Ctra. de La Coruña, Km. 8,700, 28023 Madrid, Spain",3.0,discoteca
+34,The Club,4.0,"{'type': 'Point', 'coordinates': [-3.7136615, 40.42530259999999]}","C. de Ventura Rodríguez, 7, 28008 Madrid, Spain",,discoteca
+35,Freedom,3.2,"{'type': 'Point', 'coordinates': [-3.6802778, 40.4588889]}","Av. de Alberto de Alcocer, 43, 28016 Madrid, Spain",2.0,discoteca
+36,Bar de copas y club nocturno Pigmalion Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.6881457, 40.4373877]}","C. del Pinar, 6, 28006 Madrid, Spain",4.0,discoteca
+37,Club Discoteca Paradiso,3.8,"{'type': 'Point', 'coordinates': [-3.7101235, 40.4224125]}","Calle de la Flor Baja, 6, 28013 Madrid, Spain",,discoteca
+38,Discoteca Serrano 41,3.7,"{'type': 'Point', 'coordinates': [-3.6873588, 40.4289888]}","Calle de Serrano, 41, 28001 Madrid, Spain",2.0,discoteca
+39,MYMO Madrid,3.2,"{'type': 'Point', 'coordinates': [-3.6914639, 40.433826]}","Calle de Miguel Ángel, 3, 28010 Madrid, Spain",,discoteca
+40,Club Malasaña,4.1,"{'type': 'Point', 'coordinates': [-3.703169699999999, 40.42565099999999]}","Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain",,discoteca
+41,Discoteca Mama Pachanga,3.5,"{'type': 'Point', 'coordinates': [-3.661098599999999, 40.3948018]}","Calle Sanz Raso, 19, 28038 Madrid, Spain",1.0,discoteca
+42,Ya'sta Club,3.7,"{'type': 'Point', 'coordinates': [-3.7019926, 40.4211199]}","Calle de Valverde, 10, 28004 Madrid, Spain",,discoteca
+43,Club Musée,3.4,"{'type': 'Point', 'coordinates': [-3.6820698, 40.458778]}","Av. de Alberto de Alcocer, 35, 28016 Madrid, Spain",,discoteca
+44,Madrid Cabaret Club,3.8,"{'type': 'Point', 'coordinates': [-3.6364717, 40.4371508]}","Calle Caunedo, 7, 28037 Madrid, Spain",,discoteca
+45,Cool,4.0,"{'type': 'Point', 'coordinates': [-3.709041, 40.4212071]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,discoteca
+46,Discoteca Moorea Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.694997099999999, 40.4503277]}","Calle de Orense, 18, 28020 Madrid, Spain",,discoteca
+47,Tropical House,3.9,"{'type': 'Point', 'coordinates': [-3.708732, 40.423061]}","Plaza de los Mostenses n11, 28015 Madrid, Spain",1.0,discoteca
+48,Stardust,3.8,"{'type': 'Point', 'coordinates': [-3.7089682, 40.4211093]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",,discoteca
+49,Vive Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.6999302, 40.46110059999999]}","Calle del Marqués de Viana, 15, 28020 Madrid, Spain",4.0,discoteca
+50,Discoteca New One Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.637096999999999, 40.437104]}","28037, Av. de la Institución Libre de Enseñanza, 11, 28037 Madrid, Spain",1.0,discoteca
+51,Discoteca Fenix,3.9,"{'type': 'Point', 'coordinates': [-3.7185163, 40.3984807]}","Av. de la Emperatriz Isabel, 13, 28019 Madrid, Spain",,discoteca
+52,MADRID CLUB ROCKNROLLA,4.2,"{'type': 'Point', 'coordinates': [-3.6966068, 40.4129171]}","Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,discoteca
+53,Clubbers Tour,2.9,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}","Calle de la Cruz, 33, 28012 Madrid, Spain",,discoteca
+54,El Sol,4.3,"{'type': 'Point', 'coordinates': [-3.7016321, 40.4190629]}","Calle de los Jardines, 3, 28013 Madrid, Spain",,discoteca
+55,vudu club madrid,2.7,"{'type': 'Point', 'coordinates': [-3.680190899999999, 40.45888]}","Av. de Alberto de Alcocer, 43, 28036 Madrid, Spain",,discoteca
+56,Manama Disco,2.7,"{'type': 'Point', 'coordinates': [-3.7026209, 40.4150667]}","Calle de Barcelona, 14, 28012 Madrid, Spain",,discoteca
+57,Monocle Club,3.5,"{'type': 'Point', 'coordinates': [-3.6923873, 40.4570912]}","Calle del Poeta Joan Maragall, 19, 28020 Madrid, Spain",,discoteca
+58,discoteca colombiana en madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6677705, 40.4247981]}","Calle Fundadores, 7, 28028 Madrid, Spain",,discoteca
+59,Star Coyote 54,3.5,"{'type': 'Point', 'coordinates': [-3.7036066, 40.4190511]}","Plaza del Carmen, 3, 28013 Madrid, Spain",1.0,discoteca

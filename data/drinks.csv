@@ -1,61 +1,61 @@
-,name,rating,location,address,place
-0,1862 Dry Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}","Calle del Pez, 27, 28004 Madrid, Spain",drinks
-1,Gil's Cocktail Bar,5.0,"{'type': 'Point', 'coordinates': [-3.696188, 40.4407851]}","Calle de Modesto Lafuente, 23, 28003 Madrid, Spain",drinks
-2,Salmon Guru,4.7,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}","Calle de Echegaray, 21, 28014 Madrid, Spain",drinks
-3,Sambhad cocktail bar terraza,4.8,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}","Calle Duque de Osuna, 4, 28015 Madrid, Spain",drinks
-4,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",drinks
-5,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",drinks
-6,Areia,4.4,"{'type': 'Point', 'coordinates': [-3.6980344, 40.4245406]}","Calle de Hortaleza, 92, 28004 Madrid, Spain",drinks
-7,Bar Cock,4.1,"{'type': 'Point', 'coordinates': [-3.698842, 40.419881]}","Calle de la Reina, 16, 28004 Madrid, Spain",drinks
-8,Black Gold Shisha & Drinks,4.9,"{'type': 'Point', 'coordinates': [-3.7024967, 40.4268114]}","Calle de Velarde, 12, 28004 Madrid, Spain",drinks
-9,Ditirambo Food n´ Drinks,4.4,"{'type': 'Point', 'coordinates': [-3.6923355, 40.43375]}","Calle de Alfonso X, 5, 28010 Madrid, Spain",drinks
-10,47 cocktail bar,4.1,"{'type': 'Point', 'coordinates': [-3.7102089, 40.4118685]}","Calle de la Cava Baja, 47, 28005 Madrid, Spain",drinks
-11,Wanderlust Bar,4.1,"{'type': 'Point', 'coordinates': [-3.7091132, 40.4168279]}","Calle del Bonetillo, 14, 28013 Madrid, Spain",drinks
-12,La Villana,4.1,"{'type': 'Point', 'coordinates': [-3.6855996, 40.4608894]}","C. del Padre Damián, 37, 28036 Madrid, Spain",drinks
-13,The Dash,4.4,"{'type': 'Point', 'coordinates': [-3.7006417, 40.4334982]}","C/ de Murillo, 5, 28010 Madrid, Spain",drinks
-14,The Caravan Cocktail Bar,4.6,"{'type': 'Point', 'coordinates': [-3.710841, 40.4131818]}","Calle del Príncipe de Anglona, 3, 28005 Madrid, Spain",drinks
-15,Farándula Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.676332999999999, 40.419635]}","Calle de Menorca, 25, 28009 Madrid, Spain",drinks
-16,James Joyce Irish Pub Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.691314, 40.419919]}","Calle de Alcalá, 59, 28014 Madrid, Spain",drinks
-17,Comité Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.717874, 40.4273806]}","Calle de Quintana, 17, 28008 Madrid, Spain",drinks
-18,Inpass Café Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.702741, 40.419452]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",drinks
-19,Terraza Collins,4.4,"{'type': 'Point', 'coordinates': [-3.71322, 40.413366]}","3, Calle de Caños Viejos, 28005 Madrid, Spain",drinks
-20,San Mateo Circus,4.5,"{'type': 'Point', 'coordinates': [-3.700117999999999, 40.425048]}","Calle de San Mateo, 6, 28004 Madrid, Spain",drinks
-21,Jazz Bar,4.5,"{'type': 'Point', 'coordinates': [-3.6958959, 40.4125735]}","C. de Moratín, 35, 28014 Madrid, Spain",drinks
-22,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",drinks
-23,Bee Beer. Craft Beers & Cheeses,4.6,"{'type': 'Point', 'coordinates': [-3.69692, 40.421978]}","Calle de Augusto Figueroa, 30, 28004 Madrid, Spain",drinks
-24,Ficus Bar,4.7,"{'type': 'Point', 'coordinates': [-3.694985, 40.4236519]}","Calle de Santo Tomé, 8, 28004 Madrid, Spain",drinks
-25,Viva Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.6998424, 40.4151864]}","Calle de Manuel Fernández y González, nº 7, 28014 Madrid, Spain",drinks
-26,El miniBAR,4.7,"{'type': 'Point', 'coordinates': [-3.7092101, 40.4163072]}","C/ del Mesón de Paños, 1, 28013 Madrid, Spain",drinks
-27,Macera Taller Bar,4.4,"{'type': 'Point', 'coordinates': [-3.698088, 40.426179]}","Calle de San Mateo, 21, 28004 Madrid, Spain",drinks
-28,Bátelo Cocktail Bar,4.0,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}","Calle del Infante, 8, 28014 Madrid, Spain",drinks
-29,Entre Santos Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.698661, 40.4214083]}","Calle de San Bartolomé, 4, 28004 Madrid, Spain",drinks
-30,Bar EL 32,4.6,"{'type': 'Point', 'coordinates': [-3.7026149, 40.4103065]}","Calle de Lavapiés, 32, 28012 Madrid, Spain",drinks
-31,La Terraza del Urban,4.4,"{'type': 'Point', 'coordinates': [-3.698698, 40.416282]}","Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",drinks
-32,OH MY FOOD MADRID,4.0,"{'type': 'Point', 'coordinates': [-3.697111, 40.4199626]}","Calle de las Infantas, 44, 28004 Madrid, Spain",drinks
-33,La Osita,4.7,"{'type': 'Point', 'coordinates': [-3.7084903, 40.413234]}","Calle de la Cava Baja, 10, 28005 Madrid, Spain",drinks
-34,Miranda,3.9,"{'type': 'Point', 'coordinates': [-3.6988841, 40.4136803]}","Calle de las Huertas, 29, 28014 Madrid, Spain",drinks
-35,Lola 09,4.2,"{'type': 'Point', 'coordinates': [-3.6981039, 40.4260406]}","Calle de San Mateo, 28, 28004 Madrid, Spain",drinks
-36,Basic Low Cost,4.3,"{'type': 'Point', 'coordinates': [-3.7087345, 40.4232149]}","Plaza de los Mostenses, 13, 28015 Madrid, Spain",drinks
-37,BOCANEGRA MADRID,3.6,"{'type': 'Point', 'coordinates': [-3.696155999999999, 40.4182919]}","Calle del Marqués de Casa Riera, 1, 28014 Madrid, Spain",drinks
-38,Gramabar,4.4,"{'type': 'Point', 'coordinates': [-3.7070834, 40.4198112]}","Calle de Preciados, 40, 28013 Madrid, Spain",drinks
-39,La Terraza de Óscar,4.4,"{'type': 'Point', 'coordinates': [-3.6989814, 40.4206224]}","Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",drinks
-40,Hopper,4.3,"{'type': 'Point', 'coordinates': [-3.7102615, 40.4119537]}","Calle de la Cava Baja, 40, 28005 Madrid, Spain",drinks
-41,Gorila Malasaña,4.3,"{'type': 'Point', 'coordinates': [-3.702825, 40.423275]}","C/ Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",drinks
-42,Coco Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7047968, 40.4255861]}","Calle del Espíritu Santo, 36, 28004 Madrid, Spain",drinks
-43,Bar Tosstka,4.6,"{'type': 'Point', 'coordinates': [-3.6999272, 40.4221015]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",drinks
-44,Beer Station,4.3,"{'type': 'Point', 'coordinates': [-3.7084798, 40.4196872]}","Cuesta de Sto. Domingo, 22, 28013 Madrid, Spain",drinks
-45,La Santoría,4.9,"{'type': 'Point', 'coordinates': [-3.696250799999999, 40.4135922]}","Calle de Lope de Vega, 30, 28014 Madrid, Spain",drinks
-46,Iguazu Cocktails Club,4.4,"{'type': 'Point', 'coordinates': [-3.7020168, 40.4514566]}","Calle de Teruel, 16, 28020 Madrid, Spain",drinks
-47,Cometapas - Tapas en Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.72473, 40.38269]}","Plaza de Coímbra, 4, 28025 Madrid, Spain",drinks
-48,Bar Viaducto,4.4,"{'type': 'Point', 'coordinates': [-3.7133414, 40.4130197]}","Calle de la Moreria, 11, 28005 Madrid, Spain",drinks
-49,Baton Rouge Cocktail Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017675, 40.4158661]}","Calle de la Victoria, 8, 28012 Madrid, Spain",drinks
-50,Revoltosa Plaza del Rey,4.0,"{'type': 'Point', 'coordinates': [-3.695906, 40.4204472]}","Plaza del Rey, 4, 28004 Madrid, Spain",drinks
-51,El Escaparate,0.0,"{'type': 'Point', 'coordinates': [-3.6988768, 40.44145719999999]}","Calle de Ponzano, 58, 28003 Madrid, Spain",drinks
-52,The Drink,4.3,"{'type': 'Point', 'coordinates': [-3.6669859, 40.3953972]}","28053 Madrid, Spain",drinks
-53,Boyberry Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7022954, 40.4207073]}","Calle de Valverde, 3, 28004 Madrid, Spain",drinks
-54,Hibou Shishas & Cocktails,4.5,"{'type': 'Point', 'coordinates': [-3.605601000000001, 40.3791519]}","C. Fuentespina, 21, 28031 Madrid, Spain",drinks
-55,Rosa Negra Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6990401, 40.4138325]}","Calle del León, 16, 28014 Madrid, Spain",drinks
-56,Nice To Meet You Restaurant & Lounge,4.0,"{'type': 'Point', 'coordinates': [-3.7104527, 40.4233495]}","C/ Gran Vía, 80, 28013 Madrid, Spain",drinks
-57,Cafe Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.709223799999999, 40.4166411]}","C/ del Mesón de Paños, 6, 28013 Madrid, Spain",drinks
-58,Cereal Hunters Café,4.5,"{'type': 'Point', 'coordinates': [-3.700732599999999, 40.4205672]}","Calle de la Reina, 1, 28004 Madrid, Spain",drinks
-59,Gin Club,4.0,"{'type': 'Point', 'coordinates': [-3.698771, 40.419885]}","Calle de la Reina, 16, 28013 Madrid, Spain",drinks
+,name,rating,location,address,price_level,place
+0,1862 Dry Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}","Calle del Pez, 27, 28004 Madrid, Spain",2.0,drinks
+1,Salmon Guru,4.7,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}","Calle de Echegaray, 21, 28014 Madrid, Spain",2.0,drinks
+2,Sambhad cocktail bar terraza,4.8,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}","Calle Duque de Osuna, 4, 28015 Madrid, Spain",,drinks
+3,Enbabia Infused,4.6,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}","Calle de Núñez de Arce, 9, 28012 Madrid, Spain",,drinks
+4,Areia,4.4,"{'type': 'Point', 'coordinates': [-3.6980344, 40.4245406]}","Calle de Hortaleza, 92, 28004 Madrid, Spain",2.0,drinks
+5,Ditirambo Food n´ Drinks,4.4,"{'type': 'Point', 'coordinates': [-3.6923355, 40.43375]}","Calle de Alfonso X, 5, 28010 Madrid, Spain",1.0,drinks
+6,Black Gold Shisha & Drinks,4.9,"{'type': 'Point', 'coordinates': [-3.7024967, 40.4268114]}","Calle de Velarde, 12, 28004 Madrid, Spain",,drinks
+7,Del Diego Cocktail Bar,4.4,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}","Calle de la Reina, 12, 28004 Madrid, Spain",2.0,drinks
+8,47 cocktail bar,4.1,"{'type': 'Point', 'coordinates': [-3.7102089, 40.4118685]}","Calle de la Cava Baja, 47, 28005 Madrid, Spain",2.0,drinks
+9,La Villana,4.1,"{'type': 'Point', 'coordinates': [-3.6855996, 40.4608894]}","C. del Padre Damián, 37, 28036 Madrid, Spain",2.0,drinks
+10,The Dash,4.4,"{'type': 'Point', 'coordinates': [-3.7006417, 40.4334982]}","C/ de Murillo, 5, 28010 Madrid, Spain",2.0,drinks
+11,James Joyce Irish Pub Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.691314, 40.419919]}","Calle de Alcalá, 59, 28014 Madrid, Spain",2.0,drinks
+12,Comité Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.717874, 40.4273806]}","Calle de Quintana, 17, 28008 Madrid, Spain",,drinks
+13,Inpass Café Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.702741, 40.419452]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",2.0,drinks
+14,La Terraza del Urban,4.4,"{'type': 'Point', 'coordinates': [-3.698698, 40.416282]}","Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",3.0,drinks
+15,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,drinks
+16,Bee Beer. Craft Beers & Cheeses,4.6,"{'type': 'Point', 'coordinates': [-3.69692, 40.421978]}","Calle de Augusto Figueroa, 30, 28004 Madrid, Spain",2.0,drinks
+17,Ficus Bar,4.7,"{'type': 'Point', 'coordinates': [-3.694985, 40.4236519]}","Calle de Santo Tomé, 8, 28004 Madrid, Spain",2.0,drinks
+18,El miniBAR,4.7,"{'type': 'Point', 'coordinates': [-3.7092101, 40.4163072]}","C/ del Mesón de Paños, 1, 28013 Madrid, Spain",1.0,drinks
+19,Macera Taller Bar,4.4,"{'type': 'Point', 'coordinates': [-3.698088, 40.426179]}","Calle de San Mateo, 21, 28004 Madrid, Spain",2.0,drinks
+20,Gil's Cocktail Bar,5.0,"{'type': 'Point', 'coordinates': [-3.696188, 40.4407851]}","Calle de Modesto Lafuente, 23, 28003 Madrid, Spain",,drinks
+21,Wanderlust Bar,4.1,"{'type': 'Point', 'coordinates': [-3.7091132, 40.4168279]}","Calle del Bonetillo, 14, 28013 Madrid, Spain",1.0,drinks
+22,Hopper,4.3,"{'type': 'Point', 'coordinates': [-3.7102615, 40.4119537]}","Calle de la Cava Baja, 40, 28005 Madrid, Spain",2.0,drinks
+23,Terraza Collins,4.4,"{'type': 'Point', 'coordinates': [-3.71322, 40.413366]}","3, Calle de Caños Viejos, 28005 Madrid, Spain",2.0,drinks
+24,Gorila Malasaña,4.3,"{'type': 'Point', 'coordinates': [-3.702825, 40.423275]}","C/ Corredera Baja de San Pablo, 47, 28004 Madrid, Spain",1.0,drinks
+25,Viva Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.6998424, 40.4151864]}","Calle de Manuel Fernández y González, nº 7, 28014 Madrid, Spain",,drinks
+26,Coco Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7047968, 40.4255861]}","Calle del Espíritu Santo, 36, 28004 Madrid, Spain",1.0,drinks
+27,Bátelo Cocktail Bar,4.0,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}","Calle del Infante, 8, 28014 Madrid, Spain",,drinks
+28,OH MY FOOD MADRID,4.0,"{'type': 'Point', 'coordinates': [-3.697111, 40.4199626]}","Calle de las Infantas, 44, 28004 Madrid, Spain",1.0,drinks
+29,La Osita,4.7,"{'type': 'Point', 'coordinates': [-3.7084903, 40.413234]}","Calle de la Cava Baja, 10, 28005 Madrid, Spain",,drinks
+30,Bar Tosstka,4.6,"{'type': 'Point', 'coordinates': [-3.6999272, 40.4221015]}","Calle de Hortaleza, 33, 28004 Madrid, Spain",,drinks
+31,Miranda,3.9,"{'type': 'Point', 'coordinates': [-3.6988841, 40.4136803]}","Calle de las Huertas, 29, 28014 Madrid, Spain",2.0,drinks
+32,Beer Station,4.3,"{'type': 'Point', 'coordinates': [-3.7084798, 40.4196872]}","Cuesta de Sto. Domingo, 22, 28013 Madrid, Spain",2.0,drinks
+33,BOCANEGRA MADRID,3.6,"{'type': 'Point', 'coordinates': [-3.696155999999999, 40.4182919]}","Calle del Marqués de Casa Riera, 1, 28014 Madrid, Spain",1.0,drinks
+34,Gramabar,4.4,"{'type': 'Point', 'coordinates': [-3.7070834, 40.4198112]}","Calle de Preciados, 40, 28013 Madrid, Spain",2.0,drinks
+35,La Terraza de Óscar,4.4,"{'type': 'Point', 'coordinates': [-3.6989814, 40.4206224]}","Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",3.0,drinks
+36,La Santoría,4.9,"{'type': 'Point', 'coordinates': [-3.696250799999999, 40.4135922]}","Calle de Lope de Vega, 30, 28014 Madrid, Spain",,drinks
+37,Iguazu Cocktails Club,4.4,"{'type': 'Point', 'coordinates': [-3.7020168, 40.4514566]}","Calle de Teruel, 16, 28020 Madrid, Spain",1.0,drinks
+38,Baton Rouge Cocktail Bar,4.5,"{'type': 'Point', 'coordinates': [-3.7017675, 40.4158661]}","Calle de la Victoria, 8, 28012 Madrid, Spain",2.0,drinks
+39,Bar Viaducto,4.4,"{'type': 'Point', 'coordinates': [-3.7133414, 40.4130197]}","Calle de la Moreria, 11, 28005 Madrid, Spain",1.0,drinks
+40,Revoltosa Plaza del Rey,4.0,"{'type': 'Point', 'coordinates': [-3.695906, 40.4204472]}","Plaza del Rey, 4, 28004 Madrid, Spain",1.0,drinks
+41,Rosa Negra Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.6990401, 40.4138325]}","Calle del León, 16, 28014 Madrid, Spain",1.0,drinks
+42,Cometapas - Tapas en Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.72473, 40.38269]}","Plaza de Coímbra, 4, 28025 Madrid, Spain",1.0,drinks
+43,Hibou Shishas & Cocktails,4.5,"{'type': 'Point', 'coordinates': [-3.605601000000001, 40.3791519]}","C. Fuentespina, 21, 28031 Madrid, Spain",2.0,drinks
+44,Boyberry Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7022954, 40.4207073]}","Calle de Valverde, 3, 28004 Madrid, Spain",,drinks
+45,Wacamole Food & Drink,4.5,"{'type': 'Point', 'coordinates': [-3.70071, 40.4184537]}","Calle de la Aduana, 25, 28013 Madrid, Spain",1.0,drinks
+46,Cafe Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.709223799999999, 40.4166411]}","C/ del Mesón de Paños, 6, 28013 Madrid, Spain",2.0,drinks
+47,La Musa Latina,4.2,"{'type': 'Point', 'coordinates': [-3.7120085, 40.4127847]}","Costanilla de San Andrés, 12, 28005 Madrid, Spain",2.0,drinks
+48,NEXT LEVEL BAR Arcade,4.4,"{'type': 'Point', 'coordinates': [-3.705281, 40.4212314]}","Calle de Tudescos, 4, bajo, 28004 Madrid, Spain",1.0,drinks
+49,Cereal Hunters Café,4.5,"{'type': 'Point', 'coordinates': [-3.700732599999999, 40.4205672]}","Calle de la Reina, 1, 28004 Madrid, Spain",1.0,drinks
+50,Cervecería Deportiva Sports Bar,3.6,"{'type': 'Point', 'coordinates': [-3.7076544, 40.4195096]}","Calle de las Veneras, 7, 28013 Madrid, Spain",1.0,drinks
+51,Amargo place to be,4.1,"{'type': 'Point', 'coordinates': [-3.7037197, 40.422686]}","Calle del Pez, 2, 28004 Madrid, Spain",2.0,drinks
+52,Bar Cock,4.1,"{'type': 'Point', 'coordinates': [-3.698842, 40.419881]}","Calle de la Reina, 16, 28004 Madrid, Spain",2.0,drinks
+53,Terraza Cibeles,3.7,"{'type': 'Point', 'coordinates': [-3.6921521, 40.4189339]}","Plaza Cibeles, 1, 28014 Madrid, Spain",3.0,drinks
+54,La Taberna De Mi Abuelo,4.1,"{'type': 'Point', 'coordinates': [-3.7048606, 40.4019629]}","C. de Moratines, 30, 28005 Madrid, Spain",1.0,drinks
+55,Taberna Deportes Madrid,3.5,"{'type': 'Point', 'coordinates': [-3.7093718, 40.4196002]}","28013 Madrid, Spain",,drinks
+56,The Caravan Cocktail Bar,4.6,"{'type': 'Point', 'coordinates': [-3.710841, 40.4131818]}","Calle del Príncipe de Anglona, 3, 28005 Madrid, Spain",1.0,drinks
+57,La Casa del Abuelo,3.9,"{'type': 'Point', 'coordinates': [-3.701754, 40.4157387]}","Calle de la Victoria, 12, 28012 Madrid, Spain",2.0,drinks
+58,Sahuaro Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7070934, 40.4111597]}","Plaza de Cascorro, 2, 28005 Madrid, Spain",2.0,drinks
+59,Santamaría Coctelería,4.7,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4213371]}","Calle de la Ballesta, 6, 28004 Madrid, Spain",,drinks

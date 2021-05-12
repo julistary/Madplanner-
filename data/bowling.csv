@@ -1,21 +1,21 @@
-,name,rating,location,address,place
-0,Bowling Chamartín,4.2,"{'type': 'Point', 'coordinates': [-3.6828952, 40.4711234]}","Estación de Chamartín, s / n, 28036 Madrid, Spain",bowling
-1,Bowling La Ermita,4.0,"{'type': 'Point', 'coordinates': [-3.7258695, 40.4070667]}","Calle Sepúlveda, 3, 28011 Madrid, Spain",bowling
-2,Bowling Ilusiona Plenilunio,4.3,"{'type': 'Point', 'coordinates': [-3.586825600000001, 40.4475017]}","C.C. Plenilunio, Calle de Aracne, 3, 28022 Madrid, Spain",bowling
-3,CityPlay,4.1,"{'type': 'Point', 'coordinates': [-3.636201, 40.463136]}","Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",bowling
-4,The City,3.9,"{'type': 'Point', 'coordinates': [-3.6378702, 40.5310524]}","Centro de Ocio Heron Diversia, Av. de Bruselas, 23, 28108 Alcobendas, Madrid, Spain",bowling
-5,Bowling Sur,3.6,"{'type': 'Point', 'coordinates': [-3.7335479, 40.3383091]}","Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid, Spain",bowling
-6,Ilusiona Diversia,4.2,"{'type': 'Point', 'coordinates': [-3.6376404, 40.5310091]}","Av. de Bruselas, 21, Local 23B, 28108 Alcobendas, Madrid, Spain",bowling
-7,Bowling Ilusiona Islazul,4.4,"{'type': 'Point', 'coordinates': [-3.7385112, 40.3630408]}","Centro Comercial Isla Azul, Calle Calderilla, 1, 28054 Madrid, Spain",bowling
-8,La Ermita Centro Comercial. Street Food,3.7,"{'type': 'Point', 'coordinates': [-3.724733899999999, 40.4067649]}","Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",bowling
-9,"Bolo 11, Tienda de equipación y material para el bowling",4.7,"{'type': 'Point', 'coordinates': [-3.6742827, 40.4430684]}","Calle de Luis Cabrera, 58, 28002 Madrid, Spain",bowling
-10,Ozone X-Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.847202, 40.3396683]}","Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",bowling
-11,Planet Bowling,0.0,"{'type': 'Point', 'coordinates': [-3.8319554, 40.3583075]}","Av. San Martín de Valdeiglesias, 24, 28922 Madrid, Spain",bowling
-12,Bowling Park,4.1,"{'type': 'Point', 'coordinates': [-3.4798106, 40.4776459]}","Ctra. Ajalvir Centro Comerci, 28850 Torrejón de Ardoz, Madrid, Spain",bowling
-13,Bowling TresAguas,4.2,"{'type': 'Point', 'coordinates': [-3.8331793, 40.3585139]}","Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid, Spain",bowling
-14,Real Bowling De Olías S L,3.3,"{'type': 'Point', 'coordinates': [-3.6102891, 40.5659324]}","Calle Julio Rey Pastor, 1, 28702 San Sebastián de los Reyes, Madrid, Spain",bowling
-15,Planet Bowling,1.0,"{'type': 'Point', 'coordinates': [-3.6257381, 40.5346461]}","Calle de Anabel Segura, 7, 28108 Alcobendas, Madrid, Spain",bowling
-16,Federación Española de Bolos,0.0,"{'type': 'Point', 'coordinates': [-3.675106299999999, 40.4131898]}","Calle Pío Baroja, 10 - 3ª planta, 28009 Madrid, Spain",bowling
-17,Omagic Bowling,4.0,"{'type': 'Point', 'coordinates': [-3.5261449, 40.3372091]}","Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",bowling
-18,Bolera Alegra,3.5,"{'type': 'Point', 'coordinates': [-3.610121, 40.5661105]}","Calle Julio Rey Pastor, 6, 28702 San Sebastián de los Reyes, Madrid, Spain",bowling
-19,Omagic,3.9,"{'type': 'Point', 'coordinates': [-3.6104906, 40.5664298]}","Calle Julio Rey Pastor, s/n, 28702 San Sebastián de los Reyes, Madrid, Spain",bowling
+,name,rating,location,address,price_level,place
+0,Bowling Chamartín,4.2,"{'type': 'Point', 'coordinates': [-3.6828952, 40.4711234]}","Estación de Chamartín, s / n, 28036 Madrid, Spain",,bowling
+1,Bowling La Ermita,4.0,"{'type': 'Point', 'coordinates': [-3.7258695, 40.4070667]}","Calle Sepúlveda, 3, 28011 Madrid, Spain",,bowling
+2,Bowling Ilusiona Plenilunio,4.3,"{'type': 'Point', 'coordinates': [-3.586825600000001, 40.4475017]}","C.C. Plenilunio, Calle de Aracne, 3, 28022 Madrid, Spain",,bowling
+3,CityPlay,4.1,"{'type': 'Point', 'coordinates': [-3.636201, 40.463136]}","Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",,bowling
+4,The City,3.9,"{'type': 'Point', 'coordinates': [-3.6378702, 40.5310524]}","Centro de Ocio Heron Diversia, Av. de Bruselas, 23, 28108 Alcobendas, Madrid, Spain",,bowling
+5,Bowling Sur,3.6,"{'type': 'Point', 'coordinates': [-3.7335479, 40.3383091]}","Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid, Spain",,bowling
+6,Ilusiona Diversia,4.2,"{'type': 'Point', 'coordinates': [-3.6376404, 40.5310091]}","Av. de Bruselas, 21, Local 23B, 28108 Alcobendas, Madrid, Spain",,bowling
+7,Bowling Ilusiona Islazul,4.4,"{'type': 'Point', 'coordinates': [-3.7385112, 40.3630408]}","Centro Comercial Isla Azul, Calle Calderilla, 1, 28054 Madrid, Spain",,bowling
+8,La Ermita Centro Comercial. Street Food,3.7,"{'type': 'Point', 'coordinates': [-3.724733899999999, 40.4067649]}","Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",,bowling
+9,"Bolo 11, Tienda de equipación y material para el bowling",4.7,"{'type': 'Point', 'coordinates': [-3.6742827, 40.4430684]}","Calle de Luis Cabrera, 58, 28002 Madrid, Spain",,bowling
+10,Ozone X-Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.847202, 40.3396683]}","Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",,bowling
+11,Planet Bowling,0.0,"{'type': 'Point', 'coordinates': [-3.8319554, 40.3583075]}","Av. San Martín de Valdeiglesias, 24, 28922 Madrid, Spain",,bowling
+12,Bowling Park,4.1,"{'type': 'Point', 'coordinates': [-3.4798106, 40.4776459]}","Ctra. Ajalvir Centro Comerci, 28850 Torrejón de Ardoz, Madrid, Spain",,bowling
+13,Bowling TresAguas,4.2,"{'type': 'Point', 'coordinates': [-3.8331793, 40.3585139]}","Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid, Spain",,bowling
+14,Real Bowling De Olías S L,3.3,"{'type': 'Point', 'coordinates': [-3.6102891, 40.5659324]}","Calle Julio Rey Pastor, 1, 28702 San Sebastián de los Reyes, Madrid, Spain",,bowling
+15,Planet Bowling,1.0,"{'type': 'Point', 'coordinates': [-3.6257381, 40.5346461]}","Calle de Anabel Segura, 7, 28108 Alcobendas, Madrid, Spain",,bowling
+16,Federación Española de Bolos,0.0,"{'type': 'Point', 'coordinates': [-3.675106299999999, 40.4131898]}","Calle Pío Baroja, 10 - 3ª planta, 28009 Madrid, Spain",,bowling
+17,Omagic Bowling,4.0,"{'type': 'Point', 'coordinates': [-3.5261449, 40.3372091]}","Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",,bowling
+18,Bolera Alegra,3.5,"{'type': 'Point', 'coordinates': [-3.610121, 40.5661105]}","Calle Julio Rey Pastor, 6, 28702 San Sebastián de los Reyes, Madrid, Spain",,bowling
+19,Omagic,3.9,"{'type': 'Point', 'coordinates': [-3.6104906, 40.5664298]}","Calle Julio Rey Pastor, s/n, 28702 San Sebastián de los Reyes, Madrid, Spain",,bowling
