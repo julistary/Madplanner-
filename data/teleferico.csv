@@ -1,0 +1,7 @@
+,name,rating,location,address,price_level,place
+0,Teleférico en Rosales,3.7,"{'type': 'Point', 'coordinates': [-3.7217838, 40.427922]}","Paseo del Pintor Rosales, s/n, 28008 Madrid, Spain",,teleferico
+1,Teleferico de Madrid - Country House Station,4.2,"{'type': 'Point', 'coordinates': [-3.748729, 40.419765]}","Casa de campo, Calle Cerro Garabita, s/n, 28011 Madrid, Spain",,teleferico
+2,Góra Ebbot,0.0,"{'type': 'Point', 'coordinates': [-3.74922, 40.46366700000001]}","28023 Madrid, Spain",,teleferico
+3,Parque Teleferico Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7478212, 40.4198059]}","Camino del Robledal, 2, 28011 Madrid, Spain",,teleferico
+4,Pintor Rosales - Teleférico,4.7,"{'type': 'Point', 'coordinates': [-3.72228, 40.42941]}","28008 Madrid, Spain",,teleferico
+5,Bar - Teleferico Casa de Campo,4.3,"{'type': 'Point', 'coordinates': [-3.7489473, 40.41968869999999]}","Estación Teleférico, 28011 Madrid, Spain",,teleferico

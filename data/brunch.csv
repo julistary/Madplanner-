@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Brunch Club,4.5,"{'type': 'Point', 'coordinates': [-3.7028222, 40.4216]}","Calle del Barco, 15, 28004 Madrid, Spain",2.0,brunch
+1,Café Federal,4.1,"{'type': 'Point', 'coordinates': [-3.7093012, 40.4270304]}","Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,brunch
+2,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"{'type': 'Point', 'coordinates': [-3.7127786, 40.4343186]}","C. de Fernando el Católico, 50, 28015 Madrid, Spain",,brunch
+3,Carmencita Bar,4.4,"{'type': 'Point', 'coordinates': [-3.7074478, 40.4260776]}","Calle de San Vicente Ferrer, 51, 28015 Madrid, Spain",1.0,brunch
+4,PANELA & CO,3.9,"{'type': 'Point', 'coordinates': [-3.6872463, 40.436905]}","Calle de López de Hoyos, 10, 28006 Madrid, Spain",2.0,brunch
+5,Bendita Locura Coffee & Dreams,4.3,"{'type': 'Point', 'coordinates': [-3.6795414, 40.435133]}","Calle del Príncipe de Vergara, 73, 28006 Madrid, Spain",2.0,brunch
+6,Zenith Brunch & Cocktails,4.5,"{'type': 'Point', 'coordinates': [-3.7016131, 40.422371]}","Calle de Valverde, 28, 28004 Madrid, Spain",2.0,brunch
+7,MÜR Café,4.3,"{'type': 'Point', 'coordinates': [-3.7121696, 40.4256968]}","Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,brunch
+8,El Arquibar,4.6,"{'type': 'Point', 'coordinates': [-3.7099865, 40.4258284]}","Travesía de Conde Duque, 5, 28015 Madrid, Spain",,brunch
+9,La Gringa,4.5,"{'type': 'Point', 'coordinates': [-3.7079049, 40.4261241]}","Calle de San Vicente Ferrer, 57, 28015 Madrid, Spain",1.0,brunch
+10,MartinaCocina,4.3,"{'type': 'Point', 'coordinates': [-3.7070334, 40.409868]}","Plaza de Cascorro, 11, 28005 Madrid, Spain",2.0,brunch
+11,La Rollerie,4.1,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}","C. de Atocha, 20, 28012 Madrid, Spain",2.0,brunch
+12,Federal Café,4.2,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}","Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,brunch
+13,Restaurante PINALE,4.5,"{'type': 'Point', 'coordinates': [-3.678641, 40.426467]}","Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",1.0,brunch
+14,"Roll Madrid Restaurante, Brunch Gourmet, Cerveza Artesanal de Grifo",4.0,"{'type': 'Point', 'coordinates': [-3.7096294, 40.4271057]}","Calle de Amaniel, 23, 28015 Madrid, Spain",2.0,brunch
+15,EatMyTrip Brunch & Cocktails Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.7134265, 40.4130179]}","Calle de la Moreria, 11, 28005 Madrid, Spain",2.0,brunch
+16,La Rollerie,4.3,"{'type': 'Point', 'coordinates': [-3.707106599999999, 40.4165119]}","Calle Mayor, 24, 28013 Madrid, Spain",1.0,brunch
+17,Brunch by Café Oliver El Columpio,3.8,"{'type': 'Point', 'coordinates': [-3.6943358, 40.4305871]}","Calle de Caracas, 10, 28010 Madrid, Spain",,brunch
+18,HanSo Café,4.4,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}","Calle del Pez, 20, 28004 Madrid, Spain",1.0,brunch
+19,La Rollerie,4.2,"{'type': 'Point', 'coordinates': [-3.6995404, 40.4164994]}","Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,brunch
+20,La Bicicleta,4.1,"{'type': 'Point', 'coordinates': [-3.7022328, 40.4238106]}","Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,brunch
+21,La Rollerie,4.2,"{'type': 'Point', 'coordinates': [-3.7130097, 40.4394752]}","Calle de Guzmán el Bueno, 105, 28003 Madrid, Spain",2.0,brunch
+22,Nomade Cafe,4.4,"{'type': 'Point', 'coordinates': [-3.6993613, 40.4107147]}","Calle de los Tres Peces, 22, 28012 Madrid, Spain",1.0,brunch
+23,A B O L E A,4.2,"{'type': 'Point', 'coordinates': [-3.7041016, 40.4300975]}","Calle de Sandoval, 10, 12, 28010 Madrid, Spain",2.0,brunch
+24,Café Comercial,4.1,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}","Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,brunch
+25,Pum Pum Café,4.3,"{'type': 'Point', 'coordinates': [-3.701955, 40.4080621]}","Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,brunch
+26,Ojalá,4.2,"{'type': 'Point', 'coordinates': [-3.703991, 40.42554]}","Calle de San Andrés, 1, 28004 Madrid, Spain",2.0,brunch
+27,El 17 de Moreto,4.0,"{'type': 'Point', 'coordinates': [-3.690207199999999, 40.412917]}","Calle de Moreto, 17, 28014 Madrid, Spain",2.0,brunch
+28,Hielo y Carbon,4.3,"{'type': 'Point', 'coordinates': [-3.703813, 40.4199686]}","C/ Gran Vía, 31, 28013 Madrid, Spain",,brunch
+29,Le Pain Quotidien,3.8,"{'type': 'Point', 'coordinates': [-3.691862199999999, 40.4578849]}","Calle del Poeta Joan Maragall, 26, 28020 Madrid, Spain",2.0,brunch
+30,La Desayuneria,4.6,"{'type': 'Point', 'coordinates': [-3.6982297, 40.4206695]}","Calle de Barbieri, 4, 28004 Madrid, Spain",,brunch
+31,Diurno,4.2,"{'type': 'Point', 'coordinates': [-3.6972032, 40.421318]}","Calle de San Marcos, 37, 28004 Madrid, Spain",2.0,brunch
+32,The Fix - Specialty Coffee,4.6,"{'type': 'Point', 'coordinates': [-3.715002299999999, 40.425718]}","Calle de Luisa Fernanda, 15, 28008 Madrid, Spain",2.0,brunch
+33,Ganz,4.4,"{'type': 'Point', 'coordinates': [-3.6946837, 40.4111594]}","Calle de Almadén, 9, 28014 Madrid, Spain",2.0,brunch
+34,The Little Big Cafe Fernández de Los Ríos,4.6,"{'type': 'Point', 'coordinates': [-3.712739, 40.435222]}","Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,brunch
+35,Plenti,4.7,"{'type': 'Point', 'coordinates': [-3.6901309, 40.413013]}","Calle de Moreto, 17, 28014 Madrid, Spain",1.0,brunch
+36,Mafrens,4.7,"{'type': 'Point', 'coordinates': [-3.7074432, 40.4099958]}","Plaza de Cascorro, 12, 28005 Madrid, Spain",,brunch
+37,Maricastaña,4.2,"{'type': 'Point', 'coordinates': [-3.7041304, 40.4220771]}","Corredera Baja de San Pablo, 12, 28004 Madrid, Spain",2.0,brunch
+38,Casa Suecia,4.4,"{'type': 'Point', 'coordinates': [-3.6962677, 40.4179018]}","y roof top, Calle del Marqués de Casa Riera, 4, Planta baja, 28014 Madrid, Spain",,brunch
+39,Frida,3.8,"{'type': 'Point', 'coordinates': [-3.6970391, 40.4239997]}","Calle San Gregorio, 8, 28004 Madrid, Spain",2.0,brunch
+40,Vacaciones Cocktail Bar,4.1,"{'type': 'Point', 'coordinates': [-3.703584, 40.4253189]}","Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,brunch
+41,NuBel,4.1,"{'type': 'Point', 'coordinates': [-3.6956103, 40.4072563]}","Museo Reina Sofía, Calle de Argumosa, 43, 28012 Madrid, Spain",3.0,brunch
+42,Lamucca del Carmen,4.2,"{'type': 'Point', 'coordinates': [-3.7029002, 40.4189987]}","Plaza del Carmen, 5, 28013 Madrid, Spain",,brunch
+43,Restaurante DCorazon,4.5,"{'type': 'Point', 'coordinates': [-3.7073981, 40.4157838]}","Plaza Mayor, 30, 28012 Madrid, Spain",,brunch
+44,El Jardín de Orfila by Mario Sandoval,4.4,"{'type': 'Point', 'coordinates': [-3.693211, 40.427319]}","Calle de Orfila, 6, 28010 Madrid, Spain",,brunch
+45,Le Pain Quotidien,3.9,"{'type': 'Point', 'coordinates': [-3.6833197, 40.43264]}","Calle de Velázquez, 92, 28006 Madrid, Spain",2.0,brunch
+46,Restaurante La Gamella,4.3,"{'type': 'Point', 'coordinates': [-3.6890525, 40.4189281]}","Calle de Alfonso XII, 4, 28014 Madrid, Spain",2.0,brunch
+47,Brunch by Café Oliver Martinete,0.0,"{'type': 'Point', 'coordinates': [-3.6788623, 40.42991800000001]}","Pl. del Marqués de Salamanca, 9, 28006 Madrid, Spain",,brunch
+48,Misión Café,4.5,"{'type': 'Point', 'coordinates': [-3.7087479, 40.4242402]}","Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,brunch
+49,Murillo Café,3.9,"{'type': 'Point', 'coordinates': [-3.6913271, 40.4130594]}","Calle de Ruiz de Alarcón, 27, 28014 Madrid, Spain",2.0,brunch
+50,Marieta,4.0,"{'type': 'Point', 'coordinates': [-3.6873722, 40.4335875]}","Paseo de la Castellana, 44, 28046 Madrid, Spain",2.0,brunch
+51,Superchulo Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7032607, 40.4285343]}","C. de Manuela Malasaña, 11, 28004 Madrid, Spain",2.0,brunch
+52,Lamucca de Fuencarral (Organik ⚡Parriya),4.3,"{'type': 'Point', 'coordinates': [-3.7017083, 40.427186]}","Calle de Fuencarral, 95, 28004 Madrid, Spain",2.0,brunch
+53,Grama Lounge,4.2,"{'type': 'Point', 'coordinates': [-3.7016911, 40.41549029999999]}","Calle de la Cruz, 19, 28012 Madrid, Spain",2.0,brunch
+54,OH MY FOOD MADRID,4.0,"{'type': 'Point', 'coordinates': [-3.697111, 40.4199626]}","Calle de las Infantas, 44, 28004 Madrid, Spain",1.0,brunch
+55,Pipa & Co,3.8,"{'type': 'Point', 'coordinates': [-3.6820533, 40.4588601]}","Paseo de la Habana, 105, 28036 Madrid, Spain",2.0,brunch
+56,Adorado Bar Lavapies,4.4,"{'type': 'Point', 'coordinates': [-3.7046934, 40.4106219]}","Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",,brunch
+57,Real Talent Café,4.6,"{'type': 'Point', 'coordinates': [-3.710334, 40.41679]}","Calle de la Unión, 1, 28013 Madrid, Spain",1.0,brunch
+58,La Rollerie La Terrasse,4.2,"{'type': 'Point', 'coordinates': [-3.669946, 40.4164161]}","C/ del Alcalde Sainz de Baranda, 64, 28009 Madrid, Spain",2.0,brunch
+59,El Escondite de Villanueva,4.1,"{'type': 'Point', 'coordinates': [-3.685975, 40.4223694]}","Calle de Villanueva, 26, 28001 Madrid, Spain",2.0,brunch

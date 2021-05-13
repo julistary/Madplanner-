@@ -1,0 +1,18 @@
+,name,rating,location,address,price_level,place
+0,Carlos Sainz Karting Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7270776, 40.4065776]}","Calle Sepúlveda, 3, 28011 Madrid, Spain",,karts
+1,Karting Club Paracuellos,4.5,"{'type': 'Point', 'coordinates': [-3.5460779, 40.5250968]}","Calle de la Ronda de la Fuente, 2850K, 28860 Paracuellos de Jarama, Madrid, Spain",,karts
+2,Karting Rivas,4.5,"{'type': 'Point', 'coordinates': [-3.5353365, 40.3471298]}","Calle de la Fundición, 89, 28522 Rivas-Vaciamadrid, Madrid, Spain",,karts
+3,Icekart karting madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6370595, 40.4632213]}","Calle de Silvano, 77, 28043 Madrid, Spain",,karts
+4,Carlos Sainz Center Las Rozas,4.3,"{'type': 'Point', 'coordinates': [-3.8940375, 40.5007582]}","Parque Empresarial Európolis, Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",,karts
+5,Outdoor Karting Formula Zero,4.3,"{'type': 'Point', 'coordinates': [-3.773593099999999, 40.3000642]}","Calle Verano, 4A, 28914 Leganés, Madrid, Spain",,karts
+6,Jarama Karting,4.4,"{'type': 'Point', 'coordinates': [-3.583227, 40.613604]}","Paseo del Circuito, 28707 Ciudalcampo, Madrid, Spain",,karts
+7,"Henakart, karts madrid",4.6,"{'type': 'Point', 'coordinates': [-3.444291, 40.4277338]}","km 3,600 Carretera de Torrejon a Loeches, 28830, Madrid, Spain",,karts
+8,Karting Asupark,4.0,"{'type': 'Point', 'coordinates': [-3.90209, 40.3920774]}","Ctra. de Móstoles a Villaviciosa, 0, 28670 Villaviciosa de Odón, Madrid, Spain",,karts
+9,Kids Área Somontes,4.6,"{'type': 'Point', 'coordinates': [-3.7560045, 40.49044689999999]}","Complejo Deportivo Somontes, Carr Madrid-El Pardo, Km 3, 4, 28035 Madrid, Spain",,karts
+10,Karting Madrid Angel Burgueño,4.6,"{'type': 'Point', 'coordinates': [-3.5999868, 40.7561648]}","Vía de Servicio A-1, salida 47, 28723 Pedrezuela, Madrid, Spain",,karts
+11,Mini Quad,0.0,"{'type': 'Point', 'coordinates': [-3.4533682, 40.4474068]}","Paseo de los Cipreses, 764, 28850 Torrejón de Ardoz, Madrid, Spain",,karts
+12,Karting,0.0,"{'type': 'Point', 'coordinates': [-3.7266508, 40.4067582]}","Calle Sepúlveda, 3, 28011 Madrid, Spain",,karts
+13,Karting,0.0,"{'type': 'Point', 'coordinates': [-3.4442786, 40.4292048]}","M-206, 28830 San Fernando de Henares, Madrid, Spain",,karts
+14,Karting Club Los Santos,4.5,"{'type': 'Point', 'coordinates': [-3.2502384, 40.4942436]}","Calle del, Calle Canal de Isabel II, KM 1, 28817 Los Santos de la Humosa, Madrid, Spain",,karts
+15,karting Pinto,5.0,"{'type': 'Point', 'coordinates': [-3.6895946, 40.2457853]}","Nacional, A4 km 20, 28320 Pinto, Madrid, Spain",,karts
+16,Circuito Montoya,3.7,"{'type': 'Point', 'coordinates': [-3.468126, 40.213854]}","M-311, Km.9, 4, 28530 Morata de Tajuña, Madrid, Spain",,karts
