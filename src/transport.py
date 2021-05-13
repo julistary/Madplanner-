@@ -20,6 +20,8 @@ def limpito(df,name):
     df["geometry"] = geometry
     df["type"] = name
 
+    df = df.rename(columns={"stop_lat": "latitude", "stop_lon": "longitude"})
+
     return df
 
 def limpito_parking(df):
@@ -37,13 +39,27 @@ def limpito_parking(df):
      'COORDENADA-X', 'COORDENADA-Y', 'HORARIO', 'TELEFONO', 'FAX', 
      'EMAIL', 'TIPO', 'Unnamed: 30'],axis=1,inplace=True)
 
-    latitude = list(df.LATITUD)
-    longitude = list(df.LONGITUD)
+    lat = list(df.LATITUD)
+    long= list(df.LONGITUD)
     geometry = []
+    latitude = []
+    longitude = []
+
+
+    for la,lo in zip(lat,long):
+        latitude.append(float(la[:6]))
+        longitude.append(float(lo[:6]))
+
+
     for lat,lon in zip(latitude, longitude):
         geometry.append({"type": "Point", "coordinates": [lat , lon]})
 
     df["geometry"] = geometry
     df["type"] = "parking"
+    df["LATITUD"] = latitude
+    df["LONGITUD"] = longitude
+
+
+    df = df.rename(columns={"LATITUD": "latitude", "LONGITUD": "longitude"})
 
     return df 
