@@ -85,8 +85,16 @@ def latlon(df):
     longitude = []
     for c in list(df["location"]):
         l = (c.split("["))[1].split(",")[0]
-        longitude.append((c.split("["))[1].split(",")[0])
-        latitude.append((c.split(l + ", "))[1].split("]")[0])
+        longitude.append(float((c.split("["))[1].split(",")[0]))
+        latitude.append(float((c.split(l + ", "))[1].split("]")[0]))
     df["latitude"] = latitude
     df["longitude"] = longitude
+    
+    df.drop(["location"],axis=1,inplace=True)
+
+    geometry = []
+    for lat,lon in zip(latitude, longitude):
+        geometry.append({"type": "Point", "coordinates": [lat , lon]})
+    
+    df["geometry"] = geometry
     return df

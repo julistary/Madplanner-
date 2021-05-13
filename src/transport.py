@@ -1,6 +1,6 @@
 import pandas as pd
 
-def limpito(df):
+def limpito(df,name):
     """
     Cleans the dataframe  
     Args:
@@ -18,6 +18,7 @@ def limpito(df):
         geometry.append({"type": "Point", "coordinates": [lat , lon]})
 
     df["geometry"] = geometry
+    df["type"] = name
 
     return df
 
@@ -43,5 +44,6 @@ def limpito_parking(df):
         geometry.append({"type": "Point", "coordinates": [lat , lon]})
 
     df["geometry"] = geometry
+    df["type"] = "parking"
 
     return df 
