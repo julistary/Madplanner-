@@ -1,0 +1,50 @@
+,name,rating,location,address,price_level,place
+0,Samsa Club,4.2,"{'type': 'Point', 'coordinates': [-3.7866342, 40.4446826]}","Av. de Europa, 27, 28023 Pozuelo de Alarcón, Madrid, Spain",2.0,samba club
+1,Tempo Club,4.0,"{'type': 'Point', 'coordinates': [-3.711892, 40.425275]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",,samba club
+2,Nightlife Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6845998, 40.4278501]}","Cl. de Ayala, 27, 28001 Madrid, Spain",,samba club
+3,Maravillas Club,3.8,"{'type': 'Point', 'coordinates': [-3.7043747, 40.4257544]}","Calle de San Vicente Ferrer, 33, 28004 Madrid, Spain",2.0,samba club
+4,Planet Club,4.6,"{'type': 'Point', 'coordinates': [-3.7005493, 40.4152145]}","C. del Príncipe, 20, 28012 Madrid, Spain",,samba club
+5,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,samba club
+6,Club Malasaña,4.1,"{'type': 'Point', 'coordinates': [-3.703169699999999, 40.42565099999999]}","Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain",,samba club
+7,Goya Social Club,3.6,"{'type': 'Point', 'coordinates': [-3.682990999999999, 40.425301]}","Calle de Goya, 43, 28001 Madrid, Spain",2.0,samba club
+8,Nomad Club,4.0,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}","Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,samba club
+9,Commo,3.7,"{'type': 'Point', 'coordinates': [-3.702391, 40.41526229999999]}","Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,samba club
+10,Ya'sta Club,3.7,"{'type': 'Point', 'coordinates': [-3.7019926, 40.4211199]}","Calle de Valverde, 10, 28004 Madrid, Spain",,samba club
+11,Kapital,3.8,"{'type': 'Point', 'coordinates': [-3.6931083, 40.4097611]}","C. de Atocha, 125, 28012 Madrid, Spain",3.0,samba club
+12,Panda Club Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.6959826, 40.4481601]}","Calle de Hernani, 75, 28020 Madrid, Spain",,samba club
+13,Charada Club de Baile,3.6,"{'type': 'Point', 'coordinates': [-3.709616, 40.420617]}","Calle de la Bola, 13, 28013 Madrid, Spain",,samba club
+14,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",1.0,samba club
+15,american club of madrid,0.0,"{'type': 'Point', 'coordinates': [-3.6861546, 40.4353049]}","Calle de Serrano, 110, 28006 Madrid, Spain",,samba club
+16,OPIUM CLUB,3.8,"{'type': 'Point', 'coordinates': [-3.692209, 40.437878]}","Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,samba club
+17,Joy Eslava Madrid,3.8,"{'type': 'Point', 'coordinates': [-3.7065661, 40.4171637]}","Calle del Arenal, 11, 28013 Madrid, Spain",3.0,samba club
+18,CHA CHÁ The Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6983705, 40.4173993]}","Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,samba club
+19,Clamores,4.2,"{'type': 'Point', 'coordinates': [-3.7009577, 40.431118]}","Calle de Alburquerque, 14, 28010 Madrid, Spain",,samba club
+20,Sambhad cocktail bar terraza,4.8,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}","Calle Duque de Osuna, 4, 28015 Madrid, Spain",,samba club
+21,Medias Puri,3.9,"{'type': 'Point', 'coordinates': [-3.7034333, 40.41234910000001]}","Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,samba club
+22,Costello club,4.1,"{'type': 'Point', 'coordinates': [-3.700801, 40.41940839999999]}","Calle del Caballero de Gracia, 10, 28013 Madrid, Spain",,samba club
+23,Fucking Monday Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7089062, 40.42110390000001]}","Calle de Isabel la Católica, 6, 28013 Madrid, Spain",,samba club
+24,Gin Club,4.0,"{'type': 'Point', 'coordinates': [-3.698771, 40.419885]}","Calle de la Reina, 16, 28013 Madrid, Spain",2.0,samba club
+25,Barceló Theatre,3.7,"{'type': 'Point', 'coordinates': [-3.699822, 40.42692900000001]}","C. de Barceló, 11, 28004 Madrid, Spain",3.0,samba club
+26,Café Berlín,4.3,"{'type': 'Point', 'coordinates': [-3.707943, 40.4195885]}","C, Costanilla de los Ángeles, 20, 28013 Madrid, Spain",,samba club
+27,Bloco do Baliza,4.8,"{'type': 'Point', 'coordinates': [-3.65486, 40.52992]}","metro: La Granja, Calle de San José Artesano, 7, 28108 Alcobendas, Madrid, Spain",,samba club
+28,Fortuny Restaurant & Club,3.9,"{'type': 'Point', 'coordinates': [-3.6899908, 40.4345348]}","Calle de Fortuny, 34, 28010 Madrid, Spain",3.0,samba club
+29,Cambridge Soho Club,4.1,"{'type': 'Point', 'coordinates': [-3.71184, 40.4225603]}","Plaza de España, 6, 2ª Planta, 28008 Madrid, Spain",2.0,samba club
+30,Nox Club,5.0,"{'type': 'Point', 'coordinates': [-3.710104099999999, 40.4062167]}","Ronda de Toledo, 11, 28005 Madrid, Spain",,samba club
+31,RIO SAMBA SHOW,0.0,"{'type': 'Point', 'coordinates': [-3.8558399, 40.3380265]}","Calle Fuente Cisneros, 68, 28922 Alcorcón, Madrid, Spain",,samba club
+32,Oh My Club Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.6930039, 40.46263829999999]}","Calle de Rosario Pino, 14, 28020 Madrid, Spain",4.0,samba club
+33,Home Club Apartments Madrid SL,4.0,"{'type': 'Point', 'coordinates': [-3.6857979, 40.4265716]}","Calle de Hermosilla, 21, 28001 Madrid, Spain",,samba club
+34,Liberty Supper Club,3.0,"{'type': 'Point', 'coordinates': [-3.678826, 40.4328007]}","Calle de Juan Bravo, 31, 28006 Madrid, Spain",3.0,samba club
+35,Ocean Rock Bar,4.3,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4256298]}","Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",1.0,samba club
+36,Studio11® La Escuela de Baile,4.8,"{'type': 'Point', 'coordinates': [-3.6664831, 40.438095]}","Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",,samba club
+37,Rotary Club de Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6920496, 40.4252675]}","Calle del Marqués de la Ensenada, 16, 28004 Madrid, Spain",,samba club
+38,The American Women’s Club of Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.677905, 40.4554729]}","Plaza de la República del Ecuador, 6, 28016 Madrid, Spain",,samba club
+39,Observatorio de Derechos Humanos Samba Martine,0.0,"{'type': 'Point', 'coordinates': [-3.7015657, 40.4129201]}","Calle de los Cañizares, 3, 28012 Madrid, Spain",,samba club
+40,Lucy In The Sky Club,4.2,"{'type': 'Point', 'coordinates': [-3.7078297, 40.4261175]}","Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",,samba club
+41,Moby Dick,4.1,"{'type': 'Point', 'coordinates': [-3.694041399999999, 40.4544936]}","Av. de Brasil, 5, 28020 Madrid, Spain",2.0,samba club
+42,Brunch Club,4.5,"{'type': 'Point', 'coordinates': [-3.7028222, 40.4216]}","Calle del Barco, 15, 28004 Madrid, Spain",2.0,samba club
+43,ATTACK Fun SX Gay Club,4.2,"{'type': 'Point', 'coordinates': [-3.7018596, 40.4108628]}","Calle del Olivar, 22, 28012 Madrid, Spain",1.0,samba club
+44,Madrid Cricket Club,4.7,"{'type': 'Point', 'coordinates': [-3.7280999, 40.4511382]}","Av. Complutense, 28040 Madrid, Spain",,samba club
+45,Spanish club,4.9,"{'type': 'Point', 'coordinates': [-3.6918303, 40.42907330000001]}","Calle del Monte Esquinza, 28, 28010 Madrid, Spain",,samba club
+46,David Lloyd Aravaca,4.2,"{'type': 'Point', 'coordinates': [-3.76839, 40.47257]}","Calle Vinas de el Pardo, 4, 28023 Madrid, Spain",,samba club
+47,Giglon,3.7,"{'type': 'Point', 'coordinates': [-3.6711453, 40.4064086]}","Av. del Mediterráneo, 44d, 28007 Madrid, Spain",,samba club
+48,Fabrik,4.4,"{'type': 'Point', 'coordinates': [-3.8404861, 40.2654556]}","Av. de la Industria, 82, 28970 Humanes de Madrid, Madrid, Spain",2.0,samba club

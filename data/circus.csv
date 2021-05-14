@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Circus Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.6920005, 40.4161802]}","Plaza de la Lealtad, 2, Planta 4, 28014 Madrid, Spain",,circus
+1,Gran Circo Mundial,3.0,"{'type': 'Point', 'coordinates': [-3.634788, 40.4625587]}","Calle de Silvano, 108, 28043 Madrid, Spain",,circus
+2,Teatro Circo Price,4.5,"{'type': 'Point', 'coordinates': [-3.698592, 40.405985]}","Ronda de Atocha, 35, 28012 Madrid, Spain",,circus
+3,Circo Quiros,4.1,"{'type': 'Point', 'coordinates': [-3.7408384, 40.3642504]}","Calle Treseta, 4, 28054 Madrid, Spain",,circus
+4,Scimmie Volanti II Asociación y escuela de circo de Madrid,5.0,"{'type': 'Point', 'coordinates': [-3.7142046, 40.4718267]}","Calle de Celanova, 2, 28029 Madrid, Spain",,circus
+5,Circus School Carampa,4.4,"{'type': 'Point', 'coordinates': [-3.745821899999999, 40.41519539999999]}","Albergue Juvenil Richard Schirrmann, Camino del Robledal, 2, 28011 Madrid, Spain",,circus
+6,San Mateo Circus,4.5,"{'type': 'Point', 'coordinates': [-3.700117999999999, 40.425048]}","Calle de San Mateo, 6, 28004 Madrid, Spain",2.0,circus
+7,Productores De Sonrisas,4.7,"{'type': 'Point', 'coordinates': [-3.6478582, 40.5326606]}","Carr. de Fuencarral, 44, 28108 Alcobendas, Madrid, Spain",,circus
+8,THE CIRCUS,4.5,"{'type': 'Point', 'coordinates': [-3.7035881, 40.4322805]}","Calle de Fuencarral, 144, 28010 Madrid, Spain",,circus
+9,Escuela de Circo Arte Olimpia,5.0,"{'type': 'Point', 'coordinates': [-3.643541, 40.3758091]}","Calle de Luis I, 31, Nave 1, 28031 Madrid, Spain",,circus
+10,Restaurante Circus Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.686705, 40.4724728]}","Calle Mauricio Ravel, 6, 28046 Madrid, Spain",,circus
+11,Circus Barnamoda,5.0,"{'type': 'Point', 'coordinates': [-3.704522799999999, 40.4138409]}","Calle del Conde de Romanones, 3, 28012 Madrid, Spain",,circus
+12,Circus Events,3.8,"{'type': 'Point', 'coordinates': [-3.7240922, 40.4316749]}","Paseo del Pintor Rosales, 76, 28008 Madrid, Spain",,circus
+13,The Circus Marketing Communication,4.0,"{'type': 'Point', 'coordinates': [-3.6726317, 40.4309352]}","Calle de Padilla, 82, 28006 Madrid, Spain",,circus
+14,Circus Arena,4.3,"{'type': 'Point', 'coordinates': [-3.6564482, 40.3912989]}","Calle Teniente Muñoz Díaz, 21, 28018 Madrid, Spain",,circus
+15,CIRCUS TATTOO,4.8,"{'type': 'Point', 'coordinates': [-3.6944592, 40.4070663]}","28012, Ronda de Atocha, 5, 28012 Madrid, Spain",,circus
+16,ElCircódromo,4.9,"{'type': 'Point', 'coordinates': [-3.8146142, 40.3376546]}","Poligono Urtinsa II, Calle Geológicas, 27, 28922 Alcorcón, Madrid, Spain",,circus
+17,Team All Star,4.9,"{'type': 'Point', 'coordinates': [-3.6965588, 40.3349657]}","Calle Transversal Tercera, 28021 Madrid, Spain",,circus
+18,Sala Charivari Charivari and Circus School,4.6,"{'type': 'Point', 'coordinates': [-3.706748999999999, 40.408517]}","Calle de Fray Ceferino González, 13, 28005 Madrid, Spain",,circus
+19,MAGIC CIRCUS,5.0,"{'type': 'Point', 'coordinates': [-3.7143563, 40.4821238]}","Av. de Betanzos, 91, 28034 Madrid, Spain",,circus
+20,Circus Kids SL,0.0,"{'type': 'Point', 'coordinates': [-3.7085893, 40.43165020000001]}","Calle de Rodríguez San Pedro, 14, 28015 Madrid, Spain",,circus
+21,Circus Park,4.1,"{'type': 'Point', 'coordinates': [-3.7190386, 40.3413093]}","Calle de Domingo Párraga, 84, Nave 16, 28021 Madrid, Spain",,circus
+22,Rock & Roll Circus,3.3,"{'type': 'Point', 'coordinates': [-3.7075688, 40.4190821]}","Calle de las Conchas, 4, 28013 Madrid, Spain",,circus
+23,Circus male hairdresser Barber,4.8,"{'type': 'Point', 'coordinates': [-3.671065, 40.4331766]}","Calle Ardemans, 8, 28028 Madrid, Spain",,circus
+24,Rock Circus Bar,1.4,"{'type': 'Point', 'coordinates': [-3.6957397, 40.4262238]}","Calle de Campoamor, 11, 28004 Madrid, Spain",,circus
+25,cerrado,4.6,"{'type': 'Point', 'coordinates': [-3.6656283, 40.3757778]}","Calle de Ibros, 4, 28053 Madrid, Spain",,circus
+26,CIRCUS BARBER MANUEL BECERRA,4.9,"{'type': 'Point', 'coordinates': [-3.6678823, 40.4258287]}","Calle Benito de Castro, 12, 28028 Madrid, Spain",,circus
+27,"Sala Golden, Circus Smoking Club",3.3,"{'type': 'Point', 'coordinates': [-3.7069939, 40.42130299999999]}","C/ Gran Vía, 54, 28013 Madrid, Spain",,circus
+28,The big escape,4.8,"{'type': 'Point', 'coordinates': [-3.7029556, 40.4094107]}","Calle del Amparo, 32, 28012 Madrid, Spain",,circus
+29,Délamon Circus Sl,5.0,"{'type': 'Point', 'coordinates': [-3.6991071, 40.4231163]}","Calle de Hortaleza, 64, 28004 Madrid, Spain",,circus
+30,Ijuggler circus props maker,5.0,"{'type': 'Point', 'coordinates': [-3.6469074, 40.5355986]}","Calle de San Bernardo, 7, 28100 Madrid, Spain",,circus
+31,Circus classroom Chaminade,4.0,"{'type': 'Point', 'coordinates': [-3.7177809, 40.4473831]}","Paseo de Juan XXIII, 9, 28040 Madrid, Spain",,circus
+32,MKT Circus,0.0,"{'type': 'Point', 'coordinates': [-3.6924501, 40.4475492]}","Pº de, Paseo de la Castellana, 79, plta 7, 28046 Madrid, Spain",,circus
+33,Multiespacio Lamiadanssa,4.9,"{'type': 'Point', 'coordinates': [-3.6549769, 40.5350169]}","Calle de Torres Quevedo, 8, 28108 Alcobendas, Madrid, Spain",,circus
+34,Mighty Jambo Circus Academy,0.0,"{'type': 'Point', 'coordinates': [-3.7273693, 40.3748081]}","Calle Carranque, 14, 6B, 28025 Madrid, Spain",,circus
+35,Circus Café,4.2,"{'type': 'Point', 'coordinates': [-3.6549105, 40.5451714]}","Paseo de la Chopera, 158, 28100 Alcobendas, Madrid, Spain",2.0,circus
+36,Audiovisual Artistas - Animación de Eventos,5.0,"{'type': 'Point', 'coordinates': [-3.695684999999999, 40.447415]}","posterior, Calle de Orense, 5, 28020 Madrid, Spain",,circus
+37,Circus Sweet,4.0,"{'type': 'Point', 'coordinates': [-3.7206923, 40.3267016]}","Ctra. de Villaverde, 4, 28903 Getafe, Madrid, Spain",,circus
+38,San Mateo Seis,3.3,"{'type': 'Point', 'coordinates': [-3.700181, 40.4250842]}","Calle de San Mateo, 6, 28004 Madrid, Spain",,circus
+39,Scimmie Volanti - Escuela de Circo,4.8,"{'type': 'Point', 'coordinates': [-3.6319112, 40.544251]}","Calle de Ntra. Sra. del Pilar, 41, 28100 Alcobendas, Madrid, Spain",,circus
+40,Circus Decoración y Regalos,4.8,"{'type': 'Point', 'coordinates': [-3.8758608, 40.4892285]}","Calle Comunidad de Madrid, 37, Local 35 y 49, 28231 Las Rozas de Madrid, Madrid, Spain",,circus
+41,Circo KIDS,4.9,"{'type': 'Point', 'coordinates': [-3.6952746, 40.4246782]}","Calle de Argensola, 2, 28004 Madrid, Spain",,circus
+42,Circo Kids,0.0,"{'type': 'Point', 'coordinates': [-3.6861525, 40.4235168]}","C. Jorge Juan, 14 Bis, 28001 Madrid, Spain",,circus
+43,La Mansión de Margöt,0.0,"{'type': 'Point', 'coordinates': [-3.6800923, 40.4180872]}","Paseo de la República Dominicana, 1, 28009 Madrid, Spain",,circus
+44,Bungalow25,5.0,"{'type': 'Point', 'coordinates': [-3.6988352, 40.4339802]}","C. de Sagunto, 17, Bajo, 28010 Madrid, Spain",,circus
+45,Asociación Española contra el cáncer,3.0,"{'type': 'Point', 'coordinates': [-3.6914144, 40.427129]}","Calle Amador de los Ríos, 5, 28010 Madrid, Spain",,circus
+46,Corro los Peñascales,0.0,"{'type': 'Point', 'coordinates': [-3.9002299, 40.564182]}","AVDA. DEL PARDO S/N COLEGIO LOS PEÑASCALES – LAS MATAS, 28290 Las Rozas de Madrid, Madrid, Spain",,circus
+47,Aerotours Madrid,4.9,"{'type': 'Point', 'coordinates': [-3.6293445, 40.4833258]}","Camino Viejo de Burgos, 35, 28055 Madrid, Spain",,circus
+48,Circus Complvtvm,0.0,"{'type': 'Point', 'coordinates': [-3.3619391, 40.492924]}","28806 Alcala de Henares, Madrid, Spain",,circus
+49,Village Apartments Malasaña,4.0,"{'type': 'Point', 'coordinates': [-3.7042381, 40.4224358]}","Corredera Baja de San Pablo, 21, 28004 Madrid, Spain",,circus
+50,Circus Bar,3.8,"{'type': 'Point', 'coordinates': [-3.7687651, 40.2268443]}","Av. Juan Carlos I, 28981 Parla, Madrid, Spain",2.0,circus
+51,Event2all,0.0,"{'type': 'Point', 'coordinates': [-3.6985597, 40.4338763]}","Calle de Sta Engracia, 61, 28010 Madrid, Spain",,circus
+52,Matadero Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.697883399999999, 40.3919453]}","Plaza de Legazpi, 8, 28045 Madrid, Spain",,circus
+53,https://madridesteatro.com,0.0,"{'type': 'Point', 'coordinates': [-3.676601099999999, 40.4181321]}","Calle de Ibiza, 18, 5º d, 28009 Madrid, Spain",,circus
+54,Museo de Historia de Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7008315, 40.4257773]}","Calle de Fuencarral, 78, 28004 Madrid, Spain",,circus
+55,Teatro Off La Latina,4.4,"{'type': 'Point', 'coordinates': [-3.711973, 40.412046]}","Calle de los Mancebos, 4, 28005 Madrid, Spain",,circus
+56,Thyssen-Bornemisza Museum,4.6,"{'type': 'Point', 'coordinates': [-3.6949254, 40.4160406]}","Paseo del Prado, 8, 28014 Madrid, Spain",,circus
+57,Museo Nacional del Prado,4.7,"{'type': 'Point', 'coordinates': [-3.6921271, 40.4137818]}","Calle de Ruiz de Alarcón, 23, 28014 Madrid, Spain",,circus
+58,Martinas Rock,4.4,"{'type': 'Point', 'coordinates': [-3.6685574, 40.44495180000001]}","Calle Clara del Rey, 53, 28002 Madrid, Spain",,circus
+59,SPORTIUM en Salon de Juegos Circus,2.0,"{'type': 'Point', 'coordinates': [-3.788943599999999, 40.2940721]}","Calle de Méjico, 2, 12, 28945 Fuenlabrada, Madrid, Spain",,circus

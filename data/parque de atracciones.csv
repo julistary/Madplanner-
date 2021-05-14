@@ -1,0 +1,3 @@
+,name,rating,location,address,price_level,place
+0,Parque de Atracciones de Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7500892, 40.4118609]}","Casa de Campo, s/n, 28011 Madrid, Spain",,parque de atracciones
+1,Entrada Batán - Parque de Atracciones Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7528265, 40.4090392]}","Paseo de la Venta, 28011 Madrid, Spain",,parque de atracciones

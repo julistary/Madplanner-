@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Parque de Atracciones de Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7500892, 40.4118609]}","Casa de Campo, s/n, 28011 Madrid, Spain",,water park
+1,Parque Warner Beach,3.9,"{'type': 'Point', 'coordinates': [-3.5903897, 40.22972619999999]}","A-4, Salida 22, 28330 San Martín de la Vega, Spain",,water park
+2,Nickelodeon Land,3.9,"{'type': 'Point', 'coordinates': [-3.7518368, 40.40955599999999]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+3,Splash Bash,4.0,"{'type': 'Point', 'coordinates': [-3.7508753, 40.4112128]}","28011 Madrid, Spain",,water park
+4,Divertiland Park,0.0,"{'type': 'Point', 'coordinates': [-3.6583235, 40.5246138]}","Calle de San Rafael, 4B, 30, 28108 Alcobendas, Madrid, Spain",,water park
+5,Entrada Batán - Parque de Atracciones Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7528265, 40.4090392]}","Paseo de la Venta, 28011 Madrid, Spain",,water park
+6,Aquopolis Villanueva de la Cañada,,"{'type': 'Point', 'coordinates': [-3.990413, 40.456663]}","Av. Dehesa, s/n, 28691 Villanueva de la Cañada, Madrid, Spain",,water park
+7,Divertiland Park,3.7,"{'type': 'Point', 'coordinates': [-3.6609519, 40.4966934]}","Calle Margarita de Parma, 1, 28050 Madrid, Spain",,water park
+8,Los Rápidos,4.1,"{'type': 'Point', 'coordinates': [-3.7514049, 40.4124967]}","s/n, Carr. del Parque de Atracciones, 28011 Madrid, Spain",,water park
+9,La Jungla,3.5,"{'type': 'Point', 'coordinates': [-3.7495009, 40.4115074]}","Unnamed Road,28011, 28011, Madrid, Spain",,water park
+10,La Lanzadera,4.7,"{'type': 'Point', 'coordinates': [-3.7496997, 40.4125768]}","Casa de Campo, s/n, 28011 Madrid, Spain",,water park
+11,El Aserradero,4.5,"{'type': 'Point', 'coordinates': [-3.7486289, 40.41282750000001]}","28011 Madrid, Spain",,water park
+12,Los Fiordos,4.5,"{'type': 'Point', 'coordinates': [-3.7520866, 40.4109528]}","Casa de campo, s/n, 28011 Madrid, Spain",,water park
+13,Tifón,4.2,"{'type': 'Point', 'coordinates': [-3.7481624, 40.4123653]}","Parque de Atracciones Madrid, Casa de Campo, s/n, 28011 Madrid, Spain",,water park
+14,The Walking Dead Experience,4.1,"{'type': 'Point', 'coordinates': [-3.7491164, 40.41129979999999]}","Calle de Villamanín, 10, 28011 Madrid, Spain",,water park
+15,Microfauna,4.9,"{'type': 'Point', 'coordinates': [-3.7055586, 40.4327042]}","C/ de Magallanes, 3, 28015 Madrid, Spain",,water park
+16,Pirate Ship Playground,4.4,"{'type': 'Point', 'coordinates': [-3.6282127, 40.5369701]}","28108 Alcobendas, Madrid, Spain",,water park
+17,Globos Locos,1.0,"{'type': 'Point', 'coordinates': [-3.751783, 40.4103047]}","28011 Madrid, Spain",,water park
+18,Lordcultura S L,0.0,"{'type': 'Point', 'coordinates': [-3.6880369, 40.4259637]}","Calle del Almte., 5, 28004 Madrid, Spain",,water park
+19,Magneto Jimmy Neutron,0.0,"{'type': 'Point', 'coordinates': [-3.7518944, 40.4098864]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+20,Patrulla Canina,3.0,"{'type': 'Point', 'coordinates': [-3.7517526, 40.4105089]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+21,Rotor,3.8,"{'type': 'Point', 'coordinates': [-3.747899, 40.412745]}","28011 Madrid, Spain",,water park
+22,Tienda Glove World,4.0,"{'type': 'Point', 'coordinates': [-3.7511249, 40.4110561]}","Paseo de la Venta, 66, 28011 Madrid, Spain",,water park
+23,Vertigo,4.1,"{'type': 'Point', 'coordinates': [-3.7512535, 40.4115298]}","Paseo de la Venta, 66, 28011 Madrid, Spain",,water park
+24,La Cueva de las Tarántulas,4.7,"{'type': 'Point', 'coordinates': [-3.7496132, 40.413157]}","Carr. del Parque de Atracciones, 28011 Madrid, Spain",,water park
+25,Peque Square Sanchinarro,3.5,"{'type': 'Point', 'coordinates': [-3.660378, 40.497667]}","Centro Comercial Sanchinarro, Calle Margarita de Parma, 1, 28050 Madrid, Spain",,water park
+26,Licencia para Conducir de las Tortugas Ninja,0.0,"{'type': 'Point', 'coordinates': [-3.752420599999999, 40.4098614]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+27,Star Flyer,4.6,"{'type': 'Point', 'coordinates': [-3.7495391, 40.4111804]}","Calle de Villamanín, 10, 28011 Madrid, Spain",,water park
+28,Tarántula,4.5,"{'type': 'Point', 'coordinates': [-3.749064, 40.4130809]}","Casa de Campo, 28011 Madrid, Spain",,water park
+29,Padrinos Voladores,0.0,"{'type': 'Point', 'coordinates': [-3.752667199999999, 40.4100803]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+30,Urban Planet Jump,4.0,"{'type': 'Point', 'coordinates': [-3.7769348, 40.3602798]}","Calle de Mondragón, s/n, 28917 Leganés, Madrid, Spain",,water park
+31,Cazamedusas de Patricio,4.7,"{'type': 'Point', 'coordinates': [-3.7519839, 40.4097354]}","Paseo de la Venta, 3, 28011 Madrid, Spain",,water park
+32,Parque Warner Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.593320599999999, 40.2303578]}","A-4, salida 22, 28330 San Martín de la Vega, Madrid, Spain",,water park
+33,Top Spin,3.4,"{'type': 'Point', 'coordinates': [-3.7502482, 40.4127322]}","Paseo de la Venta, 66, 28011 Madrid, Spain",,water park
+34,Hero Spin,0.0,"{'type': 'Point', 'coordinates': [-3.7514472, 40.41089900000001]}","Paseo de la Venta, 66, 28011 Madrid, Spain",,water park
+35,La Aventura de Dora,3.0,"{'type': 'Point', 'coordinates': [-3.7517577, 40.4099538]}","28011 Madrid, Spain",,water park
+36,Sillas Voladoras,4.7,"{'type': 'Point', 'coordinates': [-3.7474088, 40.4126314]}","28011 Madrid, Spain",,water park
+37,Diversión en la Granja,4.3,"{'type': 'Point', 'coordinates': [-3.4575384, 40.4426216]}","Parque Europa s/n, 28850 Torrejón de Ardoz, Madrid, Spain",,water park
+38,Parque Hormiguero,4.4,"{'type': 'Point', 'coordinates': [-3.6585092, 40.5438753]}","Av. de Camilo José Cela, S/N, 28100 Alcobendas, Madrid, Spain",,water park
+39,Space area,4.3,"{'type': 'Point', 'coordinates': [-3.6533992, 40.55135500000001]}","Paseo de Valdelasfuentes, s/n, 28100 Alcobendas, Madrid, Spain",,water park
+40,"Parque Inclusivo ""Módulo Lunar""",3.0,"{'type': 'Point', 'coordinates': [-3.6337981, 40.5358433]}","28108 Alcobendas, Madrid, Spain",,water park
+41,La Pergola,4.5,"{'type': 'Point', 'coordinates': [-3.7514399, 40.4111796]}","Paseo de la Venta, 66, 28011 Madrid, Spain",,water park
+42,Urban Planet,4.5,"{'type': 'Point', 'coordinates': [-3.8030954, 40.4629008]}","Calle Rafael Botí, 2, 28023 Madrid, Spain",,water park
+43,Urban Planet: Trampoline Park,4.3,"{'type': 'Point', 'coordinates': [-3.5813311, 40.4444008]}","Polígono Industrial Las Mercedes, Calle de Navaridas, 9, 28022 Madrid, Spain",,water park
+44,Zeppelin,2.9,"{'type': 'Point', 'coordinates': [-3.7502129, 40.4113213]}","Paseo de la Venta, 28011 Madrid, Spain",,water park
+45,Urban Planet: Trampoline Park,3.8,"{'type': 'Point', 'coordinates': [-3.6151317, 40.542437]}","Centro Comercial Plaza Norte 2, Plaza del Comercio, 11, 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,water park
+46,El Retiro Park,4.7,"{'type': 'Point', 'coordinates': [-3.6844995, 40.4152606]}","Plaza de la Independencia, 7, 28001 Madrid, Spain",,water park
+47,Jardín de Rocas (MUNCYT),5.0,"{'type': 'Point', 'coordinates': [-3.64074, 40.5379391]}","28100 Alcobendas, Madrid, Spain",,water park
+48,Offices Amusement Park,4.0,"{'type': 'Point', 'coordinates': [-3.7475637, 40.4142333]}","Carr. del Parque de Atracciones, 3, 28011 Madrid, Spain",,water park
+49,Clamber Park Arroyosur,4.2,"{'type': 'Point', 'coordinates': [-3.773514099999999, 40.2983433]}","Calle Primavera, 1, 28914 Leganés, Madrid, Spain",,water park
+50,Vertical Park,4.5,"{'type': 'Point', 'coordinates': [-3.833647, 40.3587183]}","Centro Comercial Tres Aguas, Av. San Martín de Valdeiglesias, 20, 28922 Alcorcón, Madrid, Spain",,water park
+51,Ferrocarril de las Delicias,5.0,"{'type': 'Point', 'coordinates': [-3.6911491, 40.3977765]}","Entrada desde el Museo del Ferrocarril, Paseo de las Delicias, 61, 28045 Madrid, Spain",,water park
+52,Urban Planet,4.0,"{'type': 'Point', 'coordinates': [-3.5262756, 40.3382157]}","Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",,water park
+53,Zoo Aquarium de Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.760958599999999, 40.40912280000001]}","Casa de Campo, s/n, 28011 Madrid, Spain",,water park
+54,Madrid Río Park,4.6,"{'type': 'Point', 'coordinates': [-3.7234566, 40.4130932]}","Paseo de la Ermita del Santo, 14, 16, 28011 Madrid, Spain",,water park
+55,VR Virtual Recall Park & ​​Academy,4.9,"{'type': 'Point', 'coordinates': [-3.4842341, 40.3113932]}","Av. de Madrid, 128, Naves 15 y 16, 28500 Arganda del Rey, Madrid, Spain",,water park
+56,Vertical Park,4.4,"{'type': 'Point', 'coordinates': [-3.5864863, 40.44789129999999]}","Calle de Aracne, s / n, 28022 Madrid, Spain",,water park
+57,Sould Park La Vaguada,4.0,"{'type': 'Point', 'coordinates': [-3.7068216, 40.4795819]}","C.C La Vaguada, Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",,water park
+58,El Retiro Park,4.8,"{'type': 'Point', 'coordinates': [-3.6821781, 40.4147091]}","Parque el, 28001 Madrid, Spain",,water park
+59,Casa de Campo Park,4.7,"{'type': 'Point', 'coordinates': [-3.7783545, 40.41183210000001]}","Ctra. Zarzón, 28011 Madrid, Spain",,water park

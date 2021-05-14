@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Discoteca Azúcar,3.7,"{'type': 'Point', 'coordinates': [-3.6952526, 40.4106491]}","28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,salsa club
+1,The Host Club,4.2,"{'type': 'Point', 'coordinates': [-3.7172868, 40.4263181]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,salsa club
+2,Madrid Salsa Club,1.0,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}","Calle de Santa Isabel, 9, 28012 Madrid, Spain",,salsa club
+3,Discoteca El Son,3.9,"{'type': 'Point', 'coordinates': [-3.7017673, 40.4160653]}","Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,salsa club
+4,Enchufla Club de Salsa,4.7,"{'type': 'Point', 'coordinates': [-3.6727751, 40.3832902]}","Calle Cerro de la Alcazaba, 38, 28053 Madrid, Spain",1.0,salsa club
+5,Tropical House,3.9,"{'type': 'Point', 'coordinates': [-3.708732, 40.423061]}","Plaza de los Mostenses n11, 28015 Madrid, Spain",1.0,salsa club
+6,CARPE DIEM SALSA Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6263889, 40.4194444]}","Calle Idioma Esperanto, 2, Local 4, 28017 Madrid, Spain",,salsa club
+7,El Palacio de la salsa,0.0,"{'type': 'Point', 'coordinates': [-3.6961653, 40.40520230000001]}","Calle de Sebastián Elcano, 40, 28012 Madrid, Spain",,salsa club
+8,Rumba Salsa,3.8,"{'type': 'Point', 'coordinates': [-3.7162793, 40.4353651]}","Calle de Fernández de los Ríos, 87, 28015 Madrid, Spain",,salsa club
+9,Clases de Bailes Latinos,4.5,"{'type': 'Point', 'coordinates': [-3.7091242, 40.42322370000001]}","Plaza de los Mostenses, 11, 28015 Madrid, Spain",,salsa club
+10,Salsa Rumba,4.4,"{'type': 'Point', 'coordinates': [-3.694041399999999, 40.4544936]}","Av. de Brasil, 5, 28020 Madrid, Spain",,salsa club
+11,Baila Madrid,3.5,"{'type': 'Point', 'coordinates': [-3.6647729, 40.4298479]}","Calle de Alcalá, 192, 28028 Madrid, Spain",,salsa club
+12,Borinquen Madrid,3.7,"{'type': 'Point', 'coordinates': [-3.667763, 40.424757]}","Calle Fundadores, 7, 28028 Madrid, Spain",2.0,salsa club
+13,Kilatinum - Club Bailarios,4.0,"{'type': 'Point', 'coordinates': [-3.7074702, 40.4227306]}","Calle de San Bernardo, 20, 28015 Madrid, Spain",,salsa club
+14,Ramdall,1.0,"{'type': 'Point', 'coordinates': [-3.7188841, 40.42778089999999]}","Calle de Ferraz, 28008 Madrid, Spain",,salsa club
+15,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}","Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",,salsa club
+16,Sala Ramdall,3.9,"{'type': 'Point', 'coordinates': [-3.7172325, 40.426323]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,salsa club
+17,Parche,4.1,"{'type': 'Point', 'coordinates': [-3.6733813, 40.4271732]}","Cl. de Ayala, 120, 28006 Madrid, Spain",,salsa club
+18,MAGANGUE DISCOTECA,4.2,"{'type': 'Point', 'coordinates': [-3.765618, 40.3936023]}","Calle de Maqueda, 30, 28024 Madrid, Spain",,salsa club
+19,Sala Olvido Discoteca y Eventos,3.8,"{'type': 'Point', 'coordinates': [-3.7027654, 40.3867625]}","Calle Olvido, 15, 28026 Madrid, Spain",1.0,salsa club
+20,Pincel,4.4,"{'type': 'Point', 'coordinates': [-3.7859661, 40.4286275]}","Calle del Dr. Raso, 1, 28223 Pozuelo de Alarcón, Madrid, Spain",1.0,salsa club
+21,Center Mambo Latino,4.0,"{'type': 'Point', 'coordinates': [-3.6948384, 40.4510045]}","Calle de Orense, 22, 28020 Madrid, Spain",,salsa club
+22,GRAN CAIMAN,3.5,"{'type': 'Point', 'coordinates': [-3.694041399999999, 40.4544936]}","Av. de Brasil, 5, 28020 Madrid, Spain",1.0,salsa club
+23,"ABAILARMADRID - Dance, friends and fun",4.9,"{'type': 'Point', 'coordinates': [-3.6687524, 40.4345285]}","Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",,salsa club
+24,Salsa Madrid Centro,4.4,"{'type': 'Point', 'coordinates': [-3.6891317, 40.41919770000001]}","Plaza de la Independencia, 8, 28001 Madrid, Spain",,salsa club
+25,El Bombón,4.0,"{'type': 'Point', 'coordinates': [-3.7117844, 40.4121135]}","Calle de los Mancebos, 2, 28005 Madrid, Spain",2.0,salsa club
+26,Sálsate Madrid: school specializing in Cuban salsa,0.0,"{'type': 'Point', 'coordinates': [-3.7075582, 40.4507566]}","Calle San Valeriano, 4, 28039 Madrid, Spain",,salsa club
+27,Súltan Palast Madrid 18,4.2,"{'type': 'Point', 'coordinates': [-3.6998677, 40.4206771]}","Calle de las Infantas, 18, 28004 Madrid, Spain",2.0,salsa club
+28,Ozona VIP,3.6,"{'type': 'Point', 'coordinates': [-3.6766249, 40.4070037]}","Av. del Mediterráneo, 12, 28007 Madrid, Spain",,salsa club
+29,Salsabachata Avenida de América,4.7,"{'type': 'Point', 'coordinates': [-3.6734278, 40.4383234]}","Calle de Coslada, 19, 28028 Madrid, Spain",,salsa club
+30,Sala Cats,3.2,"{'type': 'Point', 'coordinates': [-3.713525, 40.442775]}","Calle de Julián Romea, 4, 28003 Madrid, Spain",2.0,salsa club
+31,Adestra Copas,4.1,"{'type': 'Point', 'coordinates': [-3.6471149, 40.4076579]}","Posterior (LA LONJA, Av. de Moratalaz, 153, 28030 Madrid, Spain",1.0,salsa club
+32,Sala Morocco,3.8,"{'type': 'Point', 'coordinates': [-3.707419, 40.422116]}","Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",2.0,salsa club
+33,Dancing Dreams,4.7,"{'type': 'Point', 'coordinates': [-3.6715391, 40.4029055]}","C. de los Pajaritos, 19, 28007 Madrid, Spain",,salsa club
+34,Night Club,4.0,"{'type': 'Point', 'coordinates': [-3.712771, 40.413812]}","Calle de Segovia, 19, 28005 Madrid, Spain",2.0,salsa club
+35,Club De Danza,0.0,"{'type': 'Point', 'coordinates': [-3.7179052, 40.4310281]}","Calle del Tutor, 52, 28008 Madrid, Spain",,salsa club
+36,moondance madrid,3.5,"{'type': 'Point', 'coordinates': [-3.701058, 40.418402]}","Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,salsa club
+37,Manama Disco,2.7,"{'type': 'Point', 'coordinates': [-3.7026209, 40.4150667]}","Calle de Barcelona, 14, 28012 Madrid, Spain",,salsa club
+38,Funflow Dance,5.0,"{'type': 'Point', 'coordinates': [-3.701919, 40.42107860000001]}","Calle de Valverde, 10, 28004 Madrid, Spain",,salsa club
+39,Bongos,4.2,"{'type': 'Point', 'coordinates': [-3.703869, 40.4427195]}","Calle de Bravo Murillo, 52, 28003 Madrid, Spain",,salsa club
+40,Club 54,4.1,"{'type': 'Point', 'coordinates': [-3.6982414, 40.42099109999999]}","Calle de Barbieri, 7, 28004 Madrid, Spain",2.0,salsa club
+41,Independance Club,3.8,"{'type': 'Point', 'coordinates': [-3.692779899999999, 40.409605]}","C. de Atocha, 127, 28012 Madrid, Spain",1.0,salsa club
+42,Sálsate Madrid: escuela especializada en Casino (salsa cubana),4.8,"{'type': 'Point', 'coordinates': [-3.7075582, 40.4507566]}","Calle San Valeriano, 4, 28039 Madrid, Spain",,salsa club
+43,Clubbers Tour,2.9,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}","Calle de la Cruz, 33, 28012 Madrid, Spain",,salsa club
+44,WELKHOMEclub,4.5,"{'type': 'Point', 'coordinates': [-3.6923173, 40.42731]}","Calle del Monte Esquinza, 15, 28010 Madrid, Spain",2.0,salsa club
+45,Faena Madrid,3.3,"{'type': 'Point', 'coordinates': [-3.6930276, 40.40969219999999]}","C. de Atocha, 125, 28012 Madrid, Spain",,salsa club
+46,Sala Zenith,3.1,"{'type': 'Point', 'coordinates': [-3.6928536, 40.4096199]}","C. de Atocha, 127, 28012 Madrid, Spain",,salsa club
+47,Karamelomadrid,0.0,"{'type': 'Point', 'coordinates': [-3.7172104, 40.4262695]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,salsa club
+48,Salsabachata Quevedo,4.8,"{'type': 'Point', 'coordinates': [-3.7050633, 40.4357353]}","Calle Cercedilla, 3, 28015 Madrid, Spain",,salsa club
+49,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"{'type': 'Point', 'coordinates': [-3.6771376, 40.4289177]}","Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",,salsa club
+50,Tempo Club,4.0,"{'type': 'Point', 'coordinates': [-3.711892, 40.425275]}","Calle Duque de Osuna, 8, 28015 Madrid, Spain",,salsa club
+51,Palace Disco Club,3.4,"{'type': 'Point', 'coordinates': [-3.7089488, 40.4184349]}","Plaza de Isabel II, 7, 28013 Madrid, Spain",2.0,salsa club
+52,"Sala Zeus, Móstoles",4.1,"{'type': 'Point', 'coordinates': [-3.8573885, 40.3307737]}","Calle Becquer, 3, 28932 Móstoles, Madrid, Spain",1.0,salsa club
+53,Charada Club de Baile,3.6,"{'type': 'Point', 'coordinates': [-3.709616, 40.420617]}","Calle de la Bola, 13, 28013 Madrid, Spain",,salsa club
+54,Premiumdance | Clases de salsa y bachata,5.0,"{'type': 'Point', 'coordinates': [-3.6687284, 40.4277583]}","Pl. de Manuel Becerra, 28028 Madrid, Spain",,salsa club
+55,El Rincón de La Habana,4.4,"{'type': 'Point', 'coordinates': [-3.7094361, 40.4242361]}","Calle de los Reyes, 6, 28015 Madrid, Spain",,salsa club
+56,Salsebastian,4.8,"{'type': 'Point', 'coordinates': [-3.6122595, 40.5490681]}","Av. Fuente Nueva, Nº 5, Nave 16 B, 28703 San Sebastián de los Reyes, Madrid, Spain",,salsa club
+57,Club 33,3.8,"{'type': 'Point', 'coordinates': [-3.7010755, 40.4120003]}","Calle de la Cabeza, 33, 28012 Madrid, Spain",2.0,salsa club
+58,Golden Gran Vía,3.7,"{'type': 'Point', 'coordinates': [-3.7072222, 40.4213889]}","C/ Gran Vía, n 54, 28013 Madrid, Spain",1.0,salsa club
+59,Discoteca Bahia Madrid,3.0,"{'type': 'Point', 'coordinates': [-3.7172104, 40.4262695]}","Calle de Ferraz, 38, 28008 Madrid, Spain",,salsa club

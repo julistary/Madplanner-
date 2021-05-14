@@ -2,10 +2,10 @@
 0,BoulderMadrid,4.8,"{'type': 'Point', 'coordinates': [-3.669622999999999, 40.391332]}","Calle del Hachero, 12, 28053 Madrid, Spain",,escalada
 1,Rocódromo Urban Monkey - Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.697531499999999, 40.4016192]}","C/ Tarragona, 8, 28045 Madrid, Spain",,escalada
 2,Sputnik Climbing Center,4.6,"{'type': 'Point', 'coordinates': [-3.656612, 40.5359884]}","Calle la Granja, 100, 28108 Alcobendas, Madrid, Spain",,escalada
-3,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.668765, 40.434493]}","Calle de Azcona, 44, 28028 Madrid, Spain",,escalada
+3,Sharma Climbing Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.62015, 40.43776]}","C. de Julián Camarillo, 55, 28037 Madrid, Spain",,escalada
 4,Rockomadrid,4.7,"{'type': 'Point', 'coordinates': [-3.6959251, 40.4653457]}","Calle Monasterio de Leyre, 9, 28029 Madrid, Spain",,escalada
-5,Sharma Climbing Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.62015, 40.43776]}","C. de Julián Camarillo, 55, 28037 Madrid, Spain",,escalada
-6,The Climb - Centro Escalada Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.8010128, 40.3468025]}","Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,escalada
+5,The Climb - Centro Escalada Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.8010128, 40.3468025]}","Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,escalada
+6,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.668765, 40.434493]}","Calle de Azcona, 44, 28028 Madrid, Spain",,escalada
 7,Rocódromo Espacio Acción,4.6,"{'type': 'Point', 'coordinates': [-3.6541671, 40.4318495]}","Calle de Marcelino Álvarez, 6, 28017 Madrid, Spain",,escalada
 8,Madrid Vertical,4.5,"{'type': 'Point', 'coordinates': [-3.6005343, 40.4254975]}","Calle Sofía, 34, 28022 Madrid, Spain",,escalada
 9,ESCALADA en MADRID,0.0,"{'type': 'Point', 'coordinates': [-3.7005575, 40.4140442]}","Cl de las Huertas, 13, 28160 Madrid, Spain",,escalada
@@ -13,8 +13,8 @@
 11,"Fisura, tienda de escalada",4.8,"{'type': 'Point', 'coordinates': [-3.7039355, 40.4346793]}","Calle de Feijóo, 4, 28010 Madrid, Spain",,escalada
 12,Rock Climbing,2.5,"{'type': 'Point', 'coordinates': [-3.6998333, 40.4359813]}","Calle de Medellín, Nº10, 4º 2, 28010 Madrid, Spain",,escalada
 13,Rocódromo de Manoteras,4.4,"{'type': 'Point', 'coordinates': [-3.6627938, 40.4761204]}","Calle de Somontín, 9, 28033 Madrid, Spain",,escalada
-14,Rocodromo Escalada Planetario,4.5,"{'type': 'Point', 'coordinates': [-3.6862681, 40.3930988]}","Calle de la Antracita, 37, 28045 Madrid, Spain",,escalada
-15,Rocódromo,4.5,"{'type': 'Point', 'coordinates': [-3.6648105, 40.4189666]}","C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",,escalada
+14,Rocódromo,4.5,"{'type': 'Point', 'coordinates': [-3.6648105, 40.4189666]}","C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",,escalada
+15,Rocodromo Escalada Planetario,4.5,"{'type': 'Point', 'coordinates': [-3.6862681, 40.3930988]}","Calle de la Antracita, 37, 28045 Madrid, Spain",,escalada
 16,The Climb Kids,4.5,"{'type': 'Point', 'coordinates': [-3.801027599999999, 40.3468176]}","Polígono Industrial San José de Valderas, Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,escalada
 17,Rocódromo de Hortaleza,4.0,"{'type': 'Point', 'coordinates': [-3.6516281, 40.4737131]}","Calle de la Costa del Sol, 12, 28033 Madrid, Spain",,escalada
 18,Salamandra Boulder Café Rocodromo,4.4,"{'type': 'Point', 'coordinates': [-3.7069969, 40.4343683]}","Calle Escosura, 5, 28015 Madrid, Spain",,escalada
@@ -30,8 +30,8 @@
 28,Madridadventours,5.0,"{'type': 'Point', 'coordinates': [-3.6966769, 40.4023894]}","Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",,escalada
 29,mxcoach,4.8,"{'type': 'Point', 'coordinates': [-3.635328, 40.38046430000001]}","Calle San Toribio, 8, 28031 Madrid, Spain",,escalada
 30,Grupo de Montaña CSIC,4.9,"{'type': 'Point', 'coordinates': [-3.6874582, 40.4406438]}","Calle de Serrano, 115 bis, 28006 Madrid, Spain",,escalada
-31,Rocódromo Pacífico,4.2,"{'type': 'Point', 'coordinates': [-3.6756224, 40.4003961]}","Calle del Dr. Esquerdo, 28007 Madrid, Spain",,escalada
-32,Eskalamandra,5.0,"{'type': 'Point', 'coordinates': [-3.6755132, 40.4170457]}","C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",,escalada
+31,Eskalamandra,5.0,"{'type': 'Point', 'coordinates': [-3.6755132, 40.4170457]}","C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",,escalada
+32,Rocódromo Pacífico,4.2,"{'type': 'Point', 'coordinates': [-3.6756224, 40.4003961]}","Calle del Dr. Esquerdo, 28007 Madrid, Spain",,escalada
 33,Palacio street Boulder,3.5,"{'type': 'Point', 'coordinates': [-3.7161269, 40.4143251]}","28005 Madrid, Spain",,escalada
 34,Yurok Adventures // Yurok Climbing Center,4.8,"{'type': 'Point', 'coordinates': [-3.8179502, 40.3337625]}","Calle Aeronáutica, 31, 28923 Alcorcón, Madrid, Spain",,escalada
 35,Rocódromo Escalada Soul Climb Leganés,4.6,"{'type': 'Point', 'coordinates': [-3.748153, 40.320028]}","Calle Severo Ochoa, 19, 28914 Leganés, Madrid, Spain",,escalada
@@ -46,16 +46,16 @@
 44,Escalada Matias,0.0,"{'type': 'Point', 'coordinates': [-3.6807008, 40.3213309]}","Calle Talento, 17, 28906 Getafe, Madrid, Spain",,escalada
 45,Rocodromo del polideportivo,3.5,"{'type': 'Point', 'coordinates': [-3.64712, 40.5516774]}","Calle de Manuel de Falla, 59, 28100 Alcobendas, Madrid, Spain",,escalada
 46,Deportes Koala,4.5,"{'type': 'Point', 'coordinates': [-3.6977234, 40.4137024]}","Calle de Lope de Vega, 18, 28014 Madrid, Spain",,escalada
-47,Rocodromo Peñuelas,0.0,"{'type': 'Point', 'coordinates': [-3.70672, 40.4010852]}","Calle de Arganda, 7, 6, 28005 Madrid, Spain",,escalada
-48,Rocodromo-Boulder puente Almendrales,4.0,"{'type': 'Point', 'coordinates': [-3.6939634, 40.38229949999999]}","Cmo. de Perales, 28041 Madrid, Spain",,escalada
-49,Monkey Fingers,4.7,"{'type': 'Point', 'coordinates': [-3.7542472, 40.3641161]}","Calle Prado Merinero, 15, 28054 Madrid, Spain",,escalada
-50,Asociación Escalada En Valores,5.0,"{'type': 'Point', 'coordinates': [-3.6960419, 40.396686]}","Calle de Embajadores, 145, 28045 Madrid, Spain",,escalada
-51,Multiaventura Madrid - Empresa de multiaventura,5.0,"{'type': 'Point', 'coordinates': [-3.6254472, 40.3880888]}","Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,escalada
-52,Escuela Madrileña de Alta Montaña,4.0,"{'type': 'Point', 'coordinates': [-3.683992999999999, 40.485768]}","Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",,escalada
-53,Tsunami Climb,4.6,"{'type': 'Point', 'coordinates': [-3.6179414, 40.5591293]}","Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,escalada
+47,Escuela Madrileña de Alta Montaña,4.0,"{'type': 'Point', 'coordinates': [-3.683992999999999, 40.485768]}","Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",,escalada
+48,Rocodromo Peñuelas,0.0,"{'type': 'Point', 'coordinates': [-3.70672, 40.4010852]}","Calle de Arganda, 7, 6, 28005 Madrid, Spain",,escalada
+49,Rocodromo-Boulder puente Almendrales,4.0,"{'type': 'Point', 'coordinates': [-3.6939634, 40.38229949999999]}","Cmo. de Perales, 28041 Madrid, Spain",,escalada
+50,Monkey Fingers,4.7,"{'type': 'Point', 'coordinates': [-3.7542472, 40.3641161]}","Calle Prado Merinero, 15, 28054 Madrid, Spain",,escalada
+51,Asociación Escalada En Valores,5.0,"{'type': 'Point', 'coordinates': [-3.6960419, 40.396686]}","Calle de Embajadores, 145, 28045 Madrid, Spain",,escalada
+52,Tsunami Climb,4.6,"{'type': 'Point', 'coordinates': [-3.6179414, 40.5591293]}","Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,escalada
+53,Multiaventura Madrid - Empresa de multiaventura,5.0,"{'type': 'Point', 'coordinates': [-3.6254472, 40.3880888]}","Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,escalada
 54,"Climbing courses, climbing trips and multisport",0.0,"{'type': 'Point', 'coordinates': [-3.6974274, 40.40162]}","Calle de Tarragona, 8, 28045 Madrid, Spain",,escalada
 55,Sputnik Climbing Las Rozas,5.0,"{'type': 'Point', 'coordinates': [-3.8907835, 40.4984304]}","Calle París, 2, 28232 Las Rozas de Madrid, Madrid, Spain",,escalada
 56,Escuela de Escalada Nanuk Experience,0.0,"{'type': 'Point', 'coordinates': [-3.7015128, 40.5928085]}","Sector Islas, 25, 28760 Tres Cantos, Madrid, Spain",,escalada
 57,King Kong Climbing,4.6,"{'type': 'Point', 'coordinates': [-3.8877674, 40.4985035]}","Poligono Industrial Europolis, Calle del Cabo Rufino Lázaro, 14, 28232 Las Rozas de Madrid, Madrid, Spain",,escalada
-58,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"{'type': 'Point', 'coordinates': [-3.6146642, 40.5550945]}","San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",,escalada
-59,Tabei Adventures,5.0,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}","Calle de Antonio López, 254, 28041 Madrid, Spain",,escalada
+58,Tabei Adventures,5.0,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}","Calle de Antonio López, 254, 28041 Madrid, Spain",,escalada
+59,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"{'type': 'Point', 'coordinates': [-3.6146642, 40.5550945]}","San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",,escalada

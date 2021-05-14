@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Laverónica,4.3,"{'type': 'Point', 'coordinates': [-3.6952581, 40.4125629]}","C. de Moratín, 38, 28014 Madrid, Spain",2.0,pet friendly restaurant
+1,El perro y la galleta,4.2,"{'type': 'Point', 'coordinates': [-3.687363, 40.420512]}","Calle de Claudio Coello, 1, 28009 Madrid, Spain",2.0,pet friendly restaurant
+2,Bahiana Club,4.2,"{'type': 'Point', 'coordinates': [-3.7111134, 40.4139849]}","Calle del Conde, 4, 28005 Madrid, Spain",2.0,pet friendly restaurant
+3,Plenti (location in 2018),0.0,"{'type': 'Point', 'coordinates': [-3.6965986, 40.4121143]}","Costanilla de los Desamparados, 13, 28014 Madrid, Spain",,pet friendly restaurant
+4,El Columpio,4.1,"{'type': 'Point', 'coordinates': [-3.6943857, 40.4305901]}","Calle de Caracas, 10, 28010 Madrid, Spain",2.0,pet friendly restaurant
+5,Verbena Bar,4.1,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4269028]}","Calle de Velarde, 24, 28004 Madrid, Spain",1.0,pet friendly restaurant
+6,CafeeKe - Cervezas y tapas de Bélgica,3.9,"{'type': 'Point', 'coordinates': [-3.707978, 40.414721]}","Calle de Cuchilleros, 3, 28005 Madrid, Spain",,pet friendly restaurant
+7,Burnout,4.5,"{'type': 'Point', 'coordinates': [-3.7020884, 40.420808]}","Calle de Valverde, 6, 28004 Madrid, Spain",2.0,pet friendly restaurant
+8,Frida,3.8,"{'type': 'Point', 'coordinates': [-3.6970391, 40.4239997]}","Calle San Gregorio, 8, 28004 Madrid, Spain",2.0,pet friendly restaurant
+9,El Perro y la Galleta Malasaña,4.2,"{'type': 'Point', 'coordinates': [-3.703637999999999, 40.42268199999999]}","Corredera Baja de San Pablo, 31, 28004 Madrid, Spain",2.0,pet friendly restaurant
+10,PALOSANTO,3.6,"{'type': 'Point', 'coordinates': [-3.6973953, 40.4228311]}","Plaza de Chueca, 8, 28004 Madrid, Spain",2.0,pet friendly restaurant
+11,Arrocería El Trato Gastrobar,4.8,"{'type': 'Point', 'coordinates': [-3.708043, 40.4338539]}","C. de Fernando el Católico, 15, 28015 Madrid, Spain",2.0,pet friendly restaurant
+12,Burger Shack,4.5,"{'type': 'Point', 'coordinates': [-3.6964602, 40.4219306]}","Calle de Augusto Figueroa, 32, 28004 Madrid, Spain",1.0,pet friendly restaurant
+13,Sahuaro Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7070934, 40.4111597]}","Plaza de Cascorro, 2, 28005 Madrid, Spain",2.0,pet friendly restaurant
+14,CAFETERIA C&C (petfriendly),4.6,"{'type': 'Point', 'coordinates': [-3.6587974, 40.4339656]}","Calle de la Virgen de la Roca, 1, 28027 Madrid, Spain",,pet friendly restaurant
+15,Entre Santos Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.698661, 40.4214083]}","Calle de San Bartolomé, 4, 28004 Madrid, Spain",2.0,pet friendly restaurant
+16,BOCANEGRA MADRID,3.6,"{'type': 'Point', 'coordinates': [-3.696155999999999, 40.4182919]}","Calle del Marqués de Casa Riera, 1, 28014 Madrid, Spain",1.0,pet friendly restaurant
+17,VIVA BURGER,4.4,"{'type': 'Point', 'coordinates': [-3.711851, 40.412475]}","Costanilla de San Andrés, 16, 28005 Madrid, Spain",2.0,pet friendly restaurant
+18,Bumpgreen,4.2,"{'type': 'Point', 'coordinates': [-3.6845499, 40.4221562]}","Calle de Velázquez, 11, 28001 Madrid, Spain",2.0,pet friendly restaurant
+19,Mas Al Sur,4.4,"{'type': 'Point', 'coordinates': [-3.6969465, 40.4100538]}","Calle de Santa Isabel, 35, 28012 Madrid, Spain",1.0,pet friendly restaurant
+20,Le Coco,4.1,"{'type': 'Point', 'coordinates': [-3.6980242, 40.4215918]}","Calle de Barbieri, 15, 28004 Madrid, Spain",2.0,pet friendly restaurant
+21,Mesón del Champiñon,4.2,"{'type': 'Point', 'coordinates': [-3.7081634, 40.4150035]}","Cava de San Miguel, 17, 28005 Madrid, Spain",2.0,pet friendly restaurant
+22,La Esquina del 98,4.4,"{'type': 'Point', 'coordinates': [-3.708066, 40.439436]}","Calle de Vallehermoso, 98, 28003 Madrid, Spain",1.0,pet friendly restaurant
+23,Casa Pueblo,4.4,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}","Calle del León, 3, 28014 Madrid, Spain",1.0,pet friendly restaurant
+24,Perrachica,3.9,"{'type': 'Point', 'coordinates': [-3.7027922, 40.4337343]}","Calle Eloy Gonzalo, 10, 28010 Madrid, Spain",2.0,pet friendly restaurant
+25,Gramabar,4.4,"{'type': 'Point', 'coordinates': [-3.7070834, 40.4198112]}","Calle de Preciados, 40, 28013 Madrid, Spain",2.0,pet friendly restaurant
+26,"Munchies, Hot Dog & More..,",4.1,"{'type': 'Point', 'coordinates': [-3.6991405, 40.4137178]}","Calle de las Huertas, 25, 28014 Madrid, Spain",1.0,pet friendly restaurant
+27,Casa Alberto,4.4,"{'type': 'Point', 'coordinates': [-3.7001568, 40.4137615]}","Calle de las Huertas, 18, 28012 Madrid, Spain",2.0,pet friendly restaurant
+28,Pajaritos mojados,4.5,"{'type': 'Point', 'coordinates': [-3.7102306, 40.4105277]}","Calle del Humilladero, 3, 28005 Madrid, Spain",1.0,pet friendly restaurant
+29,La Encomienda,4.5,"{'type': 'Point', 'coordinates': [-3.7059791, 40.4105898]}","Calle de la Encomienda, 19, 28012 Madrid, Spain",2.0,pet friendly restaurant
+30,The Stuyck Co,4.4,"{'type': 'Point', 'coordinates': [-3.7017522, 40.4265004]}","Corredera Alta de San Pablo, 33, 28004 Madrid, Spain",2.0,pet friendly restaurant
+31,The Toast Taproom Malasaña. Cervecería artesanal. Brunch,4.1,"{'type': 'Point', 'coordinates': [-3.7043295, 40.4257351]}","Calle de San Vicente Ferrer, 33, 28004 Madrid, Spain",2.0,pet friendly restaurant
+32,EL PERRO Y LA GALLETA FUENCARRAL,4.1,"{'type': 'Point', 'coordinates': [-3.7006827, 40.4265888]}","C. de Barceló, 5, 28004 Madrid, Spain",2.0,pet friendly restaurant
+33,La Rollerie,4.1,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}","C. de Atocha, 20, 28012 Madrid, Spain",2.0,pet friendly restaurant
+34,Gofio,4.4,"{'type': 'Point', 'coordinates': [-3.6982833, 40.4138889]}","Calle de Lope de Vega, 9, 28014 Madrid, Spain",2.0,pet friendly restaurant
+35,Bocanegra Madrid Terraza,3.9,"{'type': 'Point', 'coordinates': [-3.6958414, 40.4183888]}","Calle del Marqués de Casa Riera, 1, 28014 Madrid, Spain",,pet friendly restaurant
+36,Brew Wild Pizza Bar,4.6,"{'type': 'Point', 'coordinates': [-3.6995115, 40.4148026]}","Calle de Echegaray, 23, 28014 Madrid, Spain",2.0,pet friendly restaurant
+37,Casa González,4.5,"{'type': 'Point', 'coordinates': [-3.698952, 40.414032]}","Calle del León, 12, 28014 Madrid, Spain",2.0,pet friendly restaurant
+38,DUBBIDU,4.7,"{'type': 'Point', 'coordinates': [-3.6928367, 40.4101727]}","Paseo del Prado, 46, 28046 Madrid, Spain",,pet friendly restaurant
+39,Donde da la vuelta el viento,4.1,"{'type': 'Point', 'coordinates': [-3.7014446, 40.4062271]}","Calle del Mesón de Paredes, 81, 28012 Madrid, Spain",1.0,pet friendly restaurant
+40,Bunny's Deli,4.8,"{'type': 'Point', 'coordinates': [-3.6972644, 40.4240014]}","Calle San Gregorio, 17, 28004 Madrid, Spain",,pet friendly restaurant
+41,Vacaciones Cocktail Bar,4.1,"{'type': 'Point', 'coordinates': [-3.703584, 40.4253189]}","Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,pet friendly restaurant
+42,BacON,4.1,"{'type': 'Point', 'coordinates': [-3.7036316, 40.4258444]}","Calle de San Vicente Ferrer, 28, 28004 Madrid, Spain",,pet friendly restaurant
+43,Federal Café,4.2,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}","Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,pet friendly restaurant
+44,Tapikas,4.2,"{'type': 'Point', 'coordinates': [-3.6924948, 40.4641252]}","Calle del Poeta Joan Maragall, 55, 28020 Madrid, Spain",,pet friendly restaurant
+45,Roots,0.0,"{'type': 'Point', 'coordinates': [-3.6959833, 40.4248559]}","28004 Madrid, Spain",,pet friendly restaurant
+46,El Imparcial,4.2,"{'type': 'Point', 'coordinates': [-3.7059224, 40.4119262]}","Calle del Duque de Alba, 4, 28012 Madrid, Spain",2.0,pet friendly restaurant
+47,El Jardín de Alma,4.2,"{'type': 'Point', 'coordinates': [-3.662078, 40.4601582]}","C. de Arturo Soria, 207, 28043 Madrid, Spain",,pet friendly restaurant
+48,Fellina Restaurante,4.3,"{'type': 'Point', 'coordinates': [-3.6942249, 40.430761]}","Calle de Caracas, 21, 28010 Madrid, Spain",2.0,pet friendly restaurant
+49,Superchulo Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7032607, 40.4285343]}","C. de Manuela Malasaña, 11, 28004 Madrid, Spain",2.0,pet friendly restaurant
+50,HanSo Café,4.4,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}","Calle del Pez, 20, 28004 Madrid, Spain",1.0,pet friendly restaurant
+51,Zombie Bar,4.2,"{'type': 'Point', 'coordinates': [-3.7047748, 40.42320120000001]}","Calle del Pez, 7, 28004 Madrid, Spain",2.0,pet friendly restaurant
+52,La Bicicleta Galileo,4.1,"{'type': 'Point', 'coordinates': [-3.7109904, 40.4337222]}","Calle de Galileo, 39, 28015 Madrid, Spain",,pet friendly restaurant
+53,Plenti,4.7,"{'type': 'Point', 'coordinates': [-3.6901309, 40.413013]}","Calle de Moreto, 17, 28014 Madrid, Spain",1.0,pet friendly restaurant
+54,Livin'Japan,4.6,"{'type': 'Point', 'coordinates': [-3.6994991, 40.41059569999999]}","Calle de la Torrecilla del Leal, 20, 28012 Madrid, Spain",1.0,pet friendly restaurant
+55,Azotea del Círculo,4.2,"{'type': 'Point', 'coordinates': [-3.6964847, 40.4183253]}","Azotea del Círculo de Bellas Artes de Madrid, Calle del Marqués de Casa Riera, 2, 28004 Madrid, Spain",3.0,pet friendly restaurant
+56,Murillo Café,3.9,"{'type': 'Point', 'coordinates': [-3.6913271, 40.4130594]}","Calle de Ruiz de Alarcón, 27, 28014 Madrid, Spain",2.0,pet friendly restaurant
+57,Juan Raro,4.2,"{'type': 'Point', 'coordinates': [-3.7009906, 40.4069989]}","Calle de Miguel Servet, 7, 28012 Madrid, Spain",2.0,pet friendly restaurant
+58,Honest Greens Hortaleza,4.5,"{'type': 'Point', 'coordinates': [-3.6978312, 40.4248241]}","Calle de Hortaleza, 100, 28004 Madrid, Spain",2.0,pet friendly restaurant
+59,Muerde Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.7018347, 40.4255963]}","Calle de San Vicente Ferrer, 4, 28004 Madrid, Spain",,pet friendly restaurant

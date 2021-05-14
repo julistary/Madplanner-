@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Arcade machines Recreativas - MiArcade,4.8,"{'type': 'Point', 'coordinates': [-3.6444214, 40.43695049999999]}","Calle de Sambara, 119, 28027 Madrid, Spain",,arcade
+1,NEXT LEVEL BAR Arcade,4.4,"{'type': 'Point', 'coordinates': [-3.705281, 40.4212314]}","Calle de Tudescos, 4, bajo, 28004 Madrid, Spain",1.0,arcade
+2,CIVR: Your Ciber Virtual Reality in Madrid,4.8,"{'type': 'Point', 'coordinates': [-3.6534324, 40.4298223]}","Calle de Marcelino Álvarez, 33, 28017 Madrid, Spain",,arcade
+3,SALON DE JUEGO MAX,2.3,"{'type': 'Point', 'coordinates': [-3.6739973, 40.4387175]}","Avenida de América, 24, 28028 Madrid, Spain",,arcade
+4,Premium Salon De Juegos,3.7,"{'type': 'Point', 'coordinates': [-3.7053187, 40.4293304]}","Calle de Carranza, 27, 28004 Madrid, Spain",,arcade
+5,Arcade Retro,3.8,"{'type': 'Point', 'coordinates': [-3.7064665, 40.4770363]}","7 y 9, Plaza de Padrón, 28029 Madrid, Spain",,arcade
+6,Salon de Juegos Ayala,3.4,"{'type': 'Point', 'coordinates': [-3.6375977, 40.4376811]}","Av. de la Institución Libre de Enseñanza, 1, 28037 Madrid, Spain",,arcade
+7,Slots Madrid S L,3.7,"{'type': 'Point', 'coordinates': [-3.6785352, 40.3951281]}","C. de Méndez Álvaro, 83, 28045 Madrid, Spain",,arcade
+8,CityPlay,4.1,"{'type': 'Point', 'coordinates': [-3.636201, 40.463136]}","Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",,arcade
+9,Premium Salon De Juegos,3.8,"{'type': 'Point', 'coordinates': [-3.7012967, 40.404172]}","Calle de Sebastián Elcano, 3, 28012 Madrid, Spain",,arcade
+10,SALON DE JUEGO Royal Usera,2.8,"{'type': 'Point', 'coordinates': [-3.7009547, 40.3891447]}","Calle de Antonio López, 160, 28026 Madrid, Spain",,arcade
+11,Joypazar SA,4.3,"{'type': 'Point', 'coordinates': [-3.6405867, 40.4366149]}","Calle de Alcalá, 390, 28027 Madrid, Spain",,arcade
+12,Codere,1.0,"{'type': 'Point', 'coordinates': [-3.7036389, 40.4072682]}","Calle de Embajadores, 43, 28012 Madrid, Spain",,arcade
+13,Juegos Infantiles,4.2,"{'type': 'Point', 'coordinates': [-3.6762918, 40.4039201]}","C. de Abtao, 10, 28007 Madrid, Spain",,arcade
+14,Codere,5.0,"{'type': 'Point', 'coordinates': [-3.706429399999999, 40.4197768]}","Calle de Preciados, 32, 28013 Madrid, Spain",,arcade
+15,Codere,3.4,"{'type': 'Point', 'coordinates': [-3.7046575, 40.4169278]}","Puerta del Sol, 9, 28013 Madrid, Spain",,arcade
+16,Sportsbook - Playground,3.5,"{'type': 'Point', 'coordinates': [-3.704840299999999, 40.4561543]}","Calle de Francos Rodríguez, 15, 28039 Madrid, Spain",,arcade
+17,Restaurante Arcade,4.1,"{'type': 'Point', 'coordinates': [-3.7118583, 40.4152222]}","Calle Mayor, 73, 28013 Madrid, Spain",2.0,arcade
+18,Codere Apuestas Deportivas,0.0,"{'type': 'Point', 'coordinates': [-3.6679725, 40.3974943]}","Av. de la Albufera, 18, 28038 Madrid, Spain",,arcade
+19,Codere,0.0,"{'type': 'Point', 'coordinates': [-3.703069499999999, 40.4173864]}","Calle de la Montera, 5, 28013 Madrid, Spain",,arcade
+20,TOKA SALON DE JUEGO,4.4,"{'type': 'Point', 'coordinates': [-3.6990169, 40.4121959]}","C. de Atocha, 56, 28012 Madrid, Spain",,arcade
+21,Codere,3.3,"{'type': 'Point', 'coordinates': [-3.6989739, 40.435937]}","Calle de Sta Engracia, 68, 28010 Madrid, Spain",,arcade
+22,Codere,0.0,"{'type': 'Point', 'coordinates': [-3.7050012, 40.4362341]}","Calle de Bravo Murillo, 27, 28015 Madrid, Spain",,arcade
+23,Codere,0.0,"{'type': 'Point', 'coordinates': [-3.7030686, 40.4116598]}","Calle de Lavapiés, 8, 28012 Madrid, Spain",,arcade
+24,Codere,4.2,"{'type': 'Point', 'coordinates': [-3.706859999999999, 40.41075]}","Plaza de Cascorro, 5, 28005 Madrid, Spain",,arcade
+25,Codere,2.9,"{'type': 'Point', 'coordinates': [-3.711855799999999, 40.4314604]}","Calle de Blasco de Garay, 15, 28015 Madrid, Spain",,arcade
+26,Codere,3.2,"{'type': 'Point', 'coordinates': [-3.7023466, 40.4165697]}","Calle de Espoz y Mina, 2, 28012 Madrid, Spain",,arcade
+27,Salon De Juego Golden,0.0,"{'type': 'Point', 'coordinates': [-3.7321911, 40.4121508]}","Paseo de Extremadura, 67, 28011 Madrid, Spain",,arcade
+28,Codere,3.3,"{'type': 'Point', 'coordinates': [-3.6988351, 40.4595847]}","Calle Pensamiento, 2, 28020 Madrid, Spain",,arcade
+29,Codere,5.0,"{'type': 'Point', 'coordinates': [-3.700534799999999, 40.4346732]}","Calle Eloy Gonzalo, 27, 28010 Madrid, Spain",,arcade
+30,Codere,5.0,"{'type': 'Point', 'coordinates': [-3.700165, 40.3882783]}","Calle de Antonio López, 174, 28026 Madrid, Spain",,arcade
+31,Orenes Sports Bar & Salón de Juego,3.7,"{'type': 'Point', 'coordinates': [-3.6915988, 40.4505292]}","Paseo de la Castellana, 91, 28046 Madrid, Spain",,arcade
+32,Codere,4.3,"{'type': 'Point', 'coordinates': [-3.6967584, 40.3954627]}","Calle de Tomás Borrás, 7, 28045 Madrid, Spain",,arcade
+33,Codere,0.0,"{'type': 'Point', 'coordinates': [-3.702879, 40.3830606]}","Calle Pilarica, 79, 28026 Madrid, Spain",,arcade
+34,Codere Apuestas Deportivas,1.0,"{'type': 'Point', 'coordinates': [-3.6384928, 40.4375131]}","Calle de Alcalá, 412, 28027 Madrid, Spain",,arcade
+35,Codere,4.4,"{'type': 'Point', 'coordinates': [-3.7046837, 40.4467108]}","Av. de la Reina Victoria, 5, 28003 Madrid, Spain",,arcade
+36,Codere,4.3,"{'type': 'Point', 'coordinates': [-3.6724484, 40.4453912]}","Calle de López de Hoyos, 103, 28002 Madrid, Spain",,arcade
+37,"Pinball Madrid. Alquiler de pinballs, arcade, dianas, billares y tragaperras",5.0,"{'type': 'Point', 'coordinates': [-3.702599, 40.386965]}","Calle San Antonio de Padua, 8, Piso 1º, 28026 Madrid, Spain",,arcade
+38,Codere Apuestas Deportivas,0.0,"{'type': 'Point', 'coordinates': [-3.71414, 40.47575]}","Calle de Sarria, 52, 28029 Madrid, Spain",,arcade
+39,Codere,0.0,"{'type': 'Point', 'coordinates': [-3.7063215, 40.4337347]}","C. de Fernando el Católico, 3, 28015 Madrid, Spain",,arcade
+40,Codere,3.0,"{'type': 'Point', 'coordinates': [-3.7046924, 40.4313103]}","Calle de Jerónimo de la Quintana, 11, 28010 Madrid, Spain",,arcade
+41,Orenes Sports Bar & Salón de Juego,4.6,"{'type': 'Point', 'coordinates': [-3.6669748, 40.4287337]}","Calle de Alcalá, 160, 28028 Madrid, Spain",,arcade
+42,Codere,3.7,"{'type': 'Point', 'coordinates': [-3.7005361, 40.4583522]}","Calle de Bravo Murillo, 228, 28020 Madrid, Spain",,arcade
+43,Codere,3.3,"{'type': 'Point', 'coordinates': [-3.6674484, 40.3975681]}","Av. de la Albufera, 17, 28038 Madrid, Spain",,arcade
+44,Codere,4.0,"{'type': 'Point', 'coordinates': [-3.6976984, 40.4623274]}","Calle de Bravo Murillo, 303, 28020 Madrid, Spain",,arcade
+45,arcaderetro,5.0,"{'type': 'Point', 'coordinates': [-3.7119461, 40.4734722]}","Av. de Betanzos, 19, 28029 Madrid, Spain",,arcade
+46,Orenes Vive La Suerte,4.0,"{'type': 'Point', 'coordinates': [-3.734294799999999, 40.3866907]}","Calle del Gral. Ricardos, 171, 28025 Madrid, Spain",,arcade
+47,Codere Apuestas Deportivas,2.7,"{'type': 'Point', 'coordinates': [-3.5627851, 40.4264687]}","Plaza del Dr. Marañón, 10, 28821 Coslada, Madrid, Spain",,arcade
+48,Codere Apuestas Deportivas,3.5,"{'type': 'Point', 'coordinates': [-3.655433999999999, 40.4233919]}","entrada por calle, Marqués de Corbera, Cl. de San Maximiliano, 12, 28017 Madrid, Spain",,arcade
+49,Orenes Sports Bar & Salón de Juego,1.5,"{'type': 'Point', 'coordinates': [-3.6680782, 40.39653089999999]}","Av del Monte Igueldo, 023, 28053 Madrid, Spain",,arcade
+50,Codere,3.7,"{'type': 'Point', 'coordinates': [-3.6408812, 40.3865215]}","Av. Rafael Alberti, 25, 28018 Madrid, Spain",,arcade
+51,Codere Apuestas Deportivas,3.0,"{'type': 'Point', 'coordinates': [-3.7394172, 40.3888535]}","Calle de la Oca, 65, 28025 Madrid, Spain",,arcade
+52,Orenes Sports Bar & Salón de Juego,0.0,"{'type': 'Point', 'coordinates': [-3.7038257, 40.4505711]}","Calle de Alvarado, 1, 28039 Madrid, Spain",,arcade
+53,Bricoarcade,4.5,"{'type': 'Point', 'coordinates': [-3.5955587, 40.472272]}","Calle Huracán, 41, 28042 Madrid, Spain",,arcade
+54,Orenes Sports Bar & Salón de Juego,3.0,"{'type': 'Point', 'coordinates': [-3.6745596, 40.4409467]}","Calle Cartagena,122 ,Esq, Calle Constancia, 1, 28002 Madrid, Spain",,arcade
+55,Codere,3.4,"{'type': 'Point', 'coordinates': [-3.709061299999999, 40.3947671]}","Calle de Antonio López, 57, 28019 Madrid, Spain",,arcade
+56,TOKA SALON DE JUEGO,0.0,"{'type': 'Point', 'coordinates': [-3.6910144, 40.4257437]}","Calle de Génova, 2, 28004 Madrid, Spain",,arcade
+57,Merkur Salón de Juegos,0.0,"{'type': 'Point', 'coordinates': [-3.6408404, 40.4326432]}","Calle de Vital Aza, nº 53, 28017 Madrid, Spain",,arcade
+58,Orenes Sports Bar & Salón de Juego,3.0,"{'type': 'Point', 'coordinates': [-3.7069041, 40.386631]}","Calle Gabino Jimeno, 5, 28026 Madrid, Spain",,arcade
+59,royal crown,4.3,"{'type': 'Point', 'coordinates': [-3.7375722, 40.3890997]}","Calle de la Oca, 43, 28025 Madrid, Spain",,arcade

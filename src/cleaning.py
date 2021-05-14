@@ -1,4 +1,6 @@
 import pandas as pd
+import numpy as np
+import re 
 
 def create_subdata(listita):
     """
@@ -20,7 +22,9 @@ def create_subdata(listita):
          "centro comercial", "pista padel", "pista tenis", "campo de futbol", 
          "paintball", "multiaventura", "cancha baloncesto", "gluten free", 
          "autocine", "cata de vino", "pista de hielo", "senderismo", "karts", "laser tag",
-          "tunel de viento", "brunch", "teleferico", "escalada", "golf"]
+          "tunel de viento", "brunch", "teleferico", "escalada", "golf",
+          "circus", "piano bar", "salsa club", "samba club", "water park", 
+          "pet friendly restaurant", "parque de atracciones"]
 
     for place in lista:
         name = "data/" + place + ".csv"
@@ -33,35 +37,27 @@ def create_subdata(listita):
     
     return pd.concat(df_names, ignore_index=True)
 
-def address_1(row):
-    """
-    Cleans a row    
-    Args:
-        row: the row to be cleaned
-    Returns:
-        The dataframe with the row cleaned
-    """
-    return row[:-14]
 
-def CP(row):
+def address(df):
+    import re
     """
-    Cleans a row    
+    Creates a column with de zip code   
     Args:
-        row: the row to be cleaned
+        df(df) :  the df to be cleaned
     Returns:
-        The dataframe with the row cleaned
+        The dataframe with the zip code
     """
-    return row[-5:]
+    pattern = r'\b\d{5}\b'
+    df['CP'] = df.address.apply(lambda x: re.findall(pattern, x))
 
-def address_2(row):
-    """
-    Cleans a row    
-    Args:
-        row: the row to be cleaned
-    Returns:
-        The dataframe with the row cleaned
-    """
-    return row[:-7]
+    list_ = []
+    for sublist in list(df['CP']):
+        try:
+            list_.append(sublist[0])
+        except:
+            list_.append(np.nan)
+    df['CP'] = list_
+    return df
 
 def fill_nulls(df):
     """
@@ -98,3 +94,59 @@ def latlon(df):
     
     df["geometry"] = geometry
     return df
+
+def drop_row(df,code):
+    """
+    Drops useless row    
+    Args:
+        df(df): the df to be cleaned
+        code(str): the place to be cleaned
+    Returns:
+        The dataframe without the rows
+    """
+    
+    zoo_drop = ['Rinoceronte Indio', 'Oso Hormiguero',
+           'Suricata', 'Cigüeñas', 'Sea lions', 'Yack', 'Gorilas',
+           'Koalas', 'Espectáculos de aves', 'Estanque de los delfines',
+           'Elefantes', 'Pingüinos', 'Tigers', 'Rinoceronte',
+           'Mariposas - El Jardín del Edén', 'Lemures', 'Leopardos', 'Monos']
+    
+    tlf_drop = ['Teleférico en Rosales',
+       'Teleferico de Madrid - Country House Station', 'Góra Ebbot',
+       'Parque Teleferico Madrid', 
+       'Bar - Teleferico Casa de Campo'] 
+    
+    park_drop = ['Splash Bash', 'Divertiland Park',
+       'Entrada Batán - Parque de Atracciones Madrid',
+       'Los Rápidos', 'La Jungla',
+       'La Lanzadera', 'El Aserradero', 'Los Fiordos', 'Tifón',
+       'The Walking Dead Experience', 'Microfauna',
+       'Pirate Ship Playground', 'Globos Locos', 'Lordcultura S L',
+       'Magneto Jimmy Neutron', 'Patrulla Canina', 'Rotor',
+       'Tienda Glove World', 'Vertigo', 'La Cueva de las Tarántulas',
+       'Peque Square Sanchinarro',
+       'Licencia para Conducir de las Tortugas Ninja', 'Star Flyer',
+       'Tarántula', 'Padrinos Voladores', 'Urban Planet Jump',
+       'Cazamedusas de Patricio', 'Parque Warner Madrid', 'Top Spin',
+       'Hero Spin', 'La Aventura de Dora', 'Sillas Voladoras',
+       'Diversión en la Granja', 'Parque Hormiguero', 'Space area',
+       'Parque Inclusivo "Módulo Lunar"', 'La Pergola', 'Urban Planet',
+       'Urban Planet: Trampoline Park', 'Zeppelin', 'El Retiro Park',
+       'Jardín de Rocas (MUNCYT)', 'Offices Amusement Park',
+       'Clamber Park Arroyosur', 'Vertical Park',
+       'Ferrocarril de las Delicias',
+       'Madrid Río Park', 'VR Virtual Recall Park & \u200b\u200bAcademy',
+       'Sould Park La Vaguada', 'Casa de Campo Park']
+   
+    if code == "zoo":
+        list_ = zoo_drop
+    elif code == "park":
+        list_ = park_drop
+    elif code == "tlf":
+        list_ = tlf_drop
+        
+    for i in list_: 
+        df.drop(df[df.name==i].index, axis=0, inplace=True)
+        
+    return df
+        
