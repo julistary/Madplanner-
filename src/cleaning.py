@@ -80,9 +80,13 @@ def latlon(df):
     latitude = []
     longitude = []
     for c in list(df["location"]):
-        l = (c.split("["))[1].split(",")[0]
-        longitude.append(float((c.split("["))[1].split(",")[0]))
-        latitude.append(float((c.split(l + ", "))[1].split("]")[0]))
+        try:
+            l = (c.split("["))[1].split(",")[0]
+            longitude.append(float((c.split("["))[1].split(",")[0]))
+            latitude.append(float((c.split(l + ", "))[1].split("]")[0]))
+        except:
+            longitude.append(np.nan)
+            latitude.append(np.nan)
     df["latitude"] = latitude
     df["longitude"] = longitude
     
@@ -137,16 +141,46 @@ def drop_row(df,code):
        'Ferrocarril de las Delicias',
        'Madrid Río Park', 'VR Virtual Recall Park & \u200b\u200bAcademy',
        'Sould Park La Vaguada', 'Casa de Campo Park']
-   
+
+    laser_drop = ['NonameSport (Oficinas)',  'RonquidosMadrid',
+       'Paintball Madrid Action Live', 
+       'Universal Games Recinto Delta Force',
+       'Multiaventura Park en Madrid - Parque Europa',
+       'Paintball Park Madrid', 'Battlefield Laser Combat Madrid',
+       'Zero Latency', 'Humor Amarillo Madrid',
+       'Instituto Médico Español Estética Avanzada Sl',
+       'Clínica Dermatológica Laser - Serafín Fernández-Cañadas']
+
     if code == "zoo":
         list_ = zoo_drop
     elif code == "park":
         list_ = park_drop
     elif code == "tlf":
         list_ = tlf_drop
+    elif code == "laser":
+        list_ = laser_drop
         
     for i in list_: 
         df.drop(df[df.name==i].index, axis=0, inplace=True)
         
     return df
         
+def pricing(row):
+    """
+    Creates a row with the price based on price level   
+    Args:
+        row(df): the row to be translate
+    Returns:
+        The dataframe with the new column
+    """
+        
+    if row == 0.0:
+        return "Free"
+    elif row == 1.0:
+        return "1-15€"
+    elif row == 2.0:
+        return "15-25€"
+    elif row == 3.0:
+        return "25-50€"
+    else: 
+        return "More than 50€"
