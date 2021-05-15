@@ -12,156 +12,99 @@ df_leisure = pd.read_csv("data/leisure.csv", index_col=0)
 def mapita(category, tipo):
     map_1 = Map(location=[40.428990,-3.681209],zoom_start=15)
 
-    if category == "leisure activities":
-        for i, row in df_leisure.iterrows():
-            geom = {
-                "location":[row["latitude"], row["longitude"]],
-                "tooltip" : row["name"]
-            }
-            
-        
-            if row["place"] == "bowling":
-                icon = Icon(color = "orange",
-                            prefix = "fa",
-                            icon = "circle",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "spa":
-                icon = Icon(color = "blue",
-                            prefix = "fa",
-                            icon = "heart",
-                            icon_color = "black"
-                )
-            
-            elif row["place"] == "escape room":
-                icon = Icon(color = "green",
-                            prefix = "fa",
-                            icon = "search",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "laser tag":
-                icon = Icon(color = "beige",
-                            prefix = "fa",
-                            icon = "tag",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "pista de hielo":
-                icon = Icon(color = "pink",
-                            prefix = "fa",
-                            icon = "cube",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "karts":
-                icon = Icon(color = "red",
-                            prefix = "fa",
-                            icon = "car",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "tunel de viento":
-                icon = Icon(color = "lightgreen",
-                            prefix = "fa",
-                            icon = "rocket",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "karts":
-                icon = Icon(color = "red",
-                            prefix = "fa",
-                            icon = "car",
-                            icon_color = "black"
-                )
-
-            elif row["place"] == "teleferico":
-                icon = Icon(color = "purple",
-                            prefix = "fa",
-                            icon = "paper-plane",
-                            icon_color = "black"
-                )
-                
-            else:
-                icon = Icon(color = "lightblue",
-                            prefix = "fa",
-                            icon = "hand-rock-o",
-                            icon_color = "black"
-                )
-            Marker(**geom,icon = icon ).add_to(map_1)
-
-
-    elif category == "restaurant":
-        for i, row in df_restaurants.iterrows():
-            if row["place"] == tipo:
-                geom = {
-                    "location":[row["latitude"], row["longitude"]],
-                    "tooltip" : row["name"]
-                }
-                icon = Icon(color = "lightblue",
-                                prefix = "fa",
-                                icon = "cutlery",
-                                icon_color = "black"
-                )
-
-
-                Marker(**geom,icon = icon ).add_to(map_1)
+    if category == "restaurant": 
+        df = df_restaurants
+        color = "lightblue"
+        icono = "cutlery"
         
     elif category == "snacks":
-        for i, row in df_snacks.iterrows():
+        df = df_snacks
+        color = "blue"
+        icono = "cutlery"
+    
+    elif category == "drinks":
+        df = df_drinks
+        color = "pink"
+        icono = "beer"
+    
+    elif category == "leisure activities":
+        df = df_leisure
+        color = "red"
+        icono = "rocket"
+    
+    elif category == "outdoors":
+        df = df_outdoors
+        color = "green"
+        icono = "pagelines"
+
+    elif category == "party":
+        df = df_party
+        color = "purple"
+        icono = "glass"
+    
+    else:
+        df = df_culture
+        color = "white"
+        icono = "book"
+    
+    for i, row in df.iterrows():
+        if row["place"] == tipo:
             geom = {
                 "location":[row["latitude"], row["longitude"]],
                 "tooltip" : row["name"]
             }
-            
-        
-            if row["place"] == "cake":
-                icon = Icon(color = "beige",
+            icon = Icon(color = color,
                             prefix = "fa",
-                            icon = "cutlery",
+                            icon = icono,
                             icon_color = "black"
-                )
-                
-            elif row["place"] == "cupcakes":
-                icon = Icon(color = "pink",
-                            prefix = "fa",
-                            icon = "cutlery",
-                            icon_color = "black"
-                )
-            
-            elif row["place"] == "sweets":
-                icon = Icon(color = "lightblue",
-                            prefix = "fa",
-                            icon = "cutlery",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "ice cream":
-                icon = Icon(color = "white",
-                            prefix = "fa",
-                            icon = "cutlery",
-                            icon_color = "black"
-                )
-                
-            elif row["place"] == "juices":
-                icon = Icon(color = "orange",
-                            prefix = "fa",
-                            icon = "cutlery",
-                            icon_color = "black"
-                )
-                
-            else:
-                icon = Icon(color = "lightgreen",
-                            prefix = "fa",
-                            icon = "cutlery",
-                            icon_color = "black"
-                )
-                
+            )
+
+
             Marker(**geom,icon = icon ).add_to(map_1)
+  
+   
     return map_1
 
-def datafr(tipo):
-    df = df_restaurants[df_restaurants["place"]==tipo].drop(['price_level', 'place', 'CP', 'latitude',
-       'longitude', 'geometry'], axis=1)
+def subcategory(category):
+    if category == "restaurant":
+        df = df_restaurants
+    elif category == "outdoors":
+        df = df_outdoors
+    elif category == "leisure activities":
+        df = df_leisure
+    elif category == "drinks":
+        df = df_drinks
+    elif category == "party":
+        df = df_party
+    elif category == "snacks":
+        df = df_snacks
+    else:
+        df = df_culture
+
+    return list(df.place.unique())
+
+def datafr(tipo,category):
+    if category == "restaurant":
+        df = df_restaurants
+    elif category == "outdoors":
+        df = df_outdoors
+    elif category == "leisure activities":
+        df = df_leisure
+    elif category == "drinks":
+        df = df_drinks
+    elif category == "party":
+        df = df_party
+    elif category == "snacks":
+        df = df_snacks
+    else:
+        df = df_culture
+
+    df = df[df["place"]==tipo].drop(['price_level', 'place', 'CP', 'latitude',
+    'longitude', 'geometry'], axis=1)
+    df = df.reset_index()
+    df = df.drop(["index"],axis=1)
+    
     return df
+  
+
+

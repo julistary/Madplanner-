@@ -119,292 +119,172 @@
 117,Pub Prada,4.5,"Calle de la Ballesta, 26, 28004 Madrid, Spain",1.0,pub,28004,40.4224961,-3.7032089,"{'type': 'Point', 'coordinates': [40.4224961, -3.7032089]}",1-15€
 118,Il Mondo,4.2,"Calle de Claudio Coello, 114, 28006 Madrid, Spain",1.0,pub,28006,40.435958,-3.685202,"{'type': 'Point', 'coordinates': [40.435958, -3.685202]}",1-15€
 119,Hopper,4.3,"Calle de la Cava Baja, 40, 28005 Madrid, Spain",2.0,pub,28005,40.4119537,-3.7102615,"{'type': 'Point', 'coordinates': [40.4119537, -3.7102615]}",1-15€
-120,Commo,3.7,"Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,nightlife,28012,40.41526229999999,-3.702391,"{'type': 'Point', 'coordinates': [40.41526229999999, -3.702391]}",15-25€
-121,Planet Club,4.6,"C. del Príncipe, 20, 28012 Madrid, Spain",2.0,nightlife,28012,40.4152145,-3.7005493,"{'type': 'Point', 'coordinates': [40.4152145, -3.7005493]}",15-25€
-122,Nightlife Madrid,4.8,"Cl. de Ayala, 27, 28001 Madrid, Spain",2.0,nightlife,28001,40.4278501,-3.6845998,"{'type': 'Point', 'coordinates': [40.4278501, -3.6845998]}",1-15€
-123,Cibeles Night Club,3.7,"Calle de las Hileras, 17, 28013 Madrid, Spain",1.0,nightlife,28013,40.4179793,-3.7075008,"{'type': 'Point', 'coordinates': [40.4179793, -3.7075008]}",15-25€
-124,ThunderCat Club,3.9,"Calle de Campoamor, 11, 28004 Madrid, Spain",2.0,nightlife,28004,40.426252,-3.695741899999999,"{'type': 'Point', 'coordinates': [40.426252, -3.695741899999999]}",15-25€
-125,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,nightlife,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",15-25€
-126,Enbabia Infused,4.6,"Calle de Núñez de Arce, 9, 28012 Madrid, Spain",2.0,nightlife,28012,40.4154748,-3.7012258,"{'type': 'Point', 'coordinates': [40.4154748, -3.7012258]}",15-25€
-127,Goya Social Club,3.6,"Calle de Goya, 43, 28001 Madrid, Spain",2.0,nightlife,28001,40.425301,-3.682990999999999,"{'type': 'Point', 'coordinates': [40.425301, -3.682990999999999]}",1-15€
-128,Eleven Club Madrid,3.7,"Calle de Echegaray, 11, 28014 Madrid, Spain",2.0,nightlife,28014,40.41562649999999,-3.6995514,"{'type': 'Point', 'coordinates': [40.41562649999999, -3.6995514]}",15-25€
-129,Sunset 80's,4.4,"Calle de las Huertas, 31, 28014 Madrid, Spain",2.0,nightlife,28014,40.41364,-3.698727,"{'type': 'Point', 'coordinates': [40.41364, -3.698727]}",1-15€
-130,Club 54,4.1,"Calle de Barbieri, 7, 28004 Madrid, Spain",2.0,nightlife,28004,40.42099109999999,-3.6982414,"{'type': 'Point', 'coordinates': [40.42099109999999, -3.6982414]}",1-15€
-131,1862 Dry Bar,4.5,"Calle del Pez, 27, 28004 Madrid, Spain",2.0,nightlife,28004,40.4241629,-3.7065294,"{'type': 'Point', 'coordinates': [40.4241629, -3.7065294]}",1-15€
-132,Kapital,3.8,"C. de Atocha, 125, 28012 Madrid, Spain",3.0,nightlife,28012,40.4097611,-3.6931083,"{'type': 'Point', 'coordinates': [40.4097611, -3.6931083]}",15-25€
-133,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",2.0,nightlife,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [40.4157732, -3.7038293]}",1-15€
-134,Nomad Club,4.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,nightlife,28014,40.4150834,-3.699651799999999,"{'type': 'Point', 'coordinates': [40.4150834, -3.699651799999999]}",1-15€
-135,Discoteca Velvet Madrid,3.6,"Calle de Jacometrezo, 6, 28013 Madrid, Spain",2.0,nightlife,28013,40.4203458,-3.7077554,"{'type': 'Point', 'coordinates': [40.4203458, -3.7077554]}",15-25€
-136,Samsara,3.7,"Calle de la Cruz, 7, 28012 Madrid, Spain",2.0,nightlife,28012,40.4159966,-3.7009025,"{'type': 'Point', 'coordinates': [40.4159966, -3.7009025]}",15-25€
-137,Stardust,3.8,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,nightlife,28013,40.4211093,-3.7089682,"{'type': 'Point', 'coordinates': [40.4211093, -3.7089682]}",1-15€
-138,Joy Eslava Madrid,3.8,"Calle del Arenal, 11, 28013 Madrid, Spain",3.0,nightlife,28013,40.4171637,-3.7065661,"{'type': 'Point', 'coordinates': [40.4171637, -3.7065661]}",15-25€
-139,OPIUM CLUB,3.8,"Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,nightlife,28003,40.437878,-3.692209,"{'type': 'Point', 'coordinates': [40.437878, -3.692209]}",1-15€
-140,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,nightlife,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",1-15€
-141,Berlín Cabaret,3.5,"Costanilla de San Pedro, 11, 28005 Madrid, Spain",2.0,nightlife,28005,40.412346,-3.7106608,"{'type': 'Point', 'coordinates': [40.412346, -3.7106608]}",15-25€
-142,Sala El Sol,4.4,"Calle de los Jardines, 3, 28013 Madrid, Spain",2.0,nightlife,28013,40.4190502,-3.7016593,"{'type': 'Point', 'coordinates': [40.4190502, -3.7016593]}",1-15€
-143,Fucking Monday Madrid,4.2,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,nightlife,28013,40.42110390000001,-3.7089062,"{'type': 'Point', 'coordinates': [40.42110390000001, -3.7089062]}",15-25€
-144,Hashtag Friday Madrid,5.0,"Calle del Dr Cortezo, 1, 28012 Madrid, Spain",2.0,nightlife,28012,40.4138647,-3.7034155,"{'type': 'Point', 'coordinates': [40.4138647, -3.7034155]}",1-15€
-145,Bling Bling Madrid,3.3,"Calle de Génova, 28, 28004 Madrid, Spain",3.0,nightlife,28004,40.4250798,-3.691738,"{'type': 'Point', 'coordinates': [40.4250798, -3.691738]}",1-15€
-146,Ochoymedio,3.6,"C. de Barceló, 11, 28004 Madrid, Spain",3.0,nightlife,28004,40.4270749,-3.6997571,"{'type': 'Point', 'coordinates': [40.4270749, -3.6997571]}",1-15€
-147,Hopper,4.3,"Calle de la Cava Baja, 40, 28005 Madrid, Spain",2.0,nightlife,28005,40.4119537,-3.7102615,"{'type': 'Point', 'coordinates': [40.4119537, -3.7102615]}",1-15€
-148,Medias Puri,3.9,"Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,nightlife,28012,40.41234910000001,-3.7034333,"{'type': 'Point', 'coordinates': [40.41234910000001, -3.7034333]}",15-25€
-149,The Room Madrid,3.8,"Calle de la Cruz, 33, 28012 Madrid, Spain",2.0,nightlife,28012,40.4149178,-3.702538,"{'type': 'Point', 'coordinates': [40.4149178, -3.702538]}",15-25€
-150,Mondo Disko,3.9,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,nightlife,28014,40.4170817,-3.698812499999999,"{'type': 'Point', 'coordinates': [40.4170817, -3.698812499999999]}",15-25€
-151,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,nightlife,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",1-15€
-152,MADRID CLUB ROCKNROLLA,4.2,"Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,nightlife,28014,40.4129171,-3.6966068,"{'type': 'Point', 'coordinates': [40.4129171, -3.6966068]}",1-15€
-153,New Garamond,3.5,"Calle de Rosario Pino, 14, 28020 Madrid, Spain",2.0,nightlife,28020,40.462761,-3.692955,"{'type': 'Point', 'coordinates': [40.462761, -3.692955]}",1-15€
-154,Night Club,4.0,"Calle de Segovia, 19, 28005 Madrid, Spain",2.0,nightlife,28005,40.413812,-3.712771,"{'type': 'Point', 'coordinates': [40.413812, -3.712771]}",15-25€
-155,Bearbie Madrid,4.1,"Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",1.0,nightlife,28004,40.4211844,-3.699808899999999,"{'type': 'Point', 'coordinates': [40.4211844, -3.699808899999999]}",1-15€
-156,New Black Madrid,5.0,"Calle de Cedaceros, 7, 28014 Madrid, Spain",2.0,nightlife,28014,40.4172965,-3.6983512,"{'type': 'Point', 'coordinates': [40.4172965, -3.6983512]}",1-15€
-157,Blackbird Rock Bar,4.4,"Calle de las Huertas, 22, 28014 Madrid, Spain",2.0,nightlife,28014,40.413687,-3.69963,"{'type': 'Point', 'coordinates': [40.413687, -3.69963]}",1-15€
-158,Black & White,3.9,"Calle de la Libertad, 34, 28004 Madrid, Spain",2.0,nightlife,28004,40.4226249,-3.6967534,"{'type': 'Point', 'coordinates': [40.4226249, -3.6967534]}",15-25€
-159,Discoteca Serrano 41,3.7,"Calle de Serrano, 41, 28001 Madrid, Spain",2.0,nightlife,28001,40.4289888,-3.6873588,"{'type': 'Point', 'coordinates': [40.4289888, -3.6873588]}",15-25€
-160,Sala HYSTERIA,5.0,"Calle de Meléndez Valdés, 52, 28015 Madrid, Spain",2.0,nightlife,28015,40.4331491,-3.7149378,"{'type': 'Point', 'coordinates': [40.4331491, -3.7149378]}",15-25€
-161,Sala Stella,3.9,"Calle de Arlabán, 7, 28014 Madrid, Spain",1.0,nightlife,28014,40.4170757,-3.6988457,"{'type': 'Point', 'coordinates': [40.4170757, -3.6988457]}",1-15€
-162,ZARPA BEAR DE COPAS,4.3,"Calle de las Infantas, 26, 28004 Madrid, Spain",1.0,nightlife,28004,40.42049009999999,-3.6991339,"{'type': 'Point', 'coordinates': [40.42049009999999, -3.6991339]}",15-25€
-163,Star Coyote 54,3.5,"Plaza del Carmen, 3, 28013 Madrid, Spain",1.0,nightlife,28013,40.4190511,-3.7036066,"{'type': 'Point', 'coordinates': [40.4190511, -3.7036066]}",15-25€
-164,Barceló Theatre,3.7,"C. de Barceló, 11, 28004 Madrid, Spain",3.0,nightlife,28004,40.42692900000001,-3.699822,"{'type': 'Point', 'coordinates': [40.42692900000001, -3.699822]}",1-15€
-165,Chelsea Cabaret Madrid,3.6,"Calle de Silva, 6, 28013 Madrid, Spain",2.0,nightlife,28013,40.4207748,-3.7075672,"{'type': 'Point', 'coordinates': [40.4207748, -3.7075672]}",1-15€
-166,Salmon Guru,4.7,"Calle de Echegaray, 21, 28014 Madrid, Spain",2.0,nightlife,28014,40.4148933,-3.699517,"{'type': 'Point', 'coordinates': [40.4148933, -3.699517]}",1-15€
-167,Minis Madrid,0.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,nightlife,28014,40.4151132,-3.6996742,"{'type': 'Point', 'coordinates': [40.4151132, -3.6996742]}",15-25€
-168,Del Diego Cocktail Bar,4.4,"Calle de la Reina, 12, 28004 Madrid, Spain",2.0,nightlife,28004,40.42001399999999,-3.699275,"{'type': 'Point', 'coordinates': [40.42001399999999, -3.699275]}",15-25€
-169,Baila Cariño,2.6,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,nightlife,28013,40.4211109,-3.7090011,"{'type': 'Point', 'coordinates': [40.4211109, -3.7090011]}",15-25€
-170,VOALÁ MADRID,0.0,"Calle de Galileo, 26, 28015 Madrid, Spain",2.0,nightlife,28015,40.4324127,-3.710154999999999,"{'type': 'Point', 'coordinates': [40.4324127, -3.710154999999999]}",1-15€
-171,CHA CHÁ The Club Madrid,3.7,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,nightlife,28014,40.4173993,-3.6983705,"{'type': 'Point', 'coordinates': [40.4173993, -3.6983705]}",1-15€
-172,Ya'sta Club,3.7,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,nightlife,28004,40.4211199,-3.7019926,"{'type': 'Point', 'coordinates': [40.4211199, -3.7019926]}",1-15€
-173,Edén de Huertas Bar de Copas y Cachimbas,4.7,"Calle de las Huertas, 67, 28014 Madrid, Spain",1.0,nightlife,28014,40.41320959999999,-3.695893299999999,"{'type': 'Point', 'coordinates': [40.41320959999999, -3.695893299999999]}",15-25€
-174,Madrid me Mata,4.2,"Corredera Alta de San Pablo, 31, 28004 Madrid, Spain",2.0,nightlife,28004,40.4263132,-3.701771999999999,"{'type': 'Point', 'coordinates': [40.4263132, -3.701771999999999]}",1-15€
-175,La Coquette,4.6,"Calle de las Hileras, 14, 28013 Madrid, Spain",2.0,nightlife,28013,40.4177289,-3.7075658,"{'type': 'Point', 'coordinates': [40.4177289, -3.7075658]}",1-15€
-176,Santamaría Coctelería,4.7,"Calle de la Ballesta, 6, 28004 Madrid, Spain",2.0,nightlife,28004,40.4213371,-3.7034948,"{'type': 'Point', 'coordinates': [40.4213371, -3.7034948]}",1-15€
-177,The Dash,4.4,"C/ de Murillo, 5, 28010 Madrid, Spain",2.0,nightlife,28010,40.4334982,-3.7006417,"{'type': 'Point', 'coordinates': [40.4334982, -3.7006417]}",1-15€
-178,La Boite,3.2,"Calle de Tetuán, 27, 28013 Madrid, Spain",2.0,nightlife,28013,40.4183219,-3.7032049,"{'type': 'Point', 'coordinates': [40.4183219, -3.7032049]}",15-25€
-179,La Fontana de Oro,4.1,"Calle de la Victoria, 1, 28012 Madrid, Spain",2.0,nightlife,28012,40.41640100000001,-3.701585,"{'type': 'Point', 'coordinates': [40.41640100000001, -3.701585]}",1-15€
-180,Flow escuela de baile y pole dance EN MADRID,4.6,"Calle de San Germán, 56, 28020 Madrid, Spain",2.0,dancing,28020,40.4572721,-3.6998981,"{'type': 'Point', 'coordinates': [40.4572721, -3.6998981]}",1-15€
-181,Báilame Dance Studio,4.8,"Calle de San Bernardo, 20, bajo izquierda, 28015 Madrid, Spain",2.0,dancing,28015,40.422743,-3.707351,"{'type': 'Point', 'coordinates': [40.422743, -3.707351]}",15-25€
-182,Kilatinum - Club Bailarios,4.0,"Calle de San Bernardo, 20, 28015 Madrid, Spain",2.0,dancing,28015,40.4227306,-3.7074702,"{'type': 'Point', 'coordinates': [40.4227306, -3.7074702]}",15-25€
-183,Dancing Dreams,4.7,"C. de los Pajaritos, 19, 28007 Madrid, Spain",2.0,dancing,28007,40.4029055,-3.6715391,"{'type': 'Point', 'coordinates': [40.4029055, -3.6715391]}",15-25€
-184,Madrid Salsa Club,1.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",2.0,dancing,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",1-15€
-185,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",2.0,dancing,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [40.4148114, -3.7036534]}",1-15€
-186,A Ritmo de Swing,5.0,"Calle de Tarragona, 18, 28045 Madrid, Spain",2.0,dancing,28045,40.401565,-3.6966,"{'type': 'Point', 'coordinates': [40.401565, -3.6966]}",1-15€
-187,Salsa Madrid Centro,4.4,"Plaza de la Independencia, 8, 28001 Madrid, Spain",2.0,dancing,28001,40.41919770000001,-3.6891317,"{'type': 'Point', 'coordinates': [40.41919770000001, -3.6891317]}",15-25€
-188,The Host Club,4.2,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,dancing,28008,40.4263181,-3.7172868,"{'type': 'Point', 'coordinates': [40.4263181, -3.7172868]}",1-15€
-189,Dancing Boulevard,4.9,"Calle de Andorra, 65, 28043 Madrid, Spain",2.0,dancing,28043,40.458986,-3.6441465,"{'type': 'Point', 'coordinates': [40.458986, -3.6441465]}",1-15€
-190,Circle Dance,4.7,"Pl. del Conde del Valle de Súchil, 3, 28015 Madrid, Spain",2.0,dancing,28015,40.430269,-3.707742,"{'type': 'Point', 'coordinates': [40.430269, -3.707742]}",15-25€
-191,"ABAILARMADRID - Dance, friends and fun",4.9,"Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",2.0,dancing,28028,40.4345285,-3.6687524,"{'type': 'Point', 'coordinates': [40.4345285, -3.6687524]}",15-25€
-192,Dancing Drama,5.0,"Calle Jaime Hermida, 16, 28037 Madrid, Spain",2.0,dancing,28037,40.43862720000001,-3.6333899,"{'type': 'Point', 'coordinates': [40.43862720000001, -3.6333899]}",1-15€
-193,International Ballet School and Dance Center,5.0,"Calle de García de Paredes, 76, 28010 Madrid, Spain",2.0,dancing,28010,40.436558,-3.693957,"{'type': 'Point', 'coordinates': [40.436558, -3.693957]}",15-25€
-194,Madrid Pole Dance Studio,4.6,"Calle Fundadores, 29, 28028 Madrid, Spain",2.0,dancing,28028,40.424669,-3.665589,"{'type': 'Point', 'coordinates': [40.424669, -3.665589]}",15-25€
-195,Claquetap Dance Studio,4.9,"Calle de la Cruz del Sur, 5, 28007 Madrid, Spain",2.0,dancing,28007,40.411556,-3.668046799999999,"{'type': 'Point', 'coordinates': [40.411556, -3.668046799999999]}",1-15€
-196,Big Mama Swing,4.9,"Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",2.0,dancing,28012,40.4043683,-3.700028499999999,"{'type': 'Point', 'coordinates': [40.4043683, -3.700028499999999]}",15-25€
-197,Discoteca Azúcar,3.7,"28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,dancing,28012,40.4106491,-3.6952526,"{'type': 'Point', 'coordinates': [40.4106491, -3.6952526]}",15-25€
-198,WOSAP Dance School,4.7,"Calle de los Cabestreros, 5, 28012 Madrid, Spain",2.0,dancing,28012,40.4093326,-3.7043237,"{'type': 'Point', 'coordinates': [40.4093326, -3.7043237]}",1-15€
-199,Jennifer Lisette Lopez Dance,5.0,"Calle de Santa Ana, 7, 28005 Madrid, Spain",2.0,dancing,28005,40.4100046,-3.7080288,"{'type': 'Point', 'coordinates': [40.4100046, -3.7080288]}",15-25€
-200,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",2.0,dancing,28012,40.4075344,-3.6970864,"{'type': 'Point', 'coordinates': [40.4075344, -3.6970864]}",15-25€
-201,Madrid Dance Center,4.7,"Calle de La Solana de Opañel, 6, 28019 Madrid, Spain",2.0,dancing,28019,40.389393,-3.7201213,"{'type': 'Point', 'coordinates': [40.389393, -3.7201213]}",1-15€
-202,Big South,4.9,"Calle del Laurel, 14, 28005 Madrid, Spain",2.0,dancing,28005,40.4028187,-3.7048682,"{'type': 'Point', 'coordinates': [40.4028187, -3.7048682]}",15-25€
-203,Acting School of Performing Arts,4.9,"Calle de Martín de los Heros, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.42762200000001,-3.7162738,"{'type': 'Point', 'coordinates': [40.42762200000001, -3.7162738]}",1-15€
-204,Dance esCool,5.0,"Calle Prof. Waksman, 9, 28036 Madrid, Spain",2.0,dancing,28036,40.4561509,-3.6880775,"{'type': 'Point', 'coordinates': [40.4561509, -3.6880775]}",15-25€
-205,Central Pole,4.8,"Paseo de Extremadura, 159, 28011 Madrid, Spain",2.0,dancing,28011,40.4082662,-3.7425123,"{'type': 'Point', 'coordinates': [40.4082662, -3.7425123]}",15-25€
-206,OrienteOccidente - Belly Dance in Madrid,4.9,"Calle del Gral Oraá, 76, 28006 Madrid, Spain",2.0,dancing,28006,40.4357383,-3.6775164,"{'type': 'Point', 'coordinates': [40.4357383, -3.6775164]}",15-25€
-207,Juan Brenes Dancer,4.9,"28008, Calle de Martín de los Heros, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.4276882,-3.716234199999999,"{'type': 'Point', 'coordinates': [40.4276882, -3.716234199999999]}",15-25€
-208,Danza 13 Dance center,4.6,"Calle Carlos Hernández, 28, 28017 Madrid, Spain",2.0,dancing,28017,40.4305335,-3.6485219,"{'type': 'Point', 'coordinates': [40.4305335, -3.6485219]}",15-25€
-209,Blanco y Negro Studio,4.5,"Calle de Julian Camarillo, 47, Portal D Local 007, 28037 Madrid, Spain",2.0,dancing,28037,40.436576,-3.622875999999999,"{'type': 'Point', 'coordinates': [40.436576, -3.622875999999999]}",1-15€
-210,www.Pro-studio.es,4.7,"Calle de Canarias, 41, 28045 Madrid, Spain",2.0,dancing,28045,40.401839,-3.6912343,"{'type': 'Point', 'coordinates': [40.401839, -3.6912343]}",1-15€
-211,Paso a Paso Madrid. Escuela de baile,4.3,"Centro La Corrala de la Danza, Calle del Dr. Piga, 5 Bis, 28012 Madrid, Spain",2.0,dancing,28012,40.40868,-3.6986523,"{'type': 'Point', 'coordinates': [40.40868, -3.6986523]}",1-15€
-212,School of Flamenco and Spanish Dance Isabel Quintero,4.9,"Calle de la Libertad, 7, 28004 Madrid, Spain",2.0,dancing,28004,40.420588,-3.697465,"{'type': 'Point', 'coordinates': [40.420588, -3.697465]}",1-15€
-213,La Forja Dance Academy,5.0,"Calle de la Duquesa de Tamames, 7, 28044 Madrid, Spain",2.0,dancing,28044,40.37278999999999,-3.7497215,"{'type': 'Point', 'coordinates': [40.37278999999999, -3.7497215]}",1-15€
-214,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",2.0,dancing,28001,40.4289177,-3.6771376,"{'type': 'Point', 'coordinates': [40.4289177, -3.6771376]}",1-15€
-215,Extreme Pole Dance Studio Madrid,0.0,"Calle del Pilar de Zaragoza, 75b, 28028 Madrid, Spain",2.0,dancing,28028,40.4367159,-3.672952,"{'type': 'Point', 'coordinates': [40.4367159, -3.672952]}",1-15€
-216,GLOBAL DANCE,0.0,"Estación de Chamartín, s/n, 28036 Madrid, Spain",2.0,dancing,28036,40.4716431,-3.6817252,"{'type': 'Point', 'coordinates': [40.4716431, -3.6817252]}",15-25€
-217,Dance Studio Montecarmelo,4.7,"Av. del Monasterio de El Escorial, 40D, 28049 Madrid, Spain",2.0,dancing,28049,40.5033938,-3.7006753,"{'type': 'Point', 'coordinates': [40.5033938, -3.7006753]}",1-15€
-218,Fit Dancing,4.1,"Av. Don Juan de Borbón, local 10, 28903 Getafe, Madrid, Spain",2.0,dancing,28903,40.3174227,-3.7154665,"{'type': 'Point', 'coordinates': [40.3174227, -3.7154665]}",1-15€
-219,Ballet Flamenco de Madrid,4.5,"Plaza del Carmen, 1, 28013 Madrid, Spain",2.0,dancing,28013,40.418401,-3.70316,"{'type': 'Point', 'coordinates': [40.418401, -3.70316]}",15-25€
-220,Sanse Danza,4.8,"Av. de Tenerife, 28, 28703 San Sebastián de los Reyes, Madrid, Spain",2.0,dancing,28703,40.5594074,-3.6169686,"{'type': 'Point', 'coordinates': [40.5594074, -3.6169686]}",15-25€
-221,Flamenco Show,0.0,"Calle de la Moreria, 17, 28005 Madrid, Spain",2.0,dancing,28005,40.4126847,-3.7141641,"{'type': 'Point', 'coordinates': [40.4126847, -3.7141641]}",1-15€
-222,ART DANCING MUSIC - Escuela de Artes Escénicas en Madrid,5.0,"Av. de la Osa Mayor, 32, 28023 Madrid, Spain",2.0,dancing,28023,40.4595765,-3.7793307,"{'type': 'Point', 'coordinates': [40.4595765, -3.7793307]}",1-15€
-223,Funflow Dance,5.0,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,dancing,28004,40.42107860000001,-3.701919,"{'type': 'Point', 'coordinates': [40.42107860000001, -3.701919]}",1-15€
-224,Faena Madrid,3.3,"C. de Atocha, 125, 28012 Madrid, Spain",2.0,dancing,28012,40.40969219999999,-3.6930276,"{'type': 'Point', 'coordinates': [40.40969219999999, -3.6930276]}",1-15€
-225,Centro de Danza y Arte de Madrid (CDAM),4.7,"Calle de los Misterios, 8, 28027 Madrid, Spain",2.0,dancing,28027,40.4389592,-3.6396922,"{'type': 'Point', 'coordinates': [40.4389592, -3.6396922]}",1-15€
-226,Orishas Dance,4.9,"Calle de Longares, 10, 28022 Madrid, Spain",2.0,dancing,28022,40.4310956,-3.6094692,"{'type': 'Point', 'coordinates': [40.4310956, -3.6094692]}",1-15€
-227,The Place Dance Studio Madrid,4.9,"Calle Musas, 16, 28022 Madrid, Spain",2.0,dancing,28022,40.4367881,-3.6081518,"{'type': 'Point', 'coordinates': [40.4367881, -3.6081518]}",15-25€
-228,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"Calle de Montesa, 43, 28006 Madrid, Spain",2.0,dancing,28006,40.430664,-3.672469,"{'type': 'Point', 'coordinates': [40.430664, -3.672469]}",1-15€
-229,Studio11® La Escuela de Baile,4.8,"Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",2.0,dancing,28028,40.438095,-3.6664831,"{'type': 'Point', 'coordinates': [40.438095, -3.6664831]}",1-15€
-230,Karnak bellydance,4.8,"Calle de la Libertad, 7, 28004 Madrid, Spain",2.0,dancing,28004,40.4205609,-3.6974781,"{'type': 'Point', 'coordinates': [40.4205609, -3.6974781]}",15-25€
-231,Pasión Dance,4.8,"Calle de Manuel Ferrero, 5, 28036 Madrid, Spain",2.0,dancing,28036,40.4681966,-3.6845211,"{'type': 'Point', 'coordinates': [40.4681966, -3.6845211]}",15-25€
-232,Escuela de Baile D'angus Dance,4.9,"C/ del Dr. Gómez Ulla, 8, 28028 Madrid, Spain",2.0,dancing,28028,40.4293631,-3.6678461,"{'type': 'Point', 'coordinates': [40.4293631, -3.6678461]}",1-15€
-233,Salsabachata Quevedo,4.8,"Calle Cercedilla, 3, 28015 Madrid, Spain",2.0,dancing,28015,40.4357353,-3.7050633,"{'type': 'Point', 'coordinates': [40.4357353, -3.7050633]}",15-25€
-234,EL HORNO,4.4,"Calle de la Esgrima, 11, 28012 Madrid, Spain",2.0,dancing,28012,40.41107,-3.704451,"{'type': 'Point', 'coordinates': [40.41107, -3.704451]}",1-15€
-235,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,dancing,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",1-15€
-236,SpazioDanza,4.6,"Cl. de Don Quijote, 28, 28020 Madrid, Spain",2.0,dancing,28020,40.44868,-3.699093999999999,"{'type': 'Point', 'coordinates': [40.44868, -3.699093999999999]}",15-25€
-237,Dame2Salsa - Salsa cubana en Madrid,5.0,"Calle del Tutor, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.43092,-3.7178349,"{'type': 'Point', 'coordinates': [40.43092, -3.7178349]}",1-15€
-238,BSK DANCE VISTA ALEGRE,4.6,"Calle de, Calle Bernardina Aranguren, 10, 28025 Madrid, Spain",2.0,dancing,28025,40.3892783,-3.7415055,"{'type': 'Point', 'coordinates': [40.3892783, -3.7415055]}",1-15€
-239,Salsabachata Avenida de América,4.7,"Calle de Coslada, 19, 28028 Madrid, Spain",2.0,dancing,28028,40.4383234,-3.6734278,"{'type': 'Point', 'coordinates': [40.4383234, -3.6734278]}",15-25€
-240,Discoteca Velvet Madrid,3.6,"Calle de Jacometrezo, 6, 28013 Madrid, Spain",2.0,discoteca,28013,40.4203458,-3.7077554,"{'type': 'Point', 'coordinates': [40.4203458, -3.7077554]}",15-25€
-241,Samsara,3.7,"Calle de la Cruz, 7, 28012 Madrid, Spain",2.0,discoteca,28012,40.4159966,-3.7009025,"{'type': 'Point', 'coordinates': [40.4159966, -3.7009025]}",1-15€
-242,Joy Eslava Madrid,3.8,"Calle del Arenal, 11, 28013 Madrid, Spain",3.0,discoteca,28013,40.4171637,-3.7065661,"{'type': 'Point', 'coordinates': [40.4171637, -3.7065661]}",15-25€
-243,Eleven Club Madrid,3.7,"Calle de Echegaray, 11, 28014 Madrid, Spain",2.0,discoteca,28014,40.41562649999999,-3.6995514,"{'type': 'Point', 'coordinates': [40.41562649999999, -3.6995514]}",15-25€
-244,Goya Social Club,3.6,"Calle de Goya, 43, 28001 Madrid, Spain",2.0,discoteca,28001,40.425301,-3.682990999999999,"{'type': 'Point', 'coordinates': [40.425301, -3.682990999999999]}",1-15€
-245,Planet Club,4.6,"C. del Príncipe, 20, 28012 Madrid, Spain",2.0,discoteca,28012,40.4152145,-3.7005493,"{'type': 'Point', 'coordinates': [40.4152145, -3.7005493]}",15-25€
-246,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,discoteca,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",15-25€
-247,OPIUM CLUB,3.8,"Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,discoteca,28003,40.437878,-3.692209,"{'type': 'Point', 'coordinates': [40.437878, -3.692209]}",15-25€
-248,Kapital,3.8,"C. de Atocha, 125, 28012 Madrid, Spain",3.0,discoteca,28012,40.4097611,-3.6931083,"{'type': 'Point', 'coordinates': [40.4097611, -3.6931083]}",15-25€
-249,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,discoteca,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",15-25€
-250,Nomad Club,4.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,discoteca,28014,40.4150834,-3.699651799999999,"{'type': 'Point', 'coordinates': [40.4150834, -3.699651799999999]}",15-25€
-251,Cibeles Night Club,3.7,"Calle de las Hileras, 17, 28013 Madrid, Spain",1.0,discoteca,28013,40.4179793,-3.7075008,"{'type': 'Point', 'coordinates': [40.4179793, -3.7075008]}",15-25€
-252,Sala El Sol,4.4,"Calle de los Jardines, 3, 28013 Madrid, Spain",2.0,discoteca,28013,40.4190502,-3.7016593,"{'type': 'Point', 'coordinates': [40.4190502, -3.7016593]}",1-15€
-253,Le Boutique Club,3.5,"Calle de Serrano, 45, 28001 Madrid, Spain",3.0,discoteca,28001,40.4292138,-3.6875989,"{'type': 'Point', 'coordinates': [40.4292138, -3.6875989]}",1-15€
-254,The Host Club,4.2,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,discoteca,28008,40.4263181,-3.7172868,"{'type': 'Point', 'coordinates': [40.4263181, -3.7172868]}",15-25€
-255,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,discoteca,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",15-25€
-256,GUNILLA CLUB,3.4,"Paseo de Recoletos, 16, 28001 Madrid, Spain",3.0,discoteca,28001,40.4226066,-3.6910073,"{'type': 'Point', 'coordinates': [40.4226066, -3.6910073]}",15-25€
-257,Bling Bling Madrid,3.3,"Calle de Génova, 28, 28004 Madrid, Spain",3.0,discoteca,28004,40.4250798,-3.691738,"{'type': 'Point', 'coordinates': [40.4250798, -3.691738]}",1-15€
-258,Palace Disco Club,3.4,"Plaza de Isabel II, 7, 28013 Madrid, Spain",2.0,discoteca,28013,40.4184349,-3.7089488,"{'type': 'Point', 'coordinates': [40.4184349, -3.7089488]}",1-15€
-259,Bearbie Madrid,4.1,"Plaza de Pedro Zerolo, 2, 28004 Madrid, Spain",1.0,discoteca,28004,40.4211844,-3.699808899999999,"{'type': 'Point', 'coordinates': [40.4211844, -3.699808899999999]}",15-25€
-260,Ochoymedio,3.6,"C. de Barceló, 11, 28004 Madrid, Spain",3.0,discoteca,28004,40.4270749,-3.6997571,"{'type': 'Point', 'coordinates': [40.4270749, -3.6997571]}",15-25€
-261,Commo,3.7,"Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,discoteca,28012,40.41526229999999,-3.702391,"{'type': 'Point', 'coordinates': [40.41526229999999, -3.702391]}",15-25€
-262,Discoteca Azúcar,3.7,"28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,discoteca,28012,40.4106491,-3.6952526,"{'type': 'Point', 'coordinates': [40.4106491, -3.6952526]}",15-25€
-263,Executives Club Madrid,5.0,"Calle de María de Molina, 26, 28006 Madrid, Spain",2.0,discoteca,28006,40.4375802,-3.6847934,"{'type': 'Point', 'coordinates': [40.4375802, -3.6847934]}",1-15€
-264,Sala Morocco,3.8,"Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",2.0,discoteca,28004,40.422116,-3.707419,"{'type': 'Point', 'coordinates': [40.422116, -3.707419]}",15-25€
-265,Delirium Dance Club,3.8,"Calle de Pelayo, 59, 28004 Madrid, Spain",2.0,discoteca,28004,40.42497840000001,-3.696954899999999,"{'type': 'Point', 'coordinates': [40.42497840000001, -3.696954899999999]}",1-15€
-266,Factory Air-Show Girls Discoteca,4.6,"Av. de Gumersindo Llorente, 19, 28022 Madrid, Spain",2.0,discoteca,28022,40.4470272,-3.5648067,"{'type': 'Point', 'coordinates': [40.4470272, -3.5648067]}",15-25€
-267,CHA CHÁ The Club Madrid,3.7,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,discoteca,28014,40.4173993,-3.6983705,"{'type': 'Point', 'coordinates': [40.4173993, -3.6983705]}",1-15€
-268,Copérnico The Club,3.6,"Calle de Fernández de los Ríos, 67, 28015 Madrid, Spain",2.0,discoteca,28015,40.4352709,-3.7135605,"{'type': 'Point', 'coordinates': [40.4352709, -3.7135605]}",15-25€
-269,Kluster,4.2,"Calle de Covarrubias, 42, 28010 Madrid, Spain",2.0,discoteca,28010,40.43166919999999,-3.6981612,"{'type': 'Point', 'coordinates': [40.43166919999999, -3.6981612]}",1-15€
-270,Medias Puri,3.9,"Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,discoteca,28012,40.41234910000001,-3.7034333,"{'type': 'Point', 'coordinates': [40.41234910000001, -3.7034333]}",15-25€
-271,In Da Club Madrid,0.0,"Calle de Cea Bermúdez, Número 21, 28003 Madrid, Spain",2.0,discoteca,28003,40.4386454,-3.7095126,"{'type': 'Point', 'coordinates': [40.4386454, -3.7095126]}",15-25€
-272,Mondo Disko,3.9,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,discoteca,28014,40.4170817,-3.698812499999999,"{'type': 'Point', 'coordinates': [40.4170817, -3.698812499999999]}",25-50€
-273,Blackhaus,3.7,"Ctra. de La Coruña, Km. 8,700, 28023 Madrid, Spain",3.0,discoteca,28023,40.461301,-3.766801,"{'type': 'Point', 'coordinates': [40.461301, -3.766801]}",15-25€
-274,The Club,4.0,"C. de Ventura Rodríguez, 7, 28008 Madrid, Spain",2.0,discoteca,28008,40.42530259999999,-3.7136615,"{'type': 'Point', 'coordinates': [40.42530259999999, -3.7136615]}",15-25€
-275,Freedom,3.2,"Av. de Alberto de Alcocer, 43, 28016 Madrid, Spain",2.0,discoteca,28016,40.4588889,-3.6802778,"{'type': 'Point', 'coordinates': [40.4588889, -3.6802778]}",1-15€
-276,Bar de copas y club nocturno Pigmalion Madrid,4.6,"C. del Pinar, 6, 28006 Madrid, Spain",4.0,discoteca,28006,40.4373877,-3.6881457,"{'type': 'Point', 'coordinates': [40.4373877, -3.6881457]}",15-25€
-277,Club Discoteca Paradiso,3.8,"Calle de la Flor Baja, 6, 28013 Madrid, Spain",2.0,discoteca,28013,40.4224125,-3.7101235,"{'type': 'Point', 'coordinates': [40.4224125, -3.7101235]}",1-15€
-278,Discoteca Serrano 41,3.7,"Calle de Serrano, 41, 28001 Madrid, Spain",2.0,discoteca,28001,40.4289888,-3.6873588,"{'type': 'Point', 'coordinates': [40.4289888, -3.6873588]}",15-25€
-279,MYMO Madrid,3.2,"Calle de Miguel Ángel, 3, 28010 Madrid, Spain",2.0,discoteca,28010,40.433826,-3.6914639,"{'type': 'Point', 'coordinates': [40.433826, -3.6914639]}",15-25€
-280,Club Malasaña,4.1,"Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain",2.0,discoteca,28004,40.42565099999999,-3.703169699999999,"{'type': 'Point', 'coordinates': [40.42565099999999, -3.703169699999999]}",15-25€
-281,Discoteca Mama Pachanga,3.5,"Calle Sanz Raso, 19, 28038 Madrid, Spain",1.0,discoteca,28038,40.3948018,-3.661098599999999,"{'type': 'Point', 'coordinates': [40.3948018, -3.661098599999999]}",15-25€
-282,Ya'sta Club,3.7,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,discoteca,28004,40.4211199,-3.7019926,"{'type': 'Point', 'coordinates': [40.4211199, -3.7019926]}",15-25€
-283,Club Musée,3.4,"Av. de Alberto de Alcocer, 35, 28016 Madrid, Spain",2.0,discoteca,28016,40.458778,-3.6820698,"{'type': 'Point', 'coordinates': [40.458778, -3.6820698]}",15-25€
-284,Madrid Cabaret Club,3.8,"Calle Caunedo, 7, 28037 Madrid, Spain",2.0,discoteca,28037,40.4371508,-3.6364717,"{'type': 'Point', 'coordinates': [40.4371508, -3.6364717]}",1-15€
-285,Cool,4.0,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,discoteca,28013,40.4212071,-3.709041,"{'type': 'Point', 'coordinates': [40.4212071, -3.709041]}",1-15€
-286,Discoteca Moorea Madrid,0.0,"Calle de Orense, 18, 28020 Madrid, Spain",2.0,discoteca,28020,40.4503277,-3.694997099999999,"{'type': 'Point', 'coordinates': [40.4503277, -3.694997099999999]}",15-25€
-287,Tropical House,3.9,"Plaza de los Mostenses n11, 28015 Madrid, Spain",1.0,discoteca,28015,40.423061,-3.708732,"{'type': 'Point', 'coordinates': [40.423061, -3.708732]}",15-25€
-288,Stardust,3.8,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,discoteca,28013,40.4211093,-3.7089682,"{'type': 'Point', 'coordinates': [40.4211093, -3.7089682]}",15-25€
-289,Vive Madrid,3.8,"Calle del Marqués de Viana, 15, 28020 Madrid, Spain",4.0,discoteca,28020,40.46110059999999,-3.6999302,"{'type': 'Point', 'coordinates': [40.46110059999999, -3.6999302]}",15-25€
-290,Discoteca New One Madrid,3.3,"28037, Av. de la Institución Libre de Enseñanza, 11, 28037 Madrid, Spain",1.0,discoteca,28037,40.437104,-3.637096999999999,"{'type': 'Point', 'coordinates': [40.437104, -3.637096999999999]}",15-25€
-291,Discoteca Fenix,3.9,"Av. de la Emperatriz Isabel, 13, 28019 Madrid, Spain",2.0,discoteca,28019,40.3984807,-3.7185163,"{'type': 'Point', 'coordinates': [40.3984807, -3.7185163]}",15-25€
-292,MADRID CLUB ROCKNROLLA,4.2,"Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,discoteca,28014,40.4129171,-3.6966068,"{'type': 'Point', 'coordinates': [40.4129171, -3.6966068]}",15-25€
-293,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",2.0,discoteca,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [40.4157732, -3.7038293]}",15-25€
-294,El Sol,4.3,"Calle de los Jardines, 3, 28013 Madrid, Spain",2.0,discoteca,28013,40.4190629,-3.7016321,"{'type': 'Point', 'coordinates': [40.4190629, -3.7016321]}",15-25€
-295,vudu club madrid,2.7,"Av. de Alberto de Alcocer, 43, 28036 Madrid, Spain",2.0,discoteca,28036,40.45888,-3.680190899999999,"{'type': 'Point', 'coordinates': [40.45888, -3.680190899999999]}",15-25€
-296,Manama Disco,2.7,"Calle de Barcelona, 14, 28012 Madrid, Spain",2.0,discoteca,28012,40.4150667,-3.7026209,"{'type': 'Point', 'coordinates': [40.4150667, -3.7026209]}",15-25€
-297,Monocle Club,3.5,"Calle del Poeta Joan Maragall, 19, 28020 Madrid, Spain",2.0,discoteca,28020,40.4570912,-3.6923873,"{'type': 'Point', 'coordinates': [40.4570912, -3.6923873]}",15-25€
-298,discoteca colombiana en madrid,3.7,"Calle Fundadores, 7, 28028 Madrid, Spain",2.0,discoteca,28028,40.4247981,-3.6677705,"{'type': 'Point', 'coordinates': [40.4247981, -3.6677705]}",15-25€
-299,Star Coyote 54,3.5,"Plaza del Carmen, 3, 28013 Madrid, Spain",1.0,discoteca,28013,40.4190511,-3.7036066,"{'type': 'Point', 'coordinates': [40.4190511, -3.7036066]}",1-15€
-300,Discoteca Azúcar,3.7,"28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,salsa club,28012,40.4106491,-3.6952526,"{'type': 'Point', 'coordinates': [40.4106491, -3.6952526]}",15-25€
-301,The Host Club,4.2,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4263181,-3.7172868,"{'type': 'Point', 'coordinates': [40.4263181, -3.7172868]}",15-25€
-302,Madrid Salsa Club,1.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",2.0,salsa club,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",15-25€
-303,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,salsa club,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",15-25€
-304,Enchufla Club de Salsa,4.7,"Calle Cerro de la Alcazaba, 38, 28053 Madrid, Spain",1.0,salsa club,28053,40.3832902,-3.6727751,"{'type': 'Point', 'coordinates': [40.3832902, -3.6727751]}",15-25€
-305,Tropical House,3.9,"Plaza de los Mostenses n11, 28015 Madrid, Spain",1.0,salsa club,28015,40.423061,-3.708732,"{'type': 'Point', 'coordinates': [40.423061, -3.708732]}",15-25€
-306,CARPE DIEM SALSA Madrid,4.5,"Calle Idioma Esperanto, 2, Local 4, 28017 Madrid, Spain",2.0,salsa club,28017,40.4194444,-3.6263889,"{'type': 'Point', 'coordinates': [40.4194444, -3.6263889]}",15-25€
-307,El Palacio de la salsa,0.0,"Calle de Sebastián Elcano, 40, 28012 Madrid, Spain",2.0,salsa club,28012,40.40520230000001,-3.6961653,"{'type': 'Point', 'coordinates': [40.40520230000001, -3.6961653]}",15-25€
-308,Rumba Salsa,3.8,"Calle de Fernández de los Ríos, 87, 28015 Madrid, Spain",2.0,salsa club,28015,40.4353651,-3.7162793,"{'type': 'Point', 'coordinates': [40.4353651, -3.7162793]}",15-25€
-309,Clases de Bailes Latinos,4.5,"Plaza de los Mostenses, 11, 28015 Madrid, Spain",2.0,salsa club,28015,40.42322370000001,-3.7091242,"{'type': 'Point', 'coordinates': [40.42322370000001, -3.7091242]}",15-25€
-310,Salsa Rumba,4.4,"Av. de Brasil, 5, 28020 Madrid, Spain",2.0,salsa club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
-311,Baila Madrid,3.5,"Calle de Alcalá, 192, 28028 Madrid, Spain",2.0,salsa club,28028,40.4298479,-3.6647729,"{'type': 'Point', 'coordinates': [40.4298479, -3.6647729]}",25-50€
-312,Borinquen Madrid,3.7,"Calle Fundadores, 7, 28028 Madrid, Spain",2.0,salsa club,28028,40.424757,-3.667763,"{'type': 'Point', 'coordinates': [40.424757, -3.667763]}",15-25€
-313,Kilatinum - Club Bailarios,4.0,"Calle de San Bernardo, 20, 28015 Madrid, Spain",2.0,salsa club,28015,40.4227306,-3.7074702,"{'type': 'Point', 'coordinates': [40.4227306, -3.7074702]}",15-25€
-314,Ramdall,1.0,"Calle de Ferraz, 28008 Madrid, Spain",2.0,salsa club,28008,40.42778089999999,-3.7188841,"{'type': 'Point', 'coordinates': [40.42778089999999, -3.7188841]}",15-25€
-315,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",2.0,salsa club,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [40.4148114, -3.7036534]}",15-25€
-316,Sala Ramdall,3.9,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.426323,-3.7172325,"{'type': 'Point', 'coordinates': [40.426323, -3.7172325]}",15-25€
-317,Parche,4.1,"Cl. de Ayala, 120, 28006 Madrid, Spain",2.0,salsa club,28006,40.4271732,-3.6733813,"{'type': 'Point', 'coordinates': [40.4271732, -3.6733813]}",25-50€
-318,MAGANGUE DISCOTECA,4.2,"Calle de Maqueda, 30, 28024 Madrid, Spain",2.0,salsa club,28024,40.3936023,-3.765618,"{'type': 'Point', 'coordinates': [40.3936023, -3.765618]}",1-15€
-319,Sala Olvido Discoteca y Eventos,3.8,"Calle Olvido, 15, 28026 Madrid, Spain",1.0,salsa club,28026,40.3867625,-3.7027654,"{'type': 'Point', 'coordinates': [40.3867625, -3.7027654]}",15-25€
-320,Pincel,4.4,"Calle del Dr. Raso, 1, 28223 Pozuelo de Alarcón, Madrid, Spain",1.0,salsa club,28223,40.4286275,-3.7859661,"{'type': 'Point', 'coordinates': [40.4286275, -3.7859661]}",15-25€
-321,Center Mambo Latino,4.0,"Calle de Orense, 22, 28020 Madrid, Spain",2.0,salsa club,28020,40.4510045,-3.6948384,"{'type': 'Point', 'coordinates': [40.4510045, -3.6948384]}",1-15€
-322,GRAN CAIMAN,3.5,"Av. de Brasil, 5, 28020 Madrid, Spain",1.0,salsa club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
-323,"ABAILARMADRID - Dance, friends and fun",4.9,"Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",2.0,salsa club,28028,40.4345285,-3.6687524,"{'type': 'Point', 'coordinates': [40.4345285, -3.6687524]}",15-25€
-324,Salsa Madrid Centro,4.4,"Plaza de la Independencia, 8, 28001 Madrid, Spain",2.0,salsa club,28001,40.41919770000001,-3.6891317,"{'type': 'Point', 'coordinates': [40.41919770000001, -3.6891317]}",15-25€
-325,El Bombón,4.0,"Calle de los Mancebos, 2, 28005 Madrid, Spain",2.0,salsa club,28005,40.4121135,-3.7117844,"{'type': 'Point', 'coordinates': [40.4121135, -3.7117844]}",15-25€
-326,Sálsate Madrid: school specializing in Cuban salsa,0.0,"Calle San Valeriano, 4, 28039 Madrid, Spain",2.0,salsa club,28039,40.4507566,-3.7075582,"{'type': 'Point', 'coordinates': [40.4507566, -3.7075582]}",15-25€
-327,Súltan Palast Madrid 18,4.2,"Calle de las Infantas, 18, 28004 Madrid, Spain",2.0,salsa club,28004,40.4206771,-3.6998677,"{'type': 'Point', 'coordinates': [40.4206771, -3.6998677]}",15-25€
-328,Ozona VIP,3.6,"Av. del Mediterráneo, 12, 28007 Madrid, Spain",2.0,salsa club,28007,40.4070037,-3.6766249,"{'type': 'Point', 'coordinates': [40.4070037, -3.6766249]}",15-25€
-329,Salsabachata Avenida de América,4.7,"Calle de Coslada, 19, 28028 Madrid, Spain",2.0,salsa club,28028,40.4383234,-3.6734278,"{'type': 'Point', 'coordinates': [40.4383234, -3.6734278]}",15-25€
-330,Sala Cats,3.2,"Calle de Julián Romea, 4, 28003 Madrid, Spain",2.0,salsa club,28003,40.442775,-3.713525,"{'type': 'Point', 'coordinates': [40.442775, -3.713525]}",15-25€
-331,Adestra Copas,4.1,"Posterior (LA LONJA, Av. de Moratalaz, 153, 28030 Madrid, Spain",1.0,salsa club,28030,40.4076579,-3.6471149,"{'type': 'Point', 'coordinates': [40.4076579, -3.6471149]}",15-25€
-332,Sala Morocco,3.8,"Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",2.0,salsa club,28004,40.422116,-3.707419,"{'type': 'Point', 'coordinates': [40.422116, -3.707419]}",15-25€
-333,Dancing Dreams,4.7,"C. de los Pajaritos, 19, 28007 Madrid, Spain",2.0,salsa club,28007,40.4029055,-3.6715391,"{'type': 'Point', 'coordinates': [40.4029055, -3.6715391]}",15-25€
-334,Night Club,4.0,"Calle de Segovia, 19, 28005 Madrid, Spain",2.0,salsa club,28005,40.413812,-3.712771,"{'type': 'Point', 'coordinates': [40.413812, -3.712771]}",15-25€
-335,Club De Danza,0.0,"Calle del Tutor, 52, 28008 Madrid, Spain",2.0,salsa club,28008,40.4310281,-3.7179052,"{'type': 'Point', 'coordinates': [40.4310281, -3.7179052]}",15-25€
-336,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,salsa club,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",15-25€
-337,Manama Disco,2.7,"Calle de Barcelona, 14, 28012 Madrid, Spain",2.0,salsa club,28012,40.4150667,-3.7026209,"{'type': 'Point', 'coordinates': [40.4150667, -3.7026209]}",15-25€
-338,Funflow Dance,5.0,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,salsa club,28004,40.42107860000001,-3.701919,"{'type': 'Point', 'coordinates': [40.42107860000001, -3.701919]}",15-25€
-339,Bongos,4.2,"Calle de Bravo Murillo, 52, 28003 Madrid, Spain",2.0,salsa club,28003,40.4427195,-3.703869,"{'type': 'Point', 'coordinates': [40.4427195, -3.703869]}",1-15€
-340,Club 54,4.1,"Calle de Barbieri, 7, 28004 Madrid, Spain",2.0,salsa club,28004,40.42099109999999,-3.6982414,"{'type': 'Point', 'coordinates': [40.42099109999999, -3.6982414]}",1-15€
-341,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,salsa club,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",15-25€
-342,Sálsate Madrid: escuela especializada en Casino (salsa cubana),4.8,"Calle San Valeriano, 4, 28039 Madrid, Spain",2.0,salsa club,28039,40.4507566,-3.7075582,"{'type': 'Point', 'coordinates': [40.4507566, -3.7075582]}",1-15€
-343,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",2.0,salsa club,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [40.4157732, -3.7038293]}",15-25€
-344,WELKHOMEclub,4.5,"Calle del Monte Esquinza, 15, 28010 Madrid, Spain",2.0,salsa club,28010,40.42731,-3.6923173,"{'type': 'Point', 'coordinates': [40.42731, -3.6923173]}",15-25€
-345,Faena Madrid,3.3,"C. de Atocha, 125, 28012 Madrid, Spain",2.0,salsa club,28012,40.40969219999999,-3.6930276,"{'type': 'Point', 'coordinates': [40.40969219999999, -3.6930276]}",15-25€
-346,Sala Zenith,3.1,"C. de Atocha, 127, 28012 Madrid, Spain",2.0,salsa club,28012,40.4096199,-3.6928536,"{'type': 'Point', 'coordinates': [40.4096199, -3.6928536]}",15-25€
-347,Karamelomadrid,0.0,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4262695,-3.7172104,"{'type': 'Point', 'coordinates': [40.4262695, -3.7172104]}",1-15€
-348,Salsabachata Quevedo,4.8,"Calle Cercedilla, 3, 28015 Madrid, Spain",2.0,salsa club,28015,40.4357353,-3.7050633,"{'type': 'Point', 'coordinates': [40.4357353, -3.7050633]}",15-25€
-349,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",2.0,salsa club,28001,40.4289177,-3.6771376,"{'type': 'Point', 'coordinates': [40.4289177, -3.6771376]}",15-25€
-350,Tempo Club,4.0,"Calle Duque de Osuna, 8, 28015 Madrid, Spain",2.0,salsa club,28015,40.425275,-3.711892,"{'type': 'Point', 'coordinates': [40.425275, -3.711892]}",15-25€
-351,Palace Disco Club,3.4,"Plaza de Isabel II, 7, 28013 Madrid, Spain",2.0,salsa club,28013,40.4184349,-3.7089488,"{'type': 'Point', 'coordinates': [40.4184349, -3.7089488]}",1-15€
-352,"Sala Zeus, Móstoles",4.1,"Calle Becquer, 3, 28932 Móstoles, Madrid, Spain",1.0,salsa club,28932,40.3307737,-3.8573885,"{'type': 'Point', 'coordinates': [40.3307737, -3.8573885]}",1-15€
-353,Charada Club de Baile,3.6,"Calle de la Bola, 13, 28013 Madrid, Spain",2.0,salsa club,28013,40.420617,-3.709616,"{'type': 'Point', 'coordinates': [40.420617, -3.709616]}",15-25€
-354,Premiumdance | Clases de salsa y bachata,5.0,"Pl. de Manuel Becerra, 28028 Madrid, Spain",2.0,salsa club,28028,40.4277583,-3.6687284,"{'type': 'Point', 'coordinates': [40.4277583, -3.6687284]}",15-25€
-355,El Rincón de La Habana,4.4,"Calle de los Reyes, 6, 28015 Madrid, Spain",2.0,salsa club,28015,40.4242361,-3.7094361,"{'type': 'Point', 'coordinates': [40.4242361, -3.7094361]}",15-25€
-356,Salsebastian,4.8,"Av. Fuente Nueva, Nº 5, Nave 16 B, 28703 San Sebastián de los Reyes, Madrid, Spain",2.0,salsa club,28703,40.5490681,-3.6122595,"{'type': 'Point', 'coordinates': [40.5490681, -3.6122595]}",15-25€
-357,Club 33,3.8,"Calle de la Cabeza, 33, 28012 Madrid, Spain",2.0,salsa club,28012,40.4120003,-3.7010755,"{'type': 'Point', 'coordinates': [40.4120003, -3.7010755]}",15-25€
-358,Golden Gran Vía,3.7,"C/ Gran Vía, n 54, 28013 Madrid, Spain",1.0,salsa club,28013,40.4213889,-3.7072222,"{'type': 'Point', 'coordinates': [40.4213889, -3.7072222]}",15-25€
-359,Discoteca Bahia Madrid,3.0,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4262695,-3.7172104,"{'type': 'Point', 'coordinates': [40.4262695, -3.7172104]}",1-15€
-360,Samsa Club,4.2,"Av. de Europa, 27, 28023 Pozuelo de Alarcón, Madrid, Spain",2.0,samba club,28023,40.4446826,-3.7866342,"{'type': 'Point', 'coordinates': [40.4446826, -3.7866342]}",15-25€
-361,Tempo Club,4.0,"Calle Duque de Osuna, 8, 28015 Madrid, Spain",2.0,samba club,28015,40.425275,-3.711892,"{'type': 'Point', 'coordinates': [40.425275, -3.711892]}",15-25€
-362,Nightlife Madrid,4.8,"Cl. de Ayala, 27, 28001 Madrid, Spain",2.0,samba club,28001,40.4278501,-3.6845998,"{'type': 'Point', 'coordinates': [40.4278501, -3.6845998]}",1-15€
-363,Maravillas Club,3.8,"Calle de San Vicente Ferrer, 33, 28004 Madrid, Spain",2.0,samba club,28004,40.4257544,-3.7043747,"{'type': 'Point', 'coordinates': [40.4257544, -3.7043747]}",15-25€
-364,Planet Club,4.6,"C. del Príncipe, 20, 28012 Madrid, Spain",2.0,samba club,28012,40.4152145,-3.7005493,"{'type': 'Point', 'coordinates': [40.4152145, -3.7005493]}",15-25€
-365,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,samba club,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",1-15€
-366,Club Malasaña,4.1,"Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain",2.0,samba club,28004,40.42565099999999,-3.703169699999999,"{'type': 'Point', 'coordinates': [40.42565099999999, -3.703169699999999]}",1-15€
-367,Goya Social Club,3.6,"Calle de Goya, 43, 28001 Madrid, Spain",2.0,samba club,28001,40.425301,-3.682990999999999,"{'type': 'Point', 'coordinates': [40.425301, -3.682990999999999]}",15-25€
-368,Nomad Club,4.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,samba club,28014,40.4150834,-3.699651799999999,"{'type': 'Point', 'coordinates': [40.4150834, -3.699651799999999]}",15-25€
-369,Commo,3.7,"Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,samba club,28012,40.41526229999999,-3.702391,"{'type': 'Point', 'coordinates': [40.41526229999999, -3.702391]}",15-25€
-370,Ya'sta Club,3.7,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,samba club,28004,40.4211199,-3.7019926,"{'type': 'Point', 'coordinates': [40.4211199, -3.7019926]}",15-25€
-371,Kapital,3.8,"C. de Atocha, 125, 28012 Madrid, Spain",3.0,samba club,28012,40.4097611,-3.6931083,"{'type': 'Point', 'coordinates': [40.4097611, -3.6931083]}",25-50€
-372,Panda Club Madrid,3.3,"Calle de Hernani, 75, 28020 Madrid, Spain",2.0,samba club,28020,40.4481601,-3.6959826,"{'type': 'Point', 'coordinates': [40.4481601, -3.6959826]}",15-25€
-373,Charada Club de Baile,3.6,"Calle de la Bola, 13, 28013 Madrid, Spain",2.0,samba club,28013,40.420617,-3.709616,"{'type': 'Point', 'coordinates': [40.420617, -3.709616]}",15-25€
-374,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,samba club,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",1-15€
-375,american club of madrid,0.0,"Calle de Serrano, 110, 28006 Madrid, Spain",2.0,samba club,28006,40.4353049,-3.6861546,"{'type': 'Point', 'coordinates': [40.4353049, -3.6861546]}",15-25€
-376,OPIUM CLUB,3.8,"Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,samba club,28003,40.437878,-3.692209,"{'type': 'Point', 'coordinates': [40.437878, -3.692209]}",15-25€
-377,Joy Eslava Madrid,3.8,"Calle del Arenal, 11, 28013 Madrid, Spain",3.0,samba club,28013,40.4171637,-3.7065661,"{'type': 'Point', 'coordinates': [40.4171637, -3.7065661]}",1-15€
-378,CHA CHÁ The Club Madrid,3.7,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,samba club,28014,40.4173993,-3.6983705,"{'type': 'Point', 'coordinates': [40.4173993, -3.6983705]}",15-25€
-379,Clamores,4.2,"Calle de Alburquerque, 14, 28010 Madrid, Spain",2.0,samba club,28010,40.431118,-3.7009577,"{'type': 'Point', 'coordinates': [40.431118, -3.7009577]}",15-25€
-380,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,samba club,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [40.4249433, -3.7117725]}",15-25€
-381,Medias Puri,3.9,"Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,samba club,28012,40.41234910000001,-3.7034333,"{'type': 'Point', 'coordinates': [40.41234910000001, -3.7034333]}",1-15€
-382,Costello club,4.1,"Calle del Caballero de Gracia, 10, 28013 Madrid, Spain",2.0,samba club,28013,40.41940839999999,-3.700801,"{'type': 'Point', 'coordinates': [40.41940839999999, -3.700801]}",15-25€
-383,Fucking Monday Madrid,4.2,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,samba club,28013,40.42110390000001,-3.7089062,"{'type': 'Point', 'coordinates': [40.42110390000001, -3.7089062]}",1-15€
-384,Gin Club,4.0,"Calle de la Reina, 16, 28013 Madrid, Spain",2.0,samba club,28013,40.419885,-3.698771,"{'type': 'Point', 'coordinates': [40.419885, -3.698771]}",15-25€
-385,Barceló Theatre,3.7,"C. de Barceló, 11, 28004 Madrid, Spain",3.0,samba club,28004,40.42692900000001,-3.699822,"{'type': 'Point', 'coordinates': [40.42692900000001, -3.699822]}",15-25€
-386,Café Berlín,4.3,"C, Costanilla de los Ángeles, 20, 28013 Madrid, Spain",2.0,samba club,28013,40.4195885,-3.707943,"{'type': 'Point', 'coordinates': [40.4195885, -3.707943]}",15-25€
-387,Bloco do Baliza,4.8,"metro: La Granja, Calle de San José Artesano, 7, 28108 Alcobendas, Madrid, Spain",2.0,samba club,28108,40.52992,-3.65486,"{'type': 'Point', 'coordinates': [40.52992, -3.65486]}",15-25€
-388,Fortuny Restaurant & Club,3.9,"Calle de Fortuny, 34, 28010 Madrid, Spain",3.0,samba club,28010,40.4345348,-3.6899908,"{'type': 'Point', 'coordinates': [40.4345348, -3.6899908]}",15-25€
-389,Cambridge Soho Club,4.1,"Plaza de España, 6, 2ª Planta, 28008 Madrid, Spain",2.0,samba club,28008,40.4225603,-3.71184,"{'type': 'Point', 'coordinates': [40.4225603, -3.71184]}",25-50€
-390,Nox Club,5.0,"Ronda de Toledo, 11, 28005 Madrid, Spain",2.0,samba club,28005,40.4062167,-3.710104099999999,"{'type': 'Point', 'coordinates': [40.4062167, -3.710104099999999]}",15-25€
-391,RIO SAMBA SHOW,0.0,"Calle Fuente Cisneros, 68, 28922 Alcorcón, Madrid, Spain",2.0,samba club,28922,40.3380265,-3.8558399,"{'type': 'Point', 'coordinates': [40.3380265, -3.8558399]}",15-25€
-392,Oh My Club Madrid,3.7,"Calle de Rosario Pino, 14, 28020 Madrid, Spain",4.0,samba club,28020,40.46263829999999,-3.6930039,"{'type': 'Point', 'coordinates': [40.46263829999999, -3.6930039]}",15-25€
-393,Home Club Apartments Madrid SL,4.0,"Calle de Hermosilla, 21, 28001 Madrid, Spain",2.0,samba club,28001,40.4265716,-3.6857979,"{'type': 'Point', 'coordinates': [40.4265716, -3.6857979]}",1-15€
-394,Liberty Supper Club,3.0,"Calle de Juan Bravo, 31, 28006 Madrid, Spain",3.0,samba club,28006,40.4328007,-3.678826,"{'type': 'Point', 'coordinates': [40.4328007, -3.678826]}",15-25€
-395,Ocean Rock Bar,4.3,"Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",1.0,samba club,28004,40.4256298,-3.7034948,"{'type': 'Point', 'coordinates': [40.4256298, -3.7034948]}",15-25€
-396,Studio11® La Escuela de Baile,4.8,"Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",2.0,samba club,28028,40.438095,-3.6664831,"{'type': 'Point', 'coordinates': [40.438095, -3.6664831]}",15-25€
-397,Rotary Club de Madrid,5.0,"Calle del Marqués de la Ensenada, 16, 28004 Madrid, Spain",2.0,samba club,28004,40.4252675,-3.6920496,"{'type': 'Point', 'coordinates': [40.4252675, -3.6920496]}",1-15€
-398,The American Women’s Club of Madrid,0.0,"Plaza de la República del Ecuador, 6, 28016 Madrid, Spain",2.0,samba club,28016,40.4554729,-3.677905,"{'type': 'Point', 'coordinates': [40.4554729, -3.677905]}",15-25€
-399,Observatorio de Derechos Humanos Samba Martine,0.0,"Calle de los Cañizares, 3, 28012 Madrid, Spain",2.0,samba club,28012,40.4129201,-3.7015657,"{'type': 'Point', 'coordinates': [40.4129201, -3.7015657]}",15-25€
-400,Lucy In The Sky Club,4.2,"Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",2.0,samba club,28015,40.4261175,-3.7078297,"{'type': 'Point', 'coordinates': [40.4261175, -3.7078297]}",15-25€
-401,Moby Dick,4.1,"Av. de Brasil, 5, 28020 Madrid, Spain",2.0,samba club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
-402,Brunch Club,4.5,"Calle del Barco, 15, 28004 Madrid, Spain",2.0,samba club,28004,40.4216,-3.7028222,"{'type': 'Point', 'coordinates': [40.4216, -3.7028222]}",1-15€
-403,ATTACK Fun SX Gay Club,4.2,"Calle del Olivar, 22, 28012 Madrid, Spain",1.0,samba club,28012,40.4108628,-3.7018596,"{'type': 'Point', 'coordinates': [40.4108628, -3.7018596]}",15-25€
-404,Madrid Cricket Club,4.7,"Av. Complutense, 28040 Madrid, Spain",2.0,samba club,28040,40.4511382,-3.7280999,"{'type': 'Point', 'coordinates': [40.4511382, -3.7280999]}",1-15€
-405,Spanish club,4.9,"Calle del Monte Esquinza, 28, 28010 Madrid, Spain",2.0,samba club,28010,40.42907330000001,-3.6918303,"{'type': 'Point', 'coordinates': [40.42907330000001, -3.6918303]}",1-15€
-406,David Lloyd Aravaca,4.2,"Calle Vinas de el Pardo, 4, 28023 Madrid, Spain",2.0,samba club,28023,40.47257,-3.76839,"{'type': 'Point', 'coordinates': [40.47257, -3.76839]}",1-15€
-407,Giglon,3.7,"Av. del Mediterráneo, 44d, 28007 Madrid, Spain",2.0,samba club,28007,40.4064086,-3.6711453,"{'type': 'Point', 'coordinates': [40.4064086, -3.6711453]}",1-15€
-408,Fabrik,4.4,"Av. de la Industria, 82, 28970 Humanes de Madrid, Madrid, Spain",2.0,samba club,28970,40.2654556,-3.8404861,"{'type': 'Point', 'coordinates': [40.2654556, -3.8404861]}",15-25€
+120,Flow escuela de baile y pole dance EN MADRID,4.6,"Calle de San Germán, 56, 28020 Madrid, Spain",2.0,dancing,28020,40.4572721,-3.6998981,"{'type': 'Point', 'coordinates': [40.4572721, -3.6998981]}",15-25€
+121,Báilame Dance Studio,4.8,"Calle de San Bernardo, 20, bajo izquierda, 28015 Madrid, Spain",2.0,dancing,28015,40.422743,-3.707351,"{'type': 'Point', 'coordinates': [40.422743, -3.707351]}",15-25€
+122,Kilatinum - Club Bailarios,4.0,"Calle de San Bernardo, 20, 28015 Madrid, Spain",2.0,dancing,28015,40.4227306,-3.7074702,"{'type': 'Point', 'coordinates': [40.4227306, -3.7074702]}",1-15€
+123,Dancing Dreams,4.7,"C. de los Pajaritos, 19, 28007 Madrid, Spain",2.0,dancing,28007,40.4029055,-3.6715391,"{'type': 'Point', 'coordinates': [40.4029055, -3.6715391]}",15-25€
+124,Madrid Salsa Club,1.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",2.0,dancing,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",15-25€
+125,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",2.0,dancing,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [40.4148114, -3.7036534]}",15-25€
+126,A Ritmo de Swing,5.0,"Calle de Tarragona, 18, 28045 Madrid, Spain",2.0,dancing,28045,40.401565,-3.6966,"{'type': 'Point', 'coordinates': [40.401565, -3.6966]}",15-25€
+127,Salsa Madrid Centro,4.4,"Plaza de la Independencia, 8, 28001 Madrid, Spain",2.0,dancing,28001,40.41919770000001,-3.6891317,"{'type': 'Point', 'coordinates': [40.41919770000001, -3.6891317]}",1-15€
+128,The Host Club,4.2,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,dancing,28008,40.4263181,-3.7172868,"{'type': 'Point', 'coordinates': [40.4263181, -3.7172868]}",15-25€
+129,Dancing Boulevard,4.9,"Calle de Andorra, 65, 28043 Madrid, Spain",2.0,dancing,28043,40.458986,-3.6441465,"{'type': 'Point', 'coordinates': [40.458986, -3.6441465]}",1-15€
+130,Circle Dance,4.7,"Pl. del Conde del Valle de Súchil, 3, 28015 Madrid, Spain",2.0,dancing,28015,40.430269,-3.707742,"{'type': 'Point', 'coordinates': [40.430269, -3.707742]}",1-15€
+131,"ABAILARMADRID - Dance, friends and fun",4.9,"Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",2.0,dancing,28028,40.4345285,-3.6687524,"{'type': 'Point', 'coordinates': [40.4345285, -3.6687524]}",1-15€
+132,Dancing Drama,5.0,"Calle Jaime Hermida, 16, 28037 Madrid, Spain",2.0,dancing,28037,40.43862720000001,-3.6333899,"{'type': 'Point', 'coordinates': [40.43862720000001, -3.6333899]}",15-25€
+133,International Ballet School and Dance Center,5.0,"Calle de García de Paredes, 76, 28010 Madrid, Spain",2.0,dancing,28010,40.436558,-3.693957,"{'type': 'Point', 'coordinates': [40.436558, -3.693957]}",1-15€
+134,Madrid Pole Dance Studio,4.6,"Calle Fundadores, 29, 28028 Madrid, Spain",2.0,dancing,28028,40.424669,-3.665589,"{'type': 'Point', 'coordinates': [40.424669, -3.665589]}",1-15€
+135,Claquetap Dance Studio,4.9,"Calle de la Cruz del Sur, 5, 28007 Madrid, Spain",2.0,dancing,28007,40.411556,-3.668046799999999,"{'type': 'Point', 'coordinates': [40.411556, -3.668046799999999]}",15-25€
+136,Big Mama Swing,4.9,"Calle de Sebastián Elcano, 12, 28012 Madrid, Spain",2.0,dancing,28012,40.4043683,-3.700028499999999,"{'type': 'Point', 'coordinates': [40.4043683, -3.700028499999999]}",15-25€
+137,Discoteca Azúcar,3.7,"28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,dancing,28012,40.4106491,-3.6952526,"{'type': 'Point', 'coordinates': [40.4106491, -3.6952526]}",1-15€
+138,WOSAP Dance School,4.7,"Calle de los Cabestreros, 5, 28012 Madrid, Spain",2.0,dancing,28012,40.4093326,-3.7043237,"{'type': 'Point', 'coordinates': [40.4093326, -3.7043237]}",15-25€
+139,Jennifer Lisette Lopez Dance,5.0,"Calle de Santa Ana, 7, 28005 Madrid, Spain",2.0,dancing,28005,40.4100046,-3.7080288,"{'type': 'Point', 'coordinates': [40.4100046, -3.7080288]}",1-15€
+140,Animal Jazz ~ Escuela de baile y canto Swing en Madrid,5.0,"Calle del Dr. Fourquet, 17, 28012 Madrid, Spain",2.0,dancing,28012,40.4075344,-3.6970864,"{'type': 'Point', 'coordinates': [40.4075344, -3.6970864]}",1-15€
+141,Madrid Dance Center,4.7,"Calle de La Solana de Opañel, 6, 28019 Madrid, Spain",2.0,dancing,28019,40.389393,-3.7201213,"{'type': 'Point', 'coordinates': [40.389393, -3.7201213]}",15-25€
+142,Big South,4.9,"Calle del Laurel, 14, 28005 Madrid, Spain",2.0,dancing,28005,40.4028187,-3.7048682,"{'type': 'Point', 'coordinates': [40.4028187, -3.7048682]}",1-15€
+143,Acting School of Performing Arts,4.9,"Calle de Martín de los Heros, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.42762200000001,-3.7162738,"{'type': 'Point', 'coordinates': [40.42762200000001, -3.7162738]}",15-25€
+144,Dance esCool,5.0,"Calle Prof. Waksman, 9, 28036 Madrid, Spain",2.0,dancing,28036,40.4561509,-3.6880775,"{'type': 'Point', 'coordinates': [40.4561509, -3.6880775]}",1-15€
+145,Central Pole,4.8,"Paseo de Extremadura, 159, 28011 Madrid, Spain",2.0,dancing,28011,40.4082662,-3.7425123,"{'type': 'Point', 'coordinates': [40.4082662, -3.7425123]}",1-15€
+146,OrienteOccidente - Belly Dance in Madrid,4.9,"Calle del Gral Oraá, 76, 28006 Madrid, Spain",2.0,dancing,28006,40.4357383,-3.6775164,"{'type': 'Point', 'coordinates': [40.4357383, -3.6775164]}",1-15€
+147,Juan Brenes Dancer,4.9,"28008, Calle de Martín de los Heros, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.4276882,-3.716234199999999,"{'type': 'Point', 'coordinates': [40.4276882, -3.716234199999999]}",1-15€
+148,Danza 13 Dance center,4.6,"Calle Carlos Hernández, 28, 28017 Madrid, Spain",2.0,dancing,28017,40.4305335,-3.6485219,"{'type': 'Point', 'coordinates': [40.4305335, -3.6485219]}",15-25€
+149,Blanco y Negro Studio,4.5,"Calle de Julian Camarillo, 47, Portal D Local 007, 28037 Madrid, Spain",2.0,dancing,28037,40.436576,-3.622875999999999,"{'type': 'Point', 'coordinates': [40.436576, -3.622875999999999]}",15-25€
+150,www.Pro-studio.es,4.7,"Calle de Canarias, 41, 28045 Madrid, Spain",2.0,dancing,28045,40.401839,-3.6912343,"{'type': 'Point', 'coordinates': [40.401839, -3.6912343]}",15-25€
+151,Paso a Paso Madrid. Escuela de baile,4.3,"Centro La Corrala de la Danza, Calle del Dr. Piga, 5 Bis, 28012 Madrid, Spain",2.0,dancing,28012,40.40868,-3.6986523,"{'type': 'Point', 'coordinates': [40.40868, -3.6986523]}",1-15€
+152,School of Flamenco and Spanish Dance Isabel Quintero,4.9,"Calle de la Libertad, 7, 28004 Madrid, Spain",2.0,dancing,28004,40.420588,-3.697465,"{'type': 'Point', 'coordinates': [40.420588, -3.697465]}",1-15€
+153,La Forja Dance Academy,5.0,"Calle de la Duquesa de Tamames, 7, 28044 Madrid, Spain",2.0,dancing,28044,40.37278999999999,-3.7497215,"{'type': 'Point', 'coordinates': [40.37278999999999, -3.7497215]}",1-15€
+154,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",2.0,dancing,28001,40.4289177,-3.6771376,"{'type': 'Point', 'coordinates': [40.4289177, -3.6771376]}",15-25€
+155,Extreme Pole Dance Studio Madrid,0.0,"Calle del Pilar de Zaragoza, 75b, 28028 Madrid, Spain",2.0,dancing,28028,40.4367159,-3.672952,"{'type': 'Point', 'coordinates': [40.4367159, -3.672952]}",1-15€
+156,GLOBAL DANCE,0.0,"Estación de Chamartín, s/n, 28036 Madrid, Spain",2.0,dancing,28036,40.4716431,-3.6817252,"{'type': 'Point', 'coordinates': [40.4716431, -3.6817252]}",1-15€
+157,Dance Studio Montecarmelo,4.7,"Av. del Monasterio de El Escorial, 40D, 28049 Madrid, Spain",2.0,dancing,28049,40.5033938,-3.7006753,"{'type': 'Point', 'coordinates': [40.5033938, -3.7006753]}",1-15€
+158,Fit Dancing,4.1,"Av. Don Juan de Borbón, local 10, 28903 Getafe, Madrid, Spain",2.0,dancing,28903,40.3174227,-3.7154665,"{'type': 'Point', 'coordinates': [40.3174227, -3.7154665]}",15-25€
+159,Ballet Flamenco de Madrid,4.5,"Plaza del Carmen, 1, 28013 Madrid, Spain",2.0,dancing,28013,40.418401,-3.70316,"{'type': 'Point', 'coordinates': [40.418401, -3.70316]}",15-25€
+160,Sanse Danza,4.8,"Av. de Tenerife, 28, 28703 San Sebastián de los Reyes, Madrid, Spain",2.0,dancing,28703,40.5594074,-3.6169686,"{'type': 'Point', 'coordinates': [40.5594074, -3.6169686]}",15-25€
+161,Flamenco Show,0.0,"Calle de la Moreria, 17, 28005 Madrid, Spain",2.0,dancing,28005,40.4126847,-3.7141641,"{'type': 'Point', 'coordinates': [40.4126847, -3.7141641]}",1-15€
+162,ART DANCING MUSIC - Escuela de Artes Escénicas en Madrid,5.0,"Av. de la Osa Mayor, 32, 28023 Madrid, Spain",2.0,dancing,28023,40.4595765,-3.7793307,"{'type': 'Point', 'coordinates': [40.4595765, -3.7793307]}",15-25€
+163,Funflow Dance,5.0,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,dancing,28004,40.42107860000001,-3.701919,"{'type': 'Point', 'coordinates': [40.42107860000001, -3.701919]}",15-25€
+164,Faena Madrid,3.3,"C. de Atocha, 125, 28012 Madrid, Spain",2.0,dancing,28012,40.40969219999999,-3.6930276,"{'type': 'Point', 'coordinates': [40.40969219999999, -3.6930276]}",1-15€
+165,Centro de Danza y Arte de Madrid (CDAM),4.7,"Calle de los Misterios, 8, 28027 Madrid, Spain",2.0,dancing,28027,40.4389592,-3.6396922,"{'type': 'Point', 'coordinates': [40.4389592, -3.6396922]}",1-15€
+166,Orishas Dance,4.9,"Calle de Longares, 10, 28022 Madrid, Spain",2.0,dancing,28022,40.4310956,-3.6094692,"{'type': 'Point', 'coordinates': [40.4310956, -3.6094692]}",1-15€
+167,The Place Dance Studio Madrid,4.9,"Calle Musas, 16, 28022 Madrid, Spain",2.0,dancing,28022,40.4367881,-3.6081518,"{'type': 'Point', 'coordinates': [40.4367881, -3.6081518]}",15-25€
+168,""" D'Ambra Dance Project "" Escuela de Danzas Orientales y Jazz - Funky",5.0,"Calle de Montesa, 43, 28006 Madrid, Spain",2.0,dancing,28006,40.430664,-3.672469,"{'type': 'Point', 'coordinates': [40.430664, -3.672469]}",15-25€
+169,Studio11® La Escuela de Baile,4.8,"Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",2.0,dancing,28028,40.438095,-3.6664831,"{'type': 'Point', 'coordinates': [40.438095, -3.6664831]}",15-25€
+170,Karnak bellydance,4.8,"Calle de la Libertad, 7, 28004 Madrid, Spain",2.0,dancing,28004,40.4205609,-3.6974781,"{'type': 'Point', 'coordinates': [40.4205609, -3.6974781]}",1-15€
+171,Pasión Dance,4.8,"Calle de Manuel Ferrero, 5, 28036 Madrid, Spain",2.0,dancing,28036,40.4681966,-3.6845211,"{'type': 'Point', 'coordinates': [40.4681966, -3.6845211]}",1-15€
+172,Escuela de Baile D'angus Dance,4.9,"C/ del Dr. Gómez Ulla, 8, 28028 Madrid, Spain",2.0,dancing,28028,40.4293631,-3.6678461,"{'type': 'Point', 'coordinates': [40.4293631, -3.6678461]}",1-15€
+173,Salsabachata Quevedo,4.8,"Calle Cercedilla, 3, 28015 Madrid, Spain",2.0,dancing,28015,40.4357353,-3.7050633,"{'type': 'Point', 'coordinates': [40.4357353, -3.7050633]}",15-25€
+174,EL HORNO,4.4,"Calle de la Esgrima, 11, 28012 Madrid, Spain",2.0,dancing,28012,40.41107,-3.704451,"{'type': 'Point', 'coordinates': [40.41107, -3.704451]}",1-15€
+175,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,dancing,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",1-15€
+176,SpazioDanza,4.6,"Cl. de Don Quijote, 28, 28020 Madrid, Spain",2.0,dancing,28020,40.44868,-3.699093999999999,"{'type': 'Point', 'coordinates': [40.44868, -3.699093999999999]}",1-15€
+177,Dame2Salsa - Salsa cubana en Madrid,5.0,"Calle del Tutor, 52, 28008 Madrid, Spain",2.0,dancing,28008,40.43092,-3.7178349,"{'type': 'Point', 'coordinates': [40.43092, -3.7178349]}",1-15€
+178,BSK DANCE VISTA ALEGRE,4.6,"Calle de, Calle Bernardina Aranguren, 10, 28025 Madrid, Spain",2.0,dancing,28025,40.3892783,-3.7415055,"{'type': 'Point', 'coordinates': [40.3892783, -3.7415055]}",15-25€
+179,Salsabachata Avenida de América,4.7,"Calle de Coslada, 19, 28028 Madrid, Spain",2.0,dancing,28028,40.4383234,-3.6734278,"{'type': 'Point', 'coordinates': [40.4383234, -3.6734278]}",1-15€
+180,Discoteca Azúcar,3.7,"28012, C. de Atocha, 107, 28012 Madrid, Spain",1.0,salsa club,28012,40.4106491,-3.6952526,"{'type': 'Point', 'coordinates': [40.4106491, -3.6952526]}",1-15€
+181,The Host Club,4.2,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4263181,-3.7172868,"{'type': 'Point', 'coordinates': [40.4263181, -3.7172868]}",15-25€
+182,Madrid Salsa Club,1.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",2.0,salsa club,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",15-25€
+183,Discoteca El Son,3.9,"Calle de la Victoria, 6, 28012 Madrid, Spain",2.0,salsa club,28012,40.4160653,-3.7017673,"{'type': 'Point', 'coordinates': [40.4160653, -3.7017673]}",15-25€
+184,Enchufla Club de Salsa,4.7,"Calle Cerro de la Alcazaba, 38, 28053 Madrid, Spain",1.0,salsa club,28053,40.3832902,-3.6727751,"{'type': 'Point', 'coordinates': [40.3832902, -3.6727751]}",1-15€
+185,Tropical House,3.9,"Plaza de los Mostenses n11, 28015 Madrid, Spain",1.0,salsa club,28015,40.423061,-3.708732,"{'type': 'Point', 'coordinates': [40.423061, -3.708732]}",1-15€
+186,CARPE DIEM SALSA Madrid,4.5,"Calle Idioma Esperanto, 2, Local 4, 28017 Madrid, Spain",2.0,salsa club,28017,40.4194444,-3.6263889,"{'type': 'Point', 'coordinates': [40.4194444, -3.6263889]}",1-15€
+187,El Palacio de la salsa,0.0,"Calle de Sebastián Elcano, 40, 28012 Madrid, Spain",2.0,salsa club,28012,40.40520230000001,-3.6961653,"{'type': 'Point', 'coordinates': [40.40520230000001, -3.6961653]}",15-25€
+188,Rumba Salsa,3.8,"Calle de Fernández de los Ríos, 87, 28015 Madrid, Spain",2.0,salsa club,28015,40.4353651,-3.7162793,"{'type': 'Point', 'coordinates': [40.4353651, -3.7162793]}",1-15€
+189,Clases de Bailes Latinos,4.5,"Plaza de los Mostenses, 11, 28015 Madrid, Spain",2.0,salsa club,28015,40.42322370000001,-3.7091242,"{'type': 'Point', 'coordinates': [40.42322370000001, -3.7091242]}",1-15€
+190,Salsa Rumba,4.4,"Av. de Brasil, 5, 28020 Madrid, Spain",2.0,salsa club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
+191,Baila Madrid,3.5,"Calle de Alcalá, 192, 28028 Madrid, Spain",2.0,salsa club,28028,40.4298479,-3.6647729,"{'type': 'Point', 'coordinates': [40.4298479, -3.6647729]}",15-25€
+192,Borinquen Madrid,3.7,"Calle Fundadores, 7, 28028 Madrid, Spain",2.0,salsa club,28028,40.424757,-3.667763,"{'type': 'Point', 'coordinates': [40.424757, -3.667763]}",1-15€
+193,Kilatinum - Club Bailarios,4.0,"Calle de San Bernardo, 20, 28015 Madrid, Spain",2.0,salsa club,28015,40.4227306,-3.7074702,"{'type': 'Point', 'coordinates': [40.4227306, -3.7074702]}",15-25€
+194,Ramdall,1.0,"Calle de Ferraz, 28008 Madrid, Spain",2.0,salsa club,28008,40.42778089999999,-3.7188841,"{'type': 'Point', 'coordinates': [40.42778089999999, -3.7188841]}",15-25€
+195,DANCES WITH STYLE / CUBAN SALSA CLASSES IN MADRID,4.9,"Calle de Carretas, 14, 5º F, 28012 Madrid, Spain",2.0,salsa club,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [40.4148114, -3.7036534]}",1-15€
+196,Sala Ramdall,3.9,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.426323,-3.7172325,"{'type': 'Point', 'coordinates': [40.426323, -3.7172325]}",15-25€
+197,Parche,4.1,"Cl. de Ayala, 120, 28006 Madrid, Spain",2.0,salsa club,28006,40.4271732,-3.6733813,"{'type': 'Point', 'coordinates': [40.4271732, -3.6733813]}",15-25€
+198,MAGANGUE DISCOTECA,4.2,"Calle de Maqueda, 30, 28024 Madrid, Spain",2.0,salsa club,28024,40.3936023,-3.765618,"{'type': 'Point', 'coordinates': [40.3936023, -3.765618]}",1-15€
+199,Sala Olvido Discoteca y Eventos,3.8,"Calle Olvido, 15, 28026 Madrid, Spain",1.0,salsa club,28026,40.3867625,-3.7027654,"{'type': 'Point', 'coordinates': [40.3867625, -3.7027654]}",15-25€
+200,Pincel,4.4,"Calle del Dr. Raso, 1, 28223 Pozuelo de Alarcón, Madrid, Spain",1.0,salsa club,28223,40.4286275,-3.7859661,"{'type': 'Point', 'coordinates': [40.4286275, -3.7859661]}",15-25€
+201,Center Mambo Latino,4.0,"Calle de Orense, 22, 28020 Madrid, Spain",2.0,salsa club,28020,40.4510045,-3.6948384,"{'type': 'Point', 'coordinates': [40.4510045, -3.6948384]}",1-15€
+202,GRAN CAIMAN,3.5,"Av. de Brasil, 5, 28020 Madrid, Spain",1.0,salsa club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
+203,"ABAILARMADRID - Dance, friends and fun",4.9,"Calle Azcona, 44 (puerta de la izquierda), 1ª pl Metro: Diego de León, 28028 Madrid, Spain",2.0,salsa club,28028,40.4345285,-3.6687524,"{'type': 'Point', 'coordinates': [40.4345285, -3.6687524]}",1-15€
+204,Salsa Madrid Centro,4.4,"Plaza de la Independencia, 8, 28001 Madrid, Spain",2.0,salsa club,28001,40.41919770000001,-3.6891317,"{'type': 'Point', 'coordinates': [40.41919770000001, -3.6891317]}",15-25€
+205,El Bombón,4.0,"Calle de los Mancebos, 2, 28005 Madrid, Spain",2.0,salsa club,28005,40.4121135,-3.7117844,"{'type': 'Point', 'coordinates': [40.4121135, -3.7117844]}",15-25€
+206,Sálsate Madrid: school specializing in Cuban salsa,0.0,"Calle San Valeriano, 4, 28039 Madrid, Spain",2.0,salsa club,28039,40.4507566,-3.7075582,"{'type': 'Point', 'coordinates': [40.4507566, -3.7075582]}",15-25€
+207,Súltan Palast Madrid 18,4.2,"Calle de las Infantas, 18, 28004 Madrid, Spain",2.0,salsa club,28004,40.4206771,-3.6998677,"{'type': 'Point', 'coordinates': [40.4206771, -3.6998677]}",15-25€
+208,Ozona VIP,3.6,"Av. del Mediterráneo, 12, 28007 Madrid, Spain",2.0,salsa club,28007,40.4070037,-3.6766249,"{'type': 'Point', 'coordinates': [40.4070037, -3.6766249]}",15-25€
+209,Salsabachata Avenida de América,4.7,"Calle de Coslada, 19, 28028 Madrid, Spain",2.0,salsa club,28028,40.4383234,-3.6734278,"{'type': 'Point', 'coordinates': [40.4383234, -3.6734278]}",1-15€
+210,Sala Cats,3.2,"Calle de Julián Romea, 4, 28003 Madrid, Spain",2.0,salsa club,28003,40.442775,-3.713525,"{'type': 'Point', 'coordinates': [40.442775, -3.713525]}",1-15€
+211,Adestra Copas,4.1,"Posterior (LA LONJA, Av. de Moratalaz, 153, 28030 Madrid, Spain",1.0,salsa club,28030,40.4076579,-3.6471149,"{'type': 'Point', 'coordinates': [40.4076579, -3.6471149]}",1-15€
+212,Sala Morocco,3.8,"Calle del Marqués de Leganés, 7, 28004 Madrid, Spain",2.0,salsa club,28004,40.422116,-3.707419,"{'type': 'Point', 'coordinates': [40.422116, -3.707419]}",1-15€
+213,Dancing Dreams,4.7,"C. de los Pajaritos, 19, 28007 Madrid, Spain",2.0,salsa club,28007,40.4029055,-3.6715391,"{'type': 'Point', 'coordinates': [40.4029055, -3.6715391]}",1-15€
+214,Night Club,4.0,"Calle de Segovia, 19, 28005 Madrid, Spain",2.0,salsa club,28005,40.413812,-3.712771,"{'type': 'Point', 'coordinates': [40.413812, -3.712771]}",1-15€
+215,Club De Danza,0.0,"Calle del Tutor, 52, 28008 Madrid, Spain",2.0,salsa club,28008,40.4310281,-3.7179052,"{'type': 'Point', 'coordinates': [40.4310281, -3.7179052]}",1-15€
+216,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,salsa club,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",15-25€
+217,Manama Disco,2.7,"Calle de Barcelona, 14, 28012 Madrid, Spain",2.0,salsa club,28012,40.4150667,-3.7026209,"{'type': 'Point', 'coordinates': [40.4150667, -3.7026209]}",1-15€
+218,Funflow Dance,5.0,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,salsa club,28004,40.42107860000001,-3.701919,"{'type': 'Point', 'coordinates': [40.42107860000001, -3.701919]}",1-15€
+219,Bongos,4.2,"Calle de Bravo Murillo, 52, 28003 Madrid, Spain",2.0,salsa club,28003,40.4427195,-3.703869,"{'type': 'Point', 'coordinates': [40.4427195, -3.703869]}",15-25€
+220,Club 54,4.1,"Calle de Barbieri, 7, 28004 Madrid, Spain",2.0,salsa club,28004,40.42099109999999,-3.6982414,"{'type': 'Point', 'coordinates': [40.42099109999999, -3.6982414]}",15-25€
+221,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,salsa club,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",1-15€
+222,Sálsate Madrid: escuela especializada en Casino (salsa cubana),4.8,"Calle San Valeriano, 4, 28039 Madrid, Spain",2.0,salsa club,28039,40.4507566,-3.7075582,"{'type': 'Point', 'coordinates': [40.4507566, -3.7075582]}",1-15€
+223,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",2.0,salsa club,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [40.4157732, -3.7038293]}",1-15€
+224,WELKHOMEclub,4.5,"Calle del Monte Esquinza, 15, 28010 Madrid, Spain",2.0,salsa club,28010,40.42731,-3.6923173,"{'type': 'Point', 'coordinates': [40.42731, -3.6923173]}",1-15€
+225,Faena Madrid,3.3,"C. de Atocha, 125, 28012 Madrid, Spain",2.0,salsa club,28012,40.40969219999999,-3.6930276,"{'type': 'Point', 'coordinates': [40.40969219999999, -3.6930276]}",1-15€
+226,Sala Zenith,3.1,"C. de Atocha, 127, 28012 Madrid, Spain",2.0,salsa club,28012,40.4096199,-3.6928536,"{'type': 'Point', 'coordinates': [40.4096199, -3.6928536]}",1-15€
+227,Karamelomadrid,0.0,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4262695,-3.7172104,"{'type': 'Point', 'coordinates': [40.4262695, -3.7172104]}",15-25€
+228,Salsabachata Quevedo,4.8,"Calle Cercedilla, 3, 28015 Madrid, Spain",2.0,salsa club,28015,40.4357353,-3.7050633,"{'type': 'Point', 'coordinates': [40.4357353, -3.7050633]}",1-15€
+229,Clases de Salsa y Clases de Bachata Arts Dance Escuela de baile,5.0,"Calle de Don Ramón de la Cruz, 67, 28001 Madrid, Spain",2.0,salsa club,28001,40.4289177,-3.6771376,"{'type': 'Point', 'coordinates': [40.4289177, -3.6771376]}",1-15€
+230,Tempo Club,4.0,"Calle Duque de Osuna, 8, 28015 Madrid, Spain",2.0,salsa club,28015,40.425275,-3.711892,"{'type': 'Point', 'coordinates': [40.425275, -3.711892]}",15-25€
+231,Palace Disco Club,3.4,"Plaza de Isabel II, 7, 28013 Madrid, Spain",2.0,salsa club,28013,40.4184349,-3.7089488,"{'type': 'Point', 'coordinates': [40.4184349, -3.7089488]}",15-25€
+232,"Sala Zeus, Móstoles",4.1,"Calle Becquer, 3, 28932 Móstoles, Madrid, Spain",1.0,salsa club,28932,40.3307737,-3.8573885,"{'type': 'Point', 'coordinates': [40.3307737, -3.8573885]}",1-15€
+233,Charada Club de Baile,3.6,"Calle de la Bola, 13, 28013 Madrid, Spain",2.0,salsa club,28013,40.420617,-3.709616,"{'type': 'Point', 'coordinates': [40.420617, -3.709616]}",15-25€
+234,Premiumdance | Clases de salsa y bachata,5.0,"Pl. de Manuel Becerra, 28028 Madrid, Spain",2.0,salsa club,28028,40.4277583,-3.6687284,"{'type': 'Point', 'coordinates': [40.4277583, -3.6687284]}",1-15€
+235,El Rincón de La Habana,4.4,"Calle de los Reyes, 6, 28015 Madrid, Spain",2.0,salsa club,28015,40.4242361,-3.7094361,"{'type': 'Point', 'coordinates': [40.4242361, -3.7094361]}",1-15€
+236,Salsebastian,4.8,"Av. Fuente Nueva, Nº 5, Nave 16 B, 28703 San Sebastián de los Reyes, Madrid, Spain",2.0,salsa club,28703,40.5490681,-3.6122595,"{'type': 'Point', 'coordinates': [40.5490681, -3.6122595]}",15-25€
+237,Club 33,3.8,"Calle de la Cabeza, 33, 28012 Madrid, Spain",2.0,salsa club,28012,40.4120003,-3.7010755,"{'type': 'Point', 'coordinates': [40.4120003, -3.7010755]}",1-15€
+238,Golden Gran Vía,3.7,"C/ Gran Vía, n 54, 28013 Madrid, Spain",1.0,salsa club,28013,40.4213889,-3.7072222,"{'type': 'Point', 'coordinates': [40.4213889, -3.7072222]}",1-15€
+239,Discoteca Bahia Madrid,3.0,"Calle de Ferraz, 38, 28008 Madrid, Spain",2.0,salsa club,28008,40.4262695,-3.7172104,"{'type': 'Point', 'coordinates': [40.4262695, -3.7172104]}",15-25€
+240,Samsa Club,4.2,"Av. de Europa, 27, 28023 Pozuelo de Alarcón, Madrid, Spain",2.0,samba club,28023,40.4446826,-3.7866342,"{'type': 'Point', 'coordinates': [40.4446826, -3.7866342]}",15-25€
+241,Tempo Club,4.0,"Calle Duque de Osuna, 8, 28015 Madrid, Spain",2.0,samba club,28015,40.425275,-3.711892,"{'type': 'Point', 'coordinates': [40.425275, -3.711892]}",1-15€
+242,Nightlife Madrid,4.8,"Cl. de Ayala, 27, 28001 Madrid, Spain",2.0,samba club,28001,40.4278501,-3.6845998,"{'type': 'Point', 'coordinates': [40.4278501, -3.6845998]}",15-25€
+243,Maravillas Club,3.8,"Calle de San Vicente Ferrer, 33, 28004 Madrid, Spain",2.0,samba club,28004,40.4257544,-3.7043747,"{'type': 'Point', 'coordinates': [40.4257544, -3.7043747]}",15-25€
+244,Planet Club,4.6,"C. del Príncipe, 20, 28012 Madrid, Spain",2.0,samba club,28012,40.4152145,-3.7005493,"{'type': 'Point', 'coordinates': [40.4152145, -3.7005493]}",1-15€
+245,moondance madrid,3.5,"Calle de la Aduana, 21, 28012 679013092, Madrid, Spain",1.0,samba club,28012,40.418402,-3.701058,"{'type': 'Point', 'coordinates': [40.418402, -3.701058]}",15-25€
+246,Club Malasaña,4.1,"Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain",2.0,samba club,28004,40.42565099999999,-3.703169699999999,"{'type': 'Point', 'coordinates': [40.42565099999999, -3.703169699999999]}",15-25€
+247,Goya Social Club,3.6,"Calle de Goya, 43, 28001 Madrid, Spain",2.0,samba club,28001,40.425301,-3.682990999999999,"{'type': 'Point', 'coordinates': [40.425301, -3.682990999999999]}",15-25€
+248,Nomad Club,4.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,samba club,28014,40.4150834,-3.699651799999999,"{'type': 'Point', 'coordinates': [40.4150834, -3.699651799999999]}",15-25€
+249,Commo,3.7,"Calle de Espoz y Mina, 22, 28012 Madrid, Spain",2.0,samba club,28012,40.41526229999999,-3.702391,"{'type': 'Point', 'coordinates': [40.41526229999999, -3.702391]}",15-25€
+250,Ya'sta Club,3.7,"Calle de Valverde, 10, 28004 Madrid, Spain",2.0,samba club,28004,40.4211199,-3.7019926,"{'type': 'Point', 'coordinates': [40.4211199, -3.7019926]}",15-25€
+251,Kapital,3.8,"C. de Atocha, 125, 28012 Madrid, Spain",3.0,samba club,28012,40.4097611,-3.6931083,"{'type': 'Point', 'coordinates': [40.4097611, -3.6931083]}",15-25€
+252,Panda Club Madrid,3.3,"Calle de Hernani, 75, 28020 Madrid, Spain",2.0,samba club,28020,40.4481601,-3.6959826,"{'type': 'Point', 'coordinates': [40.4481601, -3.6959826]}",1-15€
+253,Charada Club de Baile,3.6,"Calle de la Bola, 13, 28013 Madrid, Spain",2.0,samba club,28013,40.420617,-3.709616,"{'type': 'Point', 'coordinates': [40.420617, -3.709616]}",1-15€
+254,Independance Club,3.8,"C. de Atocha, 127, 28012 Madrid, Spain",1.0,samba club,28012,40.409605,-3.692779899999999,"{'type': 'Point', 'coordinates': [40.409605, -3.692779899999999]}",15-25€
+255,american club of madrid,0.0,"Calle de Serrano, 110, 28006 Madrid, Spain",2.0,samba club,28006,40.4353049,-3.6861546,"{'type': 'Point', 'coordinates': [40.4353049, -3.6861546]}",15-25€
+256,OPIUM CLUB,3.8,"Calle de José Abascal, 56, 28003 Madrid, Spain",3.0,samba club,28003,40.437878,-3.692209,"{'type': 'Point', 'coordinates': [40.437878, -3.692209]}",15-25€
+257,Joy Eslava Madrid,3.8,"Calle del Arenal, 11, 28013 Madrid, Spain",3.0,samba club,28013,40.4171637,-3.7065661,"{'type': 'Point', 'coordinates': [40.4171637, -3.7065661]}",1-15€
+258,CHA CHÁ The Club Madrid,3.7,"Calle de Alcalá, 20, 28014 Madrid, Spain",2.0,samba club,28014,40.4173993,-3.6983705,"{'type': 'Point', 'coordinates': [40.4173993, -3.6983705]}",1-15€
+259,Clamores,4.2,"Calle de Alburquerque, 14, 28010 Madrid, Spain",2.0,samba club,28010,40.431118,-3.7009577,"{'type': 'Point', 'coordinates': [40.431118, -3.7009577]}",15-25€
+260,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,samba club,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [40.4249433, -3.7117725]}",15-25€
+261,Medias Puri,3.9,"Plaza de Tirso de Molina, 1, 28012 Madrid, Spain",3.0,samba club,28012,40.41234910000001,-3.7034333,"{'type': 'Point', 'coordinates': [40.41234910000001, -3.7034333]}",15-25€
+262,Costello club,4.1,"Calle del Caballero de Gracia, 10, 28013 Madrid, Spain",2.0,samba club,28013,40.41940839999999,-3.700801,"{'type': 'Point', 'coordinates': [40.41940839999999, -3.700801]}",15-25€
+263,Fucking Monday Madrid,4.2,"Calle de Isabel la Católica, 6, 28013 Madrid, Spain",2.0,samba club,28013,40.42110390000001,-3.7089062,"{'type': 'Point', 'coordinates': [40.42110390000001, -3.7089062]}",1-15€
+264,Gin Club,4.0,"Calle de la Reina, 16, 28013 Madrid, Spain",2.0,samba club,28013,40.419885,-3.698771,"{'type': 'Point', 'coordinates': [40.419885, -3.698771]}",15-25€
+265,Barceló Theatre,3.7,"C. de Barceló, 11, 28004 Madrid, Spain",3.0,samba club,28004,40.42692900000001,-3.699822,"{'type': 'Point', 'coordinates': [40.42692900000001, -3.699822]}",1-15€
+266,Café Berlín,4.3,"C, Costanilla de los Ángeles, 20, 28013 Madrid, Spain",2.0,samba club,28013,40.4195885,-3.707943,"{'type': 'Point', 'coordinates': [40.4195885, -3.707943]}",15-25€
+267,Bloco do Baliza,4.8,"metro: La Granja, Calle de San José Artesano, 7, 28108 Alcobendas, Madrid, Spain",2.0,samba club,28108,40.52992,-3.65486,"{'type': 'Point', 'coordinates': [40.52992, -3.65486]}",1-15€
+268,Fortuny Restaurant & Club,3.9,"Calle de Fortuny, 34, 28010 Madrid, Spain",3.0,samba club,28010,40.4345348,-3.6899908,"{'type': 'Point', 'coordinates': [40.4345348, -3.6899908]}",15-25€
+269,Cambridge Soho Club,4.1,"Plaza de España, 6, 2ª Planta, 28008 Madrid, Spain",2.0,samba club,28008,40.4225603,-3.71184,"{'type': 'Point', 'coordinates': [40.4225603, -3.71184]}",1-15€
+270,Nox Club,5.0,"Ronda de Toledo, 11, 28005 Madrid, Spain",2.0,samba club,28005,40.4062167,-3.710104099999999,"{'type': 'Point', 'coordinates': [40.4062167, -3.710104099999999]}",15-25€
+271,RIO SAMBA SHOW,0.0,"Calle Fuente Cisneros, 68, 28922 Alcorcón, Madrid, Spain",2.0,samba club,28922,40.3380265,-3.8558399,"{'type': 'Point', 'coordinates': [40.3380265, -3.8558399]}",15-25€
+272,Oh My Club Madrid,3.7,"Calle de Rosario Pino, 14, 28020 Madrid, Spain",4.0,samba club,28020,40.46263829999999,-3.6930039,"{'type': 'Point', 'coordinates': [40.46263829999999, -3.6930039]}",25-50€
+273,Home Club Apartments Madrid SL,4.0,"Calle de Hermosilla, 21, 28001 Madrid, Spain",2.0,samba club,28001,40.4265716,-3.6857979,"{'type': 'Point', 'coordinates': [40.4265716, -3.6857979]}",15-25€
+274,Liberty Supper Club,3.0,"Calle de Juan Bravo, 31, 28006 Madrid, Spain",3.0,samba club,28006,40.4328007,-3.678826,"{'type': 'Point', 'coordinates': [40.4328007, -3.678826]}",15-25€
+275,Ocean Rock Bar,4.3,"Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",1.0,samba club,28004,40.4256298,-3.7034948,"{'type': 'Point', 'coordinates': [40.4256298, -3.7034948]}",1-15€
+276,Studio11® La Escuela de Baile,4.8,"Calle Antonia Ruiz Soro, 11, 28028 Madrid, Spain",2.0,samba club,28028,40.438095,-3.6664831,"{'type': 'Point', 'coordinates': [40.438095, -3.6664831]}",15-25€
+277,Rotary Club de Madrid,5.0,"Calle del Marqués de la Ensenada, 16, 28004 Madrid, Spain",2.0,samba club,28004,40.4252675,-3.6920496,"{'type': 'Point', 'coordinates': [40.4252675, -3.6920496]}",1-15€
+278,The American Women’s Club of Madrid,0.0,"Plaza de la República del Ecuador, 6, 28016 Madrid, Spain",2.0,samba club,28016,40.4554729,-3.677905,"{'type': 'Point', 'coordinates': [40.4554729, -3.677905]}",15-25€
+279,Observatorio de Derechos Humanos Samba Martine,0.0,"Calle de los Cañizares, 3, 28012 Madrid, Spain",2.0,samba club,28012,40.4129201,-3.7015657,"{'type': 'Point', 'coordinates': [40.4129201, -3.7015657]}",15-25€
+280,Lucy In The Sky Club,4.2,"Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",2.0,samba club,28015,40.4261175,-3.7078297,"{'type': 'Point', 'coordinates': [40.4261175, -3.7078297]}",15-25€
+281,Moby Dick,4.1,"Av. de Brasil, 5, 28020 Madrid, Spain",2.0,samba club,28020,40.4544936,-3.694041399999999,"{'type': 'Point', 'coordinates': [40.4544936, -3.694041399999999]}",15-25€
+282,Brunch Club,4.5,"Calle del Barco, 15, 28004 Madrid, Spain",2.0,samba club,28004,40.4216,-3.7028222,"{'type': 'Point', 'coordinates': [40.4216, -3.7028222]}",15-25€
+283,ATTACK Fun SX Gay Club,4.2,"Calle del Olivar, 22, 28012 Madrid, Spain",1.0,samba club,28012,40.4108628,-3.7018596,"{'type': 'Point', 'coordinates': [40.4108628, -3.7018596]}",15-25€
+284,Madrid Cricket Club,4.7,"Av. Complutense, 28040 Madrid, Spain",2.0,samba club,28040,40.4511382,-3.7280999,"{'type': 'Point', 'coordinates': [40.4511382, -3.7280999]}",1-15€
+285,Spanish club,4.9,"Calle del Monte Esquinza, 28, 28010 Madrid, Spain",2.0,samba club,28010,40.42907330000001,-3.6918303,"{'type': 'Point', 'coordinates': [40.42907330000001, -3.6918303]}",1-15€
+286,David Lloyd Aravaca,4.2,"Calle Vinas de el Pardo, 4, 28023 Madrid, Spain",2.0,samba club,28023,40.47257,-3.76839,"{'type': 'Point', 'coordinates': [40.47257, -3.76839]}",15-25€
+287,Giglon,3.7,"Av. del Mediterráneo, 44d, 28007 Madrid, Spain",2.0,samba club,28007,40.4064086,-3.6711453,"{'type': 'Point', 'coordinates': [40.4064086, -3.6711453]}",15-25€
+288,Fabrik,4.4,"Av. de la Industria, 82, 28970 Humanes de Madrid, Madrid, Spain",2.0,samba club,28970,40.2654556,-3.8404861,"{'type': 'Point', 'coordinates': [40.2654556, -3.8404861]}",15-25€
