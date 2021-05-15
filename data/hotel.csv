@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Central Palace Madrid,4.7,"{'type': 'Point', 'coordinates': [-3.7115055, 40.4177101]}","Plaza de Oriente, 2, 28013 Madrid, Spain",,hotel
+1,ibis budget Madrid Centro Lavapies,3.9,"{'type': 'Point', 'coordinates': [-3.700754099999999, 40.4079211]}","Calle de Valencia, 8, 10, 28012 Madrid, Spain",,hotel
+2,Pestana Plaza Mayor,4.6,"{'type': 'Point', 'coordinates': [-3.7070536, 40.4147668]}","Calle Imperial, 8, 28012 Madrid, Spain",,hotel
+3,Four Seasons Hotel Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.700388, 40.4170089]}","Calle de Sevilla, 3, 28014 Madrid, Spain",,hotel
+4,Gran Hotel Inglés,4.7,"{'type': 'Point', 'coordinates': [-3.6996684, 40.4158634]}","Calle de Echegaray, 8, 28014 Madrid, Spain",,hotel
+5,Hotel Cortezo,4.0,"{'type': 'Point', 'coordinates': [-3.7035722, 40.41367220000001]}","Calle del Dr Cortezo, 3, 28012 Madrid, Spain",,hotel
+6,Aloft Madrid Gran Via,4.5,"{'type': 'Point', 'coordinates': [-3.7071418, 40.4203206]}","Calle de Jacometrezo, 4, 28013 Madrid, Spain",,hotel
+7,Axel Hotel Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.700578, 40.4131709]}","C. de Atocha, 49, 28012 Madrid, Spain",,hotel
+8,"The Westin Palace, Madrid",4.6,"{'type': 'Point', 'coordinates': [-3.695585, 40.4154231]}","Plaza de las Cortes, 7, 28014 Madrid, Spain",,hotel
+9,"Mandarin Oriental Ritz, Madrid",4.5,"{'type': 'Point', 'coordinates': [-3.692606699999999, 40.4157577]}","Plaza de la Lealtad, 5, 28014 Madrid, Spain",,hotel
+10,Hotel Agumar,3.9,"{'type': 'Point', 'coordinates': [-3.683215999999999, 40.406983]}","Paseo de la R. Cristina, 7, 28014 Madrid, Spain",,hotel
+11,B&B Hotel Madrid Centro Plaza Mayor,4.1,"{'type': 'Point', 'coordinates': [-3.705546, 40.414586]}","C. de Atocha, 2, 28012 Madrid, Spain",,hotel
+12,Hotel Regina Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.6998284, 40.4179295]}","Calle de Alcalá, 19, 28014 Madrid, Spain",,hotel
+13,The Principal Madrid Hotel,4.4,"{'type': 'Point', 'coordinates': [-3.6971975, 40.4192971]}","Calle del Marqués de Valdeiglesias, 1, 28004 Madrid, Spain",,hotel
+14,Hotel RIU Plaza España,4.4,"{'type': 'Point', 'coordinates': [-3.7111446, 40.4240261]}","C/ Gran Vía, 84, 28013 Madrid, Spain",,hotel
+15,Woohoo Suites Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.704672099999999, 40.4207598]}","Calle de Concepcion Arenal, 6, 3º, 28004 Madrid, Spain",,hotel
+16,Hotel Europa,4.3,"{'type': 'Point', 'coordinates': [-3.7033915, 40.4175032]}","Calle del Carmen, 4, 28013 Madrid, Spain",,hotel
+17,Hotel Santo Domingo,4.0,"{'type': 'Point', 'coordinates': [-3.7085482, 40.4206587]}","Calle de San Bernardo, 1, 28013 Madrid, Spain",,hotel
+18,ME Madrid Reina Victoria,4.3,"{'type': 'Point', 'coordinates': [-3.7014472, 40.4145638]}","Plaza de Sta. Ana, 14, 28012 Madrid, Spain",,hotel
+19,Room Mate Alba Hotel,4.9,"{'type': 'Point', 'coordinates': [-3.700333, 40.413722]}","Calle de las Huertas, 16, 28012 Madrid, Spain",,hotel
+20,B&B Hotel Madrid Centro Puerta del Sol,4.7,"{'type': 'Point', 'coordinates': [-3.7026312, 40.4175986]}","Calle de la Montera, 10, 12, 28013 Madrid, Spain",,hotel
+21,CoolRooms Atocha - Luxury Historic Hotel,4.7,"{'type': 'Point', 'coordinates': [-3.7010951, 40.4132142]}","C. de Atocha, 34, 28012 Madrid, Spain",,hotel
+22,Hotel GRAN MELIA PALACIO LOS DUQUES,4.6,"{'type': 'Point', 'coordinates': [-3.7096772, 40.4197035]}","Cuesta de Sto. Domingo, 5, 28013 Madrid, Spain",,hotel
+23,Mediodía Hotel,4.1,"{'type': 'Point', 'coordinates': [-3.6931791, 40.408416]}","Plaza del Emperador Carlos V, 8, 28012 Madrid, Spain",,hotel
+24,Hotel Mayorazgo,4.2,"{'type': 'Point', 'coordinates': [-3.7095924, 40.4221209]}","Calle de la Flor Baja, 3, 28013 Madrid, Spain",,hotel
+25,Hotel Regente Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.7043039, 40.41971410000001]}","Calle de Mesonero Romanos, 9, 28013 Madrid, Spain",,hotel
+26,Hotel Catalonia Atocha,4.3,"{'type': 'Point', 'coordinates': [-3.697807, 40.4118357]}","C. de Atocha, 81, 28012 Madrid, Spain",,hotel
+27,H10 Villa de la Reina,4.4,"{'type': 'Point', 'coordinates': [-3.7002951, 40.4200913]}","C/ Gran Vía, 22, 28013 Madrid, Spain",,hotel
+28,Hotel Urban,4.4,"{'type': 'Point', 'coordinates': [-3.698701799999999, 40.4163561]}","Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",,hotel
+29,Hotel Moderno Puerta del Sol Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7048865, 40.4169516]}","Calle del Arenal, 2, 28013 Madrid, Spain",,hotel
+30,AC Hotel by Marriott Atocha,4.3,"{'type': 'Point', 'coordinates': [-3.6900193, 40.4037944]}","Calle de las Delicias, 42, 28045 Madrid, Spain",,hotel
+31,Petit Palace Savoy Alfonso XII,4.6,"{'type': 'Point', 'coordinates': [-3.6891494, 40.4171886]}","Calle de Alfonso XII, 18, 28014 Madrid, Spain",,hotel
+32,H10 Puerta de Alcalá,4.3,"{'type': 'Point', 'coordinates': [-3.681154, 40.422182]}","Calle de Alcalá, 66, 28009 Madrid, Spain",,hotel
+33,Hotel Mora,3.8,"{'type': 'Point', 'coordinates': [-3.6931117, 40.4112575]}","Paseo del Prado, 32, 1, 28014 Madrid, Spain",,hotel
+34,Hotel Gran Legazpi,3.8,"{'type': 'Point', 'coordinates': [-3.6959934, 40.3919874]}","HOTEL GRAN LEGAZPI, Paseo de la Chopera, 71, BAJO, 28045 Madrid, Spain",,hotel
+35,Dear Hotel Madrid,4.4,"{'type': 'Point', 'coordinates': [-3.7104263, 40.4233742]}","C/ Gran Vía, 80, 28013 Madrid, Spain",,hotel
+36,Hotel Catalonia Las Cortes,4.6,"{'type': 'Point', 'coordinates': [-3.699433, 40.4144958]}","Calle del Prado, 6, 28014 Madrid, Spain",,hotel
+37,Hotel Catalonia Gran Vía,4.3,"{'type': 'Point', 'coordinates': [-3.6990859, 40.4194705]}","C/ Gran Vía, 9, 28013 Madrid, Spain",,hotel
+38,Generator Madrid,4.3,"{'type': 'Point', 'coordinates': [-3.7080781, 40.4206771]}","Calle de Silva, 1, 28013 Madrid, Spain",,hotel
+39,Eurostars Madrid Tower,4.4,"{'type': 'Point', 'coordinates': [-3.6879157, 40.4766555]}","Paseo de la Castellana, 259, B, 28046 Madrid, Spain",,hotel
+40,Hotel Ganivet,4.2,"{'type': 'Point', 'coordinates': [-3.7107355, 40.4081627]}","Calle de Toledo, 111, 113, 28005 Madrid, Spain",,hotel
+41,Hotel Soho Boutique Opera,4.3,"{'type': 'Point', 'coordinates': [-3.7073404, 40.4191757]}","Calle de las Veneras, 2, 28013 Madrid, Spain",,hotel
+42,Hotel Wellington,4.5,"{'type': 'Point', 'coordinates': [-3.6841942, 40.4222071]}","Calle de Velázquez, 8, 28001 Madrid, Spain",,hotel
+43,Hotel NH Madrid Nacional,4.3,"{'type': 'Point', 'coordinates': [-3.692673999999999, 40.409962]}","Paseo del Prado, 48, 28014 Madrid, Spain",,hotel
+44,Hotel Preciados,4.4,"{'type': 'Point', 'coordinates': [-3.7076693, 40.4202131]}","Calle de Preciados, 37, 28013 Madrid, Spain",,hotel
+45,ROOM007 SOL,4.3,"{'type': 'Point', 'coordinates': [-3.7086931, 40.417434]}","Calle de las Fuentes, 13, 28013 Madrid, Spain",,hotel
+46,GOOD STAY ROOMS,4.3,"{'type': 'Point', 'coordinates': [-3.7070408, 40.4110235]}","Calle de Embajadores, 1, 28012 Madrid, Spain",,hotel
+47,Le Petit Palü -Fuencarral,3.8,"{'type': 'Point', 'coordinates': [-3.7010569, 40.4221101]}","Calle de Fuencarral, 31, 28004 Madrid, Spain",,hotel
+48,Hotel Vincci Soho,4.4,"{'type': 'Point', 'coordinates': [-3.6981089, 40.4149895]}","Calle del Prado, 18, 28014 Madrid, Spain",,hotel
+49,Room Mate Oscar Hotel,4.4,"{'type': 'Point', 'coordinates': [-3.6990263, 40.4205827]}","Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",,hotel
+50,Hotel Eurostars Plaza Mayor,4.2,"{'type': 'Point', 'coordinates': [-3.7040394, 40.4131024]}","Calle del Dr Cortezo, 10, 28012 Madrid, Spain",,hotel
+51,Hotel Liabeny,4.4,"{'type': 'Point', 'coordinates': [-3.7040031, 40.4186869]}","Calle de la Salud, 3, 28013 Madrid, Spain",,hotel
+52,Hotel Intur Palacio San Martín,4.4,"{'type': 'Point', 'coordinates': [-3.7065207, 40.4188575]}","Plaza de San Martín, 5, 28013 Madrid, Spain",,hotel
+53,Vincci Capitol Hotel,4.3,"{'type': 'Point', 'coordinates': [-3.706584, 40.420444]}","C/ Gran Vía, 41, 28013 Madrid, Spain",,hotel
+54,Hotel Catalonia Puerta Del Sol,4.5,"{'type': 'Point', 'coordinates': [-3.7028643, 40.414026]}","C. de Atocha, 23, 28012 Madrid, Spain",,hotel
+55,Artistic Bed and Breakfast,4.8,"{'type': 'Point', 'coordinates': [-3.698195199999999, 40.4139166]}","Calle de Lope de Vega, 11, Piso 3, 28014 Madrid, Spain",,hotel
+56,Eurostars Madrid Gran Vía,4.0,"{'type': 'Point', 'coordinates': [-3.7099738, 40.4212307]}","Calle de Leganitos, 13, 28013 Madrid, Spain",,hotel
+57,Hotel Praga,3.9,"{'type': 'Point', 'coordinates': [-3.7076492, 40.3940786]}","Calle de Antonio López, 65, 28019 Madrid, Spain",,hotel
+58,Only YOU Boutique Hotel,4.5,"{'type': 'Point', 'coordinates': [-3.6959436, 40.422313]}","Calle del Barquillo, 21, 28004 Madrid, Spain",,hotel
+59,Jardines de Sabatini Apartosuites,4.6,"{'type': 'Point', 'coordinates': [-3.7149143, 40.4209608]}","Cuesta de San Vicente, 16, 28008 Madrid, Spain",,hotel

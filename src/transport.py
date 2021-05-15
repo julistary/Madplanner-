@@ -52,7 +52,7 @@ def limpito_parking(df):
 
 
     for lat,lon in zip(latitude, longitude):
-        geometry.append({"type": "Point", "coordinates": [lat , lon]})
+        geometry.append({"type": "Point", "coordinates": [lon , lat]})
 
     df["geometry"] = geometry
     df["type"] = "parking"

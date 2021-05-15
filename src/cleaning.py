@@ -94,7 +94,7 @@ def latlon(df):
 
     geometry = []
     for lat,lon in zip(latitude, longitude):
-        geometry.append({"type": "Point", "coordinates": [lat , lon]})
+        geometry.append({"type": "Point", "coordinates": [lon , lat]})
     
     df["geometry"] = geometry
     return df

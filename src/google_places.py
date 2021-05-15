@@ -3,7 +3,6 @@ import json
 from dotenv import load_dotenv
 import os
 import pandas as pd
-import src.foursquares as fs
 import numpy as np
 import time
 load_dotenv()

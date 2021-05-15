@@ -1,281 +1,281 @@
 ,name,rating,address,price_level,place,CP,latitude,longitude,geometry,price
-0,Fábrica Maravillas,4.3,"Calle de Valverde, 29, 28004 Madrid, Spain",2.0,brewery,28004,40.4226581,-3.7017355,"{'type': 'Point', 'coordinates': [40.4226581, -3.7017355]}",15-25€
-1,Mad Brewing,4.4,"C. de Julián Camarillo, 19, 28037 Madrid, Spain",2.0,brewery,28037,40.4350769,-3.6312913,"{'type': 'Point', 'coordinates': [40.4350769, -3.6312913]}",15-25€
-2,Cervecera Península,4.8,"Calle La Granja #5, Nave 1, 28108 Alcobendas, Madrid, Spain",2.0,brewery,28108,40.5271494,-3.6597098,"{'type': 'Point', 'coordinates': [40.5271494, -3.6597098]}",1-15€
-3,La Osita,4.7,"Calle de la Cava Baja, 10, 28005 Madrid, Spain",2.0,brewery,28005,40.413234,-3.7084903,"{'type': 'Point', 'coordinates': [40.413234, -3.7084903]}",15-25€
-4,Bee Beer. Craft Beers & Cheeses,4.6,"Calle de Augusto Figueroa, 30, 28004 Madrid, Spain",2.0,brewery,28004,40.421978,-3.69692,"{'type': 'Point', 'coordinates': [40.421978, -3.69692]}",15-25€
-5,Cervezas La Cibeles,4.6,"Calle Petróleo, 34, 28918 Leganés, Madrid, Spain",2.0,brewery,28918,40.3523488,-3.7994132,"{'type': 'Point', 'coordinates': [40.3523488, -3.7994132]}",15-25€
-6,Brew Wild Pizza Bar,4.6,"Calle de Echegaray, 23, 28014 Madrid, Spain",2.0,brewery,28014,40.4148026,-3.6995115,"{'type': 'Point', 'coordinates': [40.4148026, -3.6995115]}",1-15€
-7,Cervezas 28 Iberica S. L.,5.0,"C/ Gran Vía, 4, 28013 Madrid, Spain",2.0,brewery,28013,40.4193028,-3.6976468,"{'type': 'Point', 'coordinates': [40.4193028, -3.6976468]}",15-25€
-8,One Beer,4.7,"Calle Destreza, 3, 28906 Getafe, Madrid, Spain",2.0,brewery,28906,40.31551049999999,-3.6745077,"{'type': 'Point', 'coordinates': [40.31551049999999, -3.6745077]}",25-50€
-9,Cervecería Deportiva,0.0,"Costanilla de los Ángeles, 12, 28013 Madrid, Spain",2.0,brewery,28013,40.4190408,-3.7080657,"{'type': 'Point', 'coordinates': [40.4190408, -3.7080657]}",15-25€
-10,Los Cervecistas,4.9,"Calle Titán, 15, 28045 Madrid, Spain",2.0,brewery,28045,40.3909789,-3.680202299999999,"{'type': 'Point', 'coordinates': [40.3909789, -3.680202299999999]}",15-25€
-11,Dylan's Craft Beer Company,5.0,"Calle de San Bernardo, 107, 204, 28015 Madrid, Spain",2.0,brewery,28015,40.431991,-3.705396,"{'type': 'Point', 'coordinates': [40.431991, -3.705396]}",15-25€
-12,Cervezas Alhambra,0.0,"Calle de Benigno Soto, 28002 Madrid, Spain",2.0,brewery,28002,40.4478733,-3.6753321,"{'type': 'Point', 'coordinates': [40.4478733, -3.6753321]}",15-25€
-13,The Stuyck Co,4.4,"Corredera Alta de San Pablo, 33, 28004 Madrid, Spain",2.0,brewery,28004,40.4265004,-3.7017522,"{'type': 'Point', 'coordinates': [40.4265004, -3.7017522]}",15-25€
-14,Viuda de Cortés S.L.,0.0,"Paseo de la Florida, 51, 28008 Madrid, Spain",2.0,brewery,28008,40.4237653,-3.7245116,"{'type': 'Point', 'coordinates': [40.4237653, -3.7245116]}",15-25€
-15,Beerhouse - Craftbeer Bar,4.5,"Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",2.0,brewery,28010,40.4305865,-3.7017166,"{'type': 'Point', 'coordinates': [40.4305865, -3.7017166]}",25-50€
-16,Cervezas Alhambra,0.0,"Calle Vicente Espinel, 23, 28017 Madrid, Spain",2.0,brewery,28017,40.4344184,-3.6409801,"{'type': 'Point', 'coordinates': [40.4344184, -3.6409801]}",15-25€
-17,La Contenta Brewery,4.3,"Plaza de Chamberí, 3, 28010 Madrid, Spain",1.0,brewery,28010,40.432975,-3.697316,"{'type': 'Point', 'coordinates': [40.432975, -3.697316]}",15-25€
-18,Charlton Brewery Madrid,0.0,"Calle del Espíritu Santo, 8, 28004 Madrid, Spain",2.0,brewery,28004,40.4251914,-3.7026577,"{'type': 'Point', 'coordinates': [40.4251914, -3.7026577]}",15-25€
-19,Brewery Norwich International,4.4,"Calle de la Marroquina, 38, 28030 Madrid, Spain",1.0,brewery,28030,40.407804,-3.64773,"{'type': 'Point', 'coordinates': [40.407804, -3.64773]}",15-25€
-20,Restaurante Wanderlust,4.1,"Calle de Silva, 2, 28013 Madrid, Spain",2.0,brewery,28013,40.4205089,-3.7081105,"{'type': 'Point', 'coordinates': [40.4205089, -3.7081105]}",15-25€
-21,Cervecería CruzBlanca,3.4,"Calle de la Reina de África, 10, 28018 Madrid, Spain",2.0,brewery,28018,40.3804411,-3.6609219,"{'type': 'Point', 'coordinates': [40.3804411, -3.6609219]}",15-25€
-22,Källa Craft Beer,4.2,"Calle de Barbieri, 20, 28004 Madrid, Spain",2.0,brewery,28004,40.4217128,-3.6978612,"{'type': 'Point', 'coordinates': [40.4217128, -3.6978612]}",15-25€
-23,Bacterio Brewing CO,4.5,"Av. las Retamas, 10, 28922 Alcorcón, Madrid, Spain",2.0,brewery,28922,40.3391271,-3.836418,"{'type': 'Point', 'coordinates': [40.3391271, -3.836418]}",15-25€
-24,Bee Beer Debod. Craft Beers & Super Foods,4.8,"Calle de Ferraz, 10, 28008 Madrid, Spain",2.0,brewery,28008,40.4241481,-3.7151859,"{'type': 'Point', 'coordinates': [40.4241481, -3.7151859]}",15-25€
-25,Taproom Madrid,4.5,"Calle de Guzmán el Bueno, 52, 28015 Madrid, Spain",2.0,brewery,28015,40.43605489999999,-3.7129511,"{'type': 'Point', 'coordinates': [40.43605489999999, -3.7129511]}",15-25€
-26,Mahoudrid,3.7,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",2.0,brewery,28042,40.4638558,-3.5702504,"{'type': 'Point', 'coordinates': [40.4638558, -3.5702504]}",15-25€
-27,Labirratorium,4.6,"Calle de Vallehermoso, 34, 28015 Madrid, Spain",2.0,brewery,28015,40.433788,-3.708546999999999,"{'type': 'Point', 'coordinates': [40.433788, -3.708546999999999]}",15-25€
-28,Mahou,3.4,"Aeropuerto Madrid-Barajas. Terminal 2 Planta 1. Entrada, Metro Línea 8, 28042 Madrid, Spain",2.0,brewery,28042,40.4683654,-3.5712434,"{'type': 'Point', 'coordinates': [40.4683654, -3.5712434]}",15-25€
-29,Mahou,3.4,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",2.0,brewery,28042,40.4681768,-3.568535,"{'type': 'Point', 'coordinates': [40.4681768, -3.568535]}",15-25€
-30,Cervezas La Virgen 🍻🍔 Solo reservas ONLINE,4.5,"P.I. Európolis, Calle Turín, 13, 28232 Las Rozas de Madrid, Madrid, Spain",2.0,brewery,28232,40.4996241,-3.8888928,"{'type': 'Point', 'coordinates': [40.4996241, -3.8888928]}",25-50€
-31,Cerveza Majariega,4.9,"Calle Oxford, 6-A, 28232 Las Rozas de Madrid, Madrid, Spain",2.0,brewery,28232,40.5004906,-3.8883625,"{'type': 'Point', 'coordinates': [40.5004906, -3.8883625]}",15-25€
-32,CafeeKe - Cervezas y tapas de Bélgica,3.9,"Calle de Cuchilleros, 3, 28005 Madrid, Spain",2.0,brewery,28005,40.414721,-3.707978,"{'type': 'Point', 'coordinates': [40.414721, -3.707978]}",15-25€
-33,Panda Beer,0.0,"Calle del Luis de Oro, 15, 28054 Madrid, Spain",2.0,brewery,28054,40.3636895,-3.7459039,"{'type': 'Point', 'coordinates': [40.3636895, -3.7459039]}",15-25€
-34,LOS GRIFOS Craft Beers,4.2,"C. de Manuela Malasaña, 33, 28004 Madrid, Spain",2.0,brewery,28004,40.4287863,-3.7052692,"{'type': 'Point', 'coordinates': [40.4287863, -3.7052692]}",15-25€
-35,Cervecería Baden Baden,4.4,"Calle Germán Pérez Carrasco, 51, 28027 Madrid, Spain",2.0,brewery,28027,40.4361746,-3.643825,"{'type': 'Point', 'coordinates': [40.4361746, -3.643825]}",1-15€
-36,Fogg Bar Birras & Cheese,4.6,"C. de Moratín, 5, 28014 Madrid, Spain",2.0,brewery,28014,40.4123332,-3.6979655,"{'type': 'Point', 'coordinates': [40.4123332, -3.6979655]}",1-15€
-37,Mikkeller Bar Madrid,4.2,"Calle de la Luna, 22, 28004 Madrid, Spain",2.0,brewery,28004,40.4224896,-3.7062268,"{'type': 'Point', 'coordinates': [40.4224896, -3.7062268]}",15-25€
-38,Heineken,2.0,"Calle de la Pintora Ángeles Santos, 4, 28053 Madrid, Spain",2.0,brewery,28053,40.3968514,-3.6690306,"{'type': 'Point', 'coordinates': [40.3968514, -3.6690306]}",15-25€
-39,Chinaski Lavapiés,4.3,"Calle de la Fe, 19, 28012 Madrid, Spain",2.0,brewery,28012,40.408944,-3.699304,"{'type': 'Point', 'coordinates': [40.408944, -3.699304]}",More than 50€
-40,HOP VINE BEACH American Brewery,0.0,"Calle de Sta. María, 33, 28014 Madrid, Spain",2.0,brewery,28014,40.4127848,-3.6963716,"{'type': 'Point', 'coordinates': [40.4127848, -3.6963716]}",15-25€
-41,Cervezas La Fábrica,3.8,"Calle de Jesús, 2, 28014 Madrid, Spain",2.0,brewery,28014,40.4135948,-3.6957185,"{'type': 'Point', 'coordinates': [40.4135948, -3.6957185]}",More than 50€
-42,Mahou,5.0,"Calle de la Madera, 14, 28914 Leganés, Madrid, Spain",2.0,brewery,28914,40.3286802,-3.776204,"{'type': 'Point', 'coordinates': [40.3286802, -3.776204]}",15-25€
-43,Cervezas Martínez e Hijas,4.0,"C/ Valdemorillo 16-B, Polígono Ventorro del Cano, 28925 Alcorcón, Madrid, Spain",1.0,brewery,28925,40.3904799,-3.83611,"{'type': 'Point', 'coordinates': [40.3904799, -3.83611]}",15-25€
-44,Barley & Co. Cervezas Especiales,4.8,"Calle Artesanos, 11, 28660 Boadilla del Monte, Madrid, Spain",2.0,brewery,28660,40.39241699999999,-3.8496636,"{'type': 'Point', 'coordinates': [40.39241699999999, -3.8496636]}",15-25€
-45,La Conquista Loungebeer,4.9,"Calle de la Reina, 17, 28004 Madrid, Spain",2.0,brewery,28004,40.4203373,-3.6996965,"{'type': 'Point', 'coordinates': [40.4203373, -3.6996965]}",15-25€
-46,La Tienda de la Cerveza,4.7,"Calle de las Maldonadas, 5, 28005 Madrid, Spain",2.0,brewery,28005,40.4109073,-3.7078717,"{'type': 'Point', 'coordinates': [40.4109073, -3.7078717]}",More than 50€
-47,Be Hoppy,4.8,"Calle de Fúcar, 1, 28014 Madrid, Spain",2.0,brewery,28014,40.4124572,-3.695562999999999,"{'type': 'Point', 'coordinates': [40.4124572, -3.695562999999999]}",15-25€
-48,Beer Bang Beers,4.7,"Mercado de, Calle de Eraso, 14, 28028 Madrid, Spain",2.0,brewery,28028,40.434075,-3.6709469,"{'type': 'Point', 'coordinates': [40.434075, -3.6709469]}",15-25€
-49,Yellow Cab,4.0,"Av. Olímpica, 5, 28108 Alcobendas, Madrid, Spain",2.0,brewery,28108,40.5361526,-3.6321774,"{'type': 'Point', 'coordinates': [40.5361526, -3.6321774]}",25-50€
-50,Starbeers,4.6,"Calle del Almendro, 8, 28005 Madrid, Spain",2.0,brewery,28005,40.4128722,-3.7096055,"{'type': 'Point', 'coordinates': [40.4128722, -3.7096055]}",15-25€
-51,Cervecería Avenida,4.1,"Av. del General Perón, 22, 28020 Madrid, Spain",2.0,brewery,28020,40.4521857,-3.6960902,"{'type': 'Point', 'coordinates': [40.4521857, -3.6960902]}",15-25€
-52,CERVECERIA DOMINGUEZ,4.3,"Calle Virgen de la Oliva, 2, 28037 Madrid, Spain",2.0,brewery,28037,40.430681,-3.6256428,"{'type': 'Point', 'coordinates': [40.430681, -3.6256428]}",15-25€
-53,HOP BEACH American brewey,5.0,"Calle de Sta. María, 33, 28014 Madrid, Spain",2.0,brewery,28014,40.4127848,-3.6963716,"{'type': 'Point', 'coordinates': [40.4127848, -3.6963716]}",25-50€
-54,Cervezas Patanel,4.7,"Av. de Pedro Diez, 21, 28019 Madrid, Spain",2.0,brewery,28019,40.3913698,-3.7315292,"{'type': 'Point', 'coordinates': [40.3913698, -3.7315292]}",1-15€
-55,Cruzcampo,0.0,"28039 Madrid, Spain",2.0,brewery,28039,40.461341,-3.7010263,"{'type': 'Point', 'coordinates': [40.461341, -3.7010263]}",25-50€
-56,Taproom Madrid,4.5,"Debajo del Tierra Burrito, Plaza de Isabel II, 5, 28013 Madrid, Spain",2.0,brewery,28013,40.418584,-3.7093819,"{'type': 'Point', 'coordinates': [40.418584, -3.7093819]}",15-25€
-57,Cervecissimus - Backstage,4.6,"Calle de las Delicias, 6, 28045 Madrid, Spain",2.0,brewery,28045,40.4041224,-3.694972599999999,"{'type': 'Point', 'coordinates': [40.4041224, -3.694972599999999]}",15-25€
-58,La Almudayna,4.4,"Calle del Espíritu Santo, 5, 28004 Madrid, Spain",1.0,brewery,28004,40.4250191,-3.7024314,"{'type': 'Point', 'coordinates': [40.4250191, -3.7024314]}",15-25€
-59,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,brewery,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [40.4249433, -3.7117725]}",15-25€
-60,La Terraza del Urban,4.4,"Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",3.0,rooftop,28014,40.416282,-3.698698,"{'type': 'Point', 'coordinates': [40.416282, -3.698698]}",15-25€
-61,Doña Luz Restaurante,4.2,"Calle de la Montera, 10, 12, 28013 Madrid, Spain",2.0,rooftop,28013,40.4175643,-3.7025579,"{'type': 'Point', 'coordinates': [40.4175643, -3.7025579]}",15-25€
-62,La Terraza de Óscar,4.4,"Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",3.0,rooftop,28004,40.4206224,-3.6989814,"{'type': 'Point', 'coordinates': [40.4206224, -3.6989814]}",15-25€
-63,Terraza Cibeles,3.7,"Plaza Cibeles, 1, 28014 Madrid, Spain",3.0,rooftop,28014,40.4189339,-3.6921521,"{'type': 'Point', 'coordinates': [40.4189339, -3.6921521]}",15-25€
-64,El Viajero,3.8,"Plaza de la Cebada, 11, 28005 Madrid, Spain",2.0,rooftop,28005,40.4116672,-3.7102139,"{'type': 'Point', 'coordinates': [40.4116672, -3.7102139]}",15-25€
-65,Picalagartos Sky Bar & Restaurant,4.3,"C/ Gran Vía, 21, 28013 Madrid, Spain",3.0,rooftop,28013,40.4198591,-3.701074,"{'type': 'Point', 'coordinates': [40.4198591, -3.701074]}",1-15€
-66,Azotea del Círculo,4.2,"Azotea del Círculo de Bellas Artes de Madrid, Calle del Marqués de Casa Riera, 2, 28004 Madrid, Spain",3.0,rooftop,28004,40.4183253,-3.6964847,"{'type': 'Point', 'coordinates': [40.4183253, -3.6964847]}",1-15€
-67,Hotel RIU Plaza España,4.4,"C/ Gran Vía, 84, 28013 Madrid, Spain",3.0,rooftop,28013,40.4240261,-3.7111446,"{'type': 'Point', 'coordinates': [40.4240261, -3.7111446]}",15-25€
-68,Radio Rooftop Bar Madrid,3.7,"Plaza de Sta. Ana, 14, 28012 Madrid, Spain",3.0,rooftop,28012,40.4148202,-3.7014664,"{'type': 'Point', 'coordinates': [40.4148202, -3.7014664]}",15-25€
-69,Sky Bar 360°,4.2,"C/ Gran Vía, 84, 28013 Madrid, Spain",3.0,rooftop,28013,40.4241475,-3.7111124,"{'type': 'Point', 'coordinates': [40.4241475, -3.7111124]}",15-25€
-70,Dear Hotel Madrid,4.4,"C/ Gran Vía, 80, 28013 Madrid, Spain",3.0,rooftop,28013,40.4233742,-3.7104263,"{'type': 'Point', 'coordinates': [40.4233742, -3.7104263]}",15-25€
-71,Ginkgo Restaurante & Sky Bar,4.2,"Plaza de España, 3, 28008 Madrid, Spain",3.0,rooftop,28008,40.4228665,-3.7113619,"{'type': 'Point', 'coordinates': [40.4228665, -3.7113619]}",15-25€
-72,GYMAGE Lounge Resort,3.5,"Calle de la Luna, 2, 28004 Madrid, Spain",3.0,rooftop,28004,40.4214086,-3.7048219,"{'type': 'Point', 'coordinates': [40.4214086, -3.7048219]}",1-15€
-73,Sky Roof Top Terrace,4.0,"Calle del Aviador Zorita, 34, 28020 Madrid, Spain",3.0,rooftop,28020,40.4504241,-3.6981607,"{'type': 'Point', 'coordinates': [40.4504241, -3.6981607]}",1-15€
-74,Azotea Forus Barceló,4.0,"C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",2.0,rooftop,28005,40.4268137,-3.6988964,"{'type': 'Point', 'coordinates': [40.4268137, -3.6988964]}",1-15€
-75,Skynight,3.9,"Avenida de América, 41, 28002 Madrid, Spain",3.0,rooftop,28002,40.44066249999999,-3.6700403,"{'type': 'Point', 'coordinates': [40.44066249999999, -3.6700403]}",1-15€
-76,Casa Suecia,4.4,"y roof top, Calle del Marqués de Casa Riera, 4, Planta baja, 28014 Madrid, Spain",3.0,rooftop,28014,40.4179018,-3.6962677,"{'type': 'Point', 'coordinates': [40.4179018, -3.6962677]}",15-25€
-77,De Madrid al Cielo Sky bar,4.2,"Edificio España, C. de la Princesa, 19, 28013 Madrid, Spain",3.0,rooftop,28013,40.42419940000001,-3.7110904,"{'type': 'Point', 'coordinates': [40.42419940000001, -3.7110904]}",1-15€
-78,Bar Terraza Roof Top,4.0,"Calle de San Bernardo, 28013 Madrid, Spain",3.0,rooftop,28013,40.4206019,-3.7084716,"{'type': 'Point', 'coordinates': [40.4206019, -3.7084716]}",1-15€
-79,Sky Terrace Moncloa,4.0,"Calle Arcipreste Hita n. 10, planta 8, Hotel Exe Moncloa, 28015 Madrid, Spain",3.0,rooftop,28015,40.4337546,-3.7175075,"{'type': 'Point', 'coordinates': [40.4337546, -3.7175075]}",1-15€
-80,Del Diego Cocktail Bar,4.4,"Calle de la Reina, 12, 28004 Madrid, Spain",2.0,cocktail,28004,40.42001399999999,-3.699275,"{'type': 'Point', 'coordinates': [40.42001399999999, -3.699275]}",1-15€
-81,Salmon Guru,4.7,"Calle de Echegaray, 21, 28014 Madrid, Spain",2.0,cocktail,28014,40.4148933,-3.699517,"{'type': 'Point', 'coordinates': [40.4148933, -3.699517]}",1-15€
-82,Harvey's Cocktail Bar,4.3,"Calle de Fuencarral, 70, 28004 Madrid, Spain",2.0,cocktail,28004,40.4248621,-3.7006277,"{'type': 'Point', 'coordinates': [40.4248621, -3.7006277]}",1-15€
-83,Baton Rouge Cocktail Bar,4.5,"Calle de la Victoria, 8, 28012 Madrid, Spain",2.0,cocktail,28012,40.4158661,-3.7017675,"{'type': 'Point', 'coordinates': [40.4158661, -3.7017675]}",1-15€
-84,47 cocktail bar,4.1,"Calle de la Cava Baja, 47, 28005 Madrid, Spain",2.0,cocktail,28005,40.4118685,-3.7102089,"{'type': 'Point', 'coordinates': [40.4118685, -3.7102089]}",1-15€
-85,1862 Dry Bar,4.5,"Calle del Pez, 27, 28004 Madrid, Spain",2.0,cocktail,28004,40.4241629,-3.7065294,"{'type': 'Point', 'coordinates': [40.4241629, -3.7065294]}",15-25€
-86,Dry Martini Bar,4.4,"Calle de Hermosilla, 2, 28001 Madrid, Spain",3.0,cocktail,28001,40.4263506,-3.6893391,"{'type': 'Point', 'coordinates': [40.4263506, -3.6893391]}",1-15€
-87,Vacaciones Cocktail Bar,4.1,"Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,cocktail,28004,40.4253189,-3.703584,"{'type': 'Point', 'coordinates': [40.4253189, -3.703584]}",1-15€
-88,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,cocktail,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [40.4249433, -3.7117725]}",15-25€
-89,The Dash,4.4,"C/ de Murillo, 5, 28010 Madrid, Spain",2.0,cocktail,28010,40.4334982,-3.7006417,"{'type': 'Point', 'coordinates': [40.4334982, -3.7006417]}",1-15€
-90,La Villana,4.1,"C. del Padre Damián, 37, 28036 Madrid, Spain",2.0,cocktail,28036,40.4608894,-3.6855996,"{'type': 'Point', 'coordinates': [40.4608894, -3.6855996]}",1-15€
-91,Santos y Desamparados,4.6,"Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,cocktail,28014,40.4129171,-3.6966068,"{'type': 'Point', 'coordinates': [40.4129171, -3.6966068]}",1-15€
-92,Catarsis,4.3,"Calle de Ponzano, 16, 28010 Madrid, Spain",2.0,cocktail,28010,40.4376884,-3.6992315,"{'type': 'Point', 'coordinates': [40.4376884, -3.6992315]}",1-15€
-93,Cafe Madrid,4.3,"C/ del Mesón de Paños, 6, 28013 Madrid, Spain",2.0,cocktail,28013,40.4166411,-3.709223799999999,"{'type': 'Point', 'coordinates': [40.4166411, -3.709223799999999]}",15-25€
-94,The Shaker,4.6,"Calle de Alcántara, 38, 28006 Madrid, Spain",1.0,cocktail,28006,40.4292913,-3.6735743,"{'type': 'Point', 'coordinates': [40.4292913, -3.6735743]}",1-15€
-95,St. John's Coctelería,4.6,"Calle Marqués del Duero, 8, 28001 Madrid, Spain",2.0,cocktail,28001,40.42025640000001,-3.6911161,"{'type': 'Point', 'coordinates': [40.42025640000001, -3.6911161]}",1-15€
-96,Lía Madrid Cocktail Boutique,4.5,"Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",2.0,cocktail,28036,40.4583758,-3.6826621,"{'type': 'Point', 'coordinates': [40.4583758, -3.6826621]}",1-15€
-97,Hemingway Cocktail Bar,4.2,"Calle del Marqués de Casa Riera, 4, 28014 Madrid, Spain",2.0,cocktail,28014,40.4178283,-3.6961819,"{'type': 'Point', 'coordinates': [40.4178283, -3.6961819]}",1-15€
-98,Bar Varsovia,4.2,"Calle de San Andrés, 33, 28004 Madrid, Spain",1.0,cocktail,28004,40.428821,-3.703385699999999,"{'type': 'Point', 'coordinates': [40.428821, -3.703385699999999]}",1-15€
-99,La Santoría,4.9,"Calle de Lope de Vega, 30, 28014 Madrid, Spain",2.0,cocktail,28014,40.4135922,-3.696250799999999,"{'type': 'Point', 'coordinates': [40.4135922, -3.696250799999999]}",15-25€
-100,Angelita Madrid,4.7,"Calle de la Reina, 4, 28004 Madrid, Spain",2.0,cocktail,28004,40.420274,-3.700386,"{'type': 'Point', 'coordinates': [40.420274, -3.700386]}",15-25€
-101,Enbabia Infused,4.6,"Calle de Núñez de Arce, 9, 28012 Madrid, Spain",2.0,cocktail,28012,40.4154748,-3.7012258,"{'type': 'Point', 'coordinates': [40.4154748, -3.7012258]}",1-15€
-102,Santamaría Coctelería,4.7,"Calle de la Ballesta, 6, 28004 Madrid, Spain",2.0,cocktail,28004,40.4213371,-3.7034948,"{'type': 'Point', 'coordinates': [40.4213371, -3.7034948]}",1-15€
-103,La Galería Cocktail-Bar,3.8,"Costanilla de los Ángeles, 9, 28013 Madrid, Spain",2.0,cocktail,28013,40.4188892,-3.7083071,"{'type': 'Point', 'coordinates': [40.4188892, -3.7083071]}",1-15€
-104,La Tuerta Funky Castizo,4.5,"Calle de la Cabeza, 28, 28012 Madrid, Spain",2.0,cocktail,28012,40.41189869999999,-3.701836,"{'type': 'Point', 'coordinates': [40.41189869999999, -3.701836]}",1-15€
-105,Gil's Cocktail Bar,5.0,"Calle de Modesto Lafuente, 23, 28003 Madrid, Spain",2.0,cocktail,28003,40.4407851,-3.696188,"{'type': 'Point', 'coordinates': [40.4407851, -3.696188]}",1-15€
-106,Garra Bar,4.4,"Plaza de España, 18, 28013 Madrid, Spain",2.0,cocktail,28013,40.4241374,-3.7124487,"{'type': 'Point', 'coordinates': [40.4241374, -3.7124487]}",1-15€
-107,Black Mamba Cocktail Bar,4.4,"Costanilla de San Pedro, 5, 28005 Madrid, Spain",2.0,cocktail,28005,40.4126199,-3.7106115,"{'type': 'Point', 'coordinates': [40.4126199, -3.7106115]}",1-15€
-108,Ficus Bar,4.7,"Calle de Santo Tomé, 8, 28004 Madrid, Spain",2.0,cocktail,28004,40.4236519,-3.694985,"{'type': 'Point', 'coordinates': [40.4236519, -3.694985]}",15-25€
-109,Carpe Diem,4.6,"Plaza de Puerta Cerrada, 7, 28005 Madrid, Spain",1.0,cocktail,28005,40.4136833,-3.70895,"{'type': 'Point', 'coordinates': [40.4136833, -3.70895]}",1-15€
-110,Angelita Madrid Sky Bar,4.4,"Paseo de la Infanta Isabel, 13, Planta 7, 28013 Madrid, Spain",2.0,cocktail,28013,40.4073115,-3.6884222,"{'type': 'Point', 'coordinates': [40.4073115, -3.6884222]}",1-15€
-111,Anubis Trafalgar,4.1,"Calle de Trafalgar, 10, 28010 Madrid, Spain",2.0,cocktail,28010,40.4316293,-3.7003164,"{'type': 'Point', 'coordinates': [40.4316293, -3.7003164]}",1-15€
-112,THE MOON TERRAZA COCKTAIL BAR,3.2,"Plaza Santa María Soledad Torres Acosta s/n, 28004 Madrid, Spain",2.0,cocktail,28004,40.4214658,-3.705273,"{'type': 'Point', 'coordinates': [40.4214658, -3.705273]}",1-15€
-113,In Dreams Café,4.3,"Calle de San Mateo, 4, 28004 Madrid, Spain",2.0,cocktail,28004,40.425,-3.7002778,"{'type': 'Point', 'coordinates': [40.425, -3.7002778]}",15-25€
-114,Bátelo Cocktail Bar,4.0,"Calle del Infante, 8, 28014 Madrid, Spain",2.0,cocktail,28014,40.4141412,-3.6991146,"{'type': 'Point', 'coordinates': [40.4141412, -3.6991146]}",1-15€
-115,Mezcaloteca Corazón Agavero,4.6,"Calle del Humilladero, 28, 28005 Madrid, Spain",2.0,cocktail,28005,40.4094959,-3.7104267,"{'type': 'Point', 'coordinates': [40.4094959, -3.7104267]}",1-15€
-116,V Manneken,4.1,"Cl. del Marqués de Sta. Ana, 30, 28004 Madrid, Spain",2.0,cocktail,28004,40.4251368,-3.70382,"{'type': 'Point', 'coordinates': [40.4251368, -3.70382]}",1-15€
-117,Viva Madrid,4.4,"Calle de Manuel Fernández y González, nº 7, 28014 Madrid, Spain",2.0,cocktail,28014,40.4151864,-3.6998424,"{'type': 'Point', 'coordinates': [40.4151864, -3.6998424]}",1-15€
-118,Anubis Cócteleria Plaza Mayor,4.5,"Calle de Concepción Jerónima, 29, 28012 Madrid, Spain",1.0,cocktail,28012,40.413657,-3.706805,"{'type': 'Point', 'coordinates': [40.413657, -3.706805]}",1-15€
-119,Museo Chicote,4.1,"C/ Gran Vía, 12, 28013 Madrid, Spain",2.0,cocktail,28013,40.4196892,-3.6989026,"{'type': 'Point', 'coordinates': [40.4196892, -3.6989026]}",1-15€
-120,"Sotto - Discoteca, terraza y sala de eventos en Bernabéu",4.0,"Calle Gutiérrez Solana, 6, 28036 Madrid, Spain",2.0,cocktail,28036,40.4504981,-3.6878848,"{'type': 'Point', 'coordinates': [40.4504981, -3.6878848]}",15-25€
-121,Kona Lei - Tiki Cocktail Bar,1.5,"Calle de Hernán Cortés, 8, 28004 Madrid, Spain",2.0,cocktail,28004,40.4234353,-3.7000271,"{'type': 'Point', 'coordinates': [40.4234353, -3.7000271]}",15-25€
-122,Casa Pueblo,4.4,"Calle del León, 3, 28014 Madrid, Spain",1.0,cocktail,28014,40.4146076,-3.6985476,"{'type': 'Point', 'coordinates': [40.4146076, -3.6985476]}",1-15€
-123,Miranda,3.9,"Calle de las Huertas, 29, 28014 Madrid, Spain",2.0,cocktail,28014,40.4136803,-3.6988841,"{'type': 'Point', 'coordinates': [40.4136803, -3.6988841]}",15-25€
-124,Memphis Cocktail Bar,3.5,"Calle de Brescia, 2, 28028 Madrid, Spain",2.0,cocktail,28028,40.4364152,-3.6647445,"{'type': 'Point', 'coordinates': [40.4364152, -3.6647445]}",15-25€
-125,The Kave,4.7,"Calle de Salustiano Olózaga, 15, 28001 Madrid, Spain",2.0,cocktail,28001,40.4205171,-3.6896285,"{'type': 'Point', 'coordinates': [40.4205171, -3.6896285]}",15-25€
-126,mokäi,1.7,"Plaza de Pedro Zerolo, 10, 28004 Madrid, Spain",2.0,cocktail,28004,40.4209953,-3.6988671,"{'type': 'Point', 'coordinates': [40.4209953, -3.6988671]}",15-25€
-127,La Realidad,4.2,"Corredera Baja de San Pablo, 51, 28004 Madrid, Spain",2.0,cocktail,28004,40.42359159999999,-3.7026227,"{'type': 'Point', 'coordinates': [40.42359159999999, -3.7026227]}",1-15€
-128,Macera Taller Bar,4.4,"Calle de San Mateo, 21, 28004 Madrid, Spain",2.0,cocktail,28004,40.426179,-3.698088,"{'type': 'Point', 'coordinates': [40.426179, -3.698088]}",15-25€
-129,AMALAVIDA,4.5,"Calle de Loreto y Chicote, 7, 28004 Madrid, Spain",2.0,cocktail,28004,40.4214599,-3.7039117,"{'type': 'Point', 'coordinates': [40.4214599, -3.7039117]}",1-15€
-130,DPICKLE ROOM,4.9,"Calle de Fernando VI, 28004 Madrid, Spain",2.0,cocktail,28004,40.4252822,-3.6963639,"{'type': 'Point', 'coordinates': [40.4252822, -3.6963639]}",1-15€
-131,La Terraza de Óscar,4.4,"Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",3.0,cocktail,28004,40.4206224,-3.6989814,"{'type': 'Point', 'coordinates': [40.4206224, -3.6989814]}",1-15€
-132,Café del Soul,3.8,"Calle de Espoz y Mina, 14, 28012 Madrid, Spain",2.0,cocktail,28012,40.4156335,-3.7023858,"{'type': 'Point', 'coordinates': [40.4156335, -3.7023858]}",15-25€
-133,Gin Club,4.0,"Calle de la Reina, 16, 28013 Madrid, Spain",2.0,cocktail,28013,40.419885,-3.698771,"{'type': 'Point', 'coordinates': [40.419885, -3.698771]}",1-15€
-134,MAMVA,4.3,"Calle de la Independencia, 2, LOCAL, IZQUIERDA, 28013 Madrid, Spain",2.0,cocktail,28013,40.4176,-3.7099,"{'type': 'Point', 'coordinates': [40.4176, -3.7099]}",1-15€
-135,Savas bar,4.8,"Calle de la Sombrerería, 3, 28012 Madrid, Spain",2.0,cocktail,28012,40.407616,-3.6996849,"{'type': 'Point', 'coordinates': [40.407616, -3.6996849]}",15-25€
-136,Terraza Cibeles,3.7,"Plaza Cibeles, 1, 28014 Madrid, Spain",3.0,cocktail,28014,40.4189339,-3.6921521,"{'type': 'Point', 'coordinates': [40.4189339, -3.6921521]}",15-25€
-137,Iguazu Cocktails Club,4.4,"Calle de Teruel, 16, 28020 Madrid, Spain",1.0,cocktail,28020,40.4514566,-3.7020168,"{'type': 'Point', 'coordinates': [40.4514566, -3.7020168]}",1-15€
-138,Farándula Madrid,4.3,"Calle de Menorca, 25, 28009 Madrid, Spain",2.0,cocktail,28009,40.419635,-3.676332999999999,"{'type': 'Point', 'coordinates': [40.419635, -3.676332999999999]}",15-25€
-139,Areia,4.4,"Calle de Hortaleza, 92, 28004 Madrid, Spain",2.0,cocktail,28004,40.4245406,-3.6980344,"{'type': 'Point', 'coordinates': [40.4245406, -3.6980344]}",1-15€
-140,Cervecería Deportiva Sports Bar,3.6,"Calle de las Veneras, 7, 28013 Madrid, Spain",1.0,sports bar,28013,40.4195096,-3.7076544,"{'type': 'Point', 'coordinates': [40.4195096, -3.7076544]}",1-15€
-141,James Joyce Irish Pub Madrid,4.3,"Calle de Alcalá, 59, 28014 Madrid, Spain",2.0,sports bar,28014,40.419919,-3.691314,"{'type': 'Point', 'coordinates': [40.419919, -3.691314]}",15-25€
-142,Irish City Sport Bar,4.2,"Calle Caridad, 7, 28007 Madrid, Spain",1.0,sports bar,28007,40.4020955,-3.675606799999999,"{'type': 'Point', 'coordinates': [40.4020955, -3.675606799999999]}",1-15€
-143,Penalti Lounge Bar Moncloa,3.9,"Calle de Fernández de los Ríos, 95, 28015 Madrid, Spain",1.0,sports bar,28015,40.435419,-3.717764,"{'type': 'Point', 'coordinates': [40.435419, -3.717764]}",15-25€
-144,Champions Bar,4.2,"Av. de Aragón, 400, 28022 Madrid, Spain",1.0,sports bar,28022,40.448962,-3.558009,"{'type': 'Point', 'coordinates': [40.448962, -3.558009]}",1-15€
-145,Sports & Tapas Bar Madrid,4.1,"Calle Mayor, 68, 28013 Madrid, Spain",1.0,sports bar,28013,40.4159049,-3.7084069,"{'type': 'Point', 'coordinates': [40.4159049, -3.7084069]}",1-15€
-146,Luckia Sport Café,4.0,"Av. del General Perón, 36, 28020 Madrid, Spain",1.0,sports bar,28020,40.452019,-3.693506,"{'type': 'Point', 'coordinates': [40.452019, -3.693506]}",1-15€
-147,The Irish Rover,4.3,"Av. de Brasil, 7, 28020 Madrid, Spain",2.0,sports bar,28020,40.4547278,-3.6939592,"{'type': 'Point', 'coordinates': [40.4547278, -3.6939592]}",1-15€
-148,Deportiva Sport Bar,3.2,"Calle, Costanilla de los Ángeles, 12, 28013 Madrid, Spain",1.0,sports bar,28013,40.4194516,-3.7076169,"{'type': 'Point', 'coordinates': [40.4194516, -3.7076169]}",15-25€
-149,Canister (Antiguo Don Latas),4.0,"C. Gral. Álvarez de Castro, 24, 28010 Madrid, Spain",1.0,sports bar,28010,40.4360498,-3.7022836,"{'type': 'Point', 'coordinates': [40.4360498, -3.7022836]}",15-25€
-150,Ocean Rock Bar,4.3,"Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",1.0,sports bar,28004,40.4256298,-3.7034948,"{'type': 'Point', 'coordinates': [40.4256298, -3.7034948]}",15-25€
-151,Lucky Loser Sport Tavern,4.3,"Calle Helsinki, 8, 28022 Madrid, Spain",1.0,sports bar,28022,40.4268165,-3.6031649,"{'type': 'Point', 'coordinates': [40.4268165, -3.6031649]}",1-15€
-152,Soccer Bar Cervecería,3.9,"Calle de Caleruega, 1, 28033 Madrid, Spain",2.0,sports bar,28033,40.4769343,-3.6690751,"{'type': 'Point', 'coordinates': [40.4769343, -3.6690751]}",1-15€
-153,MacLaren's Irish & Sports Bar - Vaguada,4.3,"Calle de Santiago de Compostela, 40, 28034 Madrid, Spain",1.0,sports bar,28034,40.48312689999999,-3.703136499999999,"{'type': 'Point', 'coordinates': [40.48312689999999, -3.703136499999999]}",1-15€
-154,La Fontana de Oro,4.1,"Calle de la Victoria, 1, 28012 Madrid, Spain",2.0,sports bar,28012,40.41640100000001,-3.701585,"{'type': 'Point', 'coordinates': [40.41640100000001, -3.701585]}",15-25€
-155,The Thirty Three Bar Irlandés,4.2,"Calle Clara del Rey, 33, 28002 Madrid, Spain",2.0,sports bar,28002,40.4422005,-3.670871099999999,"{'type': 'Point', 'coordinates': [40.4422005, -3.670871099999999]}",1-15€
-156,La Cofradía,4.5,"Calle de Juan Bravo, 57, 28006 Madrid, Spain",1.0,sports bar,28006,40.4325438,-3.6746248,"{'type': 'Point', 'coordinates': [40.4325438, -3.6746248]}",1-15€
-157,Las Vegas Sports Bar,3.7,"Calle de Seseña, 87, 28024 Madrid, Spain",1.0,sports bar,28024,40.3954393,-3.766713,"{'type': 'Point', 'coordinates': [40.3954393, -3.766713]}",1-15€
-158,MacLaren's Hortaleza,4.8,"Calle de López de Hoyos, 478, 28043 Madrid, Spain",1.0,sports bar,28043,40.4714421,-3.6497693,"{'type': 'Point', 'coordinates': [40.4714421, -3.6497693]}",15-25€
-159,Scrum Bar,4.3,"Calle de la Aviación Española, 3, 28003 Madrid, Spain",1.0,sports bar,28003,40.4397596,-3.712196899999999,"{'type': 'Point', 'coordinates': [40.4397596, -3.712196899999999]}",15-25€
-160,Café Bar Preciados,3.5,"Calle de Preciados, 38, 28013 Madrid, Spain",1.0,sports bar,28013,40.4198373,-3.7068685,"{'type': 'Point', 'coordinates': [40.4198373, -3.7068685]}",15-25€
-161,Las Vegas Sports Bar,3.2,"Ronda de Atocha, 12, 28012 Madrid, Spain",1.0,sports bar,28012,40.4068416,-3.696559999999999,"{'type': 'Point', 'coordinates': [40.4068416, -3.696559999999999]}",1-15€
-162,s10bar,4.3,"Calle de Guzmán el Bueno, 56, 28015 Madrid, Spain",1.0,sports bar,28015,40.4362736,-3.7129341,"{'type': 'Point', 'coordinates': [40.4362736, -3.7129341]}",15-25€
-163,Meltdown Madrid,4.7,"C. de Raimundo Lulio, 9, 28010 Madrid, Spain",2.0,sports bar,28010,40.4327683,-3.6989545,"{'type': 'Point', 'coordinates': [40.4327683, -3.6989545]}",15-25€
-164,Dubliners,3.6,"Calle de Espoz y Mina, 7, 28012 Madrid, Spain",2.0,sports bar,28012,40.41584020000001,-3.7022601,"{'type': 'Point', 'coordinates': [40.41584020000001, -3.7022601]}",1-15€
-165,O'Connell St,3.7,"Calle de Espoz y Mina, 7, 28012 Madrid, Spain",2.0,sports bar,28012,40.4157575,-3.7022611,"{'type': 'Point', 'coordinates': [40.4157575, -3.7022611]}",1-15€
-166,QW MADRID,4.0,"Calle de Vergara, 12, 28013 Madrid, Spain",1.0,sports bar,28013,40.4174188,-3.7112946,"{'type': 'Point', 'coordinates': [40.4174188, -3.7112946]}",1-15€
-167,Beerhouse - Craftbeer Bar,4.5,"Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",2.0,sports bar,28010,40.4305865,-3.7017166,"{'type': 'Point', 'coordinates': [40.4305865, -3.7017166]}",15-25€
-168,Bring Sport Bar tacos,4.4,"Calle Eusebio Morán, 31, 28019 Madrid, Spain",1.0,sports bar,28019,40.3867891,-3.719036999999999,"{'type': 'Point', 'coordinates': [40.3867891, -3.719036999999999]}",15-25€
-169,Sports Bar Las Vegas,3.8,"Calle de Sta Engracia, 73, 28010 Madrid, Spain",1.0,sports bar,28010,40.4352317,-3.6990656,"{'type': 'Point', 'coordinates': [40.4352317, -3.6990656]}",15-25€
-170,Tapikas,4.2,"Calle del Poeta Joan Maragall, 55, 28020 Madrid, Spain",1.0,sports bar,28020,40.4641252,-3.6924948,"{'type': 'Point', 'coordinates': [40.4641252, -3.6924948]}",1-15€
-171,Pit Stop,4.5,"Calle del Gral Oraá, 19, 28006 Madrid, Spain",1.0,sports bar,28006,40.4363493,-3.685527999999999,"{'type': 'Point', 'coordinates': [40.4363493, -3.685527999999999]}",1-15€
-172,Wanderlust Bar,4.1,"Calle del Bonetillo, 14, 28013 Madrid, Spain",1.0,sports bar,28013,40.4168279,-3.7091132,"{'type': 'Point', 'coordinates': [40.4168279, -3.7091132]}",1-15€
-173,Starbeers,4.6,"Calle del Almendro, 8, 28005 Madrid, Spain",2.0,sports bar,28005,40.4128722,-3.7096055,"{'type': 'Point', 'coordinates': [40.4128722, -3.7096055]}",15-25€
-174,Mahou,3.4,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",1.0,sports bar,28042,40.4681768,-3.568535,"{'type': 'Point', 'coordinates': [40.4681768, -3.568535]}",1-15€
-175,Codere,3.6,"Calle de Villaamil, 74, 28039 Madrid, Spain",1.0,sports bar,28039,40.4615722,-3.7082202,"{'type': 'Point', 'coordinates': [40.4615722, -3.7082202]}",1-15€
-176,87 MILLAS SPORT BAR,4.8,"Calle de Galileo, 75, 28015 Madrid, Spain",1.0,sports bar,28015,40.437608,-3.7101831,"{'type': 'Point', 'coordinates': [40.437608, -3.7101831]}",1-15€
-177,Goat House Sports Bar,5.0,"Calle de Núñez de Arce, 14, 28012 Madrid, Spain",1.0,sports bar,28012,40.4152568,-3.7015326,"{'type': 'Point', 'coordinates': [40.4152568, -3.7015326]}",1-15€
-178,La Abadia Beer's,4.5,"Ronda de Segovia, 91, 28005 Madrid, Spain",1.0,sports bar,28005,40.407323,-3.7127757,"{'type': 'Point', 'coordinates': [40.407323, -3.7127757]}",15-25€
-179,FOOD&GOL,4.0,"Calle de Cartagena, 86, 28028 Madrid, Spain",1.0,sports bar,28028,40.43827599999999,-3.6726168,"{'type': 'Point', 'coordinates': [40.43827599999999, -3.6726168]}",1-15€
-180,Codere Apuestas S.A.U,3.2,"Calle Valmojado, 231, 28047 Madrid, Spain",1.0,sports bar,28047,40.3888383,-3.758504,"{'type': 'Point', 'coordinates': [40.3888383, -3.758504]}",1-15€
-181,NFL Madrid Bar,2.0,"Calle del Laurel, 4, 28005 Madrid, Spain",1.0,sports bar,28005,40.4036965,-3.7055562,"{'type': 'Point', 'coordinates': [40.4036965, -3.7055562]}",15-25€
-182,Orenes Sports Bar & Casino,3.7,"Calle de Isabelita Usera, 24, 28026 Madrid, Spain",1.0,sports bar,28026,40.3841535,-3.7080831,"{'type': 'Point', 'coordinates': [40.3841535, -3.7080831]}",15-25€
-183,La Esquina del 98,4.4,"Calle de Vallehermoso, 98, 28003 Madrid, Spain",1.0,sports bar,28003,40.439436,-3.708066,"{'type': 'Point', 'coordinates': [40.439436, -3.708066]}",15-25€
-184,BAR DXT Y MÁS,4.6,"Calle Virgen de la Oliva, 34, 28037 Madrid, Spain",1.0,sports bar,28037,40.4319911,-3.6239133,"{'type': 'Point', 'coordinates': [40.4319911, -3.6239133]}",1-15€
-185,The Cavern Irish Pub,4.2,"Calle de Santiago, 1, 28013 Madrid, Spain",2.0,sports bar,28013,40.4160916,-3.7097757,"{'type': 'Point', 'coordinates': [40.4160916, -3.7097757]}",1-15€
-186,Sports Bar Las Vegas,3.8,"Av. de Abrantes, 97, 28025 Madrid, Spain",1.0,sports bar,28025,40.3797863,-3.7289944,"{'type': 'Point', 'coordinates': [40.3797863, -3.7289944]}",1-15€
-187,Finnegans,4.0,"Plaza de las Salesas, 9, 28004 Madrid, Spain",1.0,sports bar,28004,40.4238376,-3.6948478,"{'type': 'Point', 'coordinates': [40.4238376, -3.6948478]}",15-25€
-188,Sports Bar Las Vegas,0.0,"Glorieta de los Carmenes, 28047 Madrid, Spain",1.0,sports bar,28047,40.3950616,-3.7431611,"{'type': 'Point', 'coordinates': [40.3950616, -3.7431611]}",1-15€
-189,The Room Madrid,3.8,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,sports bar,28012,40.4149178,-3.702538,"{'type': 'Point', 'coordinates': [40.4149178, -3.702538]}",1-15€
-190,BARTY,5.0,"Calle de Aguilón, 4, Local, 28045 Madrid, Spain",1.0,sports bar,28045,40.3971103,-3.701287899999999,"{'type': 'Point', 'coordinates': [40.3971103, -3.701287899999999]}",15-25€
-191,El Palco,4.2,"Calle Prof. Waksman, 3, 28036 Madrid, Spain",1.0,sports bar,28036,40.456228,-3.689105,"{'type': 'Point', 'coordinates': [40.456228, -3.689105]}",15-25€
-192,The Clover Irish Tavern,4.3,"Calle del Valle de Pinares Llanos, 8, 28035 Madrid, Spain",2.0,sports bar,28035,40.4858509,-3.718495,"{'type': 'Point', 'coordinates': [40.4858509, -3.718495]}",1-15€
-193,Roberangelo Rock Cafe,4.4,"Av. de la Emperatriz Isabel, 1, 28019 Madrid, Spain",1.0,sports bar,28019,40.3978748,-3.7168938,"{'type': 'Point', 'coordinates': [40.3978748, -3.7168938]}",15-25€
-194,Bits & Beers,4.8,"Calle de Julián Besteiro, 6, 28020 Madrid, Spain",1.0,sports bar,28020,40.45357420000001,-3.6953918,"{'type': 'Point', 'coordinates': [40.45357420000001, -3.6953918]}",15-25€
-195,Pool And Beer,4.3,"Calle de Joaquín María López, 17, 28015 Madrid, Spain",1.0,sports bar,28015,40.4374739,-3.710974,"{'type': 'Point', 'coordinates': [40.4374739, -3.710974]}",1-15€
-196,Emotiva Sports Bar,3.0,"Calle de Ramón Luján, 26, 28026 Madrid, Spain",1.0,sports bar,28026,40.3858237,-3.7046381,"{'type': 'Point', 'coordinates': [40.3858237, -3.7046381]}",15-25€
-197,Ke Pinta,0.0,"Plaza de Sta. Ana, 14, 28012 Madrid, Spain",1.0,sports bar,28012,40.41455870000001,-3.7014056,"{'type': 'Point', 'coordinates': [40.41455870000001, -3.7014056]}",15-25€
-198,Orenes Sports Bar & Salón De Juegos,3.0,"Calle de Jesús del Pino, 24, 28031 Madrid, Spain",1.0,sports bar,28031,40.3815067,-3.623550499999999,"{'type': 'Point', 'coordinates': [40.3815067, -3.623550499999999]}",1-15€
-199,BILLARNET CAFÉ,4.3,"Calle del Poeta Joan Maragall, 49, 28020 Madrid, Spain",1.0,sports bar,28020,40.4627974,-3.6918129,"{'type': 'Point', 'coordinates': [40.4627974, -3.6918129]}",15-25€
-200,Carlota Wine Shop,4.8,"Calle de la Libertad, 26, 28004 Madrid, Spain",2.0,wine,28004,40.4219107,-3.6972958,"{'type': 'Point', 'coordinates': [40.4219107, -3.6972958]}",15-25€
-201,Madrid & Darracott - Vinos y experiencias,4.9,"Calle del Duque de Rivas, 8, 28012 Madrid, Spain",2.0,wine,28012,40.413248,-3.706585,"{'type': 'Point', 'coordinates': [40.413248, -3.706585]}",1-15€
-202,Lavinia,4.4,"Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",3.0,wine,28006,40.4302083,-3.6843632,"{'type': 'Point', 'coordinates': [40.4302083, -3.6843632]}",15-25€
-203,Pinkleton & Wine,4.4,"Plaza de San Miguel, s/n, 28005 Madrid, Spain",2.0,wine,28005,40.4153133,-3.7090666,"{'type': 'Point', 'coordinates': [40.4153133, -3.7090666]}",1-15€
-204,Enoteca Barolo,4.7,"Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",2.0,wine,28002,40.4510127,-3.677905,"{'type': 'Point', 'coordinates': [40.4510127, -3.677905]}",15-25€
-205,The One Wine,4.8,"Calle de López de Hoyos, 147, 28002 Madrid, Spain",2.0,wine,28002,40.4479039,-3.6688314,"{'type': 'Point', 'coordinates': [40.4479039, -3.6688314]}",15-25€
-206,La Caja de Vinos,4.7,"Calle de San Felipe Neri, 2, 28013 Madrid, Spain",2.0,wine,28013,40.4162902,-3.708092199999999,"{'type': 'Point', 'coordinates': [40.4162902, -3.708092199999999]}",15-25€
-207,La Bodega de Los Reyes,4.8,"Calle de los Reyes, 6, 28015 Madrid, Spain",2.0,wine,28015,40.4243419,-3.7092347,"{'type': 'Point', 'coordinates': [40.4243419, -3.7092347]}",15-25€
-208,Reserva y Cata,4.9,"Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",2.0,wine,28004,40.4234476,-3.694196099999999,"{'type': 'Point', 'coordinates': [40.4234476, -3.694196099999999]}",15-25€
-209,Lavinia,4.4,"Avenida de Europa, 13, B30, 32, 28108 Alcobendas, Madrid, Spain",2.0,wine,28108,40.5192003,-3.655821,"{'type': 'Point', 'coordinates': [40.5192003, -3.655821]}",1-15€
-210,Tienda de Vinos y Licores Madrid - VINOS BACO. Comprar Vino Online. Vinoteca Madrid. Licores madrid. Venta de Vinos. Vinos a domicilio. Enoteca Madrid.,4.6,"Calle de San Bernardo, 117, 28015 Madrid, Spain",2.0,wine,28015,40.4327456,-3.7048665,"{'type': 'Point', 'coordinates': [40.4327456, -3.7048665]}",1-15€
-211,Despacio Arts & Wine,4.7,"Calle del Espíritu Santo, 36, 28004 Madrid, Spain",2.0,wine,28004,40.4257278,-3.7047832,"{'type': 'Point', 'coordinates': [40.4257278, -3.7047832]}",1-15€
-212,Bodega Santa Cecilia,4.4,"Calle de Blasco de Garay, 74, 28015 Madrid, Spain",2.0,wine,28015,40.4371299,-3.711177,"{'type': 'Point', 'coordinates': [40.4371299, -3.711177]}",1-15€
-213,Vino de Madrid,0.0,"Calle de Escalonilla, 151, 28047 Madrid, Spain",2.0,wine,28047,40.396564,-3.739517999999999,"{'type': 'Point', 'coordinates': [40.396564, -3.739517999999999]}",1-15€
-214,Vino & Compañía,4.6,"Plaza de Olavide, 5, 28010 Madrid, Spain",2.0,wine,28010,40.4326845,-3.7016862,"{'type': 'Point', 'coordinates': [40.4326845, -3.7016862]}",1-15€
-215,Bodega Santa Cecilia,4.2,"Calle de Bravo Murillo, 50, 28003 Madrid, Spain",2.0,wine,28003,40.442552,-3.703882,"{'type': 'Point', 'coordinates': [40.442552, -3.703882]}",1-15€
-216,El Brabantino,4.8,"Calle de Fray Ceferino González, 5, 28005 Madrid, Spain",2.0,wine,28005,40.4088653,-3.705974299999999,"{'type': 'Point', 'coordinates': [40.4088653, -3.705974299999999]}",15-25€
-217,STARVINOS,4.1,"Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",2.0,wine,28015,40.4380572,-3.7126132,"{'type': 'Point', 'coordinates': [40.4380572, -3.7126132]}",1-15€
-218,Winebar,4.4,"Calle de la Palma, 76, 28015 Madrid, Spain",1.0,wine,28015,40.4268821,-3.7089647,"{'type': 'Point', 'coordinates': [40.4268821, -3.7089647]}",1-15€
-219,Tienda de vinos delivinos urban gourmet en Madrid,4.7,"Calle Cid 2, esquina, Calle de Recoletos, 28001 Madrid, Spain",2.0,wine,28001,40.4219502,-3.6898861,"{'type': 'Point', 'coordinates': [40.4219502, -3.6898861]}",15-25€
-220,VinoPremier,4.2,"C/ de Francisco Silvela, 25, 28028 Madrid, Spain",2.0,wine,28028,40.43110009999999,-3.671582,"{'type': 'Point', 'coordinates': [40.43110009999999, -3.671582]}",15-25€
-221,Tomevinos Ortega y Gasset,4.8,"Calle de José Ortega y Gasset, 61, 28006 Madrid, Spain",2.0,wine,28006,40.430009,-3.6744667,"{'type': 'Point', 'coordinates': [40.430009, -3.6744667]}",1-15€
-222,Vinos de Madrid,0.0,"Calle Virgen de la Alegría, 28027 Madrid, Spain",2.0,wine,28027,40.4335178,-3.6572414,"{'type': 'Point', 'coordinates': [40.4335178, -3.6572414]}",1-15€
-223,"Lafuente Lorenzo, SA",4.5,"Cl. de Ayala, 3, 28001 Madrid, Spain",2.0,wine,28001,40.4280246,-3.6887462,"{'type': 'Point', 'coordinates': [40.4280246, -3.6887462]}",1-15€
-224,La joya del vino,3.9,"Calle Alonso Cano, 62 esquina, Calle de Cristóbal Bordiú, 45, 28003 Madrid, Spain",2.0,wine,28003,40.4430166,-3.6971562,"{'type': 'Point', 'coordinates': [40.4430166, -3.6971562]}",1-15€
-225,Bespoke Wines,0.0,"Calle del Doce de Octubre, 23, 2D, 28009 Madrid, Spain",2.0,wine,28009,40.416124,-3.6741859,"{'type': 'Point', 'coordinates': [40.416124, -3.6741859]}",1-15€
-226,La Caja de Vinos,4.6,"Calle de Diego de León, 26, 28006 Madrid, Spain",2.0,wine,28006,40.434777,-3.682515,"{'type': 'Point', 'coordinates': [40.434777, -3.682515]}",1-15€
-227,TomeVinos,4.7,"Calle del Maestro Ángel Llorca, 2, 28003 Madrid, Spain",2.0,wine,28003,40.4430749,-3.7140707,"{'type': 'Point', 'coordinates': [40.4430749, -3.7140707]}",15-25€
-228,LA PRODUCTERIA - Natural Wine Shop - Vinos naturales,5.0,"Calle de Barbieri, 21, 28004 Madrid, Spain",2.0,wine,28004,40.4217636,-3.6979447,"{'type': 'Point', 'coordinates': [40.4217636, -3.6979447]}",1-15€
-229,Bodegas Trigo,5.0,"Calle de San Pedro, 8, 28014 Madrid, Spain",2.0,wine,28014,40.4122377,-3.6948711,"{'type': 'Point', 'coordinates': [40.4122377, -3.6948711]}",1-15€
-230,Compra-Vino,4.7,"Av. de Daroca, 53, 55, 28017 Madrid, Spain",2.0,wine,28017,40.42924319999999,-3.6514494,"{'type': 'Point', 'coordinates': [40.42924319999999, -3.6514494]}",15-25€
-231,Bodeboca SL,4.2,"C/ Gustavo Fernandez Balbuena, 11, 4a Planta, 28002 Madrid, Spain",2.0,wine,28002,40.449654,-3.667909099999999,"{'type': 'Point', 'coordinates': [40.449654, -3.667909099999999]}",15-25€
-232,"Bendito, Vinos y Vinilos",4.8,"Mercado de San Fernando 41, Calle de Embajadores, 28012 Madrid, Spain",2.0,wine,28012,40.4076811,-3.7036696,"{'type': 'Point', 'coordinates': [40.4076811, -3.7036696]}",1-15€
-233,La Tintorería Vinoteca,4.7,"Calle Gurtubay, 4, 28001 Madrid, Spain",2.0,wine,28001,40.4229794,-3.6851555,"{'type': 'Point', 'coordinates': [40.4229794, -3.6851555]}",15-25€
-234,Sindhi Wines,5.0,"Calle de Valverde, 29, 28004 Madrid, Spain",2.0,wine,28004,40.4227802,-3.7016968,"{'type': 'Point', 'coordinates': [40.4227802, -3.7016968]}",1-15€
-235,Corton.wine,0.0,"C/ Gran Vía, 15, 28013 Madrid, Spain",2.0,wine,28013,40.4197578,-3.7002318,"{'type': 'Point', 'coordinates': [40.4197578, -3.7002318]}",1-15€
-236,Gini Group España,5.0,"Calle del Espejo, 28013 Madrid, Spain",2.0,wine,28013,40.4169871,-3.709608599999999,"{'type': 'Point', 'coordinates': [40.4169871, -3.709608599999999]}",15-25€
-237,Granate Wines,5.0,"Calle de Moralzarzal, 104, 28034 Madrid, Spain",2.0,wine,28034,40.4957723,-3.7151024,"{'type': 'Point', 'coordinates': [40.4957723, -3.7151024]}",1-15€
-238,Café di Vino,4.7,"C. de Manuela Malasaña, 23, 28004 Madrid, Spain",2.0,wine,28004,40.4286623,-3.704263399999999,"{'type': 'Point', 'coordinates': [40.4286623, -3.704263399999999]}",1-15€
-239,The Wine Care,0.0,"Calle del Duque de Alba, 15, 28012 Madrid, Spain",2.0,wine,28012,40.4115343,-3.7066662,"{'type': 'Point', 'coordinates': [40.4115343, -3.7066662]}",15-25€
-240,Vides,4.5,"Calle de la Libertad, 12, 28004 Chueca, Madrid, Spain",2.0,wine,28004,40.4209878,-3.6973511,"{'type': 'Point', 'coordinates': [40.4209878, -3.6973511]}",15-25€
-241,TomeVinos,4.7,"Paseo de la Chopera, 194, 28100 Alcobendas, Madrid, Spain",2.0,wine,28100,40.5453377,-3.6590494,"{'type': 'Point', 'coordinates': [40.5453377, -3.6590494]}",1-15€
-242,Los Rosales Wine Shop,4.9,"Calle de Echegaray, 17, 28014 Madrid, Spain",2.0,wine,28014,40.415306,-3.699532999999999,"{'type': 'Point', 'coordinates': [40.415306, -3.699532999999999]}",15-25€
-243,Bodegabierta,4.7,"Calle del Espíritu Santo, 36, 28004 Madrid, Spain",2.0,wine,28004,40.4256555,-3.7047568,"{'type': 'Point', 'coordinates': [40.4256555, -3.7047568]}",15-25€
-244,Wines & Roses Floristería,4.9,"Calle del Divino Pastor, 31, 28004 Madrid, Spain",2.0,wine,28004,40.427719,-3.704724,"{'type': 'Point', 'coordinates': [40.427719, -3.704724]}",1-15€
-245,Bodegas Mariano Madrueño,4.4,"Calle del Postigo de San Martín, 6, 28013 Madrid, Spain",2.0,wine,28013,40.4191623,-3.7060247,"{'type': 'Point', 'coordinates': [40.4191623, -3.7060247]}",15-25€
-246,Propaganda,4.5,"Calle de la Libertad, 12, 28004 Madrid, Spain",2.0,wine,28004,40.4209384,-3.6973562,"{'type': 'Point', 'coordinates': [40.4209384, -3.6973562]}",15-25€
-247,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"Calle de San Agustín, 3, 28014 Madrid, Spain",2.0,wine,28014,40.4151702,-3.6967946,"{'type': 'Point', 'coordinates': [40.4151702, -3.6967946]}",15-25€
-248,La Vinoteca,4.0,"C. del Príncipe, 27, 28012 Madrid, Spain",2.0,wine,28012,40.4146912,-3.7001322,"{'type': 'Point', 'coordinates': [40.4146912, -3.7001322]}",15-25€
-249,Madridvinum,0.0,"C/ Princesa, 30, 28008 Madrid, Spain",2.0,wine,28008,40.4280876,-3.7136441,"{'type': 'Point', 'coordinates': [40.4280876, -3.7136441]}",15-25€
-250,BODEGAS LAIZ - MONTIANO,0.0,"Calle de Felipe IV, 3, 3ºI, 28014 Madrid, Spain",2.0,wine,28014,40.415375,-3.692078,"{'type': 'Point', 'coordinates': [40.415375, -3.692078]}",15-25€
-251,En Copa de Balón Enotaberna,2.9,"Plaza Mayor, 2, 28012 Madrid, Spain",2.0,wine,28012,40.414928,-3.7068446,"{'type': 'Point', 'coordinates': [40.414928, -3.7068446]}",15-25€
-252,Viña 96,5.0,"Calle de Tamayo y Baus, 3, 28004 Madrid, Spain",2.0,wine,28004,40.4228134,-3.6932378,"{'type': 'Point', 'coordinates': [40.4228134, -3.6932378]}",1-15€
-253,Vinario,0.0,"28013 Madrid, Spain",2.0,wine,28013,40.4167754,-3.7037902,"{'type': 'Point', 'coordinates': [40.4167754, -3.7037902]}",1-15€
-254,Bodegas Bordino,4.9,"Calle de Espoz y Mina, 17, 28012 Madrid, Spain",2.0,wine,28012,40.414658,-3.702236,"{'type': 'Point', 'coordinates': [40.414658, -3.702236]}",15-25€
-255,La Vieja Castilla,4.6,"Calle de Gravina, 3, 28004 Madrid, Spain",2.0,wine,28004,40.4233162,-3.6983306,"{'type': 'Point', 'coordinates': [40.4233162, -3.6983306]}",15-25€
-256,La Bonica Vinoteca,5.0,"Calle de San Bartolomé, 8, 28004 Madrid, Spain",2.0,wine,28004,40.4217191,-3.6983615,"{'type': 'Point', 'coordinates': [40.4217191, -3.6983615]}",15-25€
-257,Vinoteca de Antón,5.0,"Calle de Santa Isabel, 5, puesto 35 D, 28012 Madrid, Spain",2.0,wine,28012,40.4116112,-3.698668899999999,"{'type': 'Point', 'coordinates': [40.4116112, -3.698668899999999]}",1-15€
-258,España en Cepa,5.0,"Plaza de Cascorro, 8, 28005 Madrid, Spain",2.0,wine,28005,40.4102536,-3.707098099999999,"{'type': 'Point', 'coordinates': [40.4102536, -3.707098099999999]}",1-15€
-259,Spanish Wine Lover,0.0,"Calle Juana Urosa, 28025 Madrid, Spain",2.0,wine,28025,40.3846885,-3.7433687,"{'type': 'Point', 'coordinates': [40.3846885, -3.7433687]}",15-25€
-260,Catas de Vinos en Madrid,4.5,"Paseo de la Castellana, 214, 28036 Madrid, Spain",3.0,cata de vino,28036,40.4636363,-3.688921199999999,"{'type': 'Point', 'coordinates': [40.4636363, -3.688921199999999]}",15-25€
-261,Cena Cata de Vinos en Maridaje en Madrid,4.9,"Plaza de España, s/n, 28008 Madrid, Spain",3.0,cata de vino,28008,40.4241904,-3.712253,"{'type': 'Point', 'coordinates': [40.4241904, -3.712253]}",15-25€
-262,La Bodega de Los Reyes,4.8,"Calle de los Reyes, 6, 28015 Madrid, Spain",3.0,cata de vino,28015,40.4243419,-3.7092347,"{'type': 'Point', 'coordinates': [40.4243419, -3.7092347]}",15-25€
-263,Reserva y Cata,4.9,"Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",3.0,cata de vino,28004,40.4234476,-3.694196099999999,"{'type': 'Point', 'coordinates': [40.4234476, -3.694196099999999]}",1-15€
-264,VinoPremier,4.2,"C/ de Francisco Silvela, 25, 28028 Madrid, Spain",3.0,cata de vino,28028,40.43110009999999,-3.671582,"{'type': 'Point', 'coordinates': [40.43110009999999, -3.671582]}",15-25€
-265,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"Calle de San Agustín, 3, 28014 Madrid, Spain",3.0,cata de vino,28014,40.4151702,-3.6967946,"{'type': 'Point', 'coordinates': [40.4151702, -3.6967946]}",1-15€
-266,Vino & Compañía,4.6,"Plaza de Olavide, 5, 28010 Madrid, Spain",3.0,cata de vino,28010,40.4326845,-3.7016862,"{'type': 'Point', 'coordinates': [40.4326845, -3.7016862]}",15-25€
-267,Gourmet Madrid Tours,4.9,"Av. de Menéndez Pelayo, 53, 28009 Madrid, Spain",3.0,cata de vino,28009,40.416241,-3.6778226,"{'type': 'Point', 'coordinates': [40.416241, -3.6778226]}",1-15€
-268,AULA ESPAÑOLA DEL VINO S.L.,4.3,"C. Simancas, 21, 28029 Madrid, Spain",3.0,cata de vino,28029,40.4662859,-3.6925723,"{'type': 'Point', 'coordinates': [40.4662859, -3.6925723]}",15-25€
-269,Escuela Española de Cata,4.8,"Calle de las Mártires Concepcionistas, 19, Local 2, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4289839,-3.6706892,"{'type': 'Point', 'coordinates': [40.4289839, -3.6706892]}",1-15€
-270,Lavinia,4.4,"Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4302083,-3.6843632,"{'type': 'Point', 'coordinates': [40.4302083, -3.6843632]}",15-25€
-271,Enoteca Barolo,4.7,"Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",3.0,cata de vino,28002,40.4510127,-3.677905,"{'type': 'Point', 'coordinates': [40.4510127, -3.677905]}",15-25€
-272,Cata Spanish School,0.0,"Calle de las Mártires Concepcionistas, 19, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4291007,-3.6706741,"{'type': 'Point', 'coordinates': [40.4291007, -3.6706741]}",25-50€
-273,MARES Vinos: Vinoteca en Madrid. Vinos distintivos en el barrio Salamanca,4.6,"Calle de Don Ramón de la Cruz, 46, 28001 Madrid, Spain",3.0,cata de vino,28001,40.428785,-3.6782276,"{'type': 'Point', 'coordinates': [40.428785, -3.6782276]}",15-25€
-274,Entre Cepas Catas y Enoturismo,4.7,"28925 Alcorcón, Madrid, Spain",3.0,cata de vino,28925,40.3493027,-3.8010808,"{'type': 'Point', 'coordinates': [40.3493027, -3.8010808]}",15-25€
-275,Taca de vi | Cata de Vinos & Tours en Madrid,5.0,"Calle Pez Austral, 15, 28007 Madrid, Spain",3.0,cata de vino,28007,40.4118397,-3.6655243,"{'type': 'Point', 'coordinates': [40.4118397, -3.6655243]}",1-15€
-276,CATAR VINO EN CASA,0.0,"Av Brasil 4, planta 9 puerta 4g, 28020 Madrid, Spain",3.0,cata de vino,28020,40.4563733,-3.6952896,"{'type': 'Point', 'coordinates': [40.4563733, -3.6952896]}",15-25€
-277,El vino en catas,0.0,"C/ Gran Vía, 23, 28013 Madrid, Spain",3.0,cata de vino,28013,40.4198789,-3.7018917,"{'type': 'Point', 'coordinates': [40.4198789, -3.7018917]}",1-15€
-278,STARVINOS,4.1,"Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",3.0,cata de vino,28015,40.4380572,-3.7126132,"{'type': 'Point', 'coordinates': [40.4380572, -3.7126132]}",15-25€
-279,La Caja de Vinos,4.7,"Calle de San Felipe Neri, 2, 28013 Madrid, Spain",3.0,cata de vino,28013,40.4162902,-3.708092199999999,"{'type': 'Point', 'coordinates': [40.4162902, -3.708092199999999]}",15-25€
+0,Fábrica Maravillas,4.3,"Calle de Valverde, 29, 28004 Madrid, Spain",2.0,brewery,28004,40.4226581,-3.7017355,"{'type': 'Point', 'coordinates': [-3.7017355, 40.4226581]}",15-25€
+1,Mad Brewing,4.4,"C. de Julián Camarillo, 19, 28037 Madrid, Spain",2.0,brewery,28037,40.4350769,-3.6312913,"{'type': 'Point', 'coordinates': [-3.6312913, 40.4350769]}",15-25€
+2,Cervecera Península,4.8,"Calle La Granja #5, Nave 1, 28108 Alcobendas, Madrid, Spain",2.0,brewery,28108,40.5271494,-3.6597098,"{'type': 'Point', 'coordinates': [-3.6597098, 40.5271494]}",1-15€
+3,La Osita,4.7,"Calle de la Cava Baja, 10, 28005 Madrid, Spain",2.0,brewery,28005,40.413234,-3.7084903,"{'type': 'Point', 'coordinates': [-3.7084903, 40.413234]}",15-25€
+4,Bee Beer. Craft Beers & Cheeses,4.6,"Calle de Augusto Figueroa, 30, 28004 Madrid, Spain",2.0,brewery,28004,40.421978,-3.69692,"{'type': 'Point', 'coordinates': [-3.69692, 40.421978]}",15-25€
+5,Cervezas La Cibeles,4.6,"Calle Petróleo, 34, 28918 Leganés, Madrid, Spain",2.0,brewery,28918,40.3523488,-3.7994132,"{'type': 'Point', 'coordinates': [-3.7994132, 40.3523488]}",15-25€
+6,Brew Wild Pizza Bar,4.6,"Calle de Echegaray, 23, 28014 Madrid, Spain",2.0,brewery,28014,40.4148026,-3.6995115,"{'type': 'Point', 'coordinates': [-3.6995115, 40.4148026]}",1-15€
+7,Cervezas 28 Iberica S. L.,5.0,"C/ Gran Vía, 4, 28013 Madrid, Spain",2.0,brewery,28013,40.4193028,-3.6976468,"{'type': 'Point', 'coordinates': [-3.6976468, 40.4193028]}",15-25€
+8,One Beer,4.7,"Calle Destreza, 3, 28906 Getafe, Madrid, Spain",2.0,brewery,28906,40.31551049999999,-3.6745077,"{'type': 'Point', 'coordinates': [-3.6745077, 40.31551049999999]}",25-50€
+9,Cervecería Deportiva,0.0,"Costanilla de los Ángeles, 12, 28013 Madrid, Spain",2.0,brewery,28013,40.4190408,-3.7080657,"{'type': 'Point', 'coordinates': [-3.7080657, 40.4190408]}",15-25€
+10,Los Cervecistas,4.9,"Calle Titán, 15, 28045 Madrid, Spain",2.0,brewery,28045,40.3909789,-3.680202299999999,"{'type': 'Point', 'coordinates': [-3.680202299999999, 40.3909789]}",15-25€
+11,Dylan's Craft Beer Company,5.0,"Calle de San Bernardo, 107, 204, 28015 Madrid, Spain",2.0,brewery,28015,40.431991,-3.705396,"{'type': 'Point', 'coordinates': [-3.705396, 40.431991]}",15-25€
+12,Cervezas Alhambra,0.0,"Calle de Benigno Soto, 28002 Madrid, Spain",2.0,brewery,28002,40.4478733,-3.6753321,"{'type': 'Point', 'coordinates': [-3.6753321, 40.4478733]}",15-25€
+13,The Stuyck Co,4.4,"Corredera Alta de San Pablo, 33, 28004 Madrid, Spain",2.0,brewery,28004,40.4265004,-3.7017522,"{'type': 'Point', 'coordinates': [-3.7017522, 40.4265004]}",15-25€
+14,Viuda de Cortés S.L.,0.0,"Paseo de la Florida, 51, 28008 Madrid, Spain",2.0,brewery,28008,40.4237653,-3.7245116,"{'type': 'Point', 'coordinates': [-3.7245116, 40.4237653]}",15-25€
+15,Beerhouse - Craftbeer Bar,4.5,"Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",2.0,brewery,28010,40.4305865,-3.7017166,"{'type': 'Point', 'coordinates': [-3.7017166, 40.4305865]}",25-50€
+16,Cervezas Alhambra,0.0,"Calle Vicente Espinel, 23, 28017 Madrid, Spain",2.0,brewery,28017,40.4344184,-3.6409801,"{'type': 'Point', 'coordinates': [-3.6409801, 40.4344184]}",15-25€
+17,La Contenta Brewery,4.3,"Plaza de Chamberí, 3, 28010 Madrid, Spain",1.0,brewery,28010,40.432975,-3.697316,"{'type': 'Point', 'coordinates': [-3.697316, 40.432975]}",15-25€
+18,Charlton Brewery Madrid,0.0,"Calle del Espíritu Santo, 8, 28004 Madrid, Spain",2.0,brewery,28004,40.4251914,-3.7026577,"{'type': 'Point', 'coordinates': [-3.7026577, 40.4251914]}",15-25€
+19,Brewery Norwich International,4.4,"Calle de la Marroquina, 38, 28030 Madrid, Spain",1.0,brewery,28030,40.407804,-3.64773,"{'type': 'Point', 'coordinates': [-3.64773, 40.407804]}",15-25€
+20,Restaurante Wanderlust,4.1,"Calle de Silva, 2, 28013 Madrid, Spain",2.0,brewery,28013,40.4205089,-3.7081105,"{'type': 'Point', 'coordinates': [-3.7081105, 40.4205089]}",15-25€
+21,Cervecería CruzBlanca,3.4,"Calle de la Reina de África, 10, 28018 Madrid, Spain",2.0,brewery,28018,40.3804411,-3.6609219,"{'type': 'Point', 'coordinates': [-3.6609219, 40.3804411]}",15-25€
+22,Källa Craft Beer,4.2,"Calle de Barbieri, 20, 28004 Madrid, Spain",2.0,brewery,28004,40.4217128,-3.6978612,"{'type': 'Point', 'coordinates': [-3.6978612, 40.4217128]}",15-25€
+23,Bacterio Brewing CO,4.5,"Av. las Retamas, 10, 28922 Alcorcón, Madrid, Spain",2.0,brewery,28922,40.3391271,-3.836418,"{'type': 'Point', 'coordinates': [-3.836418, 40.3391271]}",15-25€
+24,Bee Beer Debod. Craft Beers & Super Foods,4.8,"Calle de Ferraz, 10, 28008 Madrid, Spain",2.0,brewery,28008,40.4241481,-3.7151859,"{'type': 'Point', 'coordinates': [-3.7151859, 40.4241481]}",15-25€
+25,Taproom Madrid,4.5,"Calle de Guzmán el Bueno, 52, 28015 Madrid, Spain",2.0,brewery,28015,40.43605489999999,-3.7129511,"{'type': 'Point', 'coordinates': [-3.7129511, 40.43605489999999]}",15-25€
+26,Mahoudrid,3.7,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",2.0,brewery,28042,40.4638558,-3.5702504,"{'type': 'Point', 'coordinates': [-3.5702504, 40.4638558]}",15-25€
+27,Labirratorium,4.6,"Calle de Vallehermoso, 34, 28015 Madrid, Spain",2.0,brewery,28015,40.433788,-3.708546999999999,"{'type': 'Point', 'coordinates': [-3.708546999999999, 40.433788]}",15-25€
+28,Mahou,3.4,"Aeropuerto Madrid-Barajas. Terminal 2 Planta 1. Entrada, Metro Línea 8, 28042 Madrid, Spain",2.0,brewery,28042,40.4683654,-3.5712434,"{'type': 'Point', 'coordinates': [-3.5712434, 40.4683654]}",15-25€
+29,Mahou,3.4,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",2.0,brewery,28042,40.4681768,-3.568535,"{'type': 'Point', 'coordinates': [-3.568535, 40.4681768]}",15-25€
+30,Cervezas La Virgen 🍻🍔 Solo reservas ONLINE,4.5,"P.I. Európolis, Calle Turín, 13, 28232 Las Rozas de Madrid, Madrid, Spain",2.0,brewery,28232,40.4996241,-3.8888928,"{'type': 'Point', 'coordinates': [-3.8888928, 40.4996241]}",25-50€
+31,Cerveza Majariega,4.9,"Calle Oxford, 6-A, 28232 Las Rozas de Madrid, Madrid, Spain",2.0,brewery,28232,40.5004906,-3.8883625,"{'type': 'Point', 'coordinates': [-3.8883625, 40.5004906]}",15-25€
+32,CafeeKe - Cervezas y tapas de Bélgica,3.9,"Calle de Cuchilleros, 3, 28005 Madrid, Spain",2.0,brewery,28005,40.414721,-3.707978,"{'type': 'Point', 'coordinates': [-3.707978, 40.414721]}",15-25€
+33,Panda Beer,0.0,"Calle del Luis de Oro, 15, 28054 Madrid, Spain",2.0,brewery,28054,40.3636895,-3.7459039,"{'type': 'Point', 'coordinates': [-3.7459039, 40.3636895]}",15-25€
+34,LOS GRIFOS Craft Beers,4.2,"C. de Manuela Malasaña, 33, 28004 Madrid, Spain",2.0,brewery,28004,40.4287863,-3.7052692,"{'type': 'Point', 'coordinates': [-3.7052692, 40.4287863]}",15-25€
+35,Cervecería Baden Baden,4.4,"Calle Germán Pérez Carrasco, 51, 28027 Madrid, Spain",2.0,brewery,28027,40.4361746,-3.643825,"{'type': 'Point', 'coordinates': [-3.643825, 40.4361746]}",1-15€
+36,Fogg Bar Birras & Cheese,4.6,"C. de Moratín, 5, 28014 Madrid, Spain",2.0,brewery,28014,40.4123332,-3.6979655,"{'type': 'Point', 'coordinates': [-3.6979655, 40.4123332]}",1-15€
+37,Mikkeller Bar Madrid,4.2,"Calle de la Luna, 22, 28004 Madrid, Spain",2.0,brewery,28004,40.4224896,-3.7062268,"{'type': 'Point', 'coordinates': [-3.7062268, 40.4224896]}",15-25€
+38,Heineken,2.0,"Calle de la Pintora Ángeles Santos, 4, 28053 Madrid, Spain",2.0,brewery,28053,40.3968514,-3.6690306,"{'type': 'Point', 'coordinates': [-3.6690306, 40.3968514]}",15-25€
+39,Chinaski Lavapiés,4.3,"Calle de la Fe, 19, 28012 Madrid, Spain",2.0,brewery,28012,40.408944,-3.699304,"{'type': 'Point', 'coordinates': [-3.699304, 40.408944]}",More than 50€
+40,HOP VINE BEACH American Brewery,0.0,"Calle de Sta. María, 33, 28014 Madrid, Spain",2.0,brewery,28014,40.4127848,-3.6963716,"{'type': 'Point', 'coordinates': [-3.6963716, 40.4127848]}",15-25€
+41,Cervezas La Fábrica,3.8,"Calle de Jesús, 2, 28014 Madrid, Spain",2.0,brewery,28014,40.4135948,-3.6957185,"{'type': 'Point', 'coordinates': [-3.6957185, 40.4135948]}",More than 50€
+42,Mahou,5.0,"Calle de la Madera, 14, 28914 Leganés, Madrid, Spain",2.0,brewery,28914,40.3286802,-3.776204,"{'type': 'Point', 'coordinates': [-3.776204, 40.3286802]}",15-25€
+43,Cervezas Martínez e Hijas,4.0,"C/ Valdemorillo 16-B, Polígono Ventorro del Cano, 28925 Alcorcón, Madrid, Spain",1.0,brewery,28925,40.3904799,-3.83611,"{'type': 'Point', 'coordinates': [-3.83611, 40.3904799]}",15-25€
+44,Barley & Co. Cervezas Especiales,4.8,"Calle Artesanos, 11, 28660 Boadilla del Monte, Madrid, Spain",2.0,brewery,28660,40.39241699999999,-3.8496636,"{'type': 'Point', 'coordinates': [-3.8496636, 40.39241699999999]}",15-25€
+45,La Conquista Loungebeer,4.9,"Calle de la Reina, 17, 28004 Madrid, Spain",2.0,brewery,28004,40.4203373,-3.6996965,"{'type': 'Point', 'coordinates': [-3.6996965, 40.4203373]}",15-25€
+46,La Tienda de la Cerveza,4.7,"Calle de las Maldonadas, 5, 28005 Madrid, Spain",2.0,brewery,28005,40.4109073,-3.7078717,"{'type': 'Point', 'coordinates': [-3.7078717, 40.4109073]}",More than 50€
+47,Be Hoppy,4.8,"Calle de Fúcar, 1, 28014 Madrid, Spain",2.0,brewery,28014,40.4124572,-3.695562999999999,"{'type': 'Point', 'coordinates': [-3.695562999999999, 40.4124572]}",15-25€
+48,Beer Bang Beers,4.7,"Mercado de, Calle de Eraso, 14, 28028 Madrid, Spain",2.0,brewery,28028,40.434075,-3.6709469,"{'type': 'Point', 'coordinates': [-3.6709469, 40.434075]}",15-25€
+49,Yellow Cab,4.0,"Av. Olímpica, 5, 28108 Alcobendas, Madrid, Spain",2.0,brewery,28108,40.5361526,-3.6321774,"{'type': 'Point', 'coordinates': [-3.6321774, 40.5361526]}",25-50€
+50,Starbeers,4.6,"Calle del Almendro, 8, 28005 Madrid, Spain",2.0,brewery,28005,40.4128722,-3.7096055,"{'type': 'Point', 'coordinates': [-3.7096055, 40.4128722]}",15-25€
+51,Cervecería Avenida,4.1,"Av. del General Perón, 22, 28020 Madrid, Spain",2.0,brewery,28020,40.4521857,-3.6960902,"{'type': 'Point', 'coordinates': [-3.6960902, 40.4521857]}",15-25€
+52,CERVECERIA DOMINGUEZ,4.3,"Calle Virgen de la Oliva, 2, 28037 Madrid, Spain",2.0,brewery,28037,40.430681,-3.6256428,"{'type': 'Point', 'coordinates': [-3.6256428, 40.430681]}",15-25€
+53,HOP BEACH American brewey,5.0,"Calle de Sta. María, 33, 28014 Madrid, Spain",2.0,brewery,28014,40.4127848,-3.6963716,"{'type': 'Point', 'coordinates': [-3.6963716, 40.4127848]}",25-50€
+54,Cervezas Patanel,4.7,"Av. de Pedro Diez, 21, 28019 Madrid, Spain",2.0,brewery,28019,40.3913698,-3.7315292,"{'type': 'Point', 'coordinates': [-3.7315292, 40.3913698]}",1-15€
+55,Cruzcampo,0.0,"28039 Madrid, Spain",2.0,brewery,28039,40.461341,-3.7010263,"{'type': 'Point', 'coordinates': [-3.7010263, 40.461341]}",25-50€
+56,Taproom Madrid,4.5,"Debajo del Tierra Burrito, Plaza de Isabel II, 5, 28013 Madrid, Spain",2.0,brewery,28013,40.418584,-3.7093819,"{'type': 'Point', 'coordinates': [-3.7093819, 40.418584]}",15-25€
+57,Cervecissimus - Backstage,4.6,"Calle de las Delicias, 6, 28045 Madrid, Spain",2.0,brewery,28045,40.4041224,-3.694972599999999,"{'type': 'Point', 'coordinates': [-3.694972599999999, 40.4041224]}",15-25€
+58,La Almudayna,4.4,"Calle del Espíritu Santo, 5, 28004 Madrid, Spain",1.0,brewery,28004,40.4250191,-3.7024314,"{'type': 'Point', 'coordinates': [-3.7024314, 40.4250191]}",15-25€
+59,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,brewery,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}",15-25€
+60,La Terraza del Urban,4.4,"Carrera de S. Jerónimo, 34, 28014 Madrid, Spain",3.0,rooftop,28014,40.416282,-3.698698,"{'type': 'Point', 'coordinates': [-3.698698, 40.416282]}",15-25€
+61,Doña Luz Restaurante,4.2,"Calle de la Montera, 10, 12, 28013 Madrid, Spain",2.0,rooftop,28013,40.4175643,-3.7025579,"{'type': 'Point', 'coordinates': [-3.7025579, 40.4175643]}",15-25€
+62,La Terraza de Óscar,4.4,"Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",3.0,rooftop,28004,40.4206224,-3.6989814,"{'type': 'Point', 'coordinates': [-3.6989814, 40.4206224]}",15-25€
+63,Terraza Cibeles,3.7,"Plaza Cibeles, 1, 28014 Madrid, Spain",3.0,rooftop,28014,40.4189339,-3.6921521,"{'type': 'Point', 'coordinates': [-3.6921521, 40.4189339]}",15-25€
+64,El Viajero,3.8,"Plaza de la Cebada, 11, 28005 Madrid, Spain",2.0,rooftop,28005,40.4116672,-3.7102139,"{'type': 'Point', 'coordinates': [-3.7102139, 40.4116672]}",15-25€
+65,Picalagartos Sky Bar & Restaurant,4.3,"C/ Gran Vía, 21, 28013 Madrid, Spain",3.0,rooftop,28013,40.4198591,-3.701074,"{'type': 'Point', 'coordinates': [-3.701074, 40.4198591]}",1-15€
+66,Azotea del Círculo,4.2,"Azotea del Círculo de Bellas Artes de Madrid, Calle del Marqués de Casa Riera, 2, 28004 Madrid, Spain",3.0,rooftop,28004,40.4183253,-3.6964847,"{'type': 'Point', 'coordinates': [-3.6964847, 40.4183253]}",1-15€
+67,Hotel RIU Plaza España,4.4,"C/ Gran Vía, 84, 28013 Madrid, Spain",3.0,rooftop,28013,40.4240261,-3.7111446,"{'type': 'Point', 'coordinates': [-3.7111446, 40.4240261]}",15-25€
+68,Radio Rooftop Bar Madrid,3.7,"Plaza de Sta. Ana, 14, 28012 Madrid, Spain",3.0,rooftop,28012,40.4148202,-3.7014664,"{'type': 'Point', 'coordinates': [-3.7014664, 40.4148202]}",15-25€
+69,Sky Bar 360°,4.2,"C/ Gran Vía, 84, 28013 Madrid, Spain",3.0,rooftop,28013,40.4241475,-3.7111124,"{'type': 'Point', 'coordinates': [-3.7111124, 40.4241475]}",15-25€
+70,Dear Hotel Madrid,4.4,"C/ Gran Vía, 80, 28013 Madrid, Spain",3.0,rooftop,28013,40.4233742,-3.7104263,"{'type': 'Point', 'coordinates': [-3.7104263, 40.4233742]}",15-25€
+71,Ginkgo Restaurante & Sky Bar,4.2,"Plaza de España, 3, 28008 Madrid, Spain",3.0,rooftop,28008,40.4228665,-3.7113619,"{'type': 'Point', 'coordinates': [-3.7113619, 40.4228665]}",15-25€
+72,GYMAGE Lounge Resort,3.5,"Calle de la Luna, 2, 28004 Madrid, Spain",3.0,rooftop,28004,40.4214086,-3.7048219,"{'type': 'Point', 'coordinates': [-3.7048219, 40.4214086]}",1-15€
+73,Sky Roof Top Terrace,4.0,"Calle del Aviador Zorita, 34, 28020 Madrid, Spain",3.0,rooftop,28020,40.4504241,-3.6981607,"{'type': 'Point', 'coordinates': [-3.6981607, 40.4504241]}",1-15€
+74,Azotea Forus Barceló,4.0,"C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",2.0,rooftop,28005,40.4268137,-3.6988964,"{'type': 'Point', 'coordinates': [-3.6988964, 40.4268137]}",1-15€
+75,Skynight,3.9,"Avenida de América, 41, 28002 Madrid, Spain",3.0,rooftop,28002,40.44066249999999,-3.6700403,"{'type': 'Point', 'coordinates': [-3.6700403, 40.44066249999999]}",1-15€
+76,Casa Suecia,4.4,"y roof top, Calle del Marqués de Casa Riera, 4, Planta baja, 28014 Madrid, Spain",3.0,rooftop,28014,40.4179018,-3.6962677,"{'type': 'Point', 'coordinates': [-3.6962677, 40.4179018]}",15-25€
+77,De Madrid al Cielo Sky bar,4.2,"Edificio España, C. de la Princesa, 19, 28013 Madrid, Spain",3.0,rooftop,28013,40.42419940000001,-3.7110904,"{'type': 'Point', 'coordinates': [-3.7110904, 40.42419940000001]}",1-15€
+78,Bar Terraza Roof Top,4.0,"Calle de San Bernardo, 28013 Madrid, Spain",3.0,rooftop,28013,40.4206019,-3.7084716,"{'type': 'Point', 'coordinates': [-3.7084716, 40.4206019]}",1-15€
+79,Sky Terrace Moncloa,4.0,"Calle Arcipreste Hita n. 10, planta 8, Hotel Exe Moncloa, 28015 Madrid, Spain",3.0,rooftop,28015,40.4337546,-3.7175075,"{'type': 'Point', 'coordinates': [-3.7175075, 40.4337546]}",1-15€
+80,Del Diego Cocktail Bar,4.4,"Calle de la Reina, 12, 28004 Madrid, Spain",2.0,cocktail,28004,40.42001399999999,-3.699275,"{'type': 'Point', 'coordinates': [-3.699275, 40.42001399999999]}",1-15€
+81,Salmon Guru,4.7,"Calle de Echegaray, 21, 28014 Madrid, Spain",2.0,cocktail,28014,40.4148933,-3.699517,"{'type': 'Point', 'coordinates': [-3.699517, 40.4148933]}",1-15€
+82,Harvey's Cocktail Bar,4.3,"Calle de Fuencarral, 70, 28004 Madrid, Spain",2.0,cocktail,28004,40.4248621,-3.7006277,"{'type': 'Point', 'coordinates': [-3.7006277, 40.4248621]}",1-15€
+83,Baton Rouge Cocktail Bar,4.5,"Calle de la Victoria, 8, 28012 Madrid, Spain",2.0,cocktail,28012,40.4158661,-3.7017675,"{'type': 'Point', 'coordinates': [-3.7017675, 40.4158661]}",1-15€
+84,47 cocktail bar,4.1,"Calle de la Cava Baja, 47, 28005 Madrid, Spain",2.0,cocktail,28005,40.4118685,-3.7102089,"{'type': 'Point', 'coordinates': [-3.7102089, 40.4118685]}",1-15€
+85,1862 Dry Bar,4.5,"Calle del Pez, 27, 28004 Madrid, Spain",2.0,cocktail,28004,40.4241629,-3.7065294,"{'type': 'Point', 'coordinates': [-3.7065294, 40.4241629]}",15-25€
+86,Dry Martini Bar,4.4,"Calle de Hermosilla, 2, 28001 Madrid, Spain",3.0,cocktail,28001,40.4263506,-3.6893391,"{'type': 'Point', 'coordinates': [-3.6893391, 40.4263506]}",1-15€
+87,Vacaciones Cocktail Bar,4.1,"Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,cocktail,28004,40.4253189,-3.703584,"{'type': 'Point', 'coordinates': [-3.703584, 40.4253189]}",1-15€
+88,Sambhad cocktail bar terraza,4.8,"Calle Duque de Osuna, 4, 28015 Madrid, Spain",2.0,cocktail,28015,40.4249433,-3.7117725,"{'type': 'Point', 'coordinates': [-3.7117725, 40.4249433]}",15-25€
+89,The Dash,4.4,"C/ de Murillo, 5, 28010 Madrid, Spain",2.0,cocktail,28010,40.4334982,-3.7006417,"{'type': 'Point', 'coordinates': [-3.7006417, 40.4334982]}",1-15€
+90,La Villana,4.1,"C. del Padre Damián, 37, 28036 Madrid, Spain",2.0,cocktail,28036,40.4608894,-3.6855996,"{'type': 'Point', 'coordinates': [-3.6855996, 40.4608894]}",1-15€
+91,Santos y Desamparados,4.6,"Costanilla de los Desamparados, 4, 28014 Madrid, Spain",2.0,cocktail,28014,40.4129171,-3.6966068,"{'type': 'Point', 'coordinates': [-3.6966068, 40.4129171]}",1-15€
+92,Catarsis,4.3,"Calle de Ponzano, 16, 28010 Madrid, Spain",2.0,cocktail,28010,40.4376884,-3.6992315,"{'type': 'Point', 'coordinates': [-3.6992315, 40.4376884]}",1-15€
+93,Cafe Madrid,4.3,"C/ del Mesón de Paños, 6, 28013 Madrid, Spain",2.0,cocktail,28013,40.4166411,-3.709223799999999,"{'type': 'Point', 'coordinates': [-3.709223799999999, 40.4166411]}",15-25€
+94,The Shaker,4.6,"Calle de Alcántara, 38, 28006 Madrid, Spain",1.0,cocktail,28006,40.4292913,-3.6735743,"{'type': 'Point', 'coordinates': [-3.6735743, 40.4292913]}",1-15€
+95,St. John's Coctelería,4.6,"Calle Marqués del Duero, 8, 28001 Madrid, Spain",2.0,cocktail,28001,40.42025640000001,-3.6911161,"{'type': 'Point', 'coordinates': [-3.6911161, 40.42025640000001]}",1-15€
+96,Lía Madrid Cocktail Boutique,4.5,"Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",2.0,cocktail,28036,40.4583758,-3.6826621,"{'type': 'Point', 'coordinates': [-3.6826621, 40.4583758]}",1-15€
+97,Hemingway Cocktail Bar,4.2,"Calle del Marqués de Casa Riera, 4, 28014 Madrid, Spain",2.0,cocktail,28014,40.4178283,-3.6961819,"{'type': 'Point', 'coordinates': [-3.6961819, 40.4178283]}",1-15€
+98,Bar Varsovia,4.2,"Calle de San Andrés, 33, 28004 Madrid, Spain",1.0,cocktail,28004,40.428821,-3.703385699999999,"{'type': 'Point', 'coordinates': [-3.703385699999999, 40.428821]}",1-15€
+99,La Santoría,4.9,"Calle de Lope de Vega, 30, 28014 Madrid, Spain",2.0,cocktail,28014,40.4135922,-3.696250799999999,"{'type': 'Point', 'coordinates': [-3.696250799999999, 40.4135922]}",15-25€
+100,Angelita Madrid,4.7,"Calle de la Reina, 4, 28004 Madrid, Spain",2.0,cocktail,28004,40.420274,-3.700386,"{'type': 'Point', 'coordinates': [-3.700386, 40.420274]}",15-25€
+101,Enbabia Infused,4.6,"Calle de Núñez de Arce, 9, 28012 Madrid, Spain",2.0,cocktail,28012,40.4154748,-3.7012258,"{'type': 'Point', 'coordinates': [-3.7012258, 40.4154748]}",1-15€
+102,Santamaría Coctelería,4.7,"Calle de la Ballesta, 6, 28004 Madrid, Spain",2.0,cocktail,28004,40.4213371,-3.7034948,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4213371]}",1-15€
+103,La Galería Cocktail-Bar,3.8,"Costanilla de los Ángeles, 9, 28013 Madrid, Spain",2.0,cocktail,28013,40.4188892,-3.7083071,"{'type': 'Point', 'coordinates': [-3.7083071, 40.4188892]}",1-15€
+104,La Tuerta Funky Castizo,4.5,"Calle de la Cabeza, 28, 28012 Madrid, Spain",2.0,cocktail,28012,40.41189869999999,-3.701836,"{'type': 'Point', 'coordinates': [-3.701836, 40.41189869999999]}",1-15€
+105,Gil's Cocktail Bar,5.0,"Calle de Modesto Lafuente, 23, 28003 Madrid, Spain",2.0,cocktail,28003,40.4407851,-3.696188,"{'type': 'Point', 'coordinates': [-3.696188, 40.4407851]}",1-15€
+106,Garra Bar,4.4,"Plaza de España, 18, 28013 Madrid, Spain",2.0,cocktail,28013,40.4241374,-3.7124487,"{'type': 'Point', 'coordinates': [-3.7124487, 40.4241374]}",1-15€
+107,Black Mamba Cocktail Bar,4.4,"Costanilla de San Pedro, 5, 28005 Madrid, Spain",2.0,cocktail,28005,40.4126199,-3.7106115,"{'type': 'Point', 'coordinates': [-3.7106115, 40.4126199]}",1-15€
+108,Ficus Bar,4.7,"Calle de Santo Tomé, 8, 28004 Madrid, Spain",2.0,cocktail,28004,40.4236519,-3.694985,"{'type': 'Point', 'coordinates': [-3.694985, 40.4236519]}",15-25€
+109,Carpe Diem,4.6,"Plaza de Puerta Cerrada, 7, 28005 Madrid, Spain",1.0,cocktail,28005,40.4136833,-3.70895,"{'type': 'Point', 'coordinates': [-3.70895, 40.4136833]}",1-15€
+110,Angelita Madrid Sky Bar,4.4,"Paseo de la Infanta Isabel, 13, Planta 7, 28013 Madrid, Spain",2.0,cocktail,28013,40.4073115,-3.6884222,"{'type': 'Point', 'coordinates': [-3.6884222, 40.4073115]}",1-15€
+111,Anubis Trafalgar,4.1,"Calle de Trafalgar, 10, 28010 Madrid, Spain",2.0,cocktail,28010,40.4316293,-3.7003164,"{'type': 'Point', 'coordinates': [-3.7003164, 40.4316293]}",1-15€
+112,THE MOON TERRAZA COCKTAIL BAR,3.2,"Plaza Santa María Soledad Torres Acosta s/n, 28004 Madrid, Spain",2.0,cocktail,28004,40.4214658,-3.705273,"{'type': 'Point', 'coordinates': [-3.705273, 40.4214658]}",1-15€
+113,In Dreams Café,4.3,"Calle de San Mateo, 4, 28004 Madrid, Spain",2.0,cocktail,28004,40.425,-3.7002778,"{'type': 'Point', 'coordinates': [-3.7002778, 40.425]}",15-25€
+114,Bátelo Cocktail Bar,4.0,"Calle del Infante, 8, 28014 Madrid, Spain",2.0,cocktail,28014,40.4141412,-3.6991146,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}",1-15€
+115,Mezcaloteca Corazón Agavero,4.6,"Calle del Humilladero, 28, 28005 Madrid, Spain",2.0,cocktail,28005,40.4094959,-3.7104267,"{'type': 'Point', 'coordinates': [-3.7104267, 40.4094959]}",1-15€
+116,V Manneken,4.1,"Cl. del Marqués de Sta. Ana, 30, 28004 Madrid, Spain",2.0,cocktail,28004,40.4251368,-3.70382,"{'type': 'Point', 'coordinates': [-3.70382, 40.4251368]}",1-15€
+117,Viva Madrid,4.4,"Calle de Manuel Fernández y González, nº 7, 28014 Madrid, Spain",2.0,cocktail,28014,40.4151864,-3.6998424,"{'type': 'Point', 'coordinates': [-3.6998424, 40.4151864]}",1-15€
+118,Anubis Cócteleria Plaza Mayor,4.5,"Calle de Concepción Jerónima, 29, 28012 Madrid, Spain",1.0,cocktail,28012,40.413657,-3.706805,"{'type': 'Point', 'coordinates': [-3.706805, 40.413657]}",1-15€
+119,Museo Chicote,4.1,"C/ Gran Vía, 12, 28013 Madrid, Spain",2.0,cocktail,28013,40.4196892,-3.6989026,"{'type': 'Point', 'coordinates': [-3.6989026, 40.4196892]}",1-15€
+120,"Sotto - Discoteca, terraza y sala de eventos en Bernabéu",4.0,"Calle Gutiérrez Solana, 6, 28036 Madrid, Spain",2.0,cocktail,28036,40.4504981,-3.6878848,"{'type': 'Point', 'coordinates': [-3.6878848, 40.4504981]}",15-25€
+121,Kona Lei - Tiki Cocktail Bar,1.5,"Calle de Hernán Cortés, 8, 28004 Madrid, Spain",2.0,cocktail,28004,40.4234353,-3.7000271,"{'type': 'Point', 'coordinates': [-3.7000271, 40.4234353]}",15-25€
+122,Casa Pueblo,4.4,"Calle del León, 3, 28014 Madrid, Spain",1.0,cocktail,28014,40.4146076,-3.6985476,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}",1-15€
+123,Miranda,3.9,"Calle de las Huertas, 29, 28014 Madrid, Spain",2.0,cocktail,28014,40.4136803,-3.6988841,"{'type': 'Point', 'coordinates': [-3.6988841, 40.4136803]}",15-25€
+124,Memphis Cocktail Bar,3.5,"Calle de Brescia, 2, 28028 Madrid, Spain",2.0,cocktail,28028,40.4364152,-3.6647445,"{'type': 'Point', 'coordinates': [-3.6647445, 40.4364152]}",15-25€
+125,The Kave,4.7,"Calle de Salustiano Olózaga, 15, 28001 Madrid, Spain",2.0,cocktail,28001,40.4205171,-3.6896285,"{'type': 'Point', 'coordinates': [-3.6896285, 40.4205171]}",15-25€
+126,mokäi,1.7,"Plaza de Pedro Zerolo, 10, 28004 Madrid, Spain",2.0,cocktail,28004,40.4209953,-3.6988671,"{'type': 'Point', 'coordinates': [-3.6988671, 40.4209953]}",15-25€
+127,La Realidad,4.2,"Corredera Baja de San Pablo, 51, 28004 Madrid, Spain",2.0,cocktail,28004,40.42359159999999,-3.7026227,"{'type': 'Point', 'coordinates': [-3.7026227, 40.42359159999999]}",1-15€
+128,Macera Taller Bar,4.4,"Calle de San Mateo, 21, 28004 Madrid, Spain",2.0,cocktail,28004,40.426179,-3.698088,"{'type': 'Point', 'coordinates': [-3.698088, 40.426179]}",15-25€
+129,AMALAVIDA,4.5,"Calle de Loreto y Chicote, 7, 28004 Madrid, Spain",2.0,cocktail,28004,40.4214599,-3.7039117,"{'type': 'Point', 'coordinates': [-3.7039117, 40.4214599]}",1-15€
+130,DPICKLE ROOM,4.9,"Calle de Fernando VI, 28004 Madrid, Spain",2.0,cocktail,28004,40.4252822,-3.6963639,"{'type': 'Point', 'coordinates': [-3.6963639, 40.4252822]}",1-15€
+131,La Terraza de Óscar,4.4,"Hotel Room Mate Óscar, Plaza de Pedro Zerolo, 12, 28004 Madrid, Spain",3.0,cocktail,28004,40.4206224,-3.6989814,"{'type': 'Point', 'coordinates': [-3.6989814, 40.4206224]}",1-15€
+132,Café del Soul,3.8,"Calle de Espoz y Mina, 14, 28012 Madrid, Spain",2.0,cocktail,28012,40.4156335,-3.7023858,"{'type': 'Point', 'coordinates': [-3.7023858, 40.4156335]}",15-25€
+133,Gin Club,4.0,"Calle de la Reina, 16, 28013 Madrid, Spain",2.0,cocktail,28013,40.419885,-3.698771,"{'type': 'Point', 'coordinates': [-3.698771, 40.419885]}",1-15€
+134,MAMVA,4.3,"Calle de la Independencia, 2, LOCAL, IZQUIERDA, 28013 Madrid, Spain",2.0,cocktail,28013,40.4176,-3.7099,"{'type': 'Point', 'coordinates': [-3.7099, 40.4176]}",1-15€
+135,Savas bar,4.8,"Calle de la Sombrerería, 3, 28012 Madrid, Spain",2.0,cocktail,28012,40.407616,-3.6996849,"{'type': 'Point', 'coordinates': [-3.6996849, 40.407616]}",15-25€
+136,Terraza Cibeles,3.7,"Plaza Cibeles, 1, 28014 Madrid, Spain",3.0,cocktail,28014,40.4189339,-3.6921521,"{'type': 'Point', 'coordinates': [-3.6921521, 40.4189339]}",15-25€
+137,Iguazu Cocktails Club,4.4,"Calle de Teruel, 16, 28020 Madrid, Spain",1.0,cocktail,28020,40.4514566,-3.7020168,"{'type': 'Point', 'coordinates': [-3.7020168, 40.4514566]}",1-15€
+138,Farándula Madrid,4.3,"Calle de Menorca, 25, 28009 Madrid, Spain",2.0,cocktail,28009,40.419635,-3.676332999999999,"{'type': 'Point', 'coordinates': [-3.676332999999999, 40.419635]}",15-25€
+139,Areia,4.4,"Calle de Hortaleza, 92, 28004 Madrid, Spain",2.0,cocktail,28004,40.4245406,-3.6980344,"{'type': 'Point', 'coordinates': [-3.6980344, 40.4245406]}",1-15€
+140,Cervecería Deportiva Sports Bar,3.6,"Calle de las Veneras, 7, 28013 Madrid, Spain",1.0,sports bar,28013,40.4195096,-3.7076544,"{'type': 'Point', 'coordinates': [-3.7076544, 40.4195096]}",1-15€
+141,James Joyce Irish Pub Madrid,4.3,"Calle de Alcalá, 59, 28014 Madrid, Spain",2.0,sports bar,28014,40.419919,-3.691314,"{'type': 'Point', 'coordinates': [-3.691314, 40.419919]}",15-25€
+142,Irish City Sport Bar,4.2,"Calle Caridad, 7, 28007 Madrid, Spain",1.0,sports bar,28007,40.4020955,-3.675606799999999,"{'type': 'Point', 'coordinates': [-3.675606799999999, 40.4020955]}",1-15€
+143,Penalti Lounge Bar Moncloa,3.9,"Calle de Fernández de los Ríos, 95, 28015 Madrid, Spain",1.0,sports bar,28015,40.435419,-3.717764,"{'type': 'Point', 'coordinates': [-3.717764, 40.435419]}",15-25€
+144,Champions Bar,4.2,"Av. de Aragón, 400, 28022 Madrid, Spain",1.0,sports bar,28022,40.448962,-3.558009,"{'type': 'Point', 'coordinates': [-3.558009, 40.448962]}",1-15€
+145,Sports & Tapas Bar Madrid,4.1,"Calle Mayor, 68, 28013 Madrid, Spain",1.0,sports bar,28013,40.4159049,-3.7084069,"{'type': 'Point', 'coordinates': [-3.7084069, 40.4159049]}",1-15€
+146,Luckia Sport Café,4.0,"Av. del General Perón, 36, 28020 Madrid, Spain",1.0,sports bar,28020,40.452019,-3.693506,"{'type': 'Point', 'coordinates': [-3.693506, 40.452019]}",1-15€
+147,The Irish Rover,4.3,"Av. de Brasil, 7, 28020 Madrid, Spain",2.0,sports bar,28020,40.4547278,-3.6939592,"{'type': 'Point', 'coordinates': [-3.6939592, 40.4547278]}",1-15€
+148,Deportiva Sport Bar,3.2,"Calle, Costanilla de los Ángeles, 12, 28013 Madrid, Spain",1.0,sports bar,28013,40.4194516,-3.7076169,"{'type': 'Point', 'coordinates': [-3.7076169, 40.4194516]}",15-25€
+149,Canister (Antiguo Don Latas),4.0,"C. Gral. Álvarez de Castro, 24, 28010 Madrid, Spain",1.0,sports bar,28010,40.4360498,-3.7022836,"{'type': 'Point', 'coordinates': [-3.7022836, 40.4360498]}",15-25€
+150,Ocean Rock Bar,4.3,"Calle de San Vicente Ferrer, 27, 28004 Madrid, Spain",1.0,sports bar,28004,40.4256298,-3.7034948,"{'type': 'Point', 'coordinates': [-3.7034948, 40.4256298]}",15-25€
+151,Lucky Loser Sport Tavern,4.3,"Calle Helsinki, 8, 28022 Madrid, Spain",1.0,sports bar,28022,40.4268165,-3.6031649,"{'type': 'Point', 'coordinates': [-3.6031649, 40.4268165]}",1-15€
+152,Soccer Bar Cervecería,3.9,"Calle de Caleruega, 1, 28033 Madrid, Spain",2.0,sports bar,28033,40.4769343,-3.6690751,"{'type': 'Point', 'coordinates': [-3.6690751, 40.4769343]}",1-15€
+153,MacLaren's Irish & Sports Bar - Vaguada,4.3,"Calle de Santiago de Compostela, 40, 28034 Madrid, Spain",1.0,sports bar,28034,40.48312689999999,-3.703136499999999,"{'type': 'Point', 'coordinates': [-3.703136499999999, 40.48312689999999]}",1-15€
+154,La Fontana de Oro,4.1,"Calle de la Victoria, 1, 28012 Madrid, Spain",2.0,sports bar,28012,40.41640100000001,-3.701585,"{'type': 'Point', 'coordinates': [-3.701585, 40.41640100000001]}",15-25€
+155,The Thirty Three Bar Irlandés,4.2,"Calle Clara del Rey, 33, 28002 Madrid, Spain",2.0,sports bar,28002,40.4422005,-3.670871099999999,"{'type': 'Point', 'coordinates': [-3.670871099999999, 40.4422005]}",1-15€
+156,La Cofradía,4.5,"Calle de Juan Bravo, 57, 28006 Madrid, Spain",1.0,sports bar,28006,40.4325438,-3.6746248,"{'type': 'Point', 'coordinates': [-3.6746248, 40.4325438]}",1-15€
+157,Las Vegas Sports Bar,3.7,"Calle de Seseña, 87, 28024 Madrid, Spain",1.0,sports bar,28024,40.3954393,-3.766713,"{'type': 'Point', 'coordinates': [-3.766713, 40.3954393]}",1-15€
+158,MacLaren's Hortaleza,4.8,"Calle de López de Hoyos, 478, 28043 Madrid, Spain",1.0,sports bar,28043,40.4714421,-3.6497693,"{'type': 'Point', 'coordinates': [-3.6497693, 40.4714421]}",15-25€
+159,Scrum Bar,4.3,"Calle de la Aviación Española, 3, 28003 Madrid, Spain",1.0,sports bar,28003,40.4397596,-3.712196899999999,"{'type': 'Point', 'coordinates': [-3.712196899999999, 40.4397596]}",15-25€
+160,Café Bar Preciados,3.5,"Calle de Preciados, 38, 28013 Madrid, Spain",1.0,sports bar,28013,40.4198373,-3.7068685,"{'type': 'Point', 'coordinates': [-3.7068685, 40.4198373]}",15-25€
+161,Las Vegas Sports Bar,3.2,"Ronda de Atocha, 12, 28012 Madrid, Spain",1.0,sports bar,28012,40.4068416,-3.696559999999999,"{'type': 'Point', 'coordinates': [-3.696559999999999, 40.4068416]}",1-15€
+162,s10bar,4.3,"Calle de Guzmán el Bueno, 56, 28015 Madrid, Spain",1.0,sports bar,28015,40.4362736,-3.7129341,"{'type': 'Point', 'coordinates': [-3.7129341, 40.4362736]}",15-25€
+163,Meltdown Madrid,4.7,"C. de Raimundo Lulio, 9, 28010 Madrid, Spain",2.0,sports bar,28010,40.4327683,-3.6989545,"{'type': 'Point', 'coordinates': [-3.6989545, 40.4327683]}",15-25€
+164,Dubliners,3.6,"Calle de Espoz y Mina, 7, 28012 Madrid, Spain",2.0,sports bar,28012,40.41584020000001,-3.7022601,"{'type': 'Point', 'coordinates': [-3.7022601, 40.41584020000001]}",1-15€
+165,O'Connell St,3.7,"Calle de Espoz y Mina, 7, 28012 Madrid, Spain",2.0,sports bar,28012,40.4157575,-3.7022611,"{'type': 'Point', 'coordinates': [-3.7022611, 40.4157575]}",1-15€
+166,QW MADRID,4.0,"Calle de Vergara, 12, 28013 Madrid, Spain",1.0,sports bar,28013,40.4174188,-3.7112946,"{'type': 'Point', 'coordinates': [-3.7112946, 40.4174188]}",1-15€
+167,Beerhouse - Craftbeer Bar,4.5,"Calle del Cardenal Cisneros, 16, 28010 Madrid, Spain",2.0,sports bar,28010,40.4305865,-3.7017166,"{'type': 'Point', 'coordinates': [-3.7017166, 40.4305865]}",15-25€
+168,Bring Sport Bar tacos,4.4,"Calle Eusebio Morán, 31, 28019 Madrid, Spain",1.0,sports bar,28019,40.3867891,-3.719036999999999,"{'type': 'Point', 'coordinates': [-3.719036999999999, 40.3867891]}",15-25€
+169,Sports Bar Las Vegas,3.8,"Calle de Sta Engracia, 73, 28010 Madrid, Spain",1.0,sports bar,28010,40.4352317,-3.6990656,"{'type': 'Point', 'coordinates': [-3.6990656, 40.4352317]}",15-25€
+170,Tapikas,4.2,"Calle del Poeta Joan Maragall, 55, 28020 Madrid, Spain",1.0,sports bar,28020,40.4641252,-3.6924948,"{'type': 'Point', 'coordinates': [-3.6924948, 40.4641252]}",1-15€
+171,Pit Stop,4.5,"Calle del Gral Oraá, 19, 28006 Madrid, Spain",1.0,sports bar,28006,40.4363493,-3.685527999999999,"{'type': 'Point', 'coordinates': [-3.685527999999999, 40.4363493]}",1-15€
+172,Wanderlust Bar,4.1,"Calle del Bonetillo, 14, 28013 Madrid, Spain",1.0,sports bar,28013,40.4168279,-3.7091132,"{'type': 'Point', 'coordinates': [-3.7091132, 40.4168279]}",1-15€
+173,Starbeers,4.6,"Calle del Almendro, 8, 28005 Madrid, Spain",2.0,sports bar,28005,40.4128722,-3.7096055,"{'type': 'Point', 'coordinates': [-3.7096055, 40.4128722]}",15-25€
+174,Mahou,3.4,"Av de la Hispanidad, s/n, 28042 Madrid, Spain",1.0,sports bar,28042,40.4681768,-3.568535,"{'type': 'Point', 'coordinates': [-3.568535, 40.4681768]}",1-15€
+175,Codere,3.6,"Calle de Villaamil, 74, 28039 Madrid, Spain",1.0,sports bar,28039,40.4615722,-3.7082202,"{'type': 'Point', 'coordinates': [-3.7082202, 40.4615722]}",1-15€
+176,87 MILLAS SPORT BAR,4.8,"Calle de Galileo, 75, 28015 Madrid, Spain",1.0,sports bar,28015,40.437608,-3.7101831,"{'type': 'Point', 'coordinates': [-3.7101831, 40.437608]}",1-15€
+177,Goat House Sports Bar,5.0,"Calle de Núñez de Arce, 14, 28012 Madrid, Spain",1.0,sports bar,28012,40.4152568,-3.7015326,"{'type': 'Point', 'coordinates': [-3.7015326, 40.4152568]}",1-15€
+178,La Abadia Beer's,4.5,"Ronda de Segovia, 91, 28005 Madrid, Spain",1.0,sports bar,28005,40.407323,-3.7127757,"{'type': 'Point', 'coordinates': [-3.7127757, 40.407323]}",15-25€
+179,FOOD&GOL,4.0,"Calle de Cartagena, 86, 28028 Madrid, Spain",1.0,sports bar,28028,40.43827599999999,-3.6726168,"{'type': 'Point', 'coordinates': [-3.6726168, 40.43827599999999]}",1-15€
+180,Codere Apuestas S.A.U,3.2,"Calle Valmojado, 231, 28047 Madrid, Spain",1.0,sports bar,28047,40.3888383,-3.758504,"{'type': 'Point', 'coordinates': [-3.758504, 40.3888383]}",1-15€
+181,NFL Madrid Bar,2.0,"Calle del Laurel, 4, 28005 Madrid, Spain",1.0,sports bar,28005,40.4036965,-3.7055562,"{'type': 'Point', 'coordinates': [-3.7055562, 40.4036965]}",15-25€
+182,Orenes Sports Bar & Casino,3.7,"Calle de Isabelita Usera, 24, 28026 Madrid, Spain",1.0,sports bar,28026,40.3841535,-3.7080831,"{'type': 'Point', 'coordinates': [-3.7080831, 40.3841535]}",15-25€
+183,La Esquina del 98,4.4,"Calle de Vallehermoso, 98, 28003 Madrid, Spain",1.0,sports bar,28003,40.439436,-3.708066,"{'type': 'Point', 'coordinates': [-3.708066, 40.439436]}",15-25€
+184,BAR DXT Y MÁS,4.6,"Calle Virgen de la Oliva, 34, 28037 Madrid, Spain",1.0,sports bar,28037,40.4319911,-3.6239133,"{'type': 'Point', 'coordinates': [-3.6239133, 40.4319911]}",1-15€
+185,The Cavern Irish Pub,4.2,"Calle de Santiago, 1, 28013 Madrid, Spain",2.0,sports bar,28013,40.4160916,-3.7097757,"{'type': 'Point', 'coordinates': [-3.7097757, 40.4160916]}",1-15€
+186,Sports Bar Las Vegas,3.8,"Av. de Abrantes, 97, 28025 Madrid, Spain",1.0,sports bar,28025,40.3797863,-3.7289944,"{'type': 'Point', 'coordinates': [-3.7289944, 40.3797863]}",1-15€
+187,Finnegans,4.0,"Plaza de las Salesas, 9, 28004 Madrid, Spain",1.0,sports bar,28004,40.4238376,-3.6948478,"{'type': 'Point', 'coordinates': [-3.6948478, 40.4238376]}",15-25€
+188,Sports Bar Las Vegas,0.0,"Glorieta de los Carmenes, 28047 Madrid, Spain",1.0,sports bar,28047,40.3950616,-3.7431611,"{'type': 'Point', 'coordinates': [-3.7431611, 40.3950616]}",1-15€
+189,The Room Madrid,3.8,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,sports bar,28012,40.4149178,-3.702538,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}",1-15€
+190,BARTY,5.0,"Calle de Aguilón, 4, Local, 28045 Madrid, Spain",1.0,sports bar,28045,40.3971103,-3.701287899999999,"{'type': 'Point', 'coordinates': [-3.701287899999999, 40.3971103]}",15-25€
+191,El Palco,4.2,"Calle Prof. Waksman, 3, 28036 Madrid, Spain",1.0,sports bar,28036,40.456228,-3.689105,"{'type': 'Point', 'coordinates': [-3.689105, 40.456228]}",15-25€
+192,The Clover Irish Tavern,4.3,"Calle del Valle de Pinares Llanos, 8, 28035 Madrid, Spain",2.0,sports bar,28035,40.4858509,-3.718495,"{'type': 'Point', 'coordinates': [-3.718495, 40.4858509]}",1-15€
+193,Roberangelo Rock Cafe,4.4,"Av. de la Emperatriz Isabel, 1, 28019 Madrid, Spain",1.0,sports bar,28019,40.3978748,-3.7168938,"{'type': 'Point', 'coordinates': [-3.7168938, 40.3978748]}",15-25€
+194,Bits & Beers,4.8,"Calle de Julián Besteiro, 6, 28020 Madrid, Spain",1.0,sports bar,28020,40.45357420000001,-3.6953918,"{'type': 'Point', 'coordinates': [-3.6953918, 40.45357420000001]}",15-25€
+195,Pool And Beer,4.3,"Calle de Joaquín María López, 17, 28015 Madrid, Spain",1.0,sports bar,28015,40.4374739,-3.710974,"{'type': 'Point', 'coordinates': [-3.710974, 40.4374739]}",1-15€
+196,Emotiva Sports Bar,3.0,"Calle de Ramón Luján, 26, 28026 Madrid, Spain",1.0,sports bar,28026,40.3858237,-3.7046381,"{'type': 'Point', 'coordinates': [-3.7046381, 40.3858237]}",15-25€
+197,Ke Pinta,0.0,"Plaza de Sta. Ana, 14, 28012 Madrid, Spain",1.0,sports bar,28012,40.41455870000001,-3.7014056,"{'type': 'Point', 'coordinates': [-3.7014056, 40.41455870000001]}",15-25€
+198,Orenes Sports Bar & Salón De Juegos,3.0,"Calle de Jesús del Pino, 24, 28031 Madrid, Spain",1.0,sports bar,28031,40.3815067,-3.623550499999999,"{'type': 'Point', 'coordinates': [-3.623550499999999, 40.3815067]}",1-15€
+199,BILLARNET CAFÉ,4.3,"Calle del Poeta Joan Maragall, 49, 28020 Madrid, Spain",1.0,sports bar,28020,40.4627974,-3.6918129,"{'type': 'Point', 'coordinates': [-3.6918129, 40.4627974]}",15-25€
+200,Carlota Wine Shop,4.8,"Calle de la Libertad, 26, 28004 Madrid, Spain",2.0,wine,28004,40.4219107,-3.6972958,"{'type': 'Point', 'coordinates': [-3.6972958, 40.4219107]}",15-25€
+201,Madrid & Darracott - Vinos y experiencias,4.9,"Calle del Duque de Rivas, 8, 28012 Madrid, Spain",2.0,wine,28012,40.413248,-3.706585,"{'type': 'Point', 'coordinates': [-3.706585, 40.413248]}",1-15€
+202,Lavinia,4.4,"Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",3.0,wine,28006,40.4302083,-3.6843632,"{'type': 'Point', 'coordinates': [-3.6843632, 40.4302083]}",15-25€
+203,Pinkleton & Wine,4.4,"Plaza de San Miguel, s/n, 28005 Madrid, Spain",2.0,wine,28005,40.4153133,-3.7090666,"{'type': 'Point', 'coordinates': [-3.7090666, 40.4153133]}",1-15€
+204,Enoteca Barolo,4.7,"Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",2.0,wine,28002,40.4510127,-3.677905,"{'type': 'Point', 'coordinates': [-3.677905, 40.4510127]}",15-25€
+205,The One Wine,4.8,"Calle de López de Hoyos, 147, 28002 Madrid, Spain",2.0,wine,28002,40.4479039,-3.6688314,"{'type': 'Point', 'coordinates': [-3.6688314, 40.4479039]}",15-25€
+206,La Caja de Vinos,4.7,"Calle de San Felipe Neri, 2, 28013 Madrid, Spain",2.0,wine,28013,40.4162902,-3.708092199999999,"{'type': 'Point', 'coordinates': [-3.708092199999999, 40.4162902]}",15-25€
+207,La Bodega de Los Reyes,4.8,"Calle de los Reyes, 6, 28015 Madrid, Spain",2.0,wine,28015,40.4243419,-3.7092347,"{'type': 'Point', 'coordinates': [-3.7092347, 40.4243419]}",15-25€
+208,Reserva y Cata,4.9,"Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",2.0,wine,28004,40.4234476,-3.694196099999999,"{'type': 'Point', 'coordinates': [-3.694196099999999, 40.4234476]}",15-25€
+209,Lavinia,4.4,"Avenida de Europa, 13, B30, 32, 28108 Alcobendas, Madrid, Spain",2.0,wine,28108,40.5192003,-3.655821,"{'type': 'Point', 'coordinates': [-3.655821, 40.5192003]}",1-15€
+210,Tienda de Vinos y Licores Madrid - VINOS BACO. Comprar Vino Online. Vinoteca Madrid. Licores madrid. Venta de Vinos. Vinos a domicilio. Enoteca Madrid.,4.6,"Calle de San Bernardo, 117, 28015 Madrid, Spain",2.0,wine,28015,40.4327456,-3.7048665,"{'type': 'Point', 'coordinates': [-3.7048665, 40.4327456]}",1-15€
+211,Despacio Arts & Wine,4.7,"Calle del Espíritu Santo, 36, 28004 Madrid, Spain",2.0,wine,28004,40.4257278,-3.7047832,"{'type': 'Point', 'coordinates': [-3.7047832, 40.4257278]}",1-15€
+212,Bodega Santa Cecilia,4.4,"Calle de Blasco de Garay, 74, 28015 Madrid, Spain",2.0,wine,28015,40.4371299,-3.711177,"{'type': 'Point', 'coordinates': [-3.711177, 40.4371299]}",1-15€
+213,Vino de Madrid,0.0,"Calle de Escalonilla, 151, 28047 Madrid, Spain",2.0,wine,28047,40.396564,-3.739517999999999,"{'type': 'Point', 'coordinates': [-3.739517999999999, 40.396564]}",1-15€
+214,Vino & Compañía,4.6,"Plaza de Olavide, 5, 28010 Madrid, Spain",2.0,wine,28010,40.4326845,-3.7016862,"{'type': 'Point', 'coordinates': [-3.7016862, 40.4326845]}",1-15€
+215,Bodega Santa Cecilia,4.2,"Calle de Bravo Murillo, 50, 28003 Madrid, Spain",2.0,wine,28003,40.442552,-3.703882,"{'type': 'Point', 'coordinates': [-3.703882, 40.442552]}",1-15€
+216,El Brabantino,4.8,"Calle de Fray Ceferino González, 5, 28005 Madrid, Spain",2.0,wine,28005,40.4088653,-3.705974299999999,"{'type': 'Point', 'coordinates': [-3.705974299999999, 40.4088653]}",15-25€
+217,STARVINOS,4.1,"Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",2.0,wine,28015,40.4380572,-3.7126132,"{'type': 'Point', 'coordinates': [-3.7126132, 40.4380572]}",1-15€
+218,Winebar,4.4,"Calle de la Palma, 76, 28015 Madrid, Spain",1.0,wine,28015,40.4268821,-3.7089647,"{'type': 'Point', 'coordinates': [-3.7089647, 40.4268821]}",1-15€
+219,Tienda de vinos delivinos urban gourmet en Madrid,4.7,"Calle Cid 2, esquina, Calle de Recoletos, 28001 Madrid, Spain",2.0,wine,28001,40.4219502,-3.6898861,"{'type': 'Point', 'coordinates': [-3.6898861, 40.4219502]}",15-25€
+220,VinoPremier,4.2,"C/ de Francisco Silvela, 25, 28028 Madrid, Spain",2.0,wine,28028,40.43110009999999,-3.671582,"{'type': 'Point', 'coordinates': [-3.671582, 40.43110009999999]}",15-25€
+221,Tomevinos Ortega y Gasset,4.8,"Calle de José Ortega y Gasset, 61, 28006 Madrid, Spain",2.0,wine,28006,40.430009,-3.6744667,"{'type': 'Point', 'coordinates': [-3.6744667, 40.430009]}",1-15€
+222,Vinos de Madrid,0.0,"Calle Virgen de la Alegría, 28027 Madrid, Spain",2.0,wine,28027,40.4335178,-3.6572414,"{'type': 'Point', 'coordinates': [-3.6572414, 40.4335178]}",1-15€
+223,"Lafuente Lorenzo, SA",4.5,"Cl. de Ayala, 3, 28001 Madrid, Spain",2.0,wine,28001,40.4280246,-3.6887462,"{'type': 'Point', 'coordinates': [-3.6887462, 40.4280246]}",1-15€
+224,La joya del vino,3.9,"Calle Alonso Cano, 62 esquina, Calle de Cristóbal Bordiú, 45, 28003 Madrid, Spain",2.0,wine,28003,40.4430166,-3.6971562,"{'type': 'Point', 'coordinates': [-3.6971562, 40.4430166]}",1-15€
+225,Bespoke Wines,0.0,"Calle del Doce de Octubre, 23, 2D, 28009 Madrid, Spain",2.0,wine,28009,40.416124,-3.6741859,"{'type': 'Point', 'coordinates': [-3.6741859, 40.416124]}",1-15€
+226,La Caja de Vinos,4.6,"Calle de Diego de León, 26, 28006 Madrid, Spain",2.0,wine,28006,40.434777,-3.682515,"{'type': 'Point', 'coordinates': [-3.682515, 40.434777]}",1-15€
+227,TomeVinos,4.7,"Calle del Maestro Ángel Llorca, 2, 28003 Madrid, Spain",2.0,wine,28003,40.4430749,-3.7140707,"{'type': 'Point', 'coordinates': [-3.7140707, 40.4430749]}",15-25€
+228,LA PRODUCTERIA - Natural Wine Shop - Vinos naturales,5.0,"Calle de Barbieri, 21, 28004 Madrid, Spain",2.0,wine,28004,40.4217636,-3.6979447,"{'type': 'Point', 'coordinates': [-3.6979447, 40.4217636]}",1-15€
+229,Bodegas Trigo,5.0,"Calle de San Pedro, 8, 28014 Madrid, Spain",2.0,wine,28014,40.4122377,-3.6948711,"{'type': 'Point', 'coordinates': [-3.6948711, 40.4122377]}",1-15€
+230,Compra-Vino,4.7,"Av. de Daroca, 53, 55, 28017 Madrid, Spain",2.0,wine,28017,40.42924319999999,-3.6514494,"{'type': 'Point', 'coordinates': [-3.6514494, 40.42924319999999]}",15-25€
+231,Bodeboca SL,4.2,"C/ Gustavo Fernandez Balbuena, 11, 4a Planta, 28002 Madrid, Spain",2.0,wine,28002,40.449654,-3.667909099999999,"{'type': 'Point', 'coordinates': [-3.667909099999999, 40.449654]}",15-25€
+232,"Bendito, Vinos y Vinilos",4.8,"Mercado de San Fernando 41, Calle de Embajadores, 28012 Madrid, Spain",2.0,wine,28012,40.4076811,-3.7036696,"{'type': 'Point', 'coordinates': [-3.7036696, 40.4076811]}",1-15€
+233,La Tintorería Vinoteca,4.7,"Calle Gurtubay, 4, 28001 Madrid, Spain",2.0,wine,28001,40.4229794,-3.6851555,"{'type': 'Point', 'coordinates': [-3.6851555, 40.4229794]}",15-25€
+234,Sindhi Wines,5.0,"Calle de Valverde, 29, 28004 Madrid, Spain",2.0,wine,28004,40.4227802,-3.7016968,"{'type': 'Point', 'coordinates': [-3.7016968, 40.4227802]}",1-15€
+235,Corton.wine,0.0,"C/ Gran Vía, 15, 28013 Madrid, Spain",2.0,wine,28013,40.4197578,-3.7002318,"{'type': 'Point', 'coordinates': [-3.7002318, 40.4197578]}",1-15€
+236,Gini Group España,5.0,"Calle del Espejo, 28013 Madrid, Spain",2.0,wine,28013,40.4169871,-3.709608599999999,"{'type': 'Point', 'coordinates': [-3.709608599999999, 40.4169871]}",15-25€
+237,Granate Wines,5.0,"Calle de Moralzarzal, 104, 28034 Madrid, Spain",2.0,wine,28034,40.4957723,-3.7151024,"{'type': 'Point', 'coordinates': [-3.7151024, 40.4957723]}",1-15€
+238,Café di Vino,4.7,"C. de Manuela Malasaña, 23, 28004 Madrid, Spain",2.0,wine,28004,40.4286623,-3.704263399999999,"{'type': 'Point', 'coordinates': [-3.704263399999999, 40.4286623]}",1-15€
+239,The Wine Care,0.0,"Calle del Duque de Alba, 15, 28012 Madrid, Spain",2.0,wine,28012,40.4115343,-3.7066662,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4115343]}",15-25€
+240,Vides,4.5,"Calle de la Libertad, 12, 28004 Chueca, Madrid, Spain",2.0,wine,28004,40.4209878,-3.6973511,"{'type': 'Point', 'coordinates': [-3.6973511, 40.4209878]}",15-25€
+241,TomeVinos,4.7,"Paseo de la Chopera, 194, 28100 Alcobendas, Madrid, Spain",2.0,wine,28100,40.5453377,-3.6590494,"{'type': 'Point', 'coordinates': [-3.6590494, 40.5453377]}",1-15€
+242,Los Rosales Wine Shop,4.9,"Calle de Echegaray, 17, 28014 Madrid, Spain",2.0,wine,28014,40.415306,-3.699532999999999,"{'type': 'Point', 'coordinates': [-3.699532999999999, 40.415306]}",15-25€
+243,Bodegabierta,4.7,"Calle del Espíritu Santo, 36, 28004 Madrid, Spain",2.0,wine,28004,40.4256555,-3.7047568,"{'type': 'Point', 'coordinates': [-3.7047568, 40.4256555]}",15-25€
+244,Wines & Roses Floristería,4.9,"Calle del Divino Pastor, 31, 28004 Madrid, Spain",2.0,wine,28004,40.427719,-3.704724,"{'type': 'Point', 'coordinates': [-3.704724, 40.427719]}",1-15€
+245,Bodegas Mariano Madrueño,4.4,"Calle del Postigo de San Martín, 6, 28013 Madrid, Spain",2.0,wine,28013,40.4191623,-3.7060247,"{'type': 'Point', 'coordinates': [-3.7060247, 40.4191623]}",15-25€
+246,Propaganda,4.5,"Calle de la Libertad, 12, 28004 Madrid, Spain",2.0,wine,28004,40.4209384,-3.6973562,"{'type': 'Point', 'coordinates': [-3.6973562, 40.4209384]}",15-25€
+247,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"Calle de San Agustín, 3, 28014 Madrid, Spain",2.0,wine,28014,40.4151702,-3.6967946,"{'type': 'Point', 'coordinates': [-3.6967946, 40.4151702]}",15-25€
+248,La Vinoteca,4.0,"C. del Príncipe, 27, 28012 Madrid, Spain",2.0,wine,28012,40.4146912,-3.7001322,"{'type': 'Point', 'coordinates': [-3.7001322, 40.4146912]}",15-25€
+249,Madridvinum,0.0,"C/ Princesa, 30, 28008 Madrid, Spain",2.0,wine,28008,40.4280876,-3.7136441,"{'type': 'Point', 'coordinates': [-3.7136441, 40.4280876]}",15-25€
+250,BODEGAS LAIZ - MONTIANO,0.0,"Calle de Felipe IV, 3, 3ºI, 28014 Madrid, Spain",2.0,wine,28014,40.415375,-3.692078,"{'type': 'Point', 'coordinates': [-3.692078, 40.415375]}",15-25€
+251,En Copa de Balón Enotaberna,2.9,"Plaza Mayor, 2, 28012 Madrid, Spain",2.0,wine,28012,40.414928,-3.7068446,"{'type': 'Point', 'coordinates': [-3.7068446, 40.414928]}",15-25€
+252,Viña 96,5.0,"Calle de Tamayo y Baus, 3, 28004 Madrid, Spain",2.0,wine,28004,40.4228134,-3.6932378,"{'type': 'Point', 'coordinates': [-3.6932378, 40.4228134]}",1-15€
+253,Vinario,0.0,"28013 Madrid, Spain",2.0,wine,28013,40.4167754,-3.7037902,"{'type': 'Point', 'coordinates': [-3.7037902, 40.4167754]}",1-15€
+254,Bodegas Bordino,4.9,"Calle de Espoz y Mina, 17, 28012 Madrid, Spain",2.0,wine,28012,40.414658,-3.702236,"{'type': 'Point', 'coordinates': [-3.702236, 40.414658]}",15-25€
+255,La Vieja Castilla,4.6,"Calle de Gravina, 3, 28004 Madrid, Spain",2.0,wine,28004,40.4233162,-3.6983306,"{'type': 'Point', 'coordinates': [-3.6983306, 40.4233162]}",15-25€
+256,La Bonica Vinoteca,5.0,"Calle de San Bartolomé, 8, 28004 Madrid, Spain",2.0,wine,28004,40.4217191,-3.6983615,"{'type': 'Point', 'coordinates': [-3.6983615, 40.4217191]}",15-25€
+257,Vinoteca de Antón,5.0,"Calle de Santa Isabel, 5, puesto 35 D, 28012 Madrid, Spain",2.0,wine,28012,40.4116112,-3.698668899999999,"{'type': 'Point', 'coordinates': [-3.698668899999999, 40.4116112]}",1-15€
+258,España en Cepa,5.0,"Plaza de Cascorro, 8, 28005 Madrid, Spain",2.0,wine,28005,40.4102536,-3.707098099999999,"{'type': 'Point', 'coordinates': [-3.707098099999999, 40.4102536]}",1-15€
+259,Spanish Wine Lover,0.0,"Calle Juana Urosa, 28025 Madrid, Spain",2.0,wine,28025,40.3846885,-3.7433687,"{'type': 'Point', 'coordinates': [-3.7433687, 40.3846885]}",15-25€
+260,Catas de Vinos en Madrid,4.5,"Paseo de la Castellana, 214, 28036 Madrid, Spain",3.0,cata de vino,28036,40.4636363,-3.688921199999999,"{'type': 'Point', 'coordinates': [-3.688921199999999, 40.4636363]}",15-25€
+261,Cena Cata de Vinos en Maridaje en Madrid,4.9,"Plaza de España, s/n, 28008 Madrid, Spain",3.0,cata de vino,28008,40.4241904,-3.712253,"{'type': 'Point', 'coordinates': [-3.712253, 40.4241904]}",15-25€
+262,La Bodega de Los Reyes,4.8,"Calle de los Reyes, 6, 28015 Madrid, Spain",3.0,cata de vino,28015,40.4243419,-3.7092347,"{'type': 'Point', 'coordinates': [-3.7092347, 40.4243419]}",15-25€
+263,Reserva y Cata,4.9,"Calle del Conde de Xiquena, 13, 28004 Madrid, Spain",3.0,cata de vino,28004,40.4234476,-3.694196099999999,"{'type': 'Point', 'coordinates': [-3.694196099999999, 40.4234476]}",1-15€
+264,VinoPremier,4.2,"C/ de Francisco Silvela, 25, 28028 Madrid, Spain",3.0,cata de vino,28028,40.43110009999999,-3.671582,"{'type': 'Point', 'coordinates': [-3.671582, 40.43110009999999]}",15-25€
+265,Curso de Cata de Vinos en Madrid: La Vaca Argentina & Maitre y Sommelier,4.0,"Calle de San Agustín, 3, 28014 Madrid, Spain",3.0,cata de vino,28014,40.4151702,-3.6967946,"{'type': 'Point', 'coordinates': [-3.6967946, 40.4151702]}",1-15€
+266,Vino & Compañía,4.6,"Plaza de Olavide, 5, 28010 Madrid, Spain",3.0,cata de vino,28010,40.4326845,-3.7016862,"{'type': 'Point', 'coordinates': [-3.7016862, 40.4326845]}",15-25€
+267,Gourmet Madrid Tours,4.9,"Av. de Menéndez Pelayo, 53, 28009 Madrid, Spain",3.0,cata de vino,28009,40.416241,-3.6778226,"{'type': 'Point', 'coordinates': [-3.6778226, 40.416241]}",1-15€
+268,AULA ESPAÑOLA DEL VINO S.L.,4.3,"C. Simancas, 21, 28029 Madrid, Spain",3.0,cata de vino,28029,40.4662859,-3.6925723,"{'type': 'Point', 'coordinates': [-3.6925723, 40.4662859]}",15-25€
+269,Escuela Española de Cata,4.8,"Calle de las Mártires Concepcionistas, 19, Local 2, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4289839,-3.6706892,"{'type': 'Point', 'coordinates': [-3.6706892, 40.4289839]}",1-15€
+270,Lavinia,4.4,"Calle de José Ortega y Gasset, 16, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4302083,-3.6843632,"{'type': 'Point', 'coordinates': [-3.6843632, 40.4302083]}",15-25€
+271,Enoteca Barolo,4.7,"Calle del Príncipe de Vergara, 211, 28002 Madrid, Spain",3.0,cata de vino,28002,40.4510127,-3.677905,"{'type': 'Point', 'coordinates': [-3.677905, 40.4510127]}",15-25€
+272,Cata Spanish School,0.0,"Calle de las Mártires Concepcionistas, 19, 28006 Madrid, Spain",3.0,cata de vino,28006,40.4291007,-3.6706741,"{'type': 'Point', 'coordinates': [-3.6706741, 40.4291007]}",25-50€
+273,MARES Vinos: Vinoteca en Madrid. Vinos distintivos en el barrio Salamanca,4.6,"Calle de Don Ramón de la Cruz, 46, 28001 Madrid, Spain",3.0,cata de vino,28001,40.428785,-3.6782276,"{'type': 'Point', 'coordinates': [-3.6782276, 40.428785]}",15-25€
+274,Entre Cepas Catas y Enoturismo,4.7,"28925 Alcorcón, Madrid, Spain",3.0,cata de vino,28925,40.3493027,-3.8010808,"{'type': 'Point', 'coordinates': [-3.8010808, 40.3493027]}",15-25€
+275,Taca de vi | Cata de Vinos & Tours en Madrid,5.0,"Calle Pez Austral, 15, 28007 Madrid, Spain",3.0,cata de vino,28007,40.4118397,-3.6655243,"{'type': 'Point', 'coordinates': [-3.6655243, 40.4118397]}",1-15€
+276,CATAR VINO EN CASA,0.0,"Av Brasil 4, planta 9 puerta 4g, 28020 Madrid, Spain",3.0,cata de vino,28020,40.4563733,-3.6952896,"{'type': 'Point', 'coordinates': [-3.6952896, 40.4563733]}",15-25€
+277,El vino en catas,0.0,"C/ Gran Vía, 23, 28013 Madrid, Spain",3.0,cata de vino,28013,40.4198789,-3.7018917,"{'type': 'Point', 'coordinates': [-3.7018917, 40.4198789]}",1-15€
+278,STARVINOS,4.1,"Acceso Rampa, Calle de Guzmán el Bueno, 68, 28015 Madrid, Spain",3.0,cata de vino,28015,40.4380572,-3.7126132,"{'type': 'Point', 'coordinates': [-3.7126132, 40.4380572]}",15-25€
+279,La Caja de Vinos,4.7,"Calle de San Felipe Neri, 2, 28013 Madrid, Spain",3.0,cata de vino,28013,40.4162902,-3.708092199999999,"{'type': 'Point', 'coordinates': [-3.708092199999999, 40.4162902]}",15-25€
