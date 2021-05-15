@@ -33,3 +33,4 @@ if filter == "category":
     st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
 
 elif filter == "location": 
+    pass
