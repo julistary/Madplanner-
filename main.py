@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
-import src.streamlit as ss
-import src.maps as map
+import src.manage_data as dat
 from streamlit_folium import folium_static
 
 st.set_page_config(page_title="madplanner", page_icon="⚡️", layout='centered', initial_sidebar_state='auto')
@@ -28,7 +27,9 @@ if filter == "category":
         "Select a category", ["restaurant", "outdoors", "drinks", "party", "snacks", "culture", "leisure activities"]
     )
     tipo = st.selectbox(
-        f"What kind of {category}?", map.subcategory(f"{category}")
+        f"What kind of {category}?", dat.subcategory(f"{category}")
     )
-    folium_static(map.mapita(f"{category}", f"{tipo}"))
-    st.dataframe(map.datafr(f"{tipo}", f"{category}"))
+    folium_static(dat.mapita(f"{category}", f"{tipo}"))
+    st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
+
+elif filter == "location": 

@@ -139,26 +139,26 @@
 137,Golden Celebraciones,4.9,"Paseo de las Yeserías, 63, 28005 Madrid, Spain",2.0,escape room,28005,40.3971772,-3.7044319,"{'type': 'Point', 'coordinates': [40.3971772, -3.7044319]}",1-15€
 138,Escape Room Instinto,5.0,"C/ Gran Vía, 28, 28013 Madrid, Spain",2.0,escape room,28013,40.4201773,-3.7017126,"{'type': 'Point', 'coordinates': [40.4201773, -3.7017126]}",15-25€
 139,Dale al Coco 2 Room Escape,3.0,"Calle de la Magdalena, 11, 28012 Madrid, Spain",2.0,escape room,28012,40.4124139,-3.7020164,"{'type': 'Point', 'coordinates': [40.4124139, -3.7020164]}",1-15€
-140,Pista de Hielo Madrid,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",2.0,pista de hielo,28043,40.4630082,-3.6378945,"{'type': 'Point', 'coordinates': [40.4630082, -3.6378945]}",1-15€
-141,Pista Patinaje,4.1,"Plaza Puerto Rubio, 16, 28053 Madrid, Spain",2.0,pista de hielo,28053,40.3963014,-3.6672014,"{'type': 'Point', 'coordinates': [40.3963014, -3.6672014]}",15-25€
-142,Pista de Hielo Matadero,2.9,"28045 Madrid, Spain",2.0,pista de hielo,28045,40.391165,-3.6976585,"{'type': 'Point', 'coordinates': [40.391165, -3.6976585]}",1-15€
-143,Ice Pavilion Leganes,4.2,"Av. de Alemania, 2, 28916 Leganés, Madrid, Spain",2.0,pista de hielo,28916,40.3327331,-3.744467,"{'type': 'Point', 'coordinates': [40.3327331, -3.744467]}",15-25€
-144,Pista de patinaje Madrid Rio,4.5,"Autopista de Circunvalación M-30, 28045 Madrid, Spain",2.0,pista de hielo,28045,40.3943447,-3.7014028,"{'type': 'Point', 'coordinates': [40.3943447, -3.7014028]}",1-15€
-145,Roller Center Madrid,4.1,"Cl. de la Hacienda de Pavones, 196, Primera Planta, 28030 Madrid, Spain",2.0,pista de hielo,28030,40.4017318,-3.6407718,"{'type': 'Point', 'coordinates': [40.4017318, -3.6407718]}",1-15€
-146,Pista de Patinaje - rollermania,4.4,"Calle Sinesio Delgado, 20, 28035 Madrid, Spain",2.0,pista de hielo,28035,40.4642839,-3.7202755,"{'type': 'Point', 'coordinates': [40.4642839, -3.7202755]}",1-15€
-147,Pista de Patinaje,3.7,"28043 Madrid, Spain",2.0,pista de hielo,28043,40.4649384,-3.6367566,"{'type': 'Point', 'coordinates': [40.4649384, -3.6367566]}",1-15€
-148,Patinaje JCI,4.0,"28042 Madrid, Spain",2.0,pista de hielo,28042,40.4650353,-3.6091841,"{'type': 'Point', 'coordinates': [40.4650353, -3.6091841]}",15-25€
-149,Pista De Patinaje,3.6,"Calle Alar del Rey, 35, 28042 Madrid, Spain",2.0,pista de hielo,28042,40.4734261,-3.584136,"{'type': 'Point', 'coordinates': [40.4734261, -3.584136]}",15-25€
-150,Ice Rink Factory,0.0,"Calle de José Ortega y Gasset, 28006 Madrid, Spain",2.0,pista de hielo,28006,40.4301418,-3.6802139,"{'type': 'Point', 'coordinates': [40.4301418, -3.6802139]}",15-25€
-151,Palacio de Hielo,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",2.0,pista de hielo,28043,40.4631976,-3.6373448,"{'type': 'Point', 'coordinates': [40.4631976, -3.6373448]}",1-15€
-152,Pista de patinaje/zona multiusos del Centro Comercial La Vaguada,0.0,"C.C La Vaguada, Av. de Monforte de Lemos, S/N, 28029 Madrid, Spain",2.0,pista de hielo,28029,40.4800858,-3.7061872,"{'type': 'Point', 'coordinates': [40.4800858, -3.7061872]}",1-15€
-153,Rollermaniacos - Pista de Patinaje Pública,4.5,"28029 Madrid, Spain",2.0,pista de hielo,28029,40.470699,-3.7051826,"{'type': 'Point', 'coordinates': [40.470699, -3.7051826]}",1-15€
-154,Madrid Skating School,5.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",2.0,pista de hielo,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",15-25€
-155,Roller skating rink,3.7,"28032 Madrid, Spain",2.0,pista de hielo,28032,40.3999785,-3.6088801,"{'type': 'Point', 'coordinates': [40.3999785, -3.6088801]}",1-15€
-156,Pista Patinaje Municipal,4.2,"Av. de Niza, 4, 28022 Madrid, Spain",2.0,pista de hielo,28022,40.4289101,-3.606638,"{'type': 'Point', 'coordinates': [40.4289101, -3.606638]}",1-15€
-157,pista de patinaje,4.6,"Calle de Cañada del Santísimo, 3, 28051 Madrid, Spain",2.0,pista de hielo,28051,40.3688851,-3.5948593,"{'type': 'Point', 'coordinates': [40.3688851, -3.5948593]}",1-15€
-158,Pista de patinaje,4.7,"Alcorcón, Madrid, Spain",2.0,pista de hielo,,40.3574308,-3.8134927,"{'type': 'Point', 'coordinates': [40.3574308, -3.8134927]}",15-25€
-159,Pista de patinaje,4.0,"28903 Getafe, Madrid, Spain",2.0,pista de hielo,28903,40.3216863,-3.7150997,"{'type': 'Point', 'coordinates': [40.3216863, -3.7150997]}",15-25€
+140,Pista de Hielo Madrid,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4630082,-3.6378945,"{'type': 'Point', 'coordinates': [40.4630082, -3.6378945]}",1-15€
+141,Pista Patinaje,4.1,"Plaza Puerto Rubio, 16, 28053 Madrid, Spain",,skating,28053,40.3963014,-3.6672014,"{'type': 'Point', 'coordinates': [40.3963014, -3.6672014]}",15-25€
+142,Pista de Hielo Matadero,2.9,"28045 Madrid, Spain",,skating,28045,40.391165,-3.6976585,"{'type': 'Point', 'coordinates': [40.391165, -3.6976585]}",1-15€
+143,Ice Pavilion Leganes,4.2,"Av. de Alemania, 2, 28916 Leganés, Madrid, Spain",,skating,28916,40.3327331,-3.744467,"{'type': 'Point', 'coordinates': [40.3327331, -3.744467]}",15-25€
+144,Pista de patinaje Madrid Rio,4.5,"Autopista de Circunvalación M-30, 28045 Madrid, Spain",,skating,28045,40.3943447,-3.7014028,"{'type': 'Point', 'coordinates': [40.3943447, -3.7014028]}",1-15€
+145,Roller Center Madrid,4.1,"Cl. de la Hacienda de Pavones, 196, Primera Planta, 28030 Madrid, Spain",,skating,28030,40.4017318,-3.6407718,"{'type': 'Point', 'coordinates': [40.4017318, -3.6407718]}",1-15€
+146,Pista de Patinaje - rollermania,4.4,"Calle Sinesio Delgado, 20, 28035 Madrid, Spain",,skating,28035,40.4642839,-3.7202755,"{'type': 'Point', 'coordinates': [40.4642839, -3.7202755]}",1-15€
+147,Pista de Patinaje,3.7,"28043 Madrid, Spain",,skating,28043,40.4649384,-3.6367566,"{'type': 'Point', 'coordinates': [40.4649384, -3.6367566]}",1-15€
+148,Patinaje JCI,4.0,"28042 Madrid, Spain",,skating,28042,40.4650353,-3.6091841,"{'type': 'Point', 'coordinates': [40.4650353, -3.6091841]}",15-25€
+149,Pista De Patinaje,3.6,"Calle Alar del Rey, 35, 28042 Madrid, Spain",,skating,28042,40.4734261,-3.584136,"{'type': 'Point', 'coordinates': [40.4734261, -3.584136]}",15-25€
+150,Ice Rink Factory,0.0,"Calle de José Ortega y Gasset, 28006 Madrid, Spain",,skating,28006,40.4301418,-3.6802139,"{'type': 'Point', 'coordinates': [40.4301418, -3.6802139]}",15-25€
+151,Palacio de Hielo,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4631976,-3.6373448,"{'type': 'Point', 'coordinates': [40.4631976, -3.6373448]}",1-15€
+152,Pista de patinaje/zona multiusos del Centro Comercial La Vaguada,0.0,"C.C La Vaguada, Av. de Monforte de Lemos, S/N, 28029 Madrid, Spain",,skating,28029,40.4800858,-3.7061872,"{'type': 'Point', 'coordinates': [40.4800858, -3.7061872]}",1-15€
+153,Rollermaniacos - Pista de Patinaje Pública,4.5,"28029 Madrid, Spain",,skating,28029,40.470699,-3.7051826,"{'type': 'Point', 'coordinates': [40.470699, -3.7051826]}",1-15€
+154,Madrid Skating School,5.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",,skating,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [40.4110261, -3.6983671]}",15-25€
+155,Roller skating rink,3.7,"28032 Madrid, Spain",,skating,28032,40.3999785,-3.6088801,"{'type': 'Point', 'coordinates': [40.3999785, -3.6088801]}",1-15€
+156,Pista Patinaje Municipal,4.2,"Av. de Niza, 4, 28022 Madrid, Spain",,skating,28022,40.4289101,-3.606638,"{'type': 'Point', 'coordinates': [40.4289101, -3.606638]}",1-15€
+157,pista de patinaje,4.6,"Calle de Cañada del Santísimo, 3, 28051 Madrid, Spain",,skating,28051,40.3688851,-3.5948593,"{'type': 'Point', 'coordinates': [40.3688851, -3.5948593]}",1-15€
+158,Pista de patinaje,4.7,"Alcorcón, Madrid, Spain",,skating,,40.3574308,-3.8134927,"{'type': 'Point', 'coordinates': [40.3574308, -3.8134927]}",15-25€
+159,Pista de patinaje,4.0,"28903 Getafe, Madrid, Spain",,skating,28903,40.3216863,-3.7150997,"{'type': 'Point', 'coordinates': [40.3216863, -3.7150997]}",15-25€
 160,Carlos Sainz Karting Madrid,4.3,"Calle Sepúlveda, 3, 28011 Madrid, Spain",3.0,karts,28011,40.4065776,-3.7270776,"{'type': 'Point', 'coordinates': [40.4065776, -3.7270776]}",15-25€
 161,Karting Club Paracuellos,4.5,"Calle de la Ronda de la Fuente, 2850K, 28860 Paracuellos de Jarama, Madrid, Spain",3.0,karts,28860,40.5250968,-3.5460779,"{'type': 'Point', 'coordinates': [40.5250968, -3.5460779]}",1-15€
 162,Karting Rivas,4.5,"Calle de la Fundición, 89, 28522 Rivas-Vaciamadrid, Madrid, Spain",3.0,karts,28522,40.3471298,-3.5353365,"{'type': 'Point', 'coordinates': [40.3471298, -3.5353365]}",15-25€
@@ -185,66 +185,66 @@
 183,NiceShot,3.7,"Calle Puerto Guadarrama, 36, 28935 Móstoles, Madrid, Spain",3.0,laser tag,28935,40.3508253,-3.8750958,"{'type': 'Point', 'coordinates': [40.3508253, -3.8750958]}",15-25€
 185,LASER TAG,0.0,"28860 Paracuellos de Jarama, Madrid, Spain",3.0,laser tag,28860,40.478221,-3.5029019,"{'type': 'Point', 'coordinates': [40.478221, -3.5029019]}",1-15€
 188,virtual reality diversion,5.0,"Av. de los Labradores, 9, 11, 28760 Tres Cantos, Madrid, Spain",3.0,laser tag,28760,40.5995715,-3.7094017,"{'type': 'Point', 'coordinates': [40.5995715, -3.7094017]}",1-15€
-197,WINDOBONA Indoor Skydiving Madrid,4.6,"Calle Calderilla, 16, 28054 Madrid, Spain",4.0,tunel de viento,28054,40.3640215,-3.739970699999999,"{'type': 'Point', 'coordinates': [40.3640215, -3.739970699999999]}",15-25€
-198,MADRID FLY - Túnel de viento,4.6,"Av. Ntra. Señora del Retamar, 16, 28232 Las Rozas de Madrid, Madrid, Spain",4.0,tunel de viento,28232,40.5055949,-3.888615699999999,"{'type': 'Point', 'coordinates': [40.5055949, -3.888615699999999]}",1-15€
-203,Pintor Rosales - Teleférico,4.7,"28008 Madrid, Spain",1.0,teleferico,28008,40.42941,-3.72228,"{'type': 'Point', 'coordinates': [40.42941, -3.72228]}",1-15€
-205,BoulderMadrid,4.8,"Calle del Hachero, 12, 28053 Madrid, Spain",1.0,escalada,28053,40.391332,-3.669622999999999,"{'type': 'Point', 'coordinates': [40.391332, -3.669622999999999]}",15-25€
-206,Rocódromo Urban Monkey - Madrid,4.5,"C/ Tarragona, 8, 28045 Madrid, Spain",1.0,escalada,28045,40.4016192,-3.697531499999999,"{'type': 'Point', 'coordinates': [40.4016192, -3.697531499999999]}",15-25€
-207,Sputnik Climbing Center,4.6,"Calle la Granja, 100, 28108 Alcobendas, Madrid, Spain",1.0,escalada,28108,40.5359884,-3.656612,"{'type': 'Point', 'coordinates': [40.5359884, -3.656612]}",15-25€
-208,Sharma Climbing Madrid,4.4,"C. de Julián Camarillo, 55, 28037 Madrid, Spain",1.0,escalada,28037,40.43776,-3.62015,"{'type': 'Point', 'coordinates': [40.43776, -3.62015]}",15-25€
-209,Rockomadrid,4.7,"Calle Monasterio de Leyre, 9, 28029 Madrid, Spain",1.0,escalada,28029,40.4653457,-3.6959251,"{'type': 'Point', 'coordinates': [40.4653457, -3.6959251]}",1-15€
-210,The Climb - Centro Escalada Madrid,4.5,"Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",1.0,escalada,28918,40.3468025,-3.8010128,"{'type': 'Point', 'coordinates': [40.3468025, -3.8010128]}",1-15€
-211,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"Calle de Azcona, 44, 28028 Madrid, Spain",1.0,escalada,28028,40.434493,-3.668765,"{'type': 'Point', 'coordinates': [40.434493, -3.668765]}",1-15€
-212,Rocódromo Espacio Acción,4.6,"Calle de Marcelino Álvarez, 6, 28017 Madrid, Spain",1.0,escalada,28017,40.4318495,-3.6541671,"{'type': 'Point', 'coordinates': [40.4318495, -3.6541671]}",1-15€
-213,Madrid Vertical,4.5,"Calle Sofía, 34, 28022 Madrid, Spain",1.0,escalada,28022,40.4254975,-3.6005343,"{'type': 'Point', 'coordinates': [40.4254975, -3.6005343]}",1-15€
-214,ESCALADA en MADRID,0.0,"Cl de las Huertas, 13, 28160 Madrid, Spain",1.0,escalada,28160,40.4140442,-3.7005575,"{'type': 'Point', 'coordinates': [40.4140442, -3.7005575]}",1-15€
-215,Roc 30 Climbing wall,4.4,"P.º de San Illán, 106, 28019 Madrid, Spain",1.0,escalada,28019,40.399208,-3.7188064,"{'type': 'Point', 'coordinates': [40.399208, -3.7188064]}",1-15€
-216,"Fisura, tienda de escalada",4.8,"Calle de Feijóo, 4, 28010 Madrid, Spain",1.0,escalada,28010,40.4346793,-3.7039355,"{'type': 'Point', 'coordinates': [40.4346793, -3.7039355]}",15-25€
-217,Rock Climbing,2.5,"Calle de Medellín, Nº10, 4º 2, 28010 Madrid, Spain",1.0,escalada,28010,40.4359813,-3.6998333,"{'type': 'Point', 'coordinates': [40.4359813, -3.6998333]}",1-15€
-218,Rocódromo de Manoteras,4.4,"Calle de Somontín, 9, 28033 Madrid, Spain",1.0,escalada,28033,40.4761204,-3.6627938,"{'type': 'Point', 'coordinates': [40.4761204, -3.6627938]}",1-15€
-219,Rocódromo,4.5,"C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",1.0,escalada,28007,40.4189666,-3.6648105,"{'type': 'Point', 'coordinates': [40.4189666, -3.6648105]}",15-25€
-220,Rocodromo Escalada Planetario,4.5,"Calle de la Antracita, 37, 28045 Madrid, Spain",1.0,escalada,28045,40.3930988,-3.6862681,"{'type': 'Point', 'coordinates': [40.3930988, -3.6862681]}",15-25€
-221,The Climb Kids,4.5,"Polígono Industrial San José de Valderas, Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",1.0,escalada,28918,40.3468176,-3.801027599999999,"{'type': 'Point', 'coordinates': [40.3468176, -3.801027599999999]}",1-15€
-222,Rocódromo de Hortaleza,4.0,"Calle de la Costa del Sol, 12, 28033 Madrid, Spain",1.0,escalada,28033,40.4737131,-3.6516281,"{'type': 'Point', 'coordinates': [40.4737131, -3.6516281]}",1-15€
-223,Salamandra Boulder Café Rocodromo,4.4,"Calle Escosura, 5, 28015 Madrid, Spain",1.0,escalada,28015,40.4343683,-3.7069969,"{'type': 'Point', 'coordinates': [40.4343683, -3.7069969]}",1-15€
-224,Complutense Climbing Wall,2.9,"Av. Juan de Herrera, s/n, 28040 Madrid, Spain",1.0,escalada,28040,40.4391927,-3.7274939,"{'type': 'Point', 'coordinates': [40.4391927, -3.7274939]}",1-15€
-225,Amadablam Viajes Aventura,4.7,"Calle de Ponzano, 72, 28003 Madrid, Spain",1.0,escalada,28003,40.443764,-3.698792,"{'type': 'Point', 'coordinates': [40.443764, -3.698792]}",1-15€
-226,Rocódromo pasarela Parque Tierno Galván,4.3,"Unnamed Road,28045, 28045, Madrid, Spain",1.0,escalada,28045,40.3937368,-3.6869512,"{'type': 'Point', 'coordinates': [40.3937368, -3.6869512]}",1-15€
-227,Rocódromo Parque María Emperatriz de Austria,4.1,"Calle Carranque, 16, 28025 Madrid, Spain",1.0,escalada,28025,40.3755332,-3.7279892,"{'type': 'Point', 'coordinates': [40.3755332, -3.7279892]}",15-25€
-228,Rocódromo de la Cuesta de la Vega,4.6,"Cuesta de La Vega, 28005 Madrid, Spain",1.0,escalada,28005,40.4142037,-3.7167461,"{'type': 'Point', 'coordinates': [40.4142037, -3.7167461]}",1-15€
-229,Rocódromo de La Masó,3.0,"C/ de La Masó, 80, 28034 Madrid, Spain",1.0,escalada,28034,40.48404439999999,-3.7145369,"{'type': 'Point', 'coordinates': [40.48404439999999, -3.7145369]}",1-15€
-230,Rimaya Actividades de Montaña,4.7,"Calle Malmoe 73, 28032 Madrid, Spain",1.0,escalada,28032,40.4142592,-3.6246391,"{'type': 'Point', 'coordinates': [40.4142592, -3.6246391]}",15-25€
-231,Madrid Mountaineering Federation,3.8,"Av. de Salas de los Infantes, 1, 5º, 28034 Madrid, Spain",1.0,escalada,28034,40.48604510000001,-3.6839605,"{'type': 'Point', 'coordinates': [40.48604510000001, -3.6839605]}",15-25€
-232,Outdoor Sin Límite,4.5,"Calle de la Ribera de Curtidores, 1, 28005 Madrid, Spain",1.0,escalada,28005,40.4097345,-3.7070943,"{'type': 'Point', 'coordinates': [40.4097345, -3.7070943]}",1-15€
-233,Madridadventours,5.0,"Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",1.0,escalada,28045,40.4023894,-3.6966769,"{'type': 'Point', 'coordinates': [40.4023894, -3.6966769]}",15-25€
-234,mxcoach,4.8,"Calle San Toribio, 8, 28031 Madrid, Spain",1.0,escalada,28031,40.38046430000001,-3.635328,"{'type': 'Point', 'coordinates': [40.38046430000001, -3.635328]}",1-15€
-235,Grupo de Montaña CSIC,4.9,"Calle de Serrano, 115 bis, 28006 Madrid, Spain",1.0,escalada,28006,40.4406438,-3.6874582,"{'type': 'Point', 'coordinates': [40.4406438, -3.6874582]}",1-15€
-236,Eskalamandra,5.0,"C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",1.0,escalada,28009,40.4170457,-3.6755132,"{'type': 'Point', 'coordinates': [40.4170457, -3.6755132]}",15-25€
-237,Rocódromo Pacífico,4.2,"Calle del Dr. Esquerdo, 28007 Madrid, Spain",1.0,escalada,28007,40.4003961,-3.6756224,"{'type': 'Point', 'coordinates': [40.4003961, -3.6756224]}",1-15€
-238,Palacio street Boulder,3.5,"28005 Madrid, Spain",1.0,escalada,28005,40.4143251,-3.7161269,"{'type': 'Point', 'coordinates': [40.4143251, -3.7161269]}",1-15€
-239,Yurok Adventures // Yurok Climbing Center,4.8,"Calle Aeronáutica, 31, 28923 Alcorcón, Madrid, Spain",1.0,escalada,28923,40.3337625,-3.8179502,"{'type': 'Point', 'coordinates': [40.3337625, -3.8179502]}",15-25€
-240,Rocódromo Escalada Soul Climb Leganés,4.6,"Calle Severo Ochoa, 19, 28914 Leganés, Madrid, Spain",1.0,escalada,28914,40.320028,-3.748153,"{'type': 'Point', 'coordinates': [40.320028, -3.748153]}",15-25€
-241,Climbat X Madrid,4.4,"Calle Oslo, 54, Local 27, 28922 Alcorcón, Madrid, Spain",1.0,escalada,28922,40.3393516,-3.8485639,"{'type': 'Point', 'coordinates': [40.3393516, -3.8485639]}",1-15€
-242,Escalada pared regletas,0.0,"Calle de Santiago de Compostela, 28034 Madrid, Spain",1.0,escalada,28034,40.4853631,-3.6987133,"{'type': 'Point', 'coordinates': [40.4853631, -3.6987133]}",15-25€
-243,Escalada,0.0,"Calle Concejal Francisco José Jiménez Martín, 178, 28011 Madrid, Spain",1.0,escalada,28011,40.4016251,-3.7562006,"{'type': 'Point', 'coordinates': [40.4016251, -3.7562006]}",15-25€
-244,Rocodromo De Arturo Barea,2.5,"Plaza de Arturo Barea, 28012 Madrid, Spain",1.0,escalada,28012,40.4084733,-3.7034249,"{'type': 'Point', 'coordinates': [40.4084733, -3.7034249]}",1-15€
-245,"Rocodromo ""Sainz de Baranda""",4.4,"Calle Juan Esplandiú, 11B, 28007 Madrid, Spain",1.0,escalada,28007,40.4189431,-3.6648668,"{'type': 'Point', 'coordinates': [40.4189431, -3.6648668]}",15-25€
-246,Dreampeaks,4.6,"Avenida de América, 29, 28002 Madrid, Spain",1.0,escalada,28002,40.4392797,-3.6737909,"{'type': 'Point', 'coordinates': [40.4392797, -3.6737909]}",15-25€
-247,DEPORTES LASER,4.8,"Calle de las Delicias, Nº 25, 28045 Madrid, Spain",1.0,escalada,28045,40.4041503,-3.6923986,"{'type': 'Point', 'coordinates': [40.4041503, -3.6923986]}",15-25€
-248,Nanuk Experience,5.0,"Calle de Buenos Aires, 41, 28760 Tres Cantos, Madrid, Spain",1.0,escalada,28760,40.5980239,-3.7058044,"{'type': 'Point', 'coordinates': [40.5980239, -3.7058044]}",15-25€
-249,Escalada Matias,0.0,"Calle Talento, 17, 28906 Getafe, Madrid, Spain",1.0,escalada,28906,40.3213309,-3.6807008,"{'type': 'Point', 'coordinates': [40.3213309, -3.6807008]}",15-25€
-250,Rocodromo del polideportivo,3.5,"Calle de Manuel de Falla, 59, 28100 Alcobendas, Madrid, Spain",1.0,escalada,28100,40.5516774,-3.64712,"{'type': 'Point', 'coordinates': [40.5516774, -3.64712]}",15-25€
-251,Deportes Koala,4.5,"Calle de Lope de Vega, 18, 28014 Madrid, Spain",1.0,escalada,28014,40.4137024,-3.6977234,"{'type': 'Point', 'coordinates': [40.4137024, -3.6977234]}",15-25€
-252,Escuela Madrileña de Alta Montaña,4.0,"Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",1.0,escalada,28034,40.485768,-3.683992999999999,"{'type': 'Point', 'coordinates': [40.485768, -3.683992999999999]}",1-15€
-253,Rocodromo Peñuelas,0.0,"Calle de Arganda, 7, 6, 28005 Madrid, Spain",1.0,escalada,28005,40.4010852,-3.70672,"{'type': 'Point', 'coordinates': [40.4010852, -3.70672]}",1-15€
-254,Rocodromo-Boulder puente Almendrales,4.0,"Cmo. de Perales, 28041 Madrid, Spain",1.0,escalada,28041,40.38229949999999,-3.6939634,"{'type': 'Point', 'coordinates': [40.38229949999999, -3.6939634]}",15-25€
-255,Monkey Fingers,4.7,"Calle Prado Merinero, 15, 28054 Madrid, Spain",1.0,escalada,28054,40.3641161,-3.7542472,"{'type': 'Point', 'coordinates': [40.3641161, -3.7542472]}",15-25€
-256,Asociación Escalada En Valores,5.0,"Calle de Embajadores, 145, 28045 Madrid, Spain",1.0,escalada,28045,40.396686,-3.6960419,"{'type': 'Point', 'coordinates': [40.396686, -3.6960419]}",15-25€
-257,Tsunami Climb,4.6,"Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",1.0,escalada,28703,40.5591293,-3.6179414,"{'type': 'Point', 'coordinates': [40.5591293, -3.6179414]}",1-15€
-258,Multiaventura Madrid - Empresa de multiaventura,5.0,"Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",1.0,escalada,28031,40.3880888,-3.6254472,"{'type': 'Point', 'coordinates': [40.3880888, -3.6254472]}",1-15€
-259,"Climbing courses, climbing trips and multisport",0.0,"Calle de Tarragona, 8, 28045 Madrid, Spain",1.0,escalada,28045,40.40162,-3.6974274,"{'type': 'Point', 'coordinates': [40.40162, -3.6974274]}",15-25€
-260,Sputnik Climbing Las Rozas,5.0,"Calle París, 2, 28232 Las Rozas de Madrid, Madrid, Spain",1.0,escalada,28232,40.4984304,-3.8907835,"{'type': 'Point', 'coordinates': [40.4984304, -3.8907835]}",15-25€
-261,Escuela de Escalada Nanuk Experience,0.0,"Sector Islas, 25, 28760 Tres Cantos, Madrid, Spain",1.0,escalada,28760,40.5928085,-3.7015128,"{'type': 'Point', 'coordinates': [40.5928085, -3.7015128]}",15-25€
-262,King Kong Climbing,4.6,"Poligono Industrial Europolis, Calle del Cabo Rufino Lázaro, 14, 28232 Las Rozas de Madrid, Madrid, Spain",1.0,escalada,28232,40.4985035,-3.8877674,"{'type': 'Point', 'coordinates': [40.4985035, -3.8877674]}",15-25€
-263,Tabei Adventures,5.0,"Calle de Antonio López, 254, 28041 Madrid, Spain",1.0,escalada,28041,40.3797353,-3.696122,"{'type': 'Point', 'coordinates': [40.3797353, -3.696122]}",1-15€
-264,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",1.0,escalada,28703,40.5550945,-3.6146642,"{'type': 'Point', 'coordinates': [40.5550945, -3.6146642]}",15-25€
+197,WINDOBONA Indoor Skydiving Madrid,4.6,"Calle Calderilla, 16, 28054 Madrid, Spain",,wind tunnel,28054,40.3640215,-3.739970699999999,"{'type': 'Point', 'coordinates': [40.3640215, -3.739970699999999]}",15-25€
+198,MADRID FLY - Túnel de viento,4.6,"Av. Ntra. Señora del Retamar, 16, 28232 Las Rozas de Madrid, Madrid, Spain",,wind tunnel,28232,40.5055949,-3.888615699999999,"{'type': 'Point', 'coordinates': [40.5055949, -3.888615699999999]}",1-15€
+203,Pintor Rosales - Teleférico,4.7,"28008 Madrid, Spain",,cableway,28008,40.42941,-3.72228,"{'type': 'Point', 'coordinates': [40.42941, -3.72228]}",1-15€
+205,BoulderMadrid,4.8,"Calle del Hachero, 12, 28053 Madrid, Spain",,climbing,28053,40.391332,-3.669622999999999,"{'type': 'Point', 'coordinates': [40.391332, -3.669622999999999]}",15-25€
+206,Rocódromo Urban Monkey - Madrid,4.5,"C/ Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.4016192,-3.697531499999999,"{'type': 'Point', 'coordinates': [40.4016192, -3.697531499999999]}",15-25€
+207,Sputnik Climbing Center,4.6,"Calle la Granja, 100, 28108 Alcobendas, Madrid, Spain",,climbing,28108,40.5359884,-3.656612,"{'type': 'Point', 'coordinates': [40.5359884, -3.656612]}",15-25€
+208,Sharma Climbing Madrid,4.4,"C. de Julián Camarillo, 55, 28037 Madrid, Spain",,climbing,28037,40.43776,-3.62015,"{'type': 'Point', 'coordinates': [40.43776, -3.62015]}",15-25€
+209,Rockomadrid,4.7,"Calle Monasterio de Leyre, 9, 28029 Madrid, Spain",,climbing,28029,40.4653457,-3.6959251,"{'type': 'Point', 'coordinates': [40.4653457, -3.6959251]}",1-15€
+210,The Climb - Centro Escalada Madrid,4.5,"Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468025,-3.8010128,"{'type': 'Point', 'coordinates': [40.3468025, -3.8010128]}",1-15€
+211,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"Calle de Azcona, 44, 28028 Madrid, Spain",,climbing,28028,40.434493,-3.668765,"{'type': 'Point', 'coordinates': [40.434493, -3.668765]}",1-15€
+212,Rocódromo Espacio Acción,4.6,"Calle de Marcelino Álvarez, 6, 28017 Madrid, Spain",,climbing,28017,40.4318495,-3.6541671,"{'type': 'Point', 'coordinates': [40.4318495, -3.6541671]}",1-15€
+213,Madrid Vertical,4.5,"Calle Sofía, 34, 28022 Madrid, Spain",,climbing,28022,40.4254975,-3.6005343,"{'type': 'Point', 'coordinates': [40.4254975, -3.6005343]}",1-15€
+214,ESCALADA en MADRID,0.0,"Cl de las Huertas, 13, 28160 Madrid, Spain",,climbing,28160,40.4140442,-3.7005575,"{'type': 'Point', 'coordinates': [40.4140442, -3.7005575]}",1-15€
+215,Roc 30 Climbing wall,4.4,"P.º de San Illán, 106, 28019 Madrid, Spain",,climbing,28019,40.399208,-3.7188064,"{'type': 'Point', 'coordinates': [40.399208, -3.7188064]}",1-15€
+216,"Fisura, tienda de escalada",4.8,"Calle de Feijóo, 4, 28010 Madrid, Spain",,climbing,28010,40.4346793,-3.7039355,"{'type': 'Point', 'coordinates': [40.4346793, -3.7039355]}",15-25€
+217,Rock Climbing,2.5,"Calle de Medellín, Nº10, 4º 2, 28010 Madrid, Spain",,climbing,28010,40.4359813,-3.6998333,"{'type': 'Point', 'coordinates': [40.4359813, -3.6998333]}",1-15€
+218,Rocódromo de Manoteras,4.4,"Calle de Somontín, 9, 28033 Madrid, Spain",,climbing,28033,40.4761204,-3.6627938,"{'type': 'Point', 'coordinates': [40.4761204, -3.6627938]}",1-15€
+219,Rocódromo,4.5,"C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",,climbing,28007,40.4189666,-3.6648105,"{'type': 'Point', 'coordinates': [40.4189666, -3.6648105]}",15-25€
+220,Rocodromo Escalada Planetario,4.5,"Calle de la Antracita, 37, 28045 Madrid, Spain",,climbing,28045,40.3930988,-3.6862681,"{'type': 'Point', 'coordinates': [40.3930988, -3.6862681]}",15-25€
+221,The Climb Kids,4.5,"Polígono Industrial San José de Valderas, Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468176,-3.801027599999999,"{'type': 'Point', 'coordinates': [40.3468176, -3.801027599999999]}",1-15€
+222,Rocódromo de Hortaleza,4.0,"Calle de la Costa del Sol, 12, 28033 Madrid, Spain",,climbing,28033,40.4737131,-3.6516281,"{'type': 'Point', 'coordinates': [40.4737131, -3.6516281]}",1-15€
+223,Salamandra Boulder Café Rocodromo,4.4,"Calle Escosura, 5, 28015 Madrid, Spain",,climbing,28015,40.4343683,-3.7069969,"{'type': 'Point', 'coordinates': [40.4343683, -3.7069969]}",1-15€
+224,Complutense Climbing Wall,2.9,"Av. Juan de Herrera, s/n, 28040 Madrid, Spain",,climbing,28040,40.4391927,-3.7274939,"{'type': 'Point', 'coordinates': [40.4391927, -3.7274939]}",1-15€
+225,Amadablam Viajes Aventura,4.7,"Calle de Ponzano, 72, 28003 Madrid, Spain",,climbing,28003,40.443764,-3.698792,"{'type': 'Point', 'coordinates': [40.443764, -3.698792]}",1-15€
+226,Rocódromo pasarela Parque Tierno Galván,4.3,"Unnamed Road,28045, 28045, Madrid, Spain",,climbing,28045,40.3937368,-3.6869512,"{'type': 'Point', 'coordinates': [40.3937368, -3.6869512]}",1-15€
+227,Rocódromo Parque María Emperatriz de Austria,4.1,"Calle Carranque, 16, 28025 Madrid, Spain",,climbing,28025,40.3755332,-3.7279892,"{'type': 'Point', 'coordinates': [40.3755332, -3.7279892]}",15-25€
+228,Rocódromo de la Cuesta de la Vega,4.6,"Cuesta de La Vega, 28005 Madrid, Spain",,climbing,28005,40.4142037,-3.7167461,"{'type': 'Point', 'coordinates': [40.4142037, -3.7167461]}",1-15€
+229,Rocódromo de La Masó,3.0,"C/ de La Masó, 80, 28034 Madrid, Spain",,climbing,28034,40.48404439999999,-3.7145369,"{'type': 'Point', 'coordinates': [40.48404439999999, -3.7145369]}",1-15€
+230,Rimaya Actividades de Montaña,4.7,"Calle Malmoe 73, 28032 Madrid, Spain",,climbing,28032,40.4142592,-3.6246391,"{'type': 'Point', 'coordinates': [40.4142592, -3.6246391]}",15-25€
+231,Madrid Mountaineering Federation,3.8,"Av. de Salas de los Infantes, 1, 5º, 28034 Madrid, Spain",,climbing,28034,40.48604510000001,-3.6839605,"{'type': 'Point', 'coordinates': [40.48604510000001, -3.6839605]}",15-25€
+232,Outdoor Sin Límite,4.5,"Calle de la Ribera de Curtidores, 1, 28005 Madrid, Spain",,climbing,28005,40.4097345,-3.7070943,"{'type': 'Point', 'coordinates': [40.4097345, -3.7070943]}",1-15€
+233,Madridadventours,5.0,"Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",,climbing,28045,40.4023894,-3.6966769,"{'type': 'Point', 'coordinates': [40.4023894, -3.6966769]}",15-25€
+234,mxcoach,4.8,"Calle San Toribio, 8, 28031 Madrid, Spain",,climbing,28031,40.38046430000001,-3.635328,"{'type': 'Point', 'coordinates': [40.38046430000001, -3.635328]}",1-15€
+235,Grupo de Montaña CSIC,4.9,"Calle de Serrano, 115 bis, 28006 Madrid, Spain",,climbing,28006,40.4406438,-3.6874582,"{'type': 'Point', 'coordinates': [40.4406438, -3.6874582]}",1-15€
+236,Eskalamandra,5.0,"C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",,climbing,28009,40.4170457,-3.6755132,"{'type': 'Point', 'coordinates': [40.4170457, -3.6755132]}",15-25€
+237,Rocódromo Pacífico,4.2,"Calle del Dr. Esquerdo, 28007 Madrid, Spain",,climbing,28007,40.4003961,-3.6756224,"{'type': 'Point', 'coordinates': [40.4003961, -3.6756224]}",1-15€
+238,Palacio street Boulder,3.5,"28005 Madrid, Spain",,climbing,28005,40.4143251,-3.7161269,"{'type': 'Point', 'coordinates': [40.4143251, -3.7161269]}",1-15€
+239,Yurok Adventures // Yurok Climbing Center,4.8,"Calle Aeronáutica, 31, 28923 Alcorcón, Madrid, Spain",,climbing,28923,40.3337625,-3.8179502,"{'type': 'Point', 'coordinates': [40.3337625, -3.8179502]}",15-25€
+240,Rocódromo Escalada Soul Climb Leganés,4.6,"Calle Severo Ochoa, 19, 28914 Leganés, Madrid, Spain",,climbing,28914,40.320028,-3.748153,"{'type': 'Point', 'coordinates': [40.320028, -3.748153]}",15-25€
+241,Climbat X Madrid,4.4,"Calle Oslo, 54, Local 27, 28922 Alcorcón, Madrid, Spain",,climbing,28922,40.3393516,-3.8485639,"{'type': 'Point', 'coordinates': [40.3393516, -3.8485639]}",1-15€
+242,Escalada pared regletas,0.0,"Calle de Santiago de Compostela, 28034 Madrid, Spain",,climbing,28034,40.4853631,-3.6987133,"{'type': 'Point', 'coordinates': [40.4853631, -3.6987133]}",15-25€
+243,Escalada,0.0,"Calle Concejal Francisco José Jiménez Martín, 178, 28011 Madrid, Spain",,climbing,28011,40.4016251,-3.7562006,"{'type': 'Point', 'coordinates': [40.4016251, -3.7562006]}",15-25€
+244,Rocodromo De Arturo Barea,2.5,"Plaza de Arturo Barea, 28012 Madrid, Spain",,climbing,28012,40.4084733,-3.7034249,"{'type': 'Point', 'coordinates': [40.4084733, -3.7034249]}",1-15€
+245,"Rocodromo ""Sainz de Baranda""",4.4,"Calle Juan Esplandiú, 11B, 28007 Madrid, Spain",,climbing,28007,40.4189431,-3.6648668,"{'type': 'Point', 'coordinates': [40.4189431, -3.6648668]}",15-25€
+246,Dreampeaks,4.6,"Avenida de América, 29, 28002 Madrid, Spain",,climbing,28002,40.4392797,-3.6737909,"{'type': 'Point', 'coordinates': [40.4392797, -3.6737909]}",15-25€
+247,DEPORTES LASER,4.8,"Calle de las Delicias, Nº 25, 28045 Madrid, Spain",,climbing,28045,40.4041503,-3.6923986,"{'type': 'Point', 'coordinates': [40.4041503, -3.6923986]}",15-25€
+248,Nanuk Experience,5.0,"Calle de Buenos Aires, 41, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5980239,-3.7058044,"{'type': 'Point', 'coordinates': [40.5980239, -3.7058044]}",15-25€
+249,Escalada Matias,0.0,"Calle Talento, 17, 28906 Getafe, Madrid, Spain",,climbing,28906,40.3213309,-3.6807008,"{'type': 'Point', 'coordinates': [40.3213309, -3.6807008]}",15-25€
+250,Rocodromo del polideportivo,3.5,"Calle de Manuel de Falla, 59, 28100 Alcobendas, Madrid, Spain",,climbing,28100,40.5516774,-3.64712,"{'type': 'Point', 'coordinates': [40.5516774, -3.64712]}",15-25€
+251,Deportes Koala,4.5,"Calle de Lope de Vega, 18, 28014 Madrid, Spain",,climbing,28014,40.4137024,-3.6977234,"{'type': 'Point', 'coordinates': [40.4137024, -3.6977234]}",15-25€
+252,Escuela Madrileña de Alta Montaña,4.0,"Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",,climbing,28034,40.485768,-3.683992999999999,"{'type': 'Point', 'coordinates': [40.485768, -3.683992999999999]}",1-15€
+253,Rocodromo Peñuelas,0.0,"Calle de Arganda, 7, 6, 28005 Madrid, Spain",,climbing,28005,40.4010852,-3.70672,"{'type': 'Point', 'coordinates': [40.4010852, -3.70672]}",1-15€
+254,Rocodromo-Boulder puente Almendrales,4.0,"Cmo. de Perales, 28041 Madrid, Spain",,climbing,28041,40.38229949999999,-3.6939634,"{'type': 'Point', 'coordinates': [40.38229949999999, -3.6939634]}",15-25€
+255,Monkey Fingers,4.7,"Calle Prado Merinero, 15, 28054 Madrid, Spain",,climbing,28054,40.3641161,-3.7542472,"{'type': 'Point', 'coordinates': [40.3641161, -3.7542472]}",15-25€
+256,Asociación Escalada En Valores,5.0,"Calle de Embajadores, 145, 28045 Madrid, Spain",,climbing,28045,40.396686,-3.6960419,"{'type': 'Point', 'coordinates': [40.396686, -3.6960419]}",15-25€
+257,Tsunami Climb,4.6,"Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5591293,-3.6179414,"{'type': 'Point', 'coordinates': [40.5591293, -3.6179414]}",1-15€
+258,Multiaventura Madrid - Empresa de multiaventura,5.0,"Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,climbing,28031,40.3880888,-3.6254472,"{'type': 'Point', 'coordinates': [40.3880888, -3.6254472]}",1-15€
+259,"Climbing courses, climbing trips and multisport",0.0,"Calle de Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.40162,-3.6974274,"{'type': 'Point', 'coordinates': [40.40162, -3.6974274]}",15-25€
+260,Sputnik Climbing Las Rozas,5.0,"Calle París, 2, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4984304,-3.8907835,"{'type': 'Point', 'coordinates': [40.4984304, -3.8907835]}",15-25€
+261,Escuela de Escalada Nanuk Experience,0.0,"Sector Islas, 25, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5928085,-3.7015128,"{'type': 'Point', 'coordinates': [40.5928085, -3.7015128]}",15-25€
+262,King Kong Climbing,4.6,"Poligono Industrial Europolis, Calle del Cabo Rufino Lázaro, 14, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4985035,-3.8877674,"{'type': 'Point', 'coordinates': [40.4985035, -3.8877674]}",15-25€
+263,Tabei Adventures,5.0,"Calle de Antonio López, 254, 28041 Madrid, Spain",,climbing,28041,40.3797353,-3.696122,"{'type': 'Point', 'coordinates': [40.3797353, -3.696122]}",1-15€
+264,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5550945,-3.6146642,"{'type': 'Point', 'coordinates': [40.5550945, -3.6146642]}",15-25€
