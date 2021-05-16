@@ -1,9 +1,13 @@
 import pandas as pd
 from folium import Circle, Marker, Icon, Map
 from pymongo import MongoClient, GEOSPHERE
+import random
+import numpy as np
 conn = MongoClient("localhost:27017")
 db = conn.get_database("madrid")
-import random
+import requests
+from bs4 import BeautifulSoup
+
 
 leisure = db.get_collection("leisure")
 outdoors = db.get_collection("outdoors")
@@ -219,8 +223,8 @@ def get_map(df):
         
     return map_1
    
-def planes_price_2(max_):
-    
+def planes_2(tipo,maxmin):
+
     options = {"snacks + restaurant" : [df_snacks, df_restaurants, snacks, restaurants],
      "snacks + leisure activity" : [df_snacks, df_leisure, snacks, leisure],
      "snacks + outdoors activity" : [df_snacks, df_outdoors, snacks, outdoors],
@@ -272,20 +276,50 @@ def planes_price_2(max_):
     df =df.drop(["geometry"], axis = 1)
     df = df.drop_duplicates()
     
-    prices = []
-    for p in list(df.price_level):
-        if p == 0.0:
-            prices.append(0)
-        elif p == 1.0:
-            prices.append(15)
-        elif p == 2.0:
-            prices.append(25)
-        elif p == 3.0:
-            prices.append(50)
-        else: 
-            prices.append(150)
+    if tipo == "price":
+        prices = []
+        for p in list(df.price_level):
+            if p == 0.0:
+                prices.append(0)
+            elif p == 1.0:
+                prices.append(15)
+            elif p == 2.0:
+                prices.append(25)
+            elif p == 3.0:
+                prices.append(50)
+            else: 
+                prices.append(150)
 
-    if sum(prices) > max_:
-        return planes_price_2(max_)
-    else: 
-        return df
+        if sum(prices) <= maxmin:
+            return df
+        else: 
+            return planes_2("price",maxmin)
+    
+    elif tipo == "rating":
+        rate = []
+        for r in list(df.rating):
+            rate.append(r)
+
+        if np.mean(rate) <= maxmin:
+            return planes_2("rating",maxmin)
+        else: 
+            return df
+
+def films():
+    url = "https://www.cinesa.es/peliculas/cartelera"
+    html = requests.get(url)
+    soup = BeautifulSoup(html.content, "html.parser")
+
+    films = soup.find_all("a", {"class": "vf"})
+
+    list_of_films = [a.getText().strip() for a in films]
+    list_of_films_cleaned = []
+    for index,f in enumerate(list_of_films):
+        if index%2 == 0:
+            list_of_films_cleaned.append(f)
+    list_of_films_cleaned
+
+    dict_films = {"films available" : list_of_films_cleaned}
+
+    return pd.DataFrame.from_dict(dict_films, orient = "columns")
+    
