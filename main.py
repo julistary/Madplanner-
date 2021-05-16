@@ -32,5 +32,12 @@ if filter == "category":
     folium_static(dat.mapita(f"{category}", f"{tipo}"))
     st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
 
-elif filter == "location": 
-    pass
+elif filter == "type":
+    tipo = st.selectbox(
+        "Select a type of plan", ["friends", "couple", "individual", "team building", "family"]
+    )
+
+    plan = dat.type_of_plan(f"{tipo}")
+    st.dataframe(dat.get_df(plan))
+    folium_static(dat.get_map(plan))
+
