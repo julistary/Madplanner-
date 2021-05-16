@@ -21,8 +21,8 @@ The tools to be used are functions, string operations, pandas, mongo queries and
 - [Json](https://docs.python.org/3/library/json.html)
 - [Streamlit](https://docs.streamlit.io/en/stable/)
 - [PIL](https://pillow.readthedocs.io/en/stable/)
-- [time](https://docs.python.org/3/library/time.html)
-- [random](https://docs.python.org/3/library/random.html)
+- [Time](https://docs.python.org/3/library/time.html)
+- [Random](https://docs.python.org/3/library/random.html)
 
 
 ## My project 👩🏼‍💻
