@@ -32,6 +32,7 @@ In progress
 
 - Src folder with the functions defined and documented
 - Jupyter Notebooks with the main programs
+- Main program of streamlit (main.py)
 - Data folder with the dataframes created
 - Json folder with the jsons created (and imported to MongoDB)
 - Coordinates folder with CSV with data of Madrid's locations
