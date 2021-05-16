@@ -27,6 +27,15 @@ df_outdoors = pd.read_csv("data/outdoors.csv", index_col=0)
 df_leisure = pd.read_csv("data/leisure.csv", index_col=0)
 
 def mapita(category, tipo):
+    """
+    It gives a map with the places according to what you want to look for.
+    Args:
+        category(str): the category for which you want to search for places
+        tipo(str):the subcategory for which you want to search for places
+    Returns:
+        The map with markers
+    """
+        
     map_1 = Map(location=[40.428990,-3.681209],zoom_start=15)
 
     if category == "restaurant": 
@@ -83,6 +92,14 @@ def mapita(category, tipo):
     return map_1
 
 def subcategory(category):
+    """
+    It gives all the subcategories available in a category
+    Args:
+        category(str): the category for which you want to search for places
+    Returns:
+        A list with all the subcategories
+    """
+        
     if category == "restaurant":
         df = df_restaurants
     elif category == "outdoors":
@@ -101,6 +118,15 @@ def subcategory(category):
     return list(df.place.unique())
 
 def datafr(tipo,category):
+    """
+    Creates a dataframe with the places of the subcategory 
+    Args:
+        category(str): the category for which you want to search for places
+        tipo(str):the subcategory for which you want to search for places
+    Returns:
+        The df with al the places
+    """
+        
     if category == "restaurant":
         df = df_restaurants
     elif category == "outdoors":
@@ -124,6 +150,17 @@ def datafr(tipo,category):
     return df
 
 def planes(df_1, df_2, coll_1, coll_2):
+
+    """
+    Creates a dataframe with two locations that together meet certain conditions
+    Args:
+        df_1(df): a dataframe with all the places of a category
+        df_2(df): a dataframe with all the places of a category
+        coll_1(mongo collection): a collection with all the places of a category
+        coll_2(mongo collection): a collection with all the places of a category
+    Returns:
+        The df with the plan
+    """
     
     intersection = set(list(df_1.CP.unique())).intersection(set(list(df_2.CP.unique())))
 
@@ -149,6 +186,14 @@ def planes(df_1, df_2, coll_1, coll_2):
     return df
 
 def type_of_plan(plan):
+    """
+    Calls the previous function "planes", with some values that depends on the desired type of plan selected.
+    Args:
+        plan(str): the type of plan that has been selected
+    Returns:
+        The call to "planes"
+    """
+    
     
     options_team_building = { "option_1" : [df_outdoors, df_restaurants, outdoors, restaurants],
                              "option_2" : [df_leisure, df_restaurants, leisure, restaurants]
@@ -202,10 +247,26 @@ def type_of_plan(plan):
     return planes(arg_1, arg_2, arg_3, arg_4)
 
 def get_df(df):
+    """
+    Cleans a dataframe
+    Args:
+        df(df): the dataframe that has to be cleaned
+    Returns:
+        The df cleaned
+    """
+    
     df = df.set_index("name")
     return df.drop(["price_level", "CP", "latitude", "longitude"], axis=1)
 
 def get_map(df):
+    """
+    Creates a map with the values of a dataframe
+    Args:
+        df(df): the dataframe with the places that have to be displayed
+    Returns:
+        The map
+    """
+    
     map_1 = Map(location=[list(df.latitude.unique())[0],list(df.longitude.unique())[0]],zoom_start=15)
     for i, row in df.iterrows():
         geom = {
@@ -224,6 +285,15 @@ def get_map(df):
     return map_1
    
 def planes_2(tipo,maxmin):
+
+    """
+    Creates a dataframe with two locations that together meet certain conditions
+    Args:
+        tipo(str): the name of the condition.
+        maxmin(float): the condition limit value
+    Returns:
+        The df with the plan
+    """
 
     options = {"snacks + restaurant" : [df_snacks, df_restaurants, snacks, restaurants],
      "snacks + leisure activity" : [df_snacks, df_leisure, snacks, leisure],
@@ -306,6 +376,12 @@ def planes_2(tipo,maxmin):
             return df
 
 def films():
+    """
+    Creates a dataframe with all the movies that are displayed right now at the cinema by scrapping "Cinesa"
+    Returns:
+        A df with all the films available.
+    """
+    
     url = "https://www.cinesa.es/peliculas/cartelera"
     html = requests.get(url)
     soup = BeautifulSoup(html.content, "html.parser")

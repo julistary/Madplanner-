@@ -9,7 +9,7 @@ imagen = Image.open("images/madrid.png")
 st.image(imagen)
 
 st.header("""
-What do you want to do today?  
+What do you want to do today? ⚡️⚡️ 
 """)
 
 st.write("""
@@ -59,15 +59,13 @@ elif filter == "price":
 
 elif filter == "rating":
     maxmin = st.select_slider(
-        'Select min rating 💎', options=[0,0.5,1,1.5,2,2.5,3,3.5,4,4.5,5]
+        'Select min rating 💎', options=[0,0.5,1,1.5,2,2.5,3,3.5,4,4.1,4.2,4.3,4.4,4.5,4.6,4.7,4.8,4.9]
     )
     time.sleep(2)
-
-    time.sleep(4)
+    plan = dat.planes_2("rating",maxmin)
     with st.spinner(text='In progress..'):
        time.sleep(2)
        st.success('Done 🚀')
-    plan = dat.planes_2("rating",maxmin)
     st.dataframe(dat.get_df(plan))
     folium_static(dat.get_map(plan))   
     if "cinema" in list(plan.place.unique()):
