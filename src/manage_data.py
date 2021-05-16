@@ -325,26 +325,7 @@ def planes_2(tipo,maxmin):
     coll_1 = args[2]  
     coll_2 = args[3] 
     
-    intersection = set(list(df_1.CP.unique())).intersection(set(list(df_2.CP.unique())))
-
-    cp = list(intersection)
-
-    cp_random = random.choice(cp)
-
-    plan1 = list(coll_1.find({"CP":str(int(cp_random))}))
-
-    plan2 = list(coll_2.find({"CP":str(int(cp_random))}))
-    
-    p1_random = random.choice(plan1)
-    p2_random = random.choice(plan2)
-
-    df1 = pd.DataFrame.from_dict(p1_random)
-    df2 = pd.DataFrame.from_dict(p2_random)
-    df = pd.concat([df1,df2])
-    
-    df = df.set_index("_id")
-    df =df.drop(["geometry"], axis = 1)
-    df = df.drop_duplicates()
+    df = planes(df_1, df_2, coll_1, coll_2)
     
     if tipo == "price":
         prices = []
