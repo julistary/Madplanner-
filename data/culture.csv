@@ -239,124 +239,64 @@
 237,Paolo by Danny's Jazz,4.4,"Plaza de Puerta Cerrada, 6, 28005 Madrid, Spain",2.0,jazz,28005,40.4136438,-3.7086208,"{'type': 'Point', 'coordinates': [-3.7086208, 40.4136438]}",1-15€
 238,Big South,4.9,"Calle del Laurel, 14, 28005 Madrid, Spain",2.0,jazz,28005,40.4028187,-3.7048682,"{'type': 'Point', 'coordinates': [-3.7048682, 40.4028187]}",1-15€
 239,Taller de Músicos y Artes Plásticas,5.0,"Calle Luis Vives, 3, 28002 Madrid, Spain",2.0,jazz,28002,40.4437912,-3.676686,"{'type': 'Point', 'coordinates': [-3.676686, 40.4437912]}",15-25€
-240,Cheers Karaoke,4.1,"Calle de las Huertas, 50, 28014 Madrid, Spain",1.0,karaoke,28014,40.4132101,-3.6969596,"{'type': 'Point', 'coordinates': [-3.6969596, 40.4132101]}",15-25€
-241,Karaoke Marfil,3.3,"Calle de Modesto Lafuente, 63, 28003 Madrid, Spain",2.0,karaoke,28003,40.44472469999999,-3.6958647,"{'type': 'Point', 'coordinates': [-3.6958647, 40.44472469999999]}",1-15€
-242,Karaoke En-tono,4.7,"Calle del Pintor Juan Gris, 4, 28020 Madrid, Spain",1.0,karaoke,28020,40.457926,-3.691445099999999,"{'type': 'Point', 'coordinates': [-3.691445099999999, 40.457926]}",15-25€
-243,Karaoke Decibelios,4.1,"Calle del Gral. Pardiñas, 112, 28006 Madrid, Spain",1.0,karaoke,28006,40.4362017,-3.6775583,"{'type': 'Point', 'coordinates': [-3.6775583, 40.4362017]}",15-25€
-244,BAM Karaoke Box Recoletos,4.4,"Calle de Recoletos, 23 planta baja, 28001 Madrid, Spain",1.0,karaoke,28001,40.4215824,-3.6889286,"{'type': 'Point', 'coordinates': [-3.6889286, 40.4215824]}",1-15€
-245,Karaoke Bar Katakana,3.7,"Avenida de América, 22, 28028 Madrid, Spain",3.0,karaoke,28028,40.4387644,-3.6741405,"{'type': 'Point', 'coordinates': [-3.6741405, 40.4387644]}",15-25€
-246,Karaoke Nabucco,3.7,"Calle de Alcalá, 259, 28027 Madrid, Spain",2.0,karaoke,28027,40.4318863,-3.6579455,"{'type': 'Point', 'coordinates': [-3.6579455, 40.4318863]}",15-25€
-247,Karaoke Kapikas,3.8,"28020 Calle José Castán Tobeñas, Plaza Castilla, 1, 28020 Madrid, Spain",2.0,karaoke,28020,40.4641277,-3.6925399,"{'type': 'Point', 'coordinates': [-3.6925399, 40.4641277]}",15-25€
-248,The Secret Karaoke,3.6,"Calle del Duque de Sesto, 30, 28009 Madrid, Spain",1.0,karaoke,28009,40.4224197,-3.6763289,"{'type': 'Point', 'coordinates': [-3.6763289, 40.4224197]}",15-25€
-249,Bátelo Cocktail Bar,4.0,"Calle del Infante, 8, 28014 Madrid, Spain",1.0,karaoke,28014,40.4141412,-3.6991146,"{'type': 'Point', 'coordinates': [-3.6991146, 40.4141412]}",15-25€
-250,Central Park,3.1,"Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",3.0,karaoke,28009,40.4126225,-3.6764848,"{'type': 'Point', 'coordinates': [-3.6764848, 40.4126225]}",15-25€
-251,Karaoke Uceda,3.7,"Av. de Monforte de Lemos, 119, 28029 Madrid, Spain",1.0,karaoke,28029,40.478092,-3.70922,"{'type': 'Point', 'coordinates': [-3.70922, 40.478092]}",15-25€
-252,Karaoke Sala Tam,3.6,"Paseo de los Olmos, 13, 28005 Madrid, Spain",2.0,karaoke,28005,40.4043995,-3.7105143,"{'type': 'Point', 'coordinates': [-3.7105143, 40.4043995]}",1-15€
-253,Karaoke Singer´s House,3.6,"Av. de Moratalaz, 45, 28030 Madrid, Spain",2.0,karaoke,28030,40.4070346,-3.657579,"{'type': 'Point', 'coordinates': [-3.657579, 40.4070346]}",1-15€
-254,Brindis,4.1,"Calle de las Tres Cruces, 8, 28013 Madrid, Spain",2.0,karaoke,28013,40.4195383,-3.7026836,"{'type': 'Point', 'coordinates': [-3.7026836, 40.4195383]}",15-25€
-255,La Maripepa,4.0,"Calle de Jesús, 7, 28014 Madrid, Spain",2.0,karaoke,28014,40.4126056,-3.6955465,"{'type': 'Point', 'coordinates': [-3.6955465, 40.4126056]}",15-25€
-256,Voces dek Recuerdo Karaoke,3.5,"Calle Germán Pérez Carrasco, 29, 28027 Madrid, Spain",1.0,karaoke,28027,40.435478,-3.6452508,"{'type': 'Point', 'coordinates': [-3.6452508, 40.435478]}",15-25€
-257,Tuk room Karaoke,3.6,"Calle de Hermosilla, 101, 28006 Madrid, Spain",1.0,karaoke,28006,40.4261565,-3.6744869,"{'type': 'Point', 'coordinates': [-3.6744869, 40.4261565]}",1-15€
-258,Karaoke Madrid Alquiler,4.0,"Calle de Claudio Coello, 66, 28001 Madrid, Spain",1.0,karaoke,28001,40.4288771,-3.6857979,"{'type': 'Point', 'coordinates': [-3.6857979, 40.4288771]}",1-15€
-259,Finde Karaoke,0.0,"Calle de Alcalá, 259, 28027 Madrid, Spain",1.0,karaoke,28027,40.4318636,-3.658144699999999,"{'type': 'Point', 'coordinates': [-3.658144699999999, 40.4318636]}",15-25€
-260,Disco-Karaoke Master Plató,3.5,"Plaza de los Mostenses, s/n, 28015 Madrid, Spain",2.0,karaoke,28015,40.422693,-3.708952999999999,"{'type': 'Point', 'coordinates': [-3.708952999999999, 40.422693]}",15-25€
-261,Karaoke Duarciñan,4.2,"C. de Paradinas, 1, 28005 Madrid, Spain",1.0,karaoke,28005,40.4065232,-3.7197478,"{'type': 'Point', 'coordinates': [-3.7197478, 40.4065232]}",15-25€
-262,karaoke,3.5,"Calle de la Batalla del Salado, 26, 28045 Madrid, Spain",1.0,karaoke,28045,40.4005881,-3.696419299999999,"{'type': 'Point', 'coordinates': [-3.696419299999999, 40.4005881]}",15-25€
-263,Alquiler de karaoke Madrid,0.0,"Calle del Calvario, 2, 28012 Madrid, Spain",1.0,karaoke,28012,40.411219,-3.703447,"{'type': 'Point', 'coordinates': [-3.703447, 40.411219]}",1-15€
-264,Joker's Karaoke,4.7,"Calle de Castrojeriz, 26, 28025 Madrid, Spain",1.0,karaoke,28025,40.3859627,-3.7407121,"{'type': 'Point', 'coordinates': [-3.7407121, 40.3859627]}",15-25€
-265,Comienza la Fiesta,4.0,"Calle Fuenlabrada, 50, 28901 Getafe, Madrid, Spain",1.0,karaoke,28901,40.301348,-3.734633,"{'type': 'Point', 'coordinates': [-3.734633, 40.301348]}",1-15€
-266,KARAOKE NUMBER ONE,4.2,"Calle del Puerto de Balbarán, 33, 28018 Madrid, Spain",1.0,karaoke,28018,40.3830043,-3.6686155,"{'type': 'Point', 'coordinates': [-3.6686155, 40.3830043]}",15-25€
-267,Discoteca & Karaoke MAGGYK,4.2,"Calle de Coslada, 11, 28028 Madrid, Spain",1.0,karaoke,28028,40.4380312,-3.6741461,"{'type': 'Point', 'coordinates': [-3.6741461, 40.4380312]}",1-15€
-268,Palacio Latino Disco Bar Karaoke,3.3,"Calle de María Zayas, 4, 28039 Madrid, Spain",1.0,karaoke,28039,40.4590907,-3.7003758,"{'type': 'Point', 'coordinates': [-3.7003758, 40.4590907]}",15-25€
-269,Karaoke Discoteca New Viedma,3.8,"Calle de Maqueda, 28024 Madrid, Spain",1.0,karaoke,28024,40.3872222,-3.7616667,"{'type': 'Point', 'coordinates': [-3.7616667, 40.3872222]}",1-15€
-270,sacame por dios,3.7,"Calle de Hernán Cortés, 21, 28004 Madrid, Spain",1.0,karaoke,28004,40.4233581,-3.699338,"{'type': 'Point', 'coordinates': [-3.699338, 40.4233581]}",15-25€
-271,Laser Karaoke,4.1,"28014 Madrid, Spain",1.0,karaoke,28014,40.4131355,-3.6968448,"{'type': 'Point', 'coordinates': [-3.6968448, 40.4131355]}",15-25€
-272,Rio Pirai,4.0,"Calle de López de Hoyos, 327, 28033 Madrid, Spain",1.0,karaoke,28033,40.4639735,-3.6586008,"{'type': 'Point', 'coordinates': [-3.6586008, 40.4639735]}",25-50€
-273,PORTER´S PUB KARAOKE,3.1,"Calle de Fernández de los Ríos, 93, 28015 Madrid, Spain",1.0,karaoke,28015,40.4352714,-3.7176885,"{'type': 'Point', 'coordinates': [-3.7176885, 40.4352714]}",15-25€
-274,Alquilerkaraoke.net,0.0,"Calle de Seco, 5, 28007 Madrid, Spain",1.0,karaoke,28007,40.3984502,-3.6723046,"{'type': 'Point', 'coordinates': [-3.6723046, 40.3984502]}",15-25€
-275,Esto Suena - Bar Karaoke,2.9,"Calle Chile, 152, 28822 Coslada, Madrid, Spain",1.0,karaoke,28822,40.4230696,-3.5447955,"{'type': 'Point', 'coordinates': [-3.5447955, 40.4230696]}",1-15€
-276,Ginger Sala Madrid,4.1,"Calle de Maudes, 41, 28003 Madrid, Spain",1.0,karaoke,28003,40.44518910000001,-3.6979213,"{'type': 'Point', 'coordinates': [-3.6979213, 40.44518910000001]}",15-25€
-277,LA SEDE,4.2,"72, Calle de Lérida, 28020 Madrid, Spain",1.0,karaoke,28020,40.4574965,-3.6994628,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}",1-15€
-278,Bar Karaoke El Punto,3.9,"Calle Picos de Europa, 32, 28038 Madrid, Spain",1.0,karaoke,28038,40.3949971,-3.6606826,"{'type': 'Point', 'coordinates': [-3.6606826, 40.3949971]}",15-25€
-279,Sala Maná,3.6,"Plaza Naranjo de Bulnes, 12, 28523 Rivas-Vaciamadrid, Madrid, Spain",1.0,karaoke,28523,40.3607559,-3.5493319,"{'type': 'Point', 'coordinates': [-3.5493319, 40.3607559]}",15-25€
-280,Karaoke Kiss Musica En Vivo,0.0,"Calle de Maqueda, 28024 Madrid, Spain",1.0,karaoke,28024,40.3874764,-3.761746699999999,"{'type': 'Point', 'coordinates': [-3.761746699999999, 40.3874764]}",15-25€
-281,La Movida 1980,3.3,"Av. de Alberto de Alcocer, 32, 28036 Madrid, Spain",1.0,karaoke,28036,40.4583879,-3.6824905,"{'type': 'Point', 'coordinates': [-3.6824905, 40.4583879]}",15-25€
-282,KTV,3.0,"Av. de la Emperatriz Isabel, 6, 28019 Madrid, Spain",1.0,karaoke,28019,40.3981595,-3.7173442,"{'type': 'Point', 'coordinates': [-3.7173442, 40.3981595]}",15-25€
-283,FREEDOM BAR,4.2,"72, Calle de Lérida, 28020 Madrid, Spain",1.0,karaoke,28020,40.4574965,-3.6994628,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}",15-25€
-284,Karaoke alba,3.5,"Av. de Menéndez Pelayo, 67, 28009 Madrid, Spain",1.0,karaoke,28009,40.4126184,-3.676485,"{'type': 'Point', 'coordinates': [-3.676485, 40.4126184]}",1-15€
-285,New York Disco Karaoke,3.2,"Calle de San Felipe, 1, 28020 Madrid, Spain",1.0,karaoke,28020,40.4616809,-3.6973878,"{'type': 'Point', 'coordinates': [-3.6973878, 40.4616809]}",1-15€
-286,HERO COFFEE BAR OF SPECTACLE 80,4.0,"Calle Francisco de Rojas, 9, 28010 Madrid, Spain",2.0,karaoke,28010,40.4297792,-3.699925599999999,"{'type': 'Point', 'coordinates': [-3.699925599999999, 40.4297792]}",15-25€
-287,Quinn's,3.7,"Calle de Maqueda, 138, 28024 Madrid, Spain",1.0,karaoke,28024,40.3875419,-3.7618759,"{'type': 'Point', 'coordinates': [-3.7618759, 40.3875419]}",15-25€
-288,Nomad Club,4.0,"Calle de Manuel Fernández y González, 6, 28014 Madrid, Spain",2.0,karaoke,28014,40.4150834,-3.699651799999999,"{'type': 'Point', 'coordinates': [-3.699651799999999, 40.4150834]}",15-25€
-289,Karaoke Pub Meis Disco,3.6,"Av. General Palacio, 5, 28902 Getafe, Madrid, Spain",1.0,karaoke,28902,40.3091757,-3.7253357,"{'type': 'Point', 'coordinates': [-3.7253357, 40.3091757]}",15-25€
-290,Sala Liverpool Karaoke,3.4,"Plaza de Felipe Álvarez Gadea, 28100 Alcobendas, Madrid, Spain",1.0,karaoke,28100,40.5404831,-3.6322001,"{'type': 'Point', 'coordinates': [-3.6322001, 40.5404831]}",15-25€
-291,Freedoom karaoke bar de copas,0.0,"Calle de Lérida, 72, 28020 Madrid, Spain",1.0,karaoke,28020,40.4574965,-3.6994628,"{'type': 'Point', 'coordinates': [-3.6994628, 40.4574965]}",15-25€
-292,YOVA'S PUB,4.5,"Calle de Galileo, 74, 28015 Madrid, Spain",1.0,karaoke,28015,40.4364682,-3.7099838,"{'type': 'Point', 'coordinates': [-3.7099838, 40.4364682]}",15-25€
-293,Meetme,3.5,"28004, Calle Antonio Flores, 3, 28004 Madrid, Spain",1.0,karaoke,28004,40.4279746,-3.6981364,"{'type': 'Point', 'coordinates': [-3.6981364, 40.4279746]}",15-25€
-294,Karaoke Oliver,0.0,"Calle del Bronce, 30, 28045 Madrid, Spain",1.0,karaoke,28045,40.388064,-3.6901007,"{'type': 'Point', 'coordinates': [-3.6901007, 40.388064]}",15-25€
-295,Restaurante Tentazion,4.0,"Calle Movinda, 10, 28037 Madrid, Spain",1.0,karaoke,28037,40.437429,-3.636548,"{'type': 'Point', 'coordinates': [-3.636548, 40.437429]}",15-25€
-296,Pacific,4.0,"Av. del Mediterráneo, 6, 28007 Madrid, Spain",1.0,karaoke,28007,40.4072263,-3.677299199999999,"{'type': 'Point', 'coordinates': [-3.677299199999999, 40.4072263]}",15-25€
-297,At midnight,4.3,"Calle de la Batalla del Salado, 33, 28045 Madrid, Spain",1.0,karaoke,28045,40.4002044,-3.6959833,"{'type': 'Point', 'coordinates': [-3.6959833, 40.4002044]}",15-25€
-298,La Chispera,4.5,"Calle de Santa Ana, 13, 28005 Madrid, Spain",1.0,karaoke,28005,40.4097319,-3.7083803,"{'type': 'Point', 'coordinates': [-3.7083803, 40.4097319]}",15-25€
-299,Yoyo's Bar,4.4,"Calle de Galileo, 63, 28015 Madrid, Spain",1.0,karaoke,28015,40.4364352,-3.7103432,"{'type': 'Point', 'coordinates': [-3.7103432, 40.4364352]}",1-15€
-300,Autocine Madrid RACE,4.3,"Calle de la Isla de Java, 2, 28034 Madrid, Spain",1.0,autocine,28034,40.4862166,-3.6777766,"{'type': 'Point', 'coordinates': [-3.6777766, 40.4862166]}",15-25€
-301,Toni 2 Piano Bar,4.3,"Calle del Almte., 9, 28004 Madrid, Spain",2.0,piano bar,28004,40.4226339,-3.6947675,"{'type': 'Point', 'coordinates': [-3.6947675, 40.4226339]}",15-25€
-302,Fun House,4.4,"Calle de Palafox, 8, 28010 Madrid, Spain",1.0,piano bar,28010,40.4313726,-3.7011393,"{'type': 'Point', 'coordinates': [-3.7011393, 40.4313726]}",15-25€
-303,El amante.,3.8,"Calle de Santiago, 3, 28013 Madrid, Spain",1.0,piano bar,28013,40.4161059,-3.709917099999999,"{'type': 'Point', 'coordinates': [-3.709917099999999, 40.4161059]}",15-25€
-304,Cien por Cien Madrid,4.2,"Calle de la Santísima Trinidad, 30, 28010 Madrid, Spain",1.0,piano bar,28010,40.4378861,-3.700825,"{'type': 'Point', 'coordinates': [-3.700825, 40.4378861]}",15-25€
-305,Barbarum Lounge Cafe,3.7,"C. de Churruca, 21, 28004 Madrid, Spain",1.0,piano bar,28004,40.42815119999999,-3.7012563,"{'type': 'Point', 'coordinates': [-3.7012563, 40.42815119999999]}",15-25€
-306,La Noche Boca Arriba,4.3,"Calle del Salitre, 30, 28012 Madrid, Spain",1.0,piano bar,28012,40.4092907,-3.698823599999999,"{'type': 'Point', 'coordinates': [-3.698823599999999, 40.4092907]}",15-25€
-307,RÈVER Pub cabaret,4.1,"Calle de Manuel Silvela, 6, 28010 Madrid, Spain",2.0,piano bar,28010,40.429158,-3.698416,"{'type': 'Point', 'coordinates': [-3.698416, 40.429158]}",15-25€
-308,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,piano bar,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}",15-25€
-309,ELBACKSTAGE CLUB ROCKANROLL,4.3,"Calle de Sta. Teresa, 14, 28004 Madrid, Spain",1.0,piano bar,28004,40.4253412,-3.695319399999999,"{'type': 'Point', 'coordinates': [-3.695319399999999, 40.4253412]}",15-25€
-310,Wild Thing Bar,4.4,"Calle del Padre Claret, 28002 Madrid, Spain",1.0,piano bar,28002,40.4484687,-3.6639807,"{'type': 'Point', 'coordinates': [-3.6639807, 40.4484687]}",15-25€
-311,Little ROSE Madrid,4.6,"C. de Moratín, 16, 28014 Madrid, Spain",1.0,piano bar,28014,40.4123677,-3.6967889,"{'type': 'Point', 'coordinates': [-3.6967889, 40.4123677]}",25-50€
-312,Fotomatón Bar,4.2,"Plaza Conde de Toreno, 2, 28015 Madrid, Spain",1.0,piano bar,28015,40.4244784,-3.7094109,"{'type': 'Point', 'coordinates': [-3.7094109, 40.4244784]}",15-25€
-313,Drink Disco Bar,3.3,"Calle del Marqués de Viana, 81, 28039 Madrid, Spain",1.0,piano bar,28039,40.463424,-3.7040395,"{'type': 'Point', 'coordinates': [-3.7040395, 40.463424]}",15-25€
-314,El Tirano de Malasaña,4.4,"Calle de la Palma, 25, 28004 Madrid, Spain",1.0,piano bar,28004,40.4261655,-3.7033305,"{'type': 'Point', 'coordinates': [-3.7033305, 40.4261655]}",15-25€
-315,Blackbird Rock Bar,4.4,"Calle de las Huertas, 22, 28014 Madrid, Spain",2.0,piano bar,28014,40.413687,-3.69963,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}",15-25€
-316,Peter's Bar Salsa,4.0,"Calle de López de Hoyos, 327, 28033 Madrid, Spain",1.0,piano bar,28033,40.4636135,-3.6582054,"{'type': 'Point', 'coordinates': [-3.6582054, 40.4636135]}",15-25€
-317,Lucy In The Sky Club,4.2,"Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",1.0,piano bar,28015,40.4261175,-3.7078297,"{'type': 'Point', 'coordinates': [-3.7078297, 40.4261175]}",25-50€
-318,LA PASA GIN BAR Pub,4.4,"Calle de las Huertas, 9, 28012 Madrid, Spain",1.0,piano bar,28012,40.4140557,-3.7007958,"{'type': 'Point', 'coordinates': [-3.7007958, 40.4140557]}",1-15€
-319,Bar Terraza Motown,4.3,"Calle de Fermín Caballero, 7, posterior, 28034 Madrid, Spain",1.0,piano bar,28034,40.4867025,-3.6998345,"{'type': 'Point', 'coordinates': [-3.6998345, 40.4867025]}",15-25€
-320,Garage Bar Madrid,0.0,"Calle de Carvajales, 6, 28005 Madrid, Spain",1.0,piano bar,28005,40.3998967,-3.7021588,"{'type': 'Point', 'coordinates': [-3.7021588, 40.3998967]}",15-25€
-321,sacame por dios,3.7,"Calle de Hernán Cortés, 21, 28004 Madrid, Spain",1.0,piano bar,28004,40.4233581,-3.699338,"{'type': 'Point', 'coordinates': [-3.699338, 40.4233581]}",1-15€
-322,COLLAGE DRINKS & ARTS,4.2,"Calle de los Mancebos, 2, 28005 Madrid, Spain",1.0,piano bar,28005,40.4121064,-3.711817999999999,"{'type': 'Point', 'coordinates': [-3.711817999999999, 40.4121064]}",15-25€
-323,MALABOCA GARDEN CLUB,4.2,"Calle de Juan Bravo, 25, 28006 Madrid, Spain",1.0,piano bar,28006,40.4328186,-3.6804474,"{'type': 'Point', 'coordinates': [-3.6804474, 40.4328186]}",15-25€
-324,Café Libertad 8,4.4,"Calle de la Libertad, 8, 28004 Madrid, Spain",1.0,piano bar,28004,40.4207511,-3.6973232,"{'type': 'Point', 'coordinates': [-3.6973232, 40.4207511]}",15-25€
-325,La Parranda,4.7,"Calle de Sta. María, 42, 28014 Madrid, Spain",1.0,piano bar,28014,40.4126119,-3.6962934,"{'type': 'Point', 'coordinates': [-3.6962934, 40.4126119]}",15-25€
-326,Tramontana,4.0,"C/ del Alcalde Sainz de Baranda, 51, 28009 Madrid, Spain",1.0,piano bar,28009,40.4168089,-3.6712864,"{'type': 'Point', 'coordinates': [-3.6712864, 40.4168089]}",15-25€
-327,Freeway,4.1,"Calle de San Vicente Ferrer, 7, 28004 Madrid, Spain",2.0,piano bar,28004,40.425471,-3.701964,"{'type': 'Point', 'coordinates': [-3.701964, 40.425471]}",15-25€
-328,The Room Madrid,3.8,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,piano bar,28012,40.4149178,-3.702538,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}",15-25€
-329,TNT Heavy Rock Bar,4.3,"Calle de Gaztambide, 26, 28015 Madrid, Spain",1.0,piano bar,28015,40.4341196,-3.7152464,"{'type': 'Point', 'coordinates': [-3.7152464, 40.4341196]}",15-25€
-330,La Ofrenda,3.8,"Calle del Infante, 3, 28014 Madrid, Spain",1.0,piano bar,28014,40.414277,-3.6991869,"{'type': 'Point', 'coordinates': [-3.6991869, 40.414277]}",15-25€
-331,Moloko Sound Club,4.3,"Calle de Quiñones, 12, 28015 Madrid, Spain",1.0,piano bar,28015,40.4275171,-3.708056599999999,"{'type': 'Point', 'coordinates': [-3.708056599999999, 40.4275171]}",15-25€
-332,Hipócritas Bar Teatro,4.7,"Calle de Alfonso VI, nº 4, 28005 Madrid, Spain",1.0,piano bar,28005,40.4132255,-3.712158,"{'type': 'Point', 'coordinates': [-3.712158, 40.4132255]}",15-25€
-333,"Marta, Cariño!",4.0,"Calle de Silva, 4, 28013 Madrid, Spain",2.0,piano bar,28013,40.4206332,-3.7076313,"{'type': 'Point', 'coordinates': [-3.7076313, 40.4206332]}",15-25€
-334,Club Thirty One,0.0,"Calle del Olmo, 31, 28012 Madrid, Spain",1.0,piano bar,28012,40.4116858,-3.6998301,"{'type': 'Point', 'coordinates': [-3.6998301, 40.4116858]}",15-25€
-335,Discoteca New One Madrid,3.3,"28037, Av. de la Institución Libre de Enseñanza, 11, 28037 Madrid, Spain",1.0,piano bar,28037,40.437104,-3.637096999999999,"{'type': 'Point', 'coordinates': [-3.637096999999999, 40.437104]}",15-25€
-336,Bar de copas M.A.,4.5,"Calle Vencejo, nº 2, Local, 28025 Madrid, Spain",1.0,piano bar,28025,40.3872339,-3.7423465,"{'type': 'Point', 'coordinates': [-3.7423465, 40.3872339]}",15-25€
-337,Casa Pueblo,4.4,"Calle del León, 3, 28014 Madrid, Spain",1.0,piano bar,28014,40.4146076,-3.6985476,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}",15-25€
-338,Dime que me Quieres,4.2,"Av. de Pablo Iglesias, 6, 28003 Madrid, Spain",1.0,piano bar,28003,40.4434844,-3.7054584,"{'type': 'Point', 'coordinates': [-3.7054584, 40.4434844]}",15-25€
-339,de TAMARINDO,4.3,"Calle de Loreto y Chicote, 7, 28004 Madrid, Spain",1.0,piano bar,28004,40.421477,-3.703929999999999,"{'type': 'Point', 'coordinates': [-3.703929999999999, 40.421477]}",1-15€
-340,Sala Elitte,4.2,"Calle de Lagasca, 103, 28006 Madrid, Spain",1.0,piano bar,28006,40.4341875,-3.6845872,"{'type': 'Point', 'coordinates': [-3.6845872, 40.4341875]}",1-15€
-341,La Ventura,4.0,"Av. Oporto, 80, 28019 Madrid, Spain",2.0,piano bar,28019,40.3865547,-3.7280872,"{'type': 'Point', 'coordinates': [-3.7280872, 40.3865547]}",15-25€
-342,My mother was a groupie,4.1,"Calle de Sta. Polonia, 5, 28014 Madrid, Spain",2.0,piano bar,28014,40.4126802,-3.6974323,"{'type': 'Point', 'coordinates': [-3.6974323, 40.4126802]}",1-15€
-343,The Malavida Bar,4.6,"Calle de Maqueda, 16, 28024 Madrid, Spain",1.0,piano bar,28024,40.3940505,-3.766324,"{'type': 'Point', 'coordinates': [-3.766324, 40.3940505]}",15-25€
-344,El Feo Chico,4.3,"Calle de Covarrubias, 21, 28010 Madrid, Spain",1.0,piano bar,28010,40.4304402,-3.6979491,"{'type': 'Point', 'coordinates': [-3.6979491, 40.4304402]}",15-25€
-345,Texola Club Rock,4.9,"Av. Oporto, 38, 28019 Madrid, Spain",1.0,piano bar,28019,40.3859832,-3.7243301,"{'type': 'Point', 'coordinates': [-3.7243301, 40.3859832]}",15-25€
-346,Café Doré,4.5,"Calle de la Torrecilla del Leal, 9, 28012 Madrid, Spain",1.0,piano bar,28012,40.411108,-3.6994169,"{'type': 'Point', 'coordinates': [-3.6994169, 40.411108]}",15-25€
-347,Edén de Huertas Bar de Copas y Cachimbas,4.7,"Calle de las Huertas, 67, 28014 Madrid, Spain",1.0,piano bar,28014,40.41320959999999,-3.695893299999999,"{'type': 'Point', 'coordinates': [-3.695893299999999, 40.41320959999999]}",1-15€
-348,Shalaura Madrid,3.9,"Calle del Gral. Pardiñas, 112, 28006 Madrid, Spain",1.0,piano bar,28006,40.436196,-3.677616,"{'type': 'Point', 'coordinates': [-3.677616, 40.436196]}",15-25€
-349,Blackmail Bar Madrid,4.5,"C/ del Alcalde Sainz de Baranda, 57, 28009 Madrid, Spain",1.0,piano bar,28009,40.4168169,-3.6706029,"{'type': 'Point', 'coordinates': [-3.6706029, 40.4168169]}",15-25€
-350,Berlín Cabaret,3.5,"Costanilla de San Pedro, 11, 28005 Madrid, Spain",2.0,piano bar,28005,40.412346,-3.7106608,"{'type': 'Point', 'coordinates': [-3.7106608, 40.412346]}",15-25€
-351,Sideral,4.2,"Calle de San Joaquín, 9, 28004 Madrid, Spain",1.0,piano bar,28004,40.4243271,-3.7016106,"{'type': 'Point', 'coordinates': [-3.7016106, 40.4243271]}",1-15€
-352,Copazos,0.0,"Calle de Lavapiés, 14, 24, 28012 Madrid, Spain",1.0,piano bar,28012,40.4111743,-3.7027729,"{'type': 'Point', 'coordinates': [-3.7027729, 40.4111743]}",1-15€
-353,Pub Single,4.2,"Calle del Tutor, 57, 28008 Madrid, Spain",1.0,piano bar,28008,40.4318978,-3.7188184,"{'type': 'Point', 'coordinates': [-3.7188184, 40.4318978]}",15-25€
-354,Piano Bar,4.3,"Calle de la Constitución, 96, 28100 Alcobendas, Madrid, Spain",1.0,piano bar,28100,40.5455384,-3.6424628,"{'type': 'Point', 'coordinates': [-3.6424628, 40.5455384]}",15-25€
-355,Terraza Collins,4.4,"3, Calle de Caños Viejos, 28005 Madrid, Spain",2.0,piano bar,28005,40.413366,-3.71322,"{'type': 'Point', 'coordinates': [-3.71322, 40.413366]}",15-25€
-356,Moe's,4.1,"locales 13, 14, C. de Andrés Mellado, 33, 28015 Madrid, Spain",1.0,piano bar,28015,40.4337664,-3.71512,"{'type': 'Point', 'coordinates': [-3.71512, 40.4337664]}",15-25€
-357,Bar De NELLA,4.4,"Calle Vázquez de Mella, 18, 20, 28017 Madrid, Spain",1.0,piano bar,28017,40.4343997,-3.6393359,"{'type': 'Point', 'coordinates': [-3.6393359, 40.4343997]}",15-25€
-358,Karaoke Nabucco,3.7,"Calle de Alcalá, 259, 28027 Madrid, Spain",2.0,piano bar,28027,40.4318863,-3.6579455,"{'type': 'Point', 'coordinates': [-3.6579455, 40.4318863]}",15-25€
-359,Bar Mana,3.6,"Calle de Maldonado, 55, 28006 Madrid, Spain",1.0,piano bar,28006,40.43375899999999,-3.6785937,"{'type': 'Point', 'coordinates': [-3.6785937, 40.43375899999999]}",1-15€
-360,Before Madrid,4.5,"Calle de Alcántara, 64, 28006 Madrid, Spain",1.0,piano bar,28006,40.4315289,-3.6734388,"{'type': 'Point', 'coordinates': [-3.6734388, 40.4315289]}",15-25€
+240,Autocine Madrid RACE,4.3,"Calle de la Isla de Java, 2, 28034 Madrid, Spain",1.0,autocine,28034,40.4862166,-3.6777766,"{'type': 'Point', 'coordinates': [-3.6777766, 40.4862166]}",15-25€
+241,Toni 2 Piano Bar,4.3,"Calle del Almte., 9, 28004 Madrid, Spain",2.0,piano bar,28004,40.4226339,-3.6947675,"{'type': 'Point', 'coordinates': [-3.6947675, 40.4226339]}",1-15€
+242,Fun House,4.4,"Calle de Palafox, 8, 28010 Madrid, Spain",1.0,piano bar,28010,40.4313726,-3.7011393,"{'type': 'Point', 'coordinates': [-3.7011393, 40.4313726]}",15-25€
+243,El amante.,3.8,"Calle de Santiago, 3, 28013 Madrid, Spain",1.0,piano bar,28013,40.4161059,-3.709917099999999,"{'type': 'Point', 'coordinates': [-3.709917099999999, 40.4161059]}",15-25€
+244,Cien por Cien Madrid,4.2,"Calle de la Santísima Trinidad, 30, 28010 Madrid, Spain",1.0,piano bar,28010,40.4378861,-3.700825,"{'type': 'Point', 'coordinates': [-3.700825, 40.4378861]}",1-15€
+245,Barbarum Lounge Cafe,3.7,"C. de Churruca, 21, 28004 Madrid, Spain",1.0,piano bar,28004,40.42815119999999,-3.7012563,"{'type': 'Point', 'coordinates': [-3.7012563, 40.42815119999999]}",15-25€
+246,La Noche Boca Arriba,4.3,"Calle del Salitre, 30, 28012 Madrid, Spain",1.0,piano bar,28012,40.4092907,-3.698823599999999,"{'type': 'Point', 'coordinates': [-3.698823599999999, 40.4092907]}",15-25€
+247,RÈVER Pub cabaret,4.1,"Calle de Manuel Silvela, 6, 28010 Madrid, Spain",2.0,piano bar,28010,40.429158,-3.698416,"{'type': 'Point', 'coordinates': [-3.698416, 40.429158]}",15-25€
+248,Clubbers Tour,2.9,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,piano bar,28012,40.4157732,-3.7038293,"{'type': 'Point', 'coordinates': [-3.7038293, 40.4157732]}",15-25€
+249,ELBACKSTAGE CLUB ROCKANROLL,4.3,"Calle de Sta. Teresa, 14, 28004 Madrid, Spain",1.0,piano bar,28004,40.4253412,-3.695319399999999,"{'type': 'Point', 'coordinates': [-3.695319399999999, 40.4253412]}",15-25€
+250,Wild Thing Bar,4.4,"Calle del Padre Claret, 28002 Madrid, Spain",1.0,piano bar,28002,40.4484687,-3.6639807,"{'type': 'Point', 'coordinates': [-3.6639807, 40.4484687]}",15-25€
+251,Little ROSE Madrid,4.6,"C. de Moratín, 16, 28014 Madrid, Spain",1.0,piano bar,28014,40.4123677,-3.6967889,"{'type': 'Point', 'coordinates': [-3.6967889, 40.4123677]}",15-25€
+252,Fotomatón Bar,4.2,"Plaza Conde de Toreno, 2, 28015 Madrid, Spain",1.0,piano bar,28015,40.4244784,-3.7094109,"{'type': 'Point', 'coordinates': [-3.7094109, 40.4244784]}",1-15€
+253,Drink Disco Bar,3.3,"Calle del Marqués de Viana, 81, 28039 Madrid, Spain",1.0,piano bar,28039,40.463424,-3.7040395,"{'type': 'Point', 'coordinates': [-3.7040395, 40.463424]}",1-15€
+254,El Tirano de Malasaña,4.4,"Calle de la Palma, 25, 28004 Madrid, Spain",1.0,piano bar,28004,40.4261655,-3.7033305,"{'type': 'Point', 'coordinates': [-3.7033305, 40.4261655]}",15-25€
+255,Blackbird Rock Bar,4.4,"Calle de las Huertas, 22, 28014 Madrid, Spain",2.0,piano bar,28014,40.413687,-3.69963,"{'type': 'Point', 'coordinates': [-3.69963, 40.413687]}",15-25€
+256,Peter's Bar Salsa,4.0,"Calle de López de Hoyos, 327, 28033 Madrid, Spain",1.0,piano bar,28033,40.4636135,-3.6582054,"{'type': 'Point', 'coordinates': [-3.6582054, 40.4636135]}",15-25€
+257,Lucy In The Sky Club,4.2,"Calle de San Vicente Ferrer, 55, 28015 Madrid, Spain",1.0,piano bar,28015,40.4261175,-3.7078297,"{'type': 'Point', 'coordinates': [-3.7078297, 40.4261175]}",1-15€
+258,LA PASA GIN BAR Pub,4.4,"Calle de las Huertas, 9, 28012 Madrid, Spain",1.0,piano bar,28012,40.4140557,-3.7007958,"{'type': 'Point', 'coordinates': [-3.7007958, 40.4140557]}",1-15€
+259,Bar Terraza Motown,4.3,"Calle de Fermín Caballero, 7, posterior, 28034 Madrid, Spain",1.0,piano bar,28034,40.4867025,-3.6998345,"{'type': 'Point', 'coordinates': [-3.6998345, 40.4867025]}",15-25€
+260,Garage Bar Madrid,0.0,"Calle de Carvajales, 6, 28005 Madrid, Spain",1.0,piano bar,28005,40.3998967,-3.7021588,"{'type': 'Point', 'coordinates': [-3.7021588, 40.3998967]}",15-25€
+261,sacame por dios,3.7,"Calle de Hernán Cortés, 21, 28004 Madrid, Spain",1.0,piano bar,28004,40.4233581,-3.699338,"{'type': 'Point', 'coordinates': [-3.699338, 40.4233581]}",15-25€
+262,COLLAGE DRINKS & ARTS,4.2,"Calle de los Mancebos, 2, 28005 Madrid, Spain",1.0,piano bar,28005,40.4121064,-3.711817999999999,"{'type': 'Point', 'coordinates': [-3.711817999999999, 40.4121064]}",15-25€
+263,MALABOCA GARDEN CLUB,4.2,"Calle de Juan Bravo, 25, 28006 Madrid, Spain",1.0,piano bar,28006,40.4328186,-3.6804474,"{'type': 'Point', 'coordinates': [-3.6804474, 40.4328186]}",1-15€
+264,Café Libertad 8,4.4,"Calle de la Libertad, 8, 28004 Madrid, Spain",1.0,piano bar,28004,40.4207511,-3.6973232,"{'type': 'Point', 'coordinates': [-3.6973232, 40.4207511]}",15-25€
+265,La Parranda,4.7,"Calle de Sta. María, 42, 28014 Madrid, Spain",1.0,piano bar,28014,40.4126119,-3.6962934,"{'type': 'Point', 'coordinates': [-3.6962934, 40.4126119]}",1-15€
+266,Tramontana,4.0,"C/ del Alcalde Sainz de Baranda, 51, 28009 Madrid, Spain",1.0,piano bar,28009,40.4168089,-3.6712864,"{'type': 'Point', 'coordinates': [-3.6712864, 40.4168089]}",15-25€
+267,Freeway,4.1,"Calle de San Vicente Ferrer, 7, 28004 Madrid, Spain",2.0,piano bar,28004,40.425471,-3.701964,"{'type': 'Point', 'coordinates': [-3.701964, 40.425471]}",1-15€
+268,The Room Madrid,3.8,"Calle de la Cruz, 33, 28012 Madrid, Spain",1.0,piano bar,28012,40.4149178,-3.702538,"{'type': 'Point', 'coordinates': [-3.702538, 40.4149178]}",15-25€
+269,TNT Heavy Rock Bar,4.3,"Calle de Gaztambide, 26, 28015 Madrid, Spain",1.0,piano bar,28015,40.4341196,-3.7152464,"{'type': 'Point', 'coordinates': [-3.7152464, 40.4341196]}",1-15€
+270,La Ofrenda,3.8,"Calle del Infante, 3, 28014 Madrid, Spain",1.0,piano bar,28014,40.414277,-3.6991869,"{'type': 'Point', 'coordinates': [-3.6991869, 40.414277]}",15-25€
+271,Moloko Sound Club,4.3,"Calle de Quiñones, 12, 28015 Madrid, Spain",1.0,piano bar,28015,40.4275171,-3.708056599999999,"{'type': 'Point', 'coordinates': [-3.708056599999999, 40.4275171]}",15-25€
+272,Hipócritas Bar Teatro,4.7,"Calle de Alfonso VI, nº 4, 28005 Madrid, Spain",1.0,piano bar,28005,40.4132255,-3.712158,"{'type': 'Point', 'coordinates': [-3.712158, 40.4132255]}",25-50€
+273,"Marta, Cariño!",4.0,"Calle de Silva, 4, 28013 Madrid, Spain",2.0,piano bar,28013,40.4206332,-3.7076313,"{'type': 'Point', 'coordinates': [-3.7076313, 40.4206332]}",15-25€
+274,Club Thirty One,0.0,"Calle del Olmo, 31, 28012 Madrid, Spain",1.0,piano bar,28012,40.4116858,-3.6998301,"{'type': 'Point', 'coordinates': [-3.6998301, 40.4116858]}",15-25€
+275,Discoteca New One Madrid,3.3,"28037, Av. de la Institución Libre de Enseñanza, 11, 28037 Madrid, Spain",1.0,piano bar,28037,40.437104,-3.637096999999999,"{'type': 'Point', 'coordinates': [-3.637096999999999, 40.437104]}",1-15€
+276,Bar de copas M.A.,4.5,"Calle Vencejo, nº 2, Local, 28025 Madrid, Spain",1.0,piano bar,28025,40.3872339,-3.7423465,"{'type': 'Point', 'coordinates': [-3.7423465, 40.3872339]}",15-25€
+277,Casa Pueblo,4.4,"Calle del León, 3, 28014 Madrid, Spain",1.0,piano bar,28014,40.4146076,-3.6985476,"{'type': 'Point', 'coordinates': [-3.6985476, 40.4146076]}",1-15€
+278,Dime que me Quieres,4.2,"Av. de Pablo Iglesias, 6, 28003 Madrid, Spain",1.0,piano bar,28003,40.4434844,-3.7054584,"{'type': 'Point', 'coordinates': [-3.7054584, 40.4434844]}",15-25€
+279,de TAMARINDO,4.3,"Calle de Loreto y Chicote, 7, 28004 Madrid, Spain",1.0,piano bar,28004,40.421477,-3.703929999999999,"{'type': 'Point', 'coordinates': [-3.703929999999999, 40.421477]}",15-25€
+280,Sala Elitte,4.2,"Calle de Lagasca, 103, 28006 Madrid, Spain",1.0,piano bar,28006,40.4341875,-3.6845872,"{'type': 'Point', 'coordinates': [-3.6845872, 40.4341875]}",15-25€
+281,La Ventura,4.0,"Av. Oporto, 80, 28019 Madrid, Spain",2.0,piano bar,28019,40.3865547,-3.7280872,"{'type': 'Point', 'coordinates': [-3.7280872, 40.3865547]}",15-25€
+282,My mother was a groupie,4.1,"Calle de Sta. Polonia, 5, 28014 Madrid, Spain",2.0,piano bar,28014,40.4126802,-3.6974323,"{'type': 'Point', 'coordinates': [-3.6974323, 40.4126802]}",15-25€
+283,The Malavida Bar,4.6,"Calle de Maqueda, 16, 28024 Madrid, Spain",1.0,piano bar,28024,40.3940505,-3.766324,"{'type': 'Point', 'coordinates': [-3.766324, 40.3940505]}",15-25€
+284,El Feo Chico,4.3,"Calle de Covarrubias, 21, 28010 Madrid, Spain",1.0,piano bar,28010,40.4304402,-3.6979491,"{'type': 'Point', 'coordinates': [-3.6979491, 40.4304402]}",1-15€
+285,Texola Club Rock,4.9,"Av. Oporto, 38, 28019 Madrid, Spain",1.0,piano bar,28019,40.3859832,-3.7243301,"{'type': 'Point', 'coordinates': [-3.7243301, 40.3859832]}",1-15€
+286,Café Doré,4.5,"Calle de la Torrecilla del Leal, 9, 28012 Madrid, Spain",1.0,piano bar,28012,40.411108,-3.6994169,"{'type': 'Point', 'coordinates': [-3.6994169, 40.411108]}",15-25€
+287,Edén de Huertas Bar de Copas y Cachimbas,4.7,"Calle de las Huertas, 67, 28014 Madrid, Spain",1.0,piano bar,28014,40.41320959999999,-3.695893299999999,"{'type': 'Point', 'coordinates': [-3.695893299999999, 40.41320959999999]}",15-25€
+288,Shalaura Madrid,3.9,"Calle del Gral. Pardiñas, 112, 28006 Madrid, Spain",1.0,piano bar,28006,40.436196,-3.677616,"{'type': 'Point', 'coordinates': [-3.677616, 40.436196]}",15-25€
+289,Blackmail Bar Madrid,4.5,"C/ del Alcalde Sainz de Baranda, 57, 28009 Madrid, Spain",1.0,piano bar,28009,40.4168169,-3.6706029,"{'type': 'Point', 'coordinates': [-3.6706029, 40.4168169]}",15-25€
+290,Berlín Cabaret,3.5,"Costanilla de San Pedro, 11, 28005 Madrid, Spain",2.0,piano bar,28005,40.412346,-3.7106608,"{'type': 'Point', 'coordinates': [-3.7106608, 40.412346]}",15-25€
+291,Sideral,4.2,"Calle de San Joaquín, 9, 28004 Madrid, Spain",1.0,piano bar,28004,40.4243271,-3.7016106,"{'type': 'Point', 'coordinates': [-3.7016106, 40.4243271]}",15-25€
+292,Copazos,0.0,"Calle de Lavapiés, 14, 24, 28012 Madrid, Spain",1.0,piano bar,28012,40.4111743,-3.7027729,"{'type': 'Point', 'coordinates': [-3.7027729, 40.4111743]}",15-25€
+293,Pub Single,4.2,"Calle del Tutor, 57, 28008 Madrid, Spain",1.0,piano bar,28008,40.4318978,-3.7188184,"{'type': 'Point', 'coordinates': [-3.7188184, 40.4318978]}",15-25€
+294,Piano Bar,4.3,"Calle de la Constitución, 96, 28100 Alcobendas, Madrid, Spain",1.0,piano bar,28100,40.5455384,-3.6424628,"{'type': 'Point', 'coordinates': [-3.6424628, 40.5455384]}",15-25€
+295,Terraza Collins,4.4,"3, Calle de Caños Viejos, 28005 Madrid, Spain",2.0,piano bar,28005,40.413366,-3.71322,"{'type': 'Point', 'coordinates': [-3.71322, 40.413366]}",15-25€
+296,Moe's,4.1,"locales 13, 14, C. de Andrés Mellado, 33, 28015 Madrid, Spain",1.0,piano bar,28015,40.4337664,-3.71512,"{'type': 'Point', 'coordinates': [-3.71512, 40.4337664]}",15-25€
+297,Bar De NELLA,4.4,"Calle Vázquez de Mella, 18, 20, 28017 Madrid, Spain",1.0,piano bar,28017,40.4343997,-3.6393359,"{'type': 'Point', 'coordinates': [-3.6393359, 40.4343997]}",15-25€
+298,Karaoke Nabucco,3.7,"Calle de Alcalá, 259, 28027 Madrid, Spain",2.0,piano bar,28027,40.4318863,-3.6579455,"{'type': 'Point', 'coordinates': [-3.6579455, 40.4318863]}",15-25€
+299,Bar Mana,3.6,"Calle de Maldonado, 55, 28006 Madrid, Spain",1.0,piano bar,28006,40.43375899999999,-3.6785937,"{'type': 'Point', 'coordinates': [-3.6785937, 40.43375899999999]}",1-15€
+300,Before Madrid,4.5,"Calle de Alcántara, 64, 28006 Madrid, Spain",1.0,piano bar,28006,40.4315289,-3.6734388,"{'type': 'Point', 'coordinates': [-3.6734388, 40.4315289]}",15-25€

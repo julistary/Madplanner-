@@ -1,5 +1,18 @@
 import pandas as pd
 from folium import Circle, Marker, Icon, Map
+from pymongo import MongoClient, GEOSPHERE
+conn = MongoClient("localhost:27017")
+db = conn.get_database("madrid")
+import random
+
+leisure = db.get_collection("leisure")
+outdoors = db.get_collection("outdoors")
+restaurants = db.get_collection("restaurants")
+drinks = db.get_collection("drinks")
+party = db.get_collection("party")
+snacks = db.get_collection("snacks")
+culture = db.get_collection("culture")
+transport = db.get_collection("transport")
 
 df_restaurants = pd.read_csv("data/restaurants.csv", index_col=0)
 df_snacks = pd.read_csv("data/snacks.csv", index_col=0)
@@ -167,7 +180,7 @@ def type_of_plan(plan):
     if plan == "family":
         options =  options_family
     elif plan == "friends":
-        options = options_friend
+        options = options_friends
     elif plan == "individual":
         options = options_individual
     elif plan == "couple":
@@ -186,7 +199,7 @@ def type_of_plan(plan):
 
 def get_df(df):
     df = df.set_index("name")
-    return df.drop(["place", "CP", "latitude", "longitude"], axis=1)
+    return df.drop(["price_level", "CP", "latitude", "longitude"], axis=1)
 
 def get_map(df):
     map_1 = Map(location=[list(df.latitude.unique())[0],list(df.longitude.unique())[0]],zoom_start=15)
@@ -206,7 +219,81 @@ def get_map(df):
         
     return map_1
 
+def planes_price(df_1, df_2, coll_1, coll_2,max_):
+    
+    intersection = set(list(df_1.CP.unique())).intersection(set(list(df_2.CP.unique())))
 
+    cp = list(intersection)
 
+    cp_random = random.choice(cp)
 
+    plan1 = list(coll_1.find({"CP":str(int(cp_random))}))
 
+    plan2 = list(coll_2.find({"CP":str(int(cp_random))}))
+    
+    p1_random = random.choice(plan1)
+    p2_random = random.choice(plan2)
+
+    df1 = pd.DataFrame.from_dict(p1_random)
+    df2 = pd.DataFrame.from_dict(p2_random)
+    df = pd.concat([df1,df2])
+    
+    df = df.set_index("_id")
+    df =df.drop(["geometry"], axis = 1)
+    df = df.drop_duplicates()
+    
+    prices = []
+    for p in list(df.price_level):
+        if p == 0.0:
+            prices.append(0)
+        elif p == 1.0:
+            prices.append(15)
+        elif p == 2.0:
+            prices.append(25)
+        elif p == 3.0:
+            prices.append(50)
+        else: 
+            prices.append(150)
+    
+    try:
+        if sum(prices) > max_:
+            return planes(df_snacks, df_culture, snacks, culture,max_)
+        else: 
+            return df
+    except:
+        return select_plans(max_)
+
+def select_plans(max_):
+    
+    options = {"snacks + restaurant" : [df_snacks, df_restaurants, snacks, restaurants],
+     "snacks + leisure activity" : [df_snacks, df_leisure, snacks, leisure],
+     "snacks + outdoors activity" : [df_snacks, df_outdoors, snacks, outdoors],
+     "snacks + culture" : [df_snacks, df_culture, snacks, culture],
+     "snacks + drinks" : [df_snacks, df_drinks, snacks, drinks],
+     "snacks + party" : [df_snacks, df_party, snacks, party],
+     "restaurant + leisure activity" : [df_restaurants, df_leisure, restaurants, leisure],
+     "restaurant + outdoors activity" : [df_restaurants, df_outdoors, restaurants, outdoors],
+     "restaurant + culture" : [df_restaurants, df_culture, restaurants, culture],
+     "restaurant + drinks" : [df_restaurants, df_drinks, restaurants, drinks],
+     "restaurant + party" : [df_restaurants, df_party, restaurants, party],
+     "leisure activity + outdoors activity" : [df_leisure, df_outdoors, leisure, outdoors],
+     "leisure activity + culture" : [df_leisure, df_culture, leisure, culture],
+     "leisure activity + drinks" : [df_leisure, df_drinks, leisure, drinks],
+     "leisure activity + party" : [df_leisure, df_party, leisure, party],  
+     "outdoors activity + culture" : [df_outdoors, df_culture, outdoors, culture],
+     "outdoors activity + drinks" : [df_outdoors, df_drinks, outdoors, drinks],
+     "outdoors activity + party" : [df_outdoors, df_party, outdoors, party],
+     "culture + drinks" : [df_culture, df_drinks, culture, drinks],
+     "culture + party" : [df_culture, df_party, culture, party],
+     "drinks + party" : [df_drinks, df_party, drinks, party]
+    }
+     
+    opt = random.choice(list(options.keys()))
+    args = options[opt]
+    arg_1 = args[0]  
+    arg_2 = args[1]  
+    arg_3 = args[2]  
+    arg_4 = args[3]  
+    
+    return planes_price(arg_1, arg_2, arg_3, arg_4,max_)
+    
