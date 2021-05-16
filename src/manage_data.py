@@ -218,8 +218,38 @@ def get_map(df):
         Marker(**geom,icon = icon ).add_to(map_1)
         
     return map_1
-
-def planes_price(df_1, df_2, coll_1, coll_2,max_):
+   
+def planes_price_2(max_):
+    
+    options = {"snacks + restaurant" : [df_snacks, df_restaurants, snacks, restaurants],
+     "snacks + leisure activity" : [df_snacks, df_leisure, snacks, leisure],
+     "snacks + outdoors activity" : [df_snacks, df_outdoors, snacks, outdoors],
+     "snacks + culture" : [df_snacks, df_culture, snacks, culture],
+     "snacks + drinks" : [df_snacks, df_drinks, snacks, drinks],
+     "snacks + party" : [df_snacks, df_party, snacks, party],
+     "restaurant + leisure activity" : [df_restaurants, df_leisure, restaurants, leisure],
+     "restaurant + outdoors activity" : [df_restaurants, df_outdoors, restaurants, outdoors],
+     "restaurant + culture" : [df_restaurants, df_culture, restaurants, culture],
+     "restaurant + drinks" : [df_restaurants, df_drinks, restaurants, drinks],
+     "restaurant + party" : [df_restaurants, df_party, restaurants, party],
+     "leisure activity + outdoors activity" : [df_leisure, df_outdoors, leisure, outdoors],
+     "leisure activity + culture" : [df_leisure, df_culture, leisure, culture],
+     "leisure activity + drinks" : [df_leisure, df_drinks, leisure, drinks],
+     "leisure activity + party" : [df_leisure, df_party, leisure, party],  
+     "outdoors activity + culture" : [df_outdoors, df_culture, outdoors, culture],
+     "outdoors activity + drinks" : [df_outdoors, df_drinks, outdoors, drinks],
+     "outdoors activity + party" : [df_outdoors, df_party, outdoors, party],
+     "culture + drinks" : [df_culture, df_drinks, culture, drinks],
+     "culture + party" : [df_culture, df_party, culture, party],
+     "drinks + party" : [df_drinks, df_party, drinks, party]
+    }
+     
+    opt = random.choice(list(options.keys()))
+    args = options[opt]
+    df_1 = args[0]  
+    df_2 = args[1]  
+    coll_1 = args[2]  
+    coll_2 = args[3] 
     
     intersection = set(list(df_1.CP.unique())).intersection(set(list(df_2.CP.unique())))
 
@@ -254,46 +284,8 @@ def planes_price(df_1, df_2, coll_1, coll_2,max_):
             prices.append(50)
         else: 
             prices.append(150)
-    
-    try:
-        if sum(prices) > max_:
-            return planes(df_snacks, df_culture, snacks, culture,max_)
-        else: 
-            return df
-    except:
-        return select_plans(max_)
 
-def select_plans(max_):
-    
-    options = {"snacks + restaurant" : [df_snacks, df_restaurants, snacks, restaurants],
-     "snacks + leisure activity" : [df_snacks, df_leisure, snacks, leisure],
-     "snacks + outdoors activity" : [df_snacks, df_outdoors, snacks, outdoors],
-     "snacks + culture" : [df_snacks, df_culture, snacks, culture],
-     "snacks + drinks" : [df_snacks, df_drinks, snacks, drinks],
-     "snacks + party" : [df_snacks, df_party, snacks, party],
-     "restaurant + leisure activity" : [df_restaurants, df_leisure, restaurants, leisure],
-     "restaurant + outdoors activity" : [df_restaurants, df_outdoors, restaurants, outdoors],
-     "restaurant + culture" : [df_restaurants, df_culture, restaurants, culture],
-     "restaurant + drinks" : [df_restaurants, df_drinks, restaurants, drinks],
-     "restaurant + party" : [df_restaurants, df_party, restaurants, party],
-     "leisure activity + outdoors activity" : [df_leisure, df_outdoors, leisure, outdoors],
-     "leisure activity + culture" : [df_leisure, df_culture, leisure, culture],
-     "leisure activity + drinks" : [df_leisure, df_drinks, leisure, drinks],
-     "leisure activity + party" : [df_leisure, df_party, leisure, party],  
-     "outdoors activity + culture" : [df_outdoors, df_culture, outdoors, culture],
-     "outdoors activity + drinks" : [df_outdoors, df_drinks, outdoors, drinks],
-     "outdoors activity + party" : [df_outdoors, df_party, outdoors, party],
-     "culture + drinks" : [df_culture, df_drinks, culture, drinks],
-     "culture + party" : [df_culture, df_party, culture, party],
-     "drinks + party" : [df_drinks, df_party, drinks, party]
-    }
-     
-    opt = random.choice(list(options.keys()))
-    args = options[opt]
-    arg_1 = args[0]  
-    arg_2 = args[1]  
-    arg_3 = args[2]  
-    arg_4 = args[3]  
-    
-    return planes_price(arg_1, arg_2, arg_3, arg_4,max_)
-    
+    if sum(prices) > max_:
+        return planes_price_2(max_)
+    else: 
+        return df

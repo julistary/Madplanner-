@@ -1,250 +1,250 @@
 ,name,rating,address,price_level,place,CP,latitude,longitude,geometry,price
-0,Bowling Chamartín,4.2,"Estación de Chamartín, s / n, 28036 Madrid, Spain",1.0,bowling,28036,40.4711234,-3.6828952,"{'type': 'Point', 'coordinates': [-3.6828952, 40.4711234]}",15-25€
-1,Bowling La Ermita,4.0,"Calle Sepúlveda, 3, 28011 Madrid, Spain",1.0,bowling,28011,40.4070667,-3.7258695,"{'type': 'Point', 'coordinates': [-3.7258695, 40.4070667]}",15-25€
+0,Bowling Chamartín,4.2,"Estación de Chamartín, s / n, 28036 Madrid, Spain",1.0,bowling,28036,40.4711234,-3.6828952,"{'type': 'Point', 'coordinates': [-3.6828952, 40.4711234]}",1-15€
+1,Bowling La Ermita,4.0,"Calle Sepúlveda, 3, 28011 Madrid, Spain",1.0,bowling,28011,40.4070667,-3.7258695,"{'type': 'Point', 'coordinates': [-3.7258695, 40.4070667]}",1-15€
 2,Bowling Ilusiona Plenilunio,4.3,"C.C. Plenilunio, Calle de Aracne, 3, 28022 Madrid, Spain",1.0,bowling,28022,40.4475017,-3.586825600000001,"{'type': 'Point', 'coordinates': [-3.586825600000001, 40.4475017]}",1-15€
-3,CityPlay,4.1,"Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",1.0,bowling,28043,40.463136,-3.636201,"{'type': 'Point', 'coordinates': [-3.636201, 40.463136]}",15-25€
-4,The City,3.9,"Centro de Ocio Heron Diversia, Av. de Bruselas, 23, 28108 Alcobendas, Madrid, Spain",1.0,bowling,28108,40.5310524,-3.6378702,"{'type': 'Point', 'coordinates': [-3.6378702, 40.5310524]}",15-25€
-5,Bowling Sur,3.6,"Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid, Spain",1.0,bowling,28916,40.3383091,-3.7335479,"{'type': 'Point', 'coordinates': [-3.7335479, 40.3383091]}",15-25€
+3,CityPlay,4.1,"Centro Comercial Palacio de Hielo, Calle de Silvano, 77, 28043 Madrid, Spain",1.0,bowling,28043,40.463136,-3.636201,"{'type': 'Point', 'coordinates': [-3.636201, 40.463136]}",1-15€
+4,The City,3.9,"Centro de Ocio Heron Diversia, Av. de Bruselas, 23, 28108 Alcobendas, Madrid, Spain",1.0,bowling,28108,40.5310524,-3.6378702,"{'type': 'Point', 'coordinates': [-3.6378702, 40.5310524]}",1-15€
+5,Bowling Sur,3.6,"Av. de Gran Bretaña, S / N, 28916 Leganés, Madrid, Spain",1.0,bowling,28916,40.3383091,-3.7335479,"{'type': 'Point', 'coordinates': [-3.7335479, 40.3383091]}",1-15€
 6,Ilusiona Diversia,4.2,"Av. de Bruselas, 21, Local 23B, 28108 Alcobendas, Madrid, Spain",1.0,bowling,28108,40.5310091,-3.6376404,"{'type': 'Point', 'coordinates': [-3.6376404, 40.5310091]}",1-15€
-7,Bowling Ilusiona Islazul,4.4,"Centro Comercial Isla Azul, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,bowling,28054,40.3630408,-3.7385112,"{'type': 'Point', 'coordinates': [-3.7385112, 40.3630408]}",15-25€
-8,La Ermita Centro Comercial. Street Food,3.7,"Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",1.0,bowling,28011,40.4067649,-3.724733899999999,"{'type': 'Point', 'coordinates': [-3.724733899999999, 40.4067649]}",25-50€
-9,"Bolo 11, Tienda de equipación y material para el bowling",4.7,"Calle de Luis Cabrera, 58, 28002 Madrid, Spain",1.0,bowling,28002,40.4430684,-3.6742827,"{'type': 'Point', 'coordinates': [-3.6742827, 40.4430684]}",15-25€
-10,Ozone X-Madrid,4.4,"Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",1.0,bowling,28922,40.3396683,-3.847202,"{'type': 'Point', 'coordinates': [-3.847202, 40.3396683]}",15-25€
-11,Planet Bowling,0.0,"Av. San Martín de Valdeiglesias, 24, 28922 Madrid, Spain",1.0,bowling,28922,40.3583075,-3.8319554,"{'type': 'Point', 'coordinates': [-3.8319554, 40.3583075]}",15-25€
-12,Bowling Park,4.1,"Ctra. Ajalvir Centro Comerci, 28850 Torrejón de Ardoz, Madrid, Spain",1.0,bowling,28850,40.4776459,-3.4798106,"{'type': 'Point', 'coordinates': [-3.4798106, 40.4776459]}",15-25€
-13,Bowling TresAguas,4.2,"Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid, Spain",1.0,bowling,28922,40.3585139,-3.8331793,"{'type': 'Point', 'coordinates': [-3.8331793, 40.3585139]}",15-25€
-14,Real Bowling De Olías S L,3.3,"Calle Julio Rey Pastor, 1, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5659324,-3.6102891,"{'type': 'Point', 'coordinates': [-3.6102891, 40.5659324]}",15-25€
-15,Planet Bowling,1.0,"Calle de Anabel Segura, 7, 28108 Alcobendas, Madrid, Spain",1.0,bowling,28108,40.5346461,-3.6257381,"{'type': 'Point', 'coordinates': [-3.6257381, 40.5346461]}",25-50€
-16,Federación Española de Bolos,0.0,"Calle Pío Baroja, 10 - 3ª planta, 28009 Madrid, Spain",1.0,bowling,28009,40.4131898,-3.675106299999999,"{'type': 'Point', 'coordinates': [-3.675106299999999, 40.4131898]}",15-25€
-17,Omagic Bowling,4.0,"Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",1.0,bowling,28521,40.3372091,-3.5261449,"{'type': 'Point', 'coordinates': [-3.5261449, 40.3372091]}",15-25€
-18,Bolera Alegra,3.5,"Calle Julio Rey Pastor, 6, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5661105,-3.610121,"{'type': 'Point', 'coordinates': [-3.610121, 40.5661105]}",15-25€
-19,Omagic,3.9,"Calle Julio Rey Pastor, s/n, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5664298,-3.6104906,"{'type': 'Point', 'coordinates': [-3.6104906, 40.5664298]}",15-25€
-20,Wellness Boutique Experience / Day Spa Massage,4.9,"Calle de Campoamor, 5, 28004 Madrid, Spain",3.0,spa,28004,40.4258066,-3.6961082,"{'type': 'Point', 'coordinates': [-3.6961082, 40.4258066]}",15-25€
-21,The Organic Spa,4.6,"Calle de Lagasca, 90, 28006 Madrid, Spain",3.0,spa,28006,40.4307528,-3.684683699999999,"{'type': 'Point', 'coordinates': [-3.684683699999999, 40.4307528]}",15-25€
-22,Private Spa Madrid - Plaza Castilla,4.6,"Calle del Dr. Fleming, 60, B, 28036 Madrid, Spain",3.0,spa,28036,40.4636558,-3.6873826,"{'type': 'Point', 'coordinates': [-3.6873826, 40.4636558]}",15-25€
-23,Madrid Day Spa by Nuilea,4.7,"Calle del León, 4, 28014 Madrid, Spain",3.0,spa,28014,40.4144911,-3.6988429,"{'type': 'Point', 'coordinates': [-3.6988429, 40.4144911]}",15-25€
-24,Hammam Al Ándalus Madrid,4.4,"C. de Atocha, 14, 28012 Madrid, Spain",3.0,spa,28012,40.4142904,-3.704224,"{'type': 'Point', 'coordinates': [-3.704224, 40.4142904]}",15-25€
-25,Esenzias,4.4,"Calle de la Cruz, 28, 28012 Madrid, Spain",3.0,spa,28012,40.4147944,-3.702844199999999,"{'type': 'Point', 'coordinates': [-3.702844199999999, 40.4147944]}",15-25€
-26,Spa Balneario Madrid Sol y Agua,4.2,"Calle de la Infanta Mercedes, 36, 28020 Madrid, Spain",3.0,spa,28020,40.4574713,-3.6976168,"{'type': 'Point', 'coordinates': [-3.6976168, 40.4574713]}",15-25€
-27,Auditorium Spa,4.2,"Cl. de Suero de Quiñones, 22, 28002 Madrid, Spain",3.0,spa,28002,40.4455556,-3.6763889,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4455556]}",15-25€
-28,Fariolen - Oriental Massage,4.6,"Calle de Lagasca, 80, 28001 Madrid, Spain",3.0,spa,28001,40.42903039999999,-3.684728,"{'type': 'Point', 'coordinates': [-3.684728, 40.42903039999999]}",15-25€
-29,Flotexperience,4.8,"Calle Campo de la Estrella, 7, 28050 Madrid, Spain",3.0,spa,28050,40.5048951,-3.6717795,"{'type': 'Point', 'coordinates': [-3.6717795, 40.5048951]}",15-25€
+7,Bowling Ilusiona Islazul,4.4,"Centro Comercial Isla Azul, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,bowling,28054,40.3630408,-3.7385112,"{'type': 'Point', 'coordinates': [-3.7385112, 40.3630408]}",1-15€
+8,La Ermita Centro Comercial. Street Food,3.7,"Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",1.0,bowling,28011,40.4067649,-3.724733899999999,"{'type': 'Point', 'coordinates': [-3.724733899999999, 40.4067649]}",1-15€
+9,"Bolo 11, Tienda de equipación y material para el bowling",4.7,"Calle de Luis Cabrera, 58, 28002 Madrid, Spain",1.0,bowling,28002,40.4430684,-3.6742827,"{'type': 'Point', 'coordinates': [-3.6742827, 40.4430684]}",1-15€
+10,Ozone X-Madrid,4.4,"Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",1.0,bowling,28922,40.3396683,-3.847202,"{'type': 'Point', 'coordinates': [-3.847202, 40.3396683]}",1-15€
+11,Planet Bowling,0.0,"Av. San Martín de Valdeiglesias, 24, 28922 Madrid, Spain",1.0,bowling,28922,40.3583075,-3.8319554,"{'type': 'Point', 'coordinates': [-3.8319554, 40.3583075]}",1-15€
+12,Bowling Park,4.1,"Ctra. Ajalvir Centro Comerci, 28850 Torrejón de Ardoz, Madrid, Spain",1.0,bowling,28850,40.4776459,-3.4798106,"{'type': 'Point', 'coordinates': [-3.4798106, 40.4776459]}",1-15€
+13,Bowling TresAguas,4.2,"Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid, Spain",1.0,bowling,28922,40.3585139,-3.8331793,"{'type': 'Point', 'coordinates': [-3.8331793, 40.3585139]}",1-15€
+14,Real Bowling De Olías S L,3.3,"Calle Julio Rey Pastor, 1, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5659324,-3.6102891,"{'type': 'Point', 'coordinates': [-3.6102891, 40.5659324]}",1-15€
+15,Planet Bowling,1.0,"Calle de Anabel Segura, 7, 28108 Alcobendas, Madrid, Spain",1.0,bowling,28108,40.5346461,-3.6257381,"{'type': 'Point', 'coordinates': [-3.6257381, 40.5346461]}",1-15€
+16,Federación Española de Bolos,0.0,"Calle Pío Baroja, 10 - 3ª planta, 28009 Madrid, Spain",1.0,bowling,28009,40.4131898,-3.675106299999999,"{'type': 'Point', 'coordinates': [-3.675106299999999, 40.4131898]}",1-15€
+17,Omagic Bowling,4.0,"Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",1.0,bowling,28521,40.3372091,-3.5261449,"{'type': 'Point', 'coordinates': [-3.5261449, 40.3372091]}",1-15€
+18,Bolera Alegra,3.5,"Calle Julio Rey Pastor, 6, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5661105,-3.610121,"{'type': 'Point', 'coordinates': [-3.610121, 40.5661105]}",1-15€
+19,Omagic,3.9,"Calle Julio Rey Pastor, s/n, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,28702,40.5664298,-3.6104906,"{'type': 'Point', 'coordinates': [-3.6104906, 40.5664298]}",1-15€
+20,Wellness Boutique Experience / Day Spa Massage,4.9,"Calle de Campoamor, 5, 28004 Madrid, Spain",3.0,spa,28004,40.4258066,-3.6961082,"{'type': 'Point', 'coordinates': [-3.6961082, 40.4258066]}",25-50€
+21,The Organic Spa,4.6,"Calle de Lagasca, 90, 28006 Madrid, Spain",3.0,spa,28006,40.4307528,-3.684683699999999,"{'type': 'Point', 'coordinates': [-3.684683699999999, 40.4307528]}",25-50€
+22,Private Spa Madrid - Plaza Castilla,4.6,"Calle del Dr. Fleming, 60, B, 28036 Madrid, Spain",3.0,spa,28036,40.4636558,-3.6873826,"{'type': 'Point', 'coordinates': [-3.6873826, 40.4636558]}",25-50€
+23,Madrid Day Spa by Nuilea,4.7,"Calle del León, 4, 28014 Madrid, Spain",3.0,spa,28014,40.4144911,-3.6988429,"{'type': 'Point', 'coordinates': [-3.6988429, 40.4144911]}",25-50€
+24,Hammam Al Ándalus Madrid,4.4,"C. de Atocha, 14, 28012 Madrid, Spain",3.0,spa,28012,40.4142904,-3.704224,"{'type': 'Point', 'coordinates': [-3.704224, 40.4142904]}",25-50€
+25,Esenzias,4.4,"Calle de la Cruz, 28, 28012 Madrid, Spain",3.0,spa,28012,40.4147944,-3.702844199999999,"{'type': 'Point', 'coordinates': [-3.702844199999999, 40.4147944]}",25-50€
+26,Spa Balneario Madrid Sol y Agua,4.2,"Calle de la Infanta Mercedes, 36, 28020 Madrid, Spain",3.0,spa,28020,40.4574713,-3.6976168,"{'type': 'Point', 'coordinates': [-3.6976168, 40.4574713]}",25-50€
+27,Auditorium Spa,4.2,"Cl. de Suero de Quiñones, 22, 28002 Madrid, Spain",3.0,spa,28002,40.4455556,-3.6763889,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4455556]}",25-50€
+28,Fariolen - Oriental Massage,4.6,"Calle de Lagasca, 80, 28001 Madrid, Spain",3.0,spa,28001,40.42903039999999,-3.684728,"{'type': 'Point', 'coordinates': [-3.684728, 40.42903039999999]}",25-50€
+29,Flotexperience,4.8,"Calle Campo de la Estrella, 7, 28050 Madrid, Spain",3.0,spa,28050,40.5048951,-3.6717795,"{'type': 'Point', 'coordinates': [-3.6717795, 40.5048951]}",25-50€
 30,Los Nogales,4.1,"Paseo Imperial, 26, 28035 Madrid, Spain",3.0,spa,28035,40.4054061,-3.7165304,"{'type': 'Point', 'coordinates': [-3.7165304, 40.4054061]}",25-50€
-31,CorpoDieci Madrid,3.7,"Calle del Dr. Santero, 10, 28039 Madrid, Spain",3.0,spa,28039,40.4477538,-3.705159799999999,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}",15-25€
-32,Senzia Gran Vía Spa & Wellness,3.2,"C/ Gran Vía, 70, 28013 Madrid, Spain",3.0,spa,28013,40.4226075,-3.7099719,"{'type': 'Point', 'coordinates': [-3.7099719, 40.4226075]}",15-25€
-33,Caroli Health Club,4.2,"Hotel Eurostars Suites Mirasierra, C. de Alfredo Marqueríe, 43, 28034 Madrid, Spain",3.0,spa,28034,40.486518,-3.703443,"{'type': 'Point', 'coordinates': [-3.703443, 40.486518]}",15-25€
-34,Templo del Masaje Goya,4.8,"Calle de la Povedilla, 6, 28009 Madrid, Spain",3.0,spa,28009,40.42371139999999,-3.6701576,"{'type': 'Point', 'coordinates': [-3.6701576, 40.42371139999999]}",15-25€
-35,Kinnaree Thai Traditional Massage,4.6,"Calle de Argensola, 11, Bajo Izquierda, 28004 Madrid, Spain",3.0,spa,28004,40.425695,-3.694731,"{'type': 'Point', 'coordinates': [-3.694731, 40.425695]}",1-15€
-36,Masvitalzenter,0.0,"Calle de la Cruz, 28, 28012 Madrid, Spain",3.0,spa,28012,40.4147618,-3.7028911,"{'type': 'Point', 'coordinates': [-3.7028911, 40.4147618]}",1-15€
-37,AquaBody,3.7,"Calle de Castrojeriz, 9, 28025 Madrid, Spain",3.0,spa,28025,40.3859279,-3.7403321,"{'type': 'Point', 'coordinates': [-3.7403321, 40.3859279]}",15-25€
-38,Spaxión Madrid,4.8,"Calle del Poeta Joan Maragall, 30, 28020 Madrid, Spain",3.0,spa,28020,40.4582778,-3.6918502,"{'type': 'Point', 'coordinates': [-3.6918502, 40.4582778]}",15-25€
-39,Biloba Spa VP,2.0,"Plaza de España, 3, 28008 Madrid, Spain",3.0,spa,28008,40.422886,-3.7113558,"{'type': 'Point', 'coordinates': [-3.7113558, 40.422886]}",More than 50€
-40,Balneario Aguai+,3.3,"Calle de las Pedroñeras, 11, 28043 Madrid, Spain",3.0,spa,28043,40.4656938,-3.6308001,"{'type': 'Point', 'coordinates': [-3.6308001, 40.4656938]}",15-25€
-41,ABSARA SPA WELLNESS,3.7,"Calle de Alfredo Marquerie, 43, 28034 Madrid, Spain",3.0,spa,28034,40.4865386,-3.7034552,"{'type': 'Point', 'coordinates': [-3.7034552, 40.4865386]}",More than 50€
-42,Massage Temple Princess,4.7,"Calle de Martín de los Heros, 59, 28008 Madrid, Spain",3.0,spa,28008,40.4284753,-3.7173002,"{'type': 'Point', 'coordinates': [-3.7173002, 40.4284753]}",15-25€
-43,Centro de Masajes | Barrio Salamanca Madrid | Beauty & Health,5.0,"Cl. de Ayala, 32, Bajo izquierda, 28001 Madrid, Spain",3.0,spa,28001,40.4277011,-3.6852601,"{'type': 'Point', 'coordinates': [-3.6852601, 40.4277011]}",15-25€
-44,Caroli Health Club,0.0,"Hotel Intercontinental, Paseo de la Castellana, 49, 28046 Madrid, Spain",3.0,spa,28046,40.4363445,-3.690215299999999,"{'type': 'Point', 'coordinates': [-3.690215299999999, 40.4363445]}",15-25€
-45,"The Beauty Concept at Mandarin Oriental Ritz, Madrid",0.0,"Plaza de la Lealtad, 5, 28014 Madrid, Spain",3.0,spa,28014,40.4157026,-3.6925557,"{'type': 'Point', 'coordinates': [-3.6925557, 40.4157026]}",15-25€
-46,Spaxion El Corte Inglés Callao,0.0,"Plaza del Callao, nº 3, 28013 Madrid, Spain",3.0,spa,28013,40.42006,-3.70618,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}",More than 50€
-47,Manila Look and Feel Good,4.1,"Av. Olímpica, 32, Local 9, 28108 Alcobendas, Madrid, Spain",3.0,spa,28108,40.535586,-3.638833,"{'type': 'Point', 'coordinates': [-3.638833, 40.535586]}",15-25€
-48,The Spa at Four Seasons Hotel Madrid,5.0,"Calle de Sevilla, 3, 28014 Madrid, Spain",3.0,spa,28014,40.4170089,-3.700388,"{'type': 'Point', 'coordinates': [-3.700388, 40.4170089]}",15-25€
+31,CorpoDieci Madrid,3.7,"Calle del Dr. Santero, 10, 28039 Madrid, Spain",3.0,spa,28039,40.4477538,-3.705159799999999,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}",25-50€
+32,Senzia Gran Vía Spa & Wellness,3.2,"C/ Gran Vía, 70, 28013 Madrid, Spain",3.0,spa,28013,40.4226075,-3.7099719,"{'type': 'Point', 'coordinates': [-3.7099719, 40.4226075]}",25-50€
+33,Caroli Health Club,4.2,"Hotel Eurostars Suites Mirasierra, C. de Alfredo Marqueríe, 43, 28034 Madrid, Spain",3.0,spa,28034,40.486518,-3.703443,"{'type': 'Point', 'coordinates': [-3.703443, 40.486518]}",25-50€
+34,Templo del Masaje Goya,4.8,"Calle de la Povedilla, 6, 28009 Madrid, Spain",3.0,spa,28009,40.42371139999999,-3.6701576,"{'type': 'Point', 'coordinates': [-3.6701576, 40.42371139999999]}",25-50€
+35,Kinnaree Thai Traditional Massage,4.6,"Calle de Argensola, 11, Bajo Izquierda, 28004 Madrid, Spain",3.0,spa,28004,40.425695,-3.694731,"{'type': 'Point', 'coordinates': [-3.694731, 40.425695]}",25-50€
+36,Masvitalzenter,0.0,"Calle de la Cruz, 28, 28012 Madrid, Spain",3.0,spa,28012,40.4147618,-3.7028911,"{'type': 'Point', 'coordinates': [-3.7028911, 40.4147618]}",25-50€
+37,AquaBody,3.7,"Calle de Castrojeriz, 9, 28025 Madrid, Spain",3.0,spa,28025,40.3859279,-3.7403321,"{'type': 'Point', 'coordinates': [-3.7403321, 40.3859279]}",25-50€
+38,Spaxión Madrid,4.8,"Calle del Poeta Joan Maragall, 30, 28020 Madrid, Spain",3.0,spa,28020,40.4582778,-3.6918502,"{'type': 'Point', 'coordinates': [-3.6918502, 40.4582778]}",25-50€
+39,Biloba Spa VP,2.0,"Plaza de España, 3, 28008 Madrid, Spain",3.0,spa,28008,40.422886,-3.7113558,"{'type': 'Point', 'coordinates': [-3.7113558, 40.422886]}",25-50€
+40,Balneario Aguai+,3.3,"Calle de las Pedroñeras, 11, 28043 Madrid, Spain",3.0,spa,28043,40.4656938,-3.6308001,"{'type': 'Point', 'coordinates': [-3.6308001, 40.4656938]}",25-50€
+41,ABSARA SPA WELLNESS,3.7,"Calle de Alfredo Marquerie, 43, 28034 Madrid, Spain",3.0,spa,28034,40.4865386,-3.7034552,"{'type': 'Point', 'coordinates': [-3.7034552, 40.4865386]}",25-50€
+42,Massage Temple Princess,4.7,"Calle de Martín de los Heros, 59, 28008 Madrid, Spain",3.0,spa,28008,40.4284753,-3.7173002,"{'type': 'Point', 'coordinates': [-3.7173002, 40.4284753]}",25-50€
+43,Centro de Masajes | Barrio Salamanca Madrid | Beauty & Health,5.0,"Cl. de Ayala, 32, Bajo izquierda, 28001 Madrid, Spain",3.0,spa,28001,40.4277011,-3.6852601,"{'type': 'Point', 'coordinates': [-3.6852601, 40.4277011]}",25-50€
+44,Caroli Health Club,0.0,"Hotel Intercontinental, Paseo de la Castellana, 49, 28046 Madrid, Spain",3.0,spa,28046,40.4363445,-3.690215299999999,"{'type': 'Point', 'coordinates': [-3.690215299999999, 40.4363445]}",25-50€
+45,"The Beauty Concept at Mandarin Oriental Ritz, Madrid",0.0,"Plaza de la Lealtad, 5, 28014 Madrid, Spain",3.0,spa,28014,40.4157026,-3.6925557,"{'type': 'Point', 'coordinates': [-3.6925557, 40.4157026]}",25-50€
+46,Spaxion El Corte Inglés Callao,0.0,"Plaza del Callao, nº 3, 28013 Madrid, Spain",3.0,spa,28013,40.42006,-3.70618,"{'type': 'Point', 'coordinates': [-3.70618, 40.42006]}",25-50€
+47,Manila Look and Feel Good,4.1,"Av. Olímpica, 32, Local 9, 28108 Alcobendas, Madrid, Spain",3.0,spa,28108,40.535586,-3.638833,"{'type': 'Point', 'coordinates': [-3.638833, 40.535586]}",25-50€
+48,The Spa at Four Seasons Hotel Madrid,5.0,"Calle de Sevilla, 3, 28014 Madrid, Spain",3.0,spa,28014,40.4170089,-3.700388,"{'type': 'Point', 'coordinates': [-3.700388, 40.4170089]}",25-50€
 49,Thai Orchid Spa and Massage Madrid,4.7,"Calle de Velázquez, 136, Bajo A spa 22, 28006 Madrid, Spain",3.0,spa,28006,40.4398106,-3.6825683,"{'type': 'Point', 'coordinates': [-3.6825683, 40.4398106]}",25-50€
-50,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",3.0,spa,28010,40.4359804,-3.6948715,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}",15-25€
-51,Madrid Le Max Wellness Fitness Club,4.7,"Hotel Wellington, Calle de Velázquez, 6, 28001 Madrid, Spain",3.0,spa,28001,40.4218231,-3.6841896,"{'type': 'Point', 'coordinates': [-3.6841896, 40.4218231]}",15-25€
-52,Caroli Health Club,4.6,"Hotel Melia Castilla, Calle del Poeta Joan Maragall, 43, 28020 Madrid, Spain",3.0,spa,28020,40.4614403,-3.6921475,"{'type': 'Point', 'coordinates': [-3.6921475, 40.4614403]}",15-25€
+50,Sangpanyasalud auténtico Thai.masajes oriental,4.9,"Calle de Fernández de la Hoz, 33, 1º Exterior Derecha, 28010 Madrid, Spain",3.0,spa,28010,40.4359804,-3.6948715,"{'type': 'Point', 'coordinates': [-3.6948715, 40.4359804]}",25-50€
+51,Madrid Le Max Wellness Fitness Club,4.7,"Hotel Wellington, Calle de Velázquez, 6, 28001 Madrid, Spain",3.0,spa,28001,40.4218231,-3.6841896,"{'type': 'Point', 'coordinates': [-3.6841896, 40.4218231]}",25-50€
+52,Caroli Health Club,4.6,"Hotel Melia Castilla, Calle del Poeta Joan Maragall, 43, 28020 Madrid, Spain",3.0,spa,28020,40.4614403,-3.6921475,"{'type': 'Point', 'coordinates': [-3.6921475, 40.4614403]}",25-50€
 53,Metropolitan Eurobuilding,4.3,"Planta Superior Hotel NH Collection Eurobuilding, 28036, C. del Padre Damián, 23, 28036 Madrid, Spain",3.0,spa,28036,40.4583783,-3.6859762,"{'type': 'Point', 'coordinates': [-3.6859762, 40.4583783]}",25-50€
-54,Centro Vitam,4.9,"Calle de la Montera, 24, 1ºE, 28013 Madrid, Spain",3.0,spa,28013,40.418511,-3.7019258,"{'type': 'Point', 'coordinates': [-3.7019258, 40.418511]}",1-15€
+54,Centro Vitam,4.9,"Calle de la Montera, 24, 1ºE, 28013 Madrid, Spain",3.0,spa,28013,40.418511,-3.7019258,"{'type': 'Point', 'coordinates': [-3.7019258, 40.418511]}",25-50€
 55,Clarins Skin Spa,4.5,"Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",3.0,spa,28029,40.47993690000001,-3.7059781,"{'type': 'Point', 'coordinates': [-3.7059781, 40.47993690000001]}",25-50€
-56,Arte-Spa,3.0,"C. de Escalona, 77, 28024 Madrid, Spain",3.0,spa,28024,40.3955261,-3.7620607,"{'type': 'Point', 'coordinates': [-3.7620607, 40.3955261]}",15-25€
-57,Vir Fdez Skin Heath & Antiaging,4.7,"Calle de Augusto Figueroa, 28, 28004 Madrid, Spain",3.0,spa,28004,40.4219596,-3.6970534,"{'type': 'Point', 'coordinates': [-3.6970534, 40.4219596]}",15-25€
-58,Six Harmonies Spa,5.0,"Calle de Salustiano Olózaga, 11, bajo, 28001 Madrid, Spain",3.0,spa,28001,40.4204887,-3.6897675,"{'type': 'Point', 'coordinates': [-3.6897675, 40.4204887]}",15-25€
-59,Goya Massage,3.7,"Calle de Alcalá, 149, izquierda, 28009 Madrid, Spain",3.0,spa,28009,40.4245791,-3.6765915,"{'type': 'Point', 'coordinates': [-3.6765915, 40.4245791]}",15-25€
-60,Boutique Gym & Spa by O2 Centro Wellness,4.0,"Calle de Don Ramón de la Cruz, 31, 33, 28001 Madrid, Spain",3.0,spa,28001,40.4291211,-3.6816922,"{'type': 'Point', 'coordinates': [-3.6816922, 40.4291211]}",15-25€
-61,Kinuan. Oriental massage,4.7,"Calle de Serrano Anguita, 18, 28004 Madrid, Spain",3.0,spa,28004,40.4280005,-3.6989702,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}",15-25€
-62,Le Max Wellness Club,5.0,"Gran Hotel Inglés, Calle de Echegaray, 8, 28014 Madrid, Spain",3.0,spa,28014,40.41592,-3.699806199999999,"{'type': 'Point', 'coordinates': [-3.699806199999999, 40.41592]}",15-25€
-63,Urban Chic Estetic,3.9,"Carr. de Canillas, 6, 28043 Madrid, Spain",3.0,spa,28043,40.4631029,-3.6563234,"{'type': 'Point', 'coordinates': [-3.6563234, 40.4631029]}",15-25€
-64,Aloha Day Spa Aravaca,3.8,"Paseo de la Ermita, 6, 28023 Madrid, Spain",3.0,spa,28023,40.4595118,-3.7806171,"{'type': 'Point', 'coordinates': [-3.7806171, 40.4595118]}",15-25€
-65,Spaxión Castellana,4.1,"Calle de Raimundo Fernández Villaverde, 79, 28003 Madrid, Spain",3.0,spa,28003,40.4469068,-3.6942496,"{'type': 'Point', 'coordinates': [-3.6942496, 40.4469068]}",1-15€
-66,Kamiraku. oriental wellness,4.7,"Calle de José Ortega y Gasset, 11, bajo interior derecha, 28006 Madrid, Spain",3.0,spa,28006,40.4305898,-3.686383,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}",1-15€
-67,Metropolitan Palacio Santa Ana,4.1,"Junto al hotel Me de la, Plaza del Ángel, Plaza de Sta. Ana, 6, 28012 Madrid, Spain",3.0,spa,28012,40.41442,-3.7019151,"{'type': 'Point', 'coordinates': [-3.7019151, 40.41442]}",15-25€
-68,Kenika Thai Massage,4.8,"Paseo de la Habana, 42, Local, 28036 Madrid, Spain",3.0,spa,28036,40.4498992,-3.6876743,"{'type': 'Point', 'coordinates': [-3.6876743, 40.4498992]}",15-25€
-69,Quiromasaje Madrid,4.5,"Plaza del Callao, 28004 Madrid, Spain",3.0,spa,28004,40.420012,-3.7059,"{'type': 'Point', 'coordinates': [-3.7059, 40.420012]}",15-25€
-70,Redefinity spa,4.8,"Calle de Recoletos, 16, 28001 Madrid, Spain",3.0,spa,28001,40.421676,-3.689827,"{'type': 'Point', 'coordinates': [-3.689827, 40.421676]}",15-25€
-71,Relax Center,0.0,"Calle de Carretas, 14, 28012 Madrid, Spain",3.0,spa,28012,40.4149117,-3.7034487,"{'type': 'Point', 'coordinates': [-3.7034487, 40.4149117]}",15-25€
-72,Metropolitan Abascal,4.4,"Calle de José Abascal, 46, 28003 Madrid, Spain",3.0,spa,28003,40.4380095,-3.693803,"{'type': 'Point', 'coordinates': [-3.693803, 40.4380095]}",1-15€
-73,SPA D & C Beauty,3.9,"Calle del Dr. Santero, 10, 28039 Madrid, Spain",3.0,spa,28039,40.4477538,-3.705159799999999,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}",1-15€
-74,Espacio de Bienestar,0.0,"Mercado de San Miguel, 28005, 28005, Madrid, Spain",3.0,spa,28005,40.4153716,-3.708997,"{'type': 'Point', 'coordinates': [-3.708997, 40.4153716]}",1-15€
-75,Centro de Relajacion Tailandes XXI S.L.,0.0,"Calle de Alcalá, 44, 28014 Madrid, Spain",3.0,spa,28014,40.4186243,-3.6958736,"{'type': 'Point', 'coordinates': [-3.6958736, 40.4186243]}",1-15€
-76,Connecting Divernis SPA,4.1,"Calle de Alcántara, 54, 28006 Madrid, Spain",3.0,spa,28006,40.43065,-3.673486,"{'type': 'Point', 'coordinates': [-3.673486, 40.43065]}",15-25€
-77,Premium Sauna Gay Madrid,2.6,"Calle de la Priora, 2, 28013 Madrid, Spain",3.0,spa,28013,40.418477,-3.708525,"{'type': 'Point', 'coordinates': [-3.708525, 40.418477]}",1-15€
-78,Masajes eróticos Zentopía,4.4,"Calle de Manuel Cortina, 9, 28010 Madrid, Spain",3.0,spa,28010,40.4308603,-3.697840599999999,"{'type': 'Point', 'coordinates': [-3.697840599999999, 40.4308603]}",1-15€
-79,TATSU BALI,4.0,"Calle de la Aduana, 23, 28013 Madrid, Spain",3.0,spa,28013,40.4185719,-3.7010569,"{'type': 'Point', 'coordinates': [-3.7010569, 40.4185719]}",1-15€
-80,Escape Room EXIT Madrid,4.7,"Calle de Caracas, 15, 28010 Madrid, Spain",2.0,escape room,28010,40.4308919,-3.694899899999999,"{'type': 'Point', 'coordinates': [-3.694899899999999, 40.4308919]}",1-15€
-81,Escape College Madrid / 8 Escape Room en pleno centro,4.4,"Calle de San Bernardo, 5, 28013 Madrid, Spain",2.0,escape room,28013,40.4210438,-3.7083478,"{'type': 'Point', 'coordinates': [-3.7083478, 40.4210438]}",1-15€
-82,Madrid Room Escape,4.3,"Calle de Orense, 4, 28020 Madrid, Spain",2.0,escape room,28020,40.4475789,-3.69518,"{'type': 'Point', 'coordinates': [-3.69518, 40.4475789]}",1-15€
-83,Fox in a Box Madrid Escape Room Madrid Chueca,4.7,"Calle de las Infantas, 25, 28004 Madrid, Spain",2.0,escape room,28004,40.42017999999999,-3.697661999999999,"{'type': 'Point', 'coordinates': [-3.697661999999999, 40.42017999999999]}",1-15€
-84,EXIT / EXIT - Trapped in the Museum - Game Escape Madrid,4.7,"C/ de Jesús del Valle, 32, 28004 Madrid, Spain",2.0,escape room,28004,40.424855,-3.703564,"{'type': 'Point', 'coordinates': [-3.703564, 40.424855]}",1-15€
+56,Arte-Spa,3.0,"C. de Escalona, 77, 28024 Madrid, Spain",3.0,spa,28024,40.3955261,-3.7620607,"{'type': 'Point', 'coordinates': [-3.7620607, 40.3955261]}",25-50€
+57,Vir Fdez Skin Heath & Antiaging,4.7,"Calle de Augusto Figueroa, 28, 28004 Madrid, Spain",3.0,spa,28004,40.4219596,-3.6970534,"{'type': 'Point', 'coordinates': [-3.6970534, 40.4219596]}",25-50€
+58,Six Harmonies Spa,5.0,"Calle de Salustiano Olózaga, 11, bajo, 28001 Madrid, Spain",3.0,spa,28001,40.4204887,-3.6897675,"{'type': 'Point', 'coordinates': [-3.6897675, 40.4204887]}",25-50€
+59,Goya Massage,3.7,"Calle de Alcalá, 149, izquierda, 28009 Madrid, Spain",3.0,spa,28009,40.4245791,-3.6765915,"{'type': 'Point', 'coordinates': [-3.6765915, 40.4245791]}",25-50€
+60,Boutique Gym & Spa by O2 Centro Wellness,4.0,"Calle de Don Ramón de la Cruz, 31, 33, 28001 Madrid, Spain",3.0,spa,28001,40.4291211,-3.6816922,"{'type': 'Point', 'coordinates': [-3.6816922, 40.4291211]}",25-50€
+61,Kinuan. Oriental massage,4.7,"Calle de Serrano Anguita, 18, 28004 Madrid, Spain",3.0,spa,28004,40.4280005,-3.6989702,"{'type': 'Point', 'coordinates': [-3.6989702, 40.4280005]}",25-50€
+62,Le Max Wellness Club,5.0,"Gran Hotel Inglés, Calle de Echegaray, 8, 28014 Madrid, Spain",3.0,spa,28014,40.41592,-3.699806199999999,"{'type': 'Point', 'coordinates': [-3.699806199999999, 40.41592]}",25-50€
+63,Urban Chic Estetic,3.9,"Carr. de Canillas, 6, 28043 Madrid, Spain",3.0,spa,28043,40.4631029,-3.6563234,"{'type': 'Point', 'coordinates': [-3.6563234, 40.4631029]}",25-50€
+64,Aloha Day Spa Aravaca,3.8,"Paseo de la Ermita, 6, 28023 Madrid, Spain",3.0,spa,28023,40.4595118,-3.7806171,"{'type': 'Point', 'coordinates': [-3.7806171, 40.4595118]}",25-50€
+65,Spaxión Castellana,4.1,"Calle de Raimundo Fernández Villaverde, 79, 28003 Madrid, Spain",3.0,spa,28003,40.4469068,-3.6942496,"{'type': 'Point', 'coordinates': [-3.6942496, 40.4469068]}",25-50€
+66,Kamiraku. oriental wellness,4.7,"Calle de José Ortega y Gasset, 11, bajo interior derecha, 28006 Madrid, Spain",3.0,spa,28006,40.4305898,-3.686383,"{'type': 'Point', 'coordinates': [-3.686383, 40.4305898]}",25-50€
+67,Metropolitan Palacio Santa Ana,4.1,"Junto al hotel Me de la, Plaza del Ángel, Plaza de Sta. Ana, 6, 28012 Madrid, Spain",3.0,spa,28012,40.41442,-3.7019151,"{'type': 'Point', 'coordinates': [-3.7019151, 40.41442]}",25-50€
+68,Kenika Thai Massage,4.8,"Paseo de la Habana, 42, Local, 28036 Madrid, Spain",3.0,spa,28036,40.4498992,-3.6876743,"{'type': 'Point', 'coordinates': [-3.6876743, 40.4498992]}",25-50€
+69,Quiromasaje Madrid,4.5,"Plaza del Callao, 28004 Madrid, Spain",3.0,spa,28004,40.420012,-3.7059,"{'type': 'Point', 'coordinates': [-3.7059, 40.420012]}",25-50€
+70,Redefinity spa,4.8,"Calle de Recoletos, 16, 28001 Madrid, Spain",3.0,spa,28001,40.421676,-3.689827,"{'type': 'Point', 'coordinates': [-3.689827, 40.421676]}",25-50€
+71,Relax Center,0.0,"Calle de Carretas, 14, 28012 Madrid, Spain",3.0,spa,28012,40.4149117,-3.7034487,"{'type': 'Point', 'coordinates': [-3.7034487, 40.4149117]}",25-50€
+72,Metropolitan Abascal,4.4,"Calle de José Abascal, 46, 28003 Madrid, Spain",3.0,spa,28003,40.4380095,-3.693803,"{'type': 'Point', 'coordinates': [-3.693803, 40.4380095]}",25-50€
+73,SPA D & C Beauty,3.9,"Calle del Dr. Santero, 10, 28039 Madrid, Spain",3.0,spa,28039,40.4477538,-3.705159799999999,"{'type': 'Point', 'coordinates': [-3.705159799999999, 40.4477538]}",25-50€
+74,Espacio de Bienestar,0.0,"Mercado de San Miguel, 28005, 28005, Madrid, Spain",3.0,spa,28005,40.4153716,-3.708997,"{'type': 'Point', 'coordinates': [-3.708997, 40.4153716]}",25-50€
+75,Centro de Relajacion Tailandes XXI S.L.,0.0,"Calle de Alcalá, 44, 28014 Madrid, Spain",3.0,spa,28014,40.4186243,-3.6958736,"{'type': 'Point', 'coordinates': [-3.6958736, 40.4186243]}",25-50€
+76,Connecting Divernis SPA,4.1,"Calle de Alcántara, 54, 28006 Madrid, Spain",3.0,spa,28006,40.43065,-3.673486,"{'type': 'Point', 'coordinates': [-3.673486, 40.43065]}",25-50€
+77,Premium Sauna Gay Madrid,2.6,"Calle de la Priora, 2, 28013 Madrid, Spain",3.0,spa,28013,40.418477,-3.708525,"{'type': 'Point', 'coordinates': [-3.708525, 40.418477]}",25-50€
+78,Masajes eróticos Zentopía,4.4,"Calle de Manuel Cortina, 9, 28010 Madrid, Spain",3.0,spa,28010,40.4308603,-3.697840599999999,"{'type': 'Point', 'coordinates': [-3.697840599999999, 40.4308603]}",25-50€
+79,TATSU BALI,4.0,"Calle de la Aduana, 23, 28013 Madrid, Spain",3.0,spa,28013,40.4185719,-3.7010569,"{'type': 'Point', 'coordinates': [-3.7010569, 40.4185719]}",25-50€
+80,Escape Room EXIT Madrid,4.7,"Calle de Caracas, 15, 28010 Madrid, Spain",2.0,escape room,28010,40.4308919,-3.694899899999999,"{'type': 'Point', 'coordinates': [-3.694899899999999, 40.4308919]}",15-25€
+81,Escape College Madrid / 8 Escape Room en pleno centro,4.4,"Calle de San Bernardo, 5, 28013 Madrid, Spain",2.0,escape room,28013,40.4210438,-3.7083478,"{'type': 'Point', 'coordinates': [-3.7083478, 40.4210438]}",15-25€
+82,Madrid Room Escape,4.3,"Calle de Orense, 4, 28020 Madrid, Spain",2.0,escape room,28020,40.4475789,-3.69518,"{'type': 'Point', 'coordinates': [-3.69518, 40.4475789]}",15-25€
+83,Fox in a Box Madrid Escape Room Madrid Chueca,4.7,"Calle de las Infantas, 25, 28004 Madrid, Spain",2.0,escape room,28004,40.42017999999999,-3.697661999999999,"{'type': 'Point', 'coordinates': [-3.697661999999999, 40.42017999999999]}",15-25€
+84,EXIT / EXIT - Trapped in the Museum - Game Escape Madrid,4.7,"C/ de Jesús del Valle, 32, 28004 Madrid, Spain",2.0,escape room,28004,40.424855,-3.703564,"{'type': 'Point', 'coordinates': [-3.703564, 40.424855]}",15-25€
 85,The Darkest Room - Escape Room Madrid,4.8,"Calle de Palencia, 31, 28020 Madrid, Spain",2.0,escape room,28020,40.4499108,-3.7010767,"{'type': 'Point', 'coordinates': [-3.7010767, 40.4499108]}",15-25€
-86,MAD Escape Room,4.6,"C/ de Donoso Cortés, 36, 28015 Madrid, Spain",2.0,escape room,28015,40.436325,-3.7095519,"{'type': 'Point', 'coordinates': [-3.7095519, 40.436325]}",1-15€
-87,Clue Hunter Madrid - Escape Room,4.7,"Calle juanelo 13, Local Izdo, 28012 Madrid, Spain",2.0,escape room,28012,40.4112,-3.705657,"{'type': 'Point', 'coordinates': [-3.705657, 40.4112]}",1-15€
+86,MAD Escape Room,4.6,"C/ de Donoso Cortés, 36, 28015 Madrid, Spain",2.0,escape room,28015,40.436325,-3.7095519,"{'type': 'Point', 'coordinates': [-3.7095519, 40.436325]}",15-25€
+87,Clue Hunter Madrid - Escape Room,4.7,"Calle juanelo 13, Local Izdo, 28012 Madrid, Spain",2.0,escape room,28012,40.4112,-3.705657,"{'type': 'Point', 'coordinates': [-3.705657, 40.4112]}",15-25€
 88,The Rombo Code® | Escape Room Madrid,4.6,"Calle de Fernández de los Ríos, 70, 28015 Madrid, Spain",2.0,escape room,28015,40.4353781,-3.7126084,"{'type': 'Point', 'coordinates': [-3.7126084, 40.4353781]}",15-25€
-89,59:59 Escape Room,4.5,"Calle de Fortunata y Jacinta, 5, 28020 Madrid, Spain",2.0,escape room,28020,40.4536953,-3.6987517,"{'type': 'Point', 'coordinates': [-3.6987517, 40.4536953]}",1-15€
-90,Room Escape - Enigma Madrid Game,4.9,"Calle Ntra. Sra. del Carmen, 7, 28039 Madrid, Spain",2.0,escape room,28039,40.4584008,-3.7021883,"{'type': 'Point', 'coordinates': [-3.7021883, 40.4584008]}",1-15€
-91,Parapark Primer Escape Room de Madrid,4.5,"Calle Manzana, 15, 28015 Madrid, Spain",2.0,escape room,28015,40.4239472,-3.708483,"{'type': 'Point', 'coordinates': [-3.708483, 40.4239472]}",1-15€
-92,Escape Room Komnata Madrid Sol,4.5,"Calle de Núñez de Arce, 14, Local bajo, 28012 Madrid, Spain",2.0,escape room,28012,40.415234,-3.701373,"{'type': 'Point', 'coordinates': [-3.701373, 40.415234]}",1-15€
+89,59:59 Escape Room,4.5,"Calle de Fortunata y Jacinta, 5, 28020 Madrid, Spain",2.0,escape room,28020,40.4536953,-3.6987517,"{'type': 'Point', 'coordinates': [-3.6987517, 40.4536953]}",15-25€
+90,Room Escape - Enigma Madrid Game,4.9,"Calle Ntra. Sra. del Carmen, 7, 28039 Madrid, Spain",2.0,escape room,28039,40.4584008,-3.7021883,"{'type': 'Point', 'coordinates': [-3.7021883, 40.4584008]}",15-25€
+91,Parapark Primer Escape Room de Madrid,4.5,"Calle Manzana, 15, 28015 Madrid, Spain",2.0,escape room,28015,40.4239472,-3.708483,"{'type': 'Point', 'coordinates': [-3.708483, 40.4239472]}",15-25€
+92,Escape Room Komnata Madrid Sol,4.5,"Calle de Núñez de Arce, 14, Local bajo, 28012 Madrid, Spain",2.0,escape room,28012,40.415234,-3.701373,"{'type': 'Point', 'coordinates': [-3.701373, 40.415234]}",15-25€
 93,The Room Escape Madrid,5.0,"Calle de Ros de Olano, 9, 28002 Madrid, Spain",2.0,escape room,28002,40.4442409,-3.671949199999999,"{'type': 'Point', 'coordinates': [-3.671949199999999, 40.4442409]}",15-25€
-94,Enigma Exprés - Escape Room (Sede Cuatro Caminos),4.6,"Plaza de la Condesa de Gavia, 3, 28020 Sede, Madrid, Spain",2.0,escape room,28020,40.4488164,-3.7017506,"{'type': 'Point', 'coordinates': [-3.7017506, 40.4488164]}",1-15€
-95,NCERRADOS ESCAPE ROOM MADRID,4.7,"Calle Boltaña, 40, Nave 1, 28022 Madrid, Spain",2.0,escape room,28022,40.444961,-3.612221,"{'type': 'Point', 'coordinates': [-3.612221, 40.444961]}",1-15€
-96,Madrid Terror Escape Room,4.9,"Paseo de la Esperanza, 53, 28005 Madrid, Spain",2.0,escape room,28005,40.3985456,-3.702484,"{'type': 'Point', 'coordinates': [-3.702484, 40.3985456]}",1-15€
-97,MINA MADRID ESCAPE ROOM,4.9,"Calle de Sambara, 94, 28027 Madrid, Spain",2.0,escape room,28027,40.4361153,-3.6456902,"{'type': 'Point', 'coordinates': [-3.6456902, 40.4361153]}",1-15€
-98,Dark Street Escape Room,4.8,"C. de la Amnistía, 3, 28013 Madrid, Spain",2.0,escape room,28013,40.4172552,-3.7103439,"{'type': 'Point', 'coordinates': [-3.7103439, 40.4172552]}",1-15€
+94,Enigma Exprés - Escape Room (Sede Cuatro Caminos),4.6,"Plaza de la Condesa de Gavia, 3, 28020 Sede, Madrid, Spain",2.0,escape room,28020,40.4488164,-3.7017506,"{'type': 'Point', 'coordinates': [-3.7017506, 40.4488164]}",15-25€
+95,NCERRADOS ESCAPE ROOM MADRID,4.7,"Calle Boltaña, 40, Nave 1, 28022 Madrid, Spain",2.0,escape room,28022,40.444961,-3.612221,"{'type': 'Point', 'coordinates': [-3.612221, 40.444961]}",15-25€
+96,Madrid Terror Escape Room,4.9,"Paseo de la Esperanza, 53, 28005 Madrid, Spain",2.0,escape room,28005,40.3985456,-3.702484,"{'type': 'Point', 'coordinates': [-3.702484, 40.3985456]}",15-25€
+97,MINA MADRID ESCAPE ROOM,4.9,"Calle de Sambara, 94, 28027 Madrid, Spain",2.0,escape room,28027,40.4361153,-3.6456902,"{'type': 'Point', 'coordinates': [-3.6456902, 40.4361153]}",15-25€
+98,Dark Street Escape Room,4.8,"C. de la Amnistía, 3, 28013 Madrid, Spain",2.0,escape room,28013,40.4172552,-3.7103439,"{'type': 'Point', 'coordinates': [-3.7103439, 40.4172552]}",15-25€
 99,ActionHouse - Room Escape & Roleplaying,4.9,"Calle Luis Vives, 6, Local Izquierda, Puerta Morada, 28002 Madrid, Spain",2.0,escape room,28002,40.443663,-3.676387199999999,"{'type': 'Point', 'coordinates': [-3.676387199999999, 40.443663]}",15-25€
 100,Escape Room A Domicilio,4.7,"Calle de María de Molina, 66, 28006 Madrid, Spain",2.0,escape room,28006,40.4372415,-3.6782569,"{'type': 'Point', 'coordinates': [-3.6782569, 40.4372415]}",15-25€
-101,Experiencity Escape Room,4.9,"Plaza de Francisco Morano, 3, 28005 Madrid, Spain",2.0,escape room,28005,40.4048526,-3.7163837,"{'type': 'Point', 'coordinates': [-3.7163837, 40.4048526]}",1-15€
-102,Incognito Escape Game,4.9,"Calle de Linneo, 4, 28005 Madrid, Spain",2.0,escape room,28005,40.4134561,-3.7205637,"{'type': 'Point', 'coordinates': [-3.7205637, 40.4134561]}",1-15€
-103,The Rombo Code Escape Room Madrid,4.6,"Calle de Meléndez Valdés, 18, 28015 Madrid, Spain",2.0,escape room,28015,40.4329883,-3.7100927,"{'type': 'Point', 'coordinates': [-3.7100927, 40.4329883]}",1-15€
-104,Escape Room Road Out,5.0,"Calle Electrónica, 6, 28027 Madrid, Spain",2.0,escape room,28027,40.4406898,-3.65421,"{'type': 'Point', 'coordinates': [-3.65421, 40.4406898]}",1-15€
-105,Fox in a Box Escape Room Madrid Centro,4.8,"C/ del Áncora, 12, 28045 Madrid, Spain",2.0,escape room,28045,40.40278199999999,-3.6920181,"{'type': 'Point', 'coordinates': [-3.6920181, 40.40278199999999]}",1-15€
-106,Escape Room RK Games Madrid - Ciencia ficción & Role playing,4.8,"Calle Mendívil, 58, 28038 Madrid, Spain",2.0,escape room,28038,40.3990702,-3.662422899999999,"{'type': 'Point', 'coordinates': [-3.662422899999999, 40.3990702]}",1-15€
-107,La Casa de Papel: Escape Room,4.4,"Calle de Jorge Juan, 99, 28009 Madrid, Spain",2.0,escape room,28009,40.4233225,-3.6721373,"{'type': 'Point', 'coordinates': [-3.6721373, 40.4233225]}",1-15€
+101,Experiencity Escape Room,4.9,"Plaza de Francisco Morano, 3, 28005 Madrid, Spain",2.0,escape room,28005,40.4048526,-3.7163837,"{'type': 'Point', 'coordinates': [-3.7163837, 40.4048526]}",15-25€
+102,Incognito Escape Game,4.9,"Calle de Linneo, 4, 28005 Madrid, Spain",2.0,escape room,28005,40.4134561,-3.7205637,"{'type': 'Point', 'coordinates': [-3.7205637, 40.4134561]}",15-25€
+103,The Rombo Code Escape Room Madrid,4.6,"Calle de Meléndez Valdés, 18, 28015 Madrid, Spain",2.0,escape room,28015,40.4329883,-3.7100927,"{'type': 'Point', 'coordinates': [-3.7100927, 40.4329883]}",15-25€
+104,Escape Room Road Out,5.0,"Calle Electrónica, 6, 28027 Madrid, Spain",2.0,escape room,28027,40.4406898,-3.65421,"{'type': 'Point', 'coordinates': [-3.65421, 40.4406898]}",15-25€
+105,Fox in a Box Escape Room Madrid Centro,4.8,"C/ del Áncora, 12, 28045 Madrid, Spain",2.0,escape room,28045,40.40278199999999,-3.6920181,"{'type': 'Point', 'coordinates': [-3.6920181, 40.40278199999999]}",15-25€
+106,Escape Room RK Games Madrid - Ciencia ficción & Role playing,4.8,"Calle Mendívil, 58, 28038 Madrid, Spain",2.0,escape room,28038,40.3990702,-3.662422899999999,"{'type': 'Point', 'coordinates': [-3.662422899999999, 40.3990702]}",15-25€
+107,La Casa de Papel: Escape Room,4.4,"Calle de Jorge Juan, 99, 28009 Madrid, Spain",2.0,escape room,28009,40.4233225,-3.6721373,"{'type': 'Point', 'coordinates': [-3.6721373, 40.4233225]}",15-25€
 108,Esfinge Escape Room,4.8,"Calle de Canillas, 12, 28002 Madrid, Spain",2.0,escape room,28002,40.4406997,-3.6768546,"{'type': 'Point', 'coordinates': [-3.6768546, 40.4406997]}",15-25€
-109,Hermético Escape Rooms,4.7,"Calle de Sta Engracia, 15, 28010 Madrid, Spain",2.0,escape room,28010,40.4299764,-3.6968354,"{'type': 'Point', 'coordinates': [-3.6968354, 40.4299764]}",1-15€
-110,Escape Room El Búho Games,5.0,"Plaza de las Comendadoras, 28015 Madrid, Spain",2.0,escape room,28015,40.4270546,-3.7091798,"{'type': 'Point', 'coordinates': [-3.7091798, 40.4270546]}",1-15€
-111,Dale al Coco Room Escape,4.9,"Calle de San Cayetano, 3B, Local, 28005 Madrid, Spain",2.0,escape room,28005,40.4093346,-3.7064017,"{'type': 'Point', 'coordinates': [-3.7064017, 40.4093346]}",1-15€
-112,Escape Room Madrid - Coco Room,4.7,"C. de Moratines, 18, 28005 Madrid, Spain",2.0,escape room,28005,40.40265,-3.703896,"{'type': 'Point', 'coordinates': [-3.703896, 40.40265]}",1-15€
+109,Hermético Escape Rooms,4.7,"Calle de Sta Engracia, 15, 28010 Madrid, Spain",2.0,escape room,28010,40.4299764,-3.6968354,"{'type': 'Point', 'coordinates': [-3.6968354, 40.4299764]}",15-25€
+110,Escape Room El Búho Games,5.0,"Plaza de las Comendadoras, 28015 Madrid, Spain",2.0,escape room,28015,40.4270546,-3.7091798,"{'type': 'Point', 'coordinates': [-3.7091798, 40.4270546]}",15-25€
+111,Dale al Coco Room Escape,4.9,"Calle de San Cayetano, 3B, Local, 28005 Madrid, Spain",2.0,escape room,28005,40.4093346,-3.7064017,"{'type': 'Point', 'coordinates': [-3.7064017, 40.4093346]}",15-25€
+112,Escape Room Madrid - Coco Room,4.7,"C. de Moratines, 18, 28005 Madrid, Spain",2.0,escape room,28005,40.40265,-3.703896,"{'type': 'Point', 'coordinates': [-3.703896, 40.40265]}",15-25€
 113,The Box - Escape Room,4.7,"Calle de Covarrubias, 22, 28010 Madrid, Spain",2.0,escape room,28010,40.4300619,-3.6975783,"{'type': 'Point', 'coordinates': [-3.6975783, 40.4300619]}",15-25€
-114,Golden Escape Room Madrid (Coslada),4.7,"Av. de Madrid, 18, 28822 Coslada, Madrid, Spain",2.0,escape room,28822,40.4210257,-3.5419188,"{'type': 'Point', 'coordinates': [-3.5419188, 40.4210257]}",1-15€
-115,Linked Minds Escape Room,4.8,"Calle de Pizarro, 22, Dcha, 28004 Madrid, Spain",2.0,escape room,28004,40.4234971,-3.7055439,"{'type': 'Point', 'coordinates': [-3.7055439, 40.4234971]}",1-15€
-116,La Estación Escape Room,4.9,"Centro Comercial Alcalá Norte Semisotano 8/9, 28027 Madrid, Spain",2.0,escape room,28027,40.4369717,-3.6377692,"{'type': 'Point', 'coordinates': [-3.6377692, 40.4369717]}",1-15€
-117,Mindtrap Escape Rooms,4.9,"Calle de Sebastián Elcano, 21, Local, 28012 Madrid, Spain",2.0,escape room,28012,40.4051045,-3.6982029,"{'type': 'Point', 'coordinates': [-3.6982029, 40.4051045]}",1-15€
-118,Yaebi Escape Room,4.8,"Calle de San Jaime, 60, 28031 Madrid, Spain",2.0,escape room,28031,40.3809922,-3.6248843,"{'type': 'Point', 'coordinates': [-3.6248843, 40.3809922]}",1-15€
-119,Cubick Madrid Room Escape,4.9,"Calle de Téllez, 3, 28007 Madrid, Spain",2.0,escape room,28007,40.4041722,-3.6831743,"{'type': 'Point', 'coordinates': [-3.6831743, 40.4041722]}",1-15€
+114,Golden Escape Room Madrid (Coslada),4.7,"Av. de Madrid, 18, 28822 Coslada, Madrid, Spain",2.0,escape room,28822,40.4210257,-3.5419188,"{'type': 'Point', 'coordinates': [-3.5419188, 40.4210257]}",15-25€
+115,Linked Minds Escape Room,4.8,"Calle de Pizarro, 22, Dcha, 28004 Madrid, Spain",2.0,escape room,28004,40.4234971,-3.7055439,"{'type': 'Point', 'coordinates': [-3.7055439, 40.4234971]}",15-25€
+116,La Estación Escape Room,4.9,"Centro Comercial Alcalá Norte Semisotano 8/9, 28027 Madrid, Spain",2.0,escape room,28027,40.4369717,-3.6377692,"{'type': 'Point', 'coordinates': [-3.6377692, 40.4369717]}",15-25€
+117,Mindtrap Escape Rooms,4.9,"Calle de Sebastián Elcano, 21, Local, 28012 Madrid, Spain",2.0,escape room,28012,40.4051045,-3.6982029,"{'type': 'Point', 'coordinates': [-3.6982029, 40.4051045]}",15-25€
+118,Yaebi Escape Room,4.8,"Calle de San Jaime, 60, 28031 Madrid, Spain",2.0,escape room,28031,40.3809922,-3.6248843,"{'type': 'Point', 'coordinates': [-3.6248843, 40.3809922]}",15-25€
+119,Cubick Madrid Room Escape,4.9,"Calle de Téllez, 3, 28007 Madrid, Spain",2.0,escape room,28007,40.4041722,-3.6831743,"{'type': 'Point', 'coordinates': [-3.6831743, 40.4041722]}",15-25€
 120,Escape room - Resolve Solve It,4.6,"Calle de Rafael de Riego, 27, 28045 Madrid, Spain",2.0,escape room,28045,40.4025557,-3.6921549,"{'type': 'Point', 'coordinates': [-3.6921549, 40.4025557]}",15-25€
 121,The X-Door Madrid (Centro),4.4,"1, C/ Gran Vía, 16, 28013 Madrid, Spain",2.0,escape room,28013,40.4196696,-3.698907599999999,"{'type': 'Point', 'coordinates': [-3.698907599999999, 40.4196696]}",15-25€
-122,Next Door Escape room,4.7,"Calle del Nuncio, 11, Bajo, 28005 Madrid, Spain",2.0,escape room,28005,40.4133436,-3.7092143,"{'type': 'Point', 'coordinates': [-3.7092143, 40.4133436]}",1-15€
+122,Next Door Escape room,4.7,"Calle del Nuncio, 11, Bajo, 28005 Madrid, Spain",2.0,escape room,28005,40.4133436,-3.7092143,"{'type': 'Point', 'coordinates': [-3.7092143, 40.4133436]}",15-25€
 123,Los Escapistas Madrid,4.5,"Calle San Leopoldo, 27, 28029 Madrid, Spain",2.0,escape room,28029,40.4697709,-3.6920309,"{'type': 'Point', 'coordinates': [-3.6920309, 40.4697709]}",15-25€
 124,The big escape,4.8,"Calle del Amparo, 32, 28012 Madrid, Spain",2.0,escape room,28012,40.4094107,-3.7029556,"{'type': 'Point', 'coordinates': [-3.7029556, 40.4094107]}",15-25€
 125,Zig Zag Escape Room,4.9,"Calle de la Parra, 41, 28025 Madrid, Spain",2.0,escape room,28025,40.3872095,-3.7315664,"{'type': 'Point', 'coordinates': [-3.7315664, 40.3872095]}",15-25€
 126,Experiencia Escape Room,4.7,"Calle Ramón Sainz, 34, 28025 Madrid, Spain",2.0,escape room,28025,40.3882629,-3.7388171,"{'type': 'Point', 'coordinates': [-3.7388171, 40.3882629]}",15-25€
-127,Locktopus Escape Game,5.0,"Calle de la Batalla del Salado, 2, 28045 Madrid, Spain",2.0,escape room,28045,40.4040562,-3.6959027,"{'type': 'Point', 'coordinates': [-3.6959027, 40.4040562]}",1-15€
+127,Locktopus Escape Game,5.0,"Calle de la Batalla del Salado, 2, 28045 Madrid, Spain",2.0,escape room,28045,40.4040562,-3.6959027,"{'type': 'Point', 'coordinates': [-3.6959027, 40.4040562]}",15-25€
 128,The SafeKey Escape Room Madrid,5.0,"Calle Fernando Chueca Goitia, 52, local, 28051 Madrid, Spain",2.0,escape room,28051,40.3622123,-3.5933935,"{'type': 'Point', 'coordinates': [-3.5933935, 40.3622123]}",15-25€
-129,CSI MadRoom - Escape room madrid,4.4,"Calle del Espíritu Santo, 23, 28004 Madrid, Spain",2.0,escape room,28004,40.4254227,-3.7046687,"{'type': 'Point', 'coordinates': [-3.7046687, 40.4254227]}",1-15€
-130,Rubikon Escape Room,5.0,"Cuesta de San Vicente, 22, 28008 Madrid, Spain",2.0,escape room,28008,40.4206855,-3.7153238,"{'type': 'Point', 'coordinates': [-3.7153238, 40.4206855]}",1-15€
-131,The Riddle Society - Escape Room,4.3,"Calle Esteban de Arteaga, 5, 28019 Madrid, Spain",2.0,escape room,28019,40.3952833,-3.7093212,"{'type': 'Point', 'coordinates': [-3.7093212, 40.3952833]}",1-15€
+129,CSI MadRoom - Escape room madrid,4.4,"Calle del Espíritu Santo, 23, 28004 Madrid, Spain",2.0,escape room,28004,40.4254227,-3.7046687,"{'type': 'Point', 'coordinates': [-3.7046687, 40.4254227]}",15-25€
+130,Rubikon Escape Room,5.0,"Cuesta de San Vicente, 22, 28008 Madrid, Spain",2.0,escape room,28008,40.4206855,-3.7153238,"{'type': 'Point', 'coordinates': [-3.7153238, 40.4206855]}",15-25€
+131,The Riddle Society - Escape Room,4.3,"Calle Esteban de Arteaga, 5, 28019 Madrid, Spain",2.0,escape room,28019,40.3952833,-3.7093212,"{'type': 'Point', 'coordinates': [-3.7093212, 40.3952833]}",15-25€
 132,BrainBreak,4.7,"Calle de la Encomienda, 12, 28012 Madrid, Spain",2.0,escape room,28012,40.410807,-3.7057265,"{'type': 'Point', 'coordinates': [-3.7057265, 40.410807]}",15-25€
-133,Escape The City Madrid,4.6,"Calle del Duque de Alba, 15, 1º, 28012 Madrid, Spain",2.0,escape room,28012,40.4115343,-3.7066662,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4115343]}",1-15€
-134,TRIVIUS Escape Room Madrid,0.0,"Calle Germán Pérez Carrasco, 78, Local Izquierda, 28027 Madrid, Spain",2.0,escape room,28027,40.4371507,-3.641432099999999,"{'type': 'Point', 'coordinates': [-3.641432099999999, 40.4371507]}",1-15€
+133,Escape The City Madrid,4.6,"Calle del Duque de Alba, 15, 1º, 28012 Madrid, Spain",2.0,escape room,28012,40.4115343,-3.7066662,"{'type': 'Point', 'coordinates': [-3.7066662, 40.4115343]}",15-25€
+134,TRIVIUS Escape Room Madrid,0.0,"Calle Germán Pérez Carrasco, 78, Local Izquierda, 28027 Madrid, Spain",2.0,escape room,28027,40.4371507,-3.641432099999999,"{'type': 'Point', 'coordinates': [-3.641432099999999, 40.4371507]}",15-25€
 135,INTUITION ESCAPE ROOM,4.9,"Calle Luis Piernas, 14, 28017 Madrid, Spain",2.0,escape room,28017,40.42568139999999,-3.6543717,"{'type': 'Point', 'coordinates': [-3.6543717, 40.42568139999999]}",15-25€
 136,Aventurico,4.6,"Calle Alejandro González, 3, 28028 Madrid, Spain",2.0,escape room,28028,40.4300792,-3.6635114,"{'type': 'Point', 'coordinates': [-3.6635114, 40.4300792]}",15-25€
-137,Golden Celebraciones,4.9,"Paseo de las Yeserías, 63, 28005 Madrid, Spain",2.0,escape room,28005,40.3971772,-3.7044319,"{'type': 'Point', 'coordinates': [-3.7044319, 40.3971772]}",1-15€
+137,Golden Celebraciones,4.9,"Paseo de las Yeserías, 63, 28005 Madrid, Spain",2.0,escape room,28005,40.3971772,-3.7044319,"{'type': 'Point', 'coordinates': [-3.7044319, 40.3971772]}",15-25€
 138,Escape Room Instinto,5.0,"C/ Gran Vía, 28, 28013 Madrid, Spain",2.0,escape room,28013,40.4201773,-3.7017126,"{'type': 'Point', 'coordinates': [-3.7017126, 40.4201773]}",15-25€
-139,Dale al Coco 2 Room Escape,3.0,"Calle de la Magdalena, 11, 28012 Madrid, Spain",2.0,escape room,28012,40.4124139,-3.7020164,"{'type': 'Point', 'coordinates': [-3.7020164, 40.4124139]}",1-15€
-140,Pista de Hielo Madrid,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4630082,-3.6378945,"{'type': 'Point', 'coordinates': [-3.6378945, 40.4630082]}",1-15€
-141,Pista Patinaje,4.1,"Plaza Puerto Rubio, 16, 28053 Madrid, Spain",,skating,28053,40.3963014,-3.6672014,"{'type': 'Point', 'coordinates': [-3.6672014, 40.3963014]}",15-25€
-142,Pista de Hielo Matadero,2.9,"28045 Madrid, Spain",,skating,28045,40.391165,-3.6976585,"{'type': 'Point', 'coordinates': [-3.6976585, 40.391165]}",1-15€
-143,Ice Pavilion Leganes,4.2,"Av. de Alemania, 2, 28916 Leganés, Madrid, Spain",,skating,28916,40.3327331,-3.744467,"{'type': 'Point', 'coordinates': [-3.744467, 40.3327331]}",15-25€
-144,Pista de patinaje Madrid Rio,4.5,"Autopista de Circunvalación M-30, 28045 Madrid, Spain",,skating,28045,40.3943447,-3.7014028,"{'type': 'Point', 'coordinates': [-3.7014028, 40.3943447]}",1-15€
-145,Roller Center Madrid,4.1,"Cl. de la Hacienda de Pavones, 196, Primera Planta, 28030 Madrid, Spain",,skating,28030,40.4017318,-3.6407718,"{'type': 'Point', 'coordinates': [-3.6407718, 40.4017318]}",1-15€
-146,Pista de Patinaje - rollermania,4.4,"Calle Sinesio Delgado, 20, 28035 Madrid, Spain",,skating,28035,40.4642839,-3.7202755,"{'type': 'Point', 'coordinates': [-3.7202755, 40.4642839]}",1-15€
-147,Pista de Patinaje,3.7,"28043 Madrid, Spain",,skating,28043,40.4649384,-3.6367566,"{'type': 'Point', 'coordinates': [-3.6367566, 40.4649384]}",1-15€
-148,Patinaje JCI,4.0,"28042 Madrid, Spain",,skating,28042,40.4650353,-3.6091841,"{'type': 'Point', 'coordinates': [-3.6091841, 40.4650353]}",15-25€
-149,Pista De Patinaje,3.6,"Calle Alar del Rey, 35, 28042 Madrid, Spain",,skating,28042,40.4734261,-3.584136,"{'type': 'Point', 'coordinates': [-3.584136, 40.4734261]}",15-25€
-150,Ice Rink Factory,0.0,"Calle de José Ortega y Gasset, 28006 Madrid, Spain",,skating,28006,40.4301418,-3.6802139,"{'type': 'Point', 'coordinates': [-3.6802139, 40.4301418]}",15-25€
-151,Palacio de Hielo,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4631976,-3.6373448,"{'type': 'Point', 'coordinates': [-3.6373448, 40.4631976]}",1-15€
-152,Pista de patinaje/zona multiusos del Centro Comercial La Vaguada,0.0,"C.C La Vaguada, Av. de Monforte de Lemos, S/N, 28029 Madrid, Spain",,skating,28029,40.4800858,-3.7061872,"{'type': 'Point', 'coordinates': [-3.7061872, 40.4800858]}",1-15€
-153,Rollermaniacos - Pista de Patinaje Pública,4.5,"28029 Madrid, Spain",,skating,28029,40.470699,-3.7051826,"{'type': 'Point', 'coordinates': [-3.7051826, 40.470699]}",1-15€
-154,Madrid Skating School,5.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",,skating,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}",15-25€
-155,Roller skating rink,3.7,"28032 Madrid, Spain",,skating,28032,40.3999785,-3.6088801,"{'type': 'Point', 'coordinates': [-3.6088801, 40.3999785]}",1-15€
-156,Pista Patinaje Municipal,4.2,"Av. de Niza, 4, 28022 Madrid, Spain",,skating,28022,40.4289101,-3.606638,"{'type': 'Point', 'coordinates': [-3.606638, 40.4289101]}",1-15€
-157,pista de patinaje,4.6,"Calle de Cañada del Santísimo, 3, 28051 Madrid, Spain",,skating,28051,40.3688851,-3.5948593,"{'type': 'Point', 'coordinates': [-3.5948593, 40.3688851]}",1-15€
-158,Pista de patinaje,4.7,"Alcorcón, Madrid, Spain",,skating,,40.3574308,-3.8134927,"{'type': 'Point', 'coordinates': [-3.8134927, 40.3574308]}",15-25€
-159,Pista de patinaje,4.0,"28903 Getafe, Madrid, Spain",,skating,28903,40.3216863,-3.7150997,"{'type': 'Point', 'coordinates': [-3.7150997, 40.3216863]}",15-25€
-160,Carlos Sainz Karting Madrid,4.3,"Calle Sepúlveda, 3, 28011 Madrid, Spain",3.0,karts,28011,40.4065776,-3.7270776,"{'type': 'Point', 'coordinates': [-3.7270776, 40.4065776]}",15-25€
-161,Karting Club Paracuellos,4.5,"Calle de la Ronda de la Fuente, 2850K, 28860 Paracuellos de Jarama, Madrid, Spain",3.0,karts,28860,40.5250968,-3.5460779,"{'type': 'Point', 'coordinates': [-3.5460779, 40.5250968]}",1-15€
-162,Karting Rivas,4.5,"Calle de la Fundición, 89, 28522 Rivas-Vaciamadrid, Madrid, Spain",3.0,karts,28522,40.3471298,-3.5353365,"{'type': 'Point', 'coordinates': [-3.5353365, 40.3471298]}",15-25€
-163,Icekart karting madrid,0.0,"Calle de Silvano, 77, 28043 Madrid, Spain",3.0,karts,28043,40.4632213,-3.6370595,"{'type': 'Point', 'coordinates': [-3.6370595, 40.4632213]}",15-25€
-164,Carlos Sainz Center Las Rozas,4.3,"Parque Empresarial Európolis, Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",3.0,karts,28232,40.5007582,-3.8940375,"{'type': 'Point', 'coordinates': [-3.8940375, 40.5007582]}",1-15€
-165,Outdoor Karting Formula Zero,4.3,"Calle Verano, 4A, 28914 Leganés, Madrid, Spain",3.0,karts,28914,40.3000642,-3.773593099999999,"{'type': 'Point', 'coordinates': [-3.773593099999999, 40.3000642]}",1-15€
-166,Jarama Karting,4.4,"Paseo del Circuito, 28707 Ciudalcampo, Madrid, Spain",3.0,karts,28707,40.613604,-3.583227,"{'type': 'Point', 'coordinates': [-3.583227, 40.613604]}",1-15€
-167,"Henakart, karts madrid",4.6,"km 3,600 Carretera de Torrejon a Loeches, 28830, Madrid, Spain",3.0,karts,28830,40.4277338,-3.444291,"{'type': 'Point', 'coordinates': [-3.444291, 40.4277338]}",15-25€
-168,Karting Asupark,4.0,"Ctra. de Móstoles a Villaviciosa, 0, 28670 Villaviciosa de Odón, Madrid, Spain",3.0,karts,28670,40.3920774,-3.90209,"{'type': 'Point', 'coordinates': [-3.90209, 40.3920774]}",15-25€
-169,Kids Área Somontes,4.6,"Complejo Deportivo Somontes, Carr Madrid-El Pardo, Km 3, 4, 28035 Madrid, Spain",3.0,karts,28035,40.49044689999999,-3.7560045,"{'type': 'Point', 'coordinates': [-3.7560045, 40.49044689999999]}",15-25€
-170,Karting Madrid Angel Burgueño,4.6,"Vía de Servicio A-1, salida 47, 28723 Pedrezuela, Madrid, Spain",3.0,karts,28723,40.7561648,-3.5999868,"{'type': 'Point', 'coordinates': [-3.5999868, 40.7561648]}",1-15€
-171,Mini Quad,0.0,"Paseo de los Cipreses, 764, 28850 Torrejón de Ardoz, Madrid, Spain",3.0,karts,28850,40.4474068,-3.4533682,"{'type': 'Point', 'coordinates': [-3.4533682, 40.4474068]}",1-15€
-172,Karting,0.0,"Calle Sepúlveda, 3, 28011 Madrid, Spain",3.0,karts,28011,40.4067582,-3.7266508,"{'type': 'Point', 'coordinates': [-3.7266508, 40.4067582]}",1-15€
-173,Karting,0.0,"M-206, 28830 San Fernando de Henares, Madrid, Spain",3.0,karts,28830,40.4292048,-3.4442786,"{'type': 'Point', 'coordinates': [-3.4442786, 40.4292048]}",15-25€
-174,Karting Club Los Santos,4.5,"Calle del, Calle Canal de Isabel II, KM 1, 28817 Los Santos de la Humosa, Madrid, Spain",3.0,karts,28817,40.4942436,-3.2502384,"{'type': 'Point', 'coordinates': [-3.2502384, 40.4942436]}",1-15€
-175,karting Pinto,5.0,"Nacional, A4 km 20, 28320 Pinto, Madrid, Spain",3.0,karts,28320,40.2457853,-3.6895946,"{'type': 'Point', 'coordinates': [-3.6895946, 40.2457853]}",1-15€
-176,Circuito Montoya,3.7,"M-311, Km.9, 4, 28530 Morata de Tajuña, Madrid, Spain",3.0,karts,28530,40.213854,-3.468126,"{'type': 'Point', 'coordinates': [-3.468126, 40.213854]}",1-15€
-177,Action Live Laser Tag (Oficinas),4.9,"Paseo de S. Fco. de Sales, 41, Local 2, 28003 Madrid, Spain",3.0,laser tag,28003,40.444814,-3.709718,"{'type': 'Point', 'coordinates': [-3.709718, 40.444814]}",1-15€
-178,Lasercity - Madrid,4.7,"Av. Einstein, 28703 San Sebastián de los Reyes, Madrid, Spain",3.0,laser tag,28703,40.5409934,-3.6105399,"{'type': 'Point', 'coordinates': [-3.6105399, 40.5409934]}",15-25€
-179,Madrid Laser Combat,4.7,"Calle Manuel Pombo Angulo, 10, 1-5 5, 28050 Madrid, Spain",3.0,laser tag,28050,40.5061209,-3.6564377,"{'type': 'Point', 'coordinates': [-3.6564377, 40.5061209]}",1-15€
-180,Combat Arena,4.5,"Poligono Industrial los Areneros, 12, 28521 Rivas-Vaciamadrid, Madrid, Spain",3.0,laser tag,28521,40.3285413,-3.5222779,"{'type': 'Point', 'coordinates': [-3.5222779, 40.3285413]}",1-15€
-181,Madrid Láser Combat Campo Norte,4.6,"Camino de la Alberca, 20, 28708 San Sebastián de los Reyes, Madrid, Spain",3.0,laser tag,28708,40.5891414,-3.5815768,"{'type': 'Point', 'coordinates': [-3.5815768, 40.5891414]}",15-25€
-182,Multiaventura Park en Madrid - Las Rozas,4.5,"Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",3.0,laser tag,28232,40.5007512,-3.894031499999999,"{'type': 'Point', 'coordinates': [-3.894031499999999, 40.5007512]}",15-25€
-183,NiceShot,3.7,"Calle Puerto Guadarrama, 36, 28935 Móstoles, Madrid, Spain",3.0,laser tag,28935,40.3508253,-3.8750958,"{'type': 'Point', 'coordinates': [-3.8750958, 40.3508253]}",15-25€
-185,LASER TAG,0.0,"28860 Paracuellos de Jarama, Madrid, Spain",3.0,laser tag,28860,40.478221,-3.5029019,"{'type': 'Point', 'coordinates': [-3.5029019, 40.478221]}",1-15€
-188,virtual reality diversion,5.0,"Av. de los Labradores, 9, 11, 28760 Tres Cantos, Madrid, Spain",3.0,laser tag,28760,40.5995715,-3.7094017,"{'type': 'Point', 'coordinates': [-3.7094017, 40.5995715]}",1-15€
-197,WINDOBONA Indoor Skydiving Madrid,4.6,"Calle Calderilla, 16, 28054 Madrid, Spain",,wind tunnel,28054,40.3640215,-3.739970699999999,"{'type': 'Point', 'coordinates': [-3.739970699999999, 40.3640215]}",15-25€
-198,MADRID FLY - Túnel de viento,4.6,"Av. Ntra. Señora del Retamar, 16, 28232 Las Rozas de Madrid, Madrid, Spain",,wind tunnel,28232,40.5055949,-3.888615699999999,"{'type': 'Point', 'coordinates': [-3.888615699999999, 40.5055949]}",1-15€
-203,Pintor Rosales - Teleférico,4.7,"28008 Madrid, Spain",,cableway,28008,40.42941,-3.72228,"{'type': 'Point', 'coordinates': [-3.72228, 40.42941]}",1-15€
-205,BoulderMadrid,4.8,"Calle del Hachero, 12, 28053 Madrid, Spain",,climbing,28053,40.391332,-3.669622999999999,"{'type': 'Point', 'coordinates': [-3.669622999999999, 40.391332]}",15-25€
-206,Rocódromo Urban Monkey - Madrid,4.5,"C/ Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.4016192,-3.697531499999999,"{'type': 'Point', 'coordinates': [-3.697531499999999, 40.4016192]}",15-25€
-207,Sputnik Climbing Center,4.6,"Calle la Granja, 100, 28108 Alcobendas, Madrid, Spain",,climbing,28108,40.5359884,-3.656612,"{'type': 'Point', 'coordinates': [-3.656612, 40.5359884]}",15-25€
-208,Sharma Climbing Madrid,4.4,"C. de Julián Camarillo, 55, 28037 Madrid, Spain",,climbing,28037,40.43776,-3.62015,"{'type': 'Point', 'coordinates': [-3.62015, 40.43776]}",15-25€
-209,Rockomadrid,4.7,"Calle Monasterio de Leyre, 9, 28029 Madrid, Spain",,climbing,28029,40.4653457,-3.6959251,"{'type': 'Point', 'coordinates': [-3.6959251, 40.4653457]}",1-15€
-210,The Climb - Centro Escalada Madrid,4.5,"Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468025,-3.8010128,"{'type': 'Point', 'coordinates': [-3.8010128, 40.3468025]}",1-15€
-211,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"Calle de Azcona, 44, 28028 Madrid, Spain",,climbing,28028,40.434493,-3.668765,"{'type': 'Point', 'coordinates': [-3.668765, 40.434493]}",1-15€
-212,Rocódromo Espacio Acción,4.6,"Calle de Marcelino Álvarez, 6, 28017 Madrid, Spain",,climbing,28017,40.4318495,-3.6541671,"{'type': 'Point', 'coordinates': [-3.6541671, 40.4318495]}",1-15€
-213,Madrid Vertical,4.5,"Calle Sofía, 34, 28022 Madrid, Spain",,climbing,28022,40.4254975,-3.6005343,"{'type': 'Point', 'coordinates': [-3.6005343, 40.4254975]}",1-15€
-214,ESCALADA en MADRID,0.0,"Cl de las Huertas, 13, 28160 Madrid, Spain",,climbing,28160,40.4140442,-3.7005575,"{'type': 'Point', 'coordinates': [-3.7005575, 40.4140442]}",1-15€
-215,Roc 30 Climbing wall,4.4,"P.º de San Illán, 106, 28019 Madrid, Spain",,climbing,28019,40.399208,-3.7188064,"{'type': 'Point', 'coordinates': [-3.7188064, 40.399208]}",1-15€
-216,"Fisura, tienda de escalada",4.8,"Calle de Feijóo, 4, 28010 Madrid, Spain",,climbing,28010,40.4346793,-3.7039355,"{'type': 'Point', 'coordinates': [-3.7039355, 40.4346793]}",15-25€
-217,Rock Climbing,2.5,"Calle de Medellín, Nº10, 4º 2, 28010 Madrid, Spain",,climbing,28010,40.4359813,-3.6998333,"{'type': 'Point', 'coordinates': [-3.6998333, 40.4359813]}",1-15€
-218,Rocódromo de Manoteras,4.4,"Calle de Somontín, 9, 28033 Madrid, Spain",,climbing,28033,40.4761204,-3.6627938,"{'type': 'Point', 'coordinates': [-3.6627938, 40.4761204]}",1-15€
-219,Rocódromo,4.5,"C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",,climbing,28007,40.4189666,-3.6648105,"{'type': 'Point', 'coordinates': [-3.6648105, 40.4189666]}",15-25€
-220,Rocodromo Escalada Planetario,4.5,"Calle de la Antracita, 37, 28045 Madrid, Spain",,climbing,28045,40.3930988,-3.6862681,"{'type': 'Point', 'coordinates': [-3.6862681, 40.3930988]}",15-25€
-221,The Climb Kids,4.5,"Polígono Industrial San José de Valderas, Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468176,-3.801027599999999,"{'type': 'Point', 'coordinates': [-3.801027599999999, 40.3468176]}",1-15€
-222,Rocódromo de Hortaleza,4.0,"Calle de la Costa del Sol, 12, 28033 Madrid, Spain",,climbing,28033,40.4737131,-3.6516281,"{'type': 'Point', 'coordinates': [-3.6516281, 40.4737131]}",1-15€
-223,Salamandra Boulder Café Rocodromo,4.4,"Calle Escosura, 5, 28015 Madrid, Spain",,climbing,28015,40.4343683,-3.7069969,"{'type': 'Point', 'coordinates': [-3.7069969, 40.4343683]}",1-15€
-224,Complutense Climbing Wall,2.9,"Av. Juan de Herrera, s/n, 28040 Madrid, Spain",,climbing,28040,40.4391927,-3.7274939,"{'type': 'Point', 'coordinates': [-3.7274939, 40.4391927]}",1-15€
-225,Amadablam Viajes Aventura,4.7,"Calle de Ponzano, 72, 28003 Madrid, Spain",,climbing,28003,40.443764,-3.698792,"{'type': 'Point', 'coordinates': [-3.698792, 40.443764]}",1-15€
-226,Rocódromo pasarela Parque Tierno Galván,4.3,"Unnamed Road,28045, 28045, Madrid, Spain",,climbing,28045,40.3937368,-3.6869512,"{'type': 'Point', 'coordinates': [-3.6869512, 40.3937368]}",1-15€
-227,Rocódromo Parque María Emperatriz de Austria,4.1,"Calle Carranque, 16, 28025 Madrid, Spain",,climbing,28025,40.3755332,-3.7279892,"{'type': 'Point', 'coordinates': [-3.7279892, 40.3755332]}",15-25€
-228,Rocódromo de la Cuesta de la Vega,4.6,"Cuesta de La Vega, 28005 Madrid, Spain",,climbing,28005,40.4142037,-3.7167461,"{'type': 'Point', 'coordinates': [-3.7167461, 40.4142037]}",1-15€
-229,Rocódromo de La Masó,3.0,"C/ de La Masó, 80, 28034 Madrid, Spain",,climbing,28034,40.48404439999999,-3.7145369,"{'type': 'Point', 'coordinates': [-3.7145369, 40.48404439999999]}",1-15€
-230,Rimaya Actividades de Montaña,4.7,"Calle Malmoe 73, 28032 Madrid, Spain",,climbing,28032,40.4142592,-3.6246391,"{'type': 'Point', 'coordinates': [-3.6246391, 40.4142592]}",15-25€
-231,Madrid Mountaineering Federation,3.8,"Av. de Salas de los Infantes, 1, 5º, 28034 Madrid, Spain",,climbing,28034,40.48604510000001,-3.6839605,"{'type': 'Point', 'coordinates': [-3.6839605, 40.48604510000001]}",15-25€
-232,Outdoor Sin Límite,4.5,"Calle de la Ribera de Curtidores, 1, 28005 Madrid, Spain",,climbing,28005,40.4097345,-3.7070943,"{'type': 'Point', 'coordinates': [-3.7070943, 40.4097345]}",1-15€
-233,Madridadventours,5.0,"Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",,climbing,28045,40.4023894,-3.6966769,"{'type': 'Point', 'coordinates': [-3.6966769, 40.4023894]}",15-25€
-234,mxcoach,4.8,"Calle San Toribio, 8, 28031 Madrid, Spain",,climbing,28031,40.38046430000001,-3.635328,"{'type': 'Point', 'coordinates': [-3.635328, 40.38046430000001]}",1-15€
-235,Grupo de Montaña CSIC,4.9,"Calle de Serrano, 115 bis, 28006 Madrid, Spain",,climbing,28006,40.4406438,-3.6874582,"{'type': 'Point', 'coordinates': [-3.6874582, 40.4406438]}",1-15€
-236,Eskalamandra,5.0,"C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",,climbing,28009,40.4170457,-3.6755132,"{'type': 'Point', 'coordinates': [-3.6755132, 40.4170457]}",15-25€
-237,Rocódromo Pacífico,4.2,"Calle del Dr. Esquerdo, 28007 Madrid, Spain",,climbing,28007,40.4003961,-3.6756224,"{'type': 'Point', 'coordinates': [-3.6756224, 40.4003961]}",1-15€
-238,Palacio street Boulder,3.5,"28005 Madrid, Spain",,climbing,28005,40.4143251,-3.7161269,"{'type': 'Point', 'coordinates': [-3.7161269, 40.4143251]}",1-15€
-239,Yurok Adventures // Yurok Climbing Center,4.8,"Calle Aeronáutica, 31, 28923 Alcorcón, Madrid, Spain",,climbing,28923,40.3337625,-3.8179502,"{'type': 'Point', 'coordinates': [-3.8179502, 40.3337625]}",15-25€
-240,Rocódromo Escalada Soul Climb Leganés,4.6,"Calle Severo Ochoa, 19, 28914 Leganés, Madrid, Spain",,climbing,28914,40.320028,-3.748153,"{'type': 'Point', 'coordinates': [-3.748153, 40.320028]}",15-25€
-241,Climbat X Madrid,4.4,"Calle Oslo, 54, Local 27, 28922 Alcorcón, Madrid, Spain",,climbing,28922,40.3393516,-3.8485639,"{'type': 'Point', 'coordinates': [-3.8485639, 40.3393516]}",1-15€
-242,Escalada pared regletas,0.0,"Calle de Santiago de Compostela, 28034 Madrid, Spain",,climbing,28034,40.4853631,-3.6987133,"{'type': 'Point', 'coordinates': [-3.6987133, 40.4853631]}",15-25€
-243,Escalada,0.0,"Calle Concejal Francisco José Jiménez Martín, 178, 28011 Madrid, Spain",,climbing,28011,40.4016251,-3.7562006,"{'type': 'Point', 'coordinates': [-3.7562006, 40.4016251]}",15-25€
-244,Rocodromo De Arturo Barea,2.5,"Plaza de Arturo Barea, 28012 Madrid, Spain",,climbing,28012,40.4084733,-3.7034249,"{'type': 'Point', 'coordinates': [-3.7034249, 40.4084733]}",1-15€
-245,"Rocodromo ""Sainz de Baranda""",4.4,"Calle Juan Esplandiú, 11B, 28007 Madrid, Spain",,climbing,28007,40.4189431,-3.6648668,"{'type': 'Point', 'coordinates': [-3.6648668, 40.4189431]}",15-25€
-246,Dreampeaks,4.6,"Avenida de América, 29, 28002 Madrid, Spain",,climbing,28002,40.4392797,-3.6737909,"{'type': 'Point', 'coordinates': [-3.6737909, 40.4392797]}",15-25€
-247,DEPORTES LASER,4.8,"Calle de las Delicias, Nº 25, 28045 Madrid, Spain",,climbing,28045,40.4041503,-3.6923986,"{'type': 'Point', 'coordinates': [-3.6923986, 40.4041503]}",15-25€
-248,Nanuk Experience,5.0,"Calle de Buenos Aires, 41, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5980239,-3.7058044,"{'type': 'Point', 'coordinates': [-3.7058044, 40.5980239]}",15-25€
-249,Escalada Matias,0.0,"Calle Talento, 17, 28906 Getafe, Madrid, Spain",,climbing,28906,40.3213309,-3.6807008,"{'type': 'Point', 'coordinates': [-3.6807008, 40.3213309]}",15-25€
-250,Rocodromo del polideportivo,3.5,"Calle de Manuel de Falla, 59, 28100 Alcobendas, Madrid, Spain",,climbing,28100,40.5516774,-3.64712,"{'type': 'Point', 'coordinates': [-3.64712, 40.5516774]}",15-25€
-251,Deportes Koala,4.5,"Calle de Lope de Vega, 18, 28014 Madrid, Spain",,climbing,28014,40.4137024,-3.6977234,"{'type': 'Point', 'coordinates': [-3.6977234, 40.4137024]}",15-25€
-252,Escuela Madrileña de Alta Montaña,4.0,"Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",,climbing,28034,40.485768,-3.683992999999999,"{'type': 'Point', 'coordinates': [-3.683992999999999, 40.485768]}",1-15€
-253,Rocodromo Peñuelas,0.0,"Calle de Arganda, 7, 6, 28005 Madrid, Spain",,climbing,28005,40.4010852,-3.70672,"{'type': 'Point', 'coordinates': [-3.70672, 40.4010852]}",1-15€
-254,Rocodromo-Boulder puente Almendrales,4.0,"Cmo. de Perales, 28041 Madrid, Spain",,climbing,28041,40.38229949999999,-3.6939634,"{'type': 'Point', 'coordinates': [-3.6939634, 40.38229949999999]}",15-25€
-255,Monkey Fingers,4.7,"Calle Prado Merinero, 15, 28054 Madrid, Spain",,climbing,28054,40.3641161,-3.7542472,"{'type': 'Point', 'coordinates': [-3.7542472, 40.3641161]}",15-25€
-256,Asociación Escalada En Valores,5.0,"Calle de Embajadores, 145, 28045 Madrid, Spain",,climbing,28045,40.396686,-3.6960419,"{'type': 'Point', 'coordinates': [-3.6960419, 40.396686]}",15-25€
-257,Tsunami Climb,4.6,"Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5591293,-3.6179414,"{'type': 'Point', 'coordinates': [-3.6179414, 40.5591293]}",1-15€
-258,Multiaventura Madrid - Empresa de multiaventura,5.0,"Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,climbing,28031,40.3880888,-3.6254472,"{'type': 'Point', 'coordinates': [-3.6254472, 40.3880888]}",1-15€
-259,"Climbing courses, climbing trips and multisport",0.0,"Calle de Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.40162,-3.6974274,"{'type': 'Point', 'coordinates': [-3.6974274, 40.40162]}",15-25€
-260,Sputnik Climbing Las Rozas,5.0,"Calle París, 2, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4984304,-3.8907835,"{'type': 'Point', 'coordinates': [-3.8907835, 40.4984304]}",15-25€
-261,Escuela de Escalada Nanuk Experience,0.0,"Sector Islas, 25, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5928085,-3.7015128,"{'type': 'Point', 'coordinates': [-3.7015128, 40.5928085]}",15-25€
-262,King Kong Climbing,4.6,"Poligono Industrial Europolis, Calle del Cabo Rufino Lázaro, 14, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4985035,-3.8877674,"{'type': 'Point', 'coordinates': [-3.8877674, 40.4985035]}",15-25€
-263,Tabei Adventures,5.0,"Calle de Antonio López, 254, 28041 Madrid, Spain",,climbing,28041,40.3797353,-3.696122,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}",1-15€
-264,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5550945,-3.6146642,"{'type': 'Point', 'coordinates': [-3.6146642, 40.5550945]}",15-25€
+139,Dale al Coco 2 Room Escape,3.0,"Calle de la Magdalena, 11, 28012 Madrid, Spain",2.0,escape room,28012,40.4124139,-3.7020164,"{'type': 'Point', 'coordinates': [-3.7020164, 40.4124139]}",15-25€
+140,Pista de Hielo Madrid,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4630082,-3.6378945,"{'type': 'Point', 'coordinates': [-3.6378945, 40.4630082]}",More than 50€
+141,Pista Patinaje,4.1,"Plaza Puerto Rubio, 16, 28053 Madrid, Spain",,skating,28053,40.3963014,-3.6672014,"{'type': 'Point', 'coordinates': [-3.6672014, 40.3963014]}",More than 50€
+142,Pista de Hielo Matadero,2.9,"28045 Madrid, Spain",,skating,28045,40.391165,-3.6976585,"{'type': 'Point', 'coordinates': [-3.6976585, 40.391165]}",More than 50€
+143,Ice Pavilion Leganes,4.2,"Av. de Alemania, 2, 28916 Leganés, Madrid, Spain",,skating,28916,40.3327331,-3.744467,"{'type': 'Point', 'coordinates': [-3.744467, 40.3327331]}",More than 50€
+144,Pista de patinaje Madrid Rio,4.5,"Autopista de Circunvalación M-30, 28045 Madrid, Spain",,skating,28045,40.3943447,-3.7014028,"{'type': 'Point', 'coordinates': [-3.7014028, 40.3943447]}",More than 50€
+145,Roller Center Madrid,4.1,"Cl. de la Hacienda de Pavones, 196, Primera Planta, 28030 Madrid, Spain",,skating,28030,40.4017318,-3.6407718,"{'type': 'Point', 'coordinates': [-3.6407718, 40.4017318]}",More than 50€
+146,Pista de Patinaje - rollermania,4.4,"Calle Sinesio Delgado, 20, 28035 Madrid, Spain",,skating,28035,40.4642839,-3.7202755,"{'type': 'Point', 'coordinates': [-3.7202755, 40.4642839]}",More than 50€
+147,Pista de Patinaje,3.7,"28043 Madrid, Spain",,skating,28043,40.4649384,-3.6367566,"{'type': 'Point', 'coordinates': [-3.6367566, 40.4649384]}",More than 50€
+148,Patinaje JCI,4.0,"28042 Madrid, Spain",,skating,28042,40.4650353,-3.6091841,"{'type': 'Point', 'coordinates': [-3.6091841, 40.4650353]}",More than 50€
+149,Pista De Patinaje,3.6,"Calle Alar del Rey, 35, 28042 Madrid, Spain",,skating,28042,40.4734261,-3.584136,"{'type': 'Point', 'coordinates': [-3.584136, 40.4734261]}",More than 50€
+150,Ice Rink Factory,0.0,"Calle de José Ortega y Gasset, 28006 Madrid, Spain",,skating,28006,40.4301418,-3.6802139,"{'type': 'Point', 'coordinates': [-3.6802139, 40.4301418]}",More than 50€
+151,Palacio de Hielo,4.1,"Calle de Silvano, 77, 28043 Madrid, Spain",,skating,28043,40.4631976,-3.6373448,"{'type': 'Point', 'coordinates': [-3.6373448, 40.4631976]}",More than 50€
+152,Pista de patinaje/zona multiusos del Centro Comercial La Vaguada,0.0,"C.C La Vaguada, Av. de Monforte de Lemos, S/N, 28029 Madrid, Spain",,skating,28029,40.4800858,-3.7061872,"{'type': 'Point', 'coordinates': [-3.7061872, 40.4800858]}",More than 50€
+153,Rollermaniacos - Pista de Patinaje Pública,4.5,"28029 Madrid, Spain",,skating,28029,40.470699,-3.7051826,"{'type': 'Point', 'coordinates': [-3.7051826, 40.470699]}",More than 50€
+154,Madrid Skating School,5.0,"Calle de Santa Isabel, 9, 28012 Madrid, Spain",,skating,28012,40.4110261,-3.6983671,"{'type': 'Point', 'coordinates': [-3.6983671, 40.4110261]}",More than 50€
+155,Roller skating rink,3.7,"28032 Madrid, Spain",,skating,28032,40.3999785,-3.6088801,"{'type': 'Point', 'coordinates': [-3.6088801, 40.3999785]}",More than 50€
+156,Pista Patinaje Municipal,4.2,"Av. de Niza, 4, 28022 Madrid, Spain",,skating,28022,40.4289101,-3.606638,"{'type': 'Point', 'coordinates': [-3.606638, 40.4289101]}",More than 50€
+157,pista de patinaje,4.6,"Calle de Cañada del Santísimo, 3, 28051 Madrid, Spain",,skating,28051,40.3688851,-3.5948593,"{'type': 'Point', 'coordinates': [-3.5948593, 40.3688851]}",More than 50€
+158,Pista de patinaje,4.7,"Alcorcón, Madrid, Spain",,skating,,40.3574308,-3.8134927,"{'type': 'Point', 'coordinates': [-3.8134927, 40.3574308]}",More than 50€
+159,Pista de patinaje,4.0,"28903 Getafe, Madrid, Spain",,skating,28903,40.3216863,-3.7150997,"{'type': 'Point', 'coordinates': [-3.7150997, 40.3216863]}",More than 50€
+160,Carlos Sainz Karting Madrid,4.3,"Calle Sepúlveda, 3, 28011 Madrid, Spain",3.0,karts,28011,40.4065776,-3.7270776,"{'type': 'Point', 'coordinates': [-3.7270776, 40.4065776]}",25-50€
+161,Karting Club Paracuellos,4.5,"Calle de la Ronda de la Fuente, 2850K, 28860 Paracuellos de Jarama, Madrid, Spain",3.0,karts,28860,40.5250968,-3.5460779,"{'type': 'Point', 'coordinates': [-3.5460779, 40.5250968]}",25-50€
+162,Karting Rivas,4.5,"Calle de la Fundición, 89, 28522 Rivas-Vaciamadrid, Madrid, Spain",3.0,karts,28522,40.3471298,-3.5353365,"{'type': 'Point', 'coordinates': [-3.5353365, 40.3471298]}",25-50€
+163,Icekart karting madrid,0.0,"Calle de Silvano, 77, 28043 Madrid, Spain",3.0,karts,28043,40.4632213,-3.6370595,"{'type': 'Point', 'coordinates': [-3.6370595, 40.4632213]}",25-50€
+164,Carlos Sainz Center Las Rozas,4.3,"Parque Empresarial Európolis, Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",3.0,karts,28232,40.5007582,-3.8940375,"{'type': 'Point', 'coordinates': [-3.8940375, 40.5007582]}",25-50€
+165,Outdoor Karting Formula Zero,4.3,"Calle Verano, 4A, 28914 Leganés, Madrid, Spain",3.0,karts,28914,40.3000642,-3.773593099999999,"{'type': 'Point', 'coordinates': [-3.773593099999999, 40.3000642]}",25-50€
+166,Jarama Karting,4.4,"Paseo del Circuito, 28707 Ciudalcampo, Madrid, Spain",3.0,karts,28707,40.613604,-3.583227,"{'type': 'Point', 'coordinates': [-3.583227, 40.613604]}",25-50€
+167,"Henakart, karts madrid",4.6,"km 3,600 Carretera de Torrejon a Loeches, 28830, Madrid, Spain",3.0,karts,28830,40.4277338,-3.444291,"{'type': 'Point', 'coordinates': [-3.444291, 40.4277338]}",25-50€
+168,Karting Asupark,4.0,"Ctra. de Móstoles a Villaviciosa, 0, 28670 Villaviciosa de Odón, Madrid, Spain",3.0,karts,28670,40.3920774,-3.90209,"{'type': 'Point', 'coordinates': [-3.90209, 40.3920774]}",25-50€
+169,Kids Área Somontes,4.6,"Complejo Deportivo Somontes, Carr Madrid-El Pardo, Km 3, 4, 28035 Madrid, Spain",3.0,karts,28035,40.49044689999999,-3.7560045,"{'type': 'Point', 'coordinates': [-3.7560045, 40.49044689999999]}",25-50€
+170,Karting Madrid Angel Burgueño,4.6,"Vía de Servicio A-1, salida 47, 28723 Pedrezuela, Madrid, Spain",3.0,karts,28723,40.7561648,-3.5999868,"{'type': 'Point', 'coordinates': [-3.5999868, 40.7561648]}",25-50€
+171,Mini Quad,0.0,"Paseo de los Cipreses, 764, 28850 Torrejón de Ardoz, Madrid, Spain",3.0,karts,28850,40.4474068,-3.4533682,"{'type': 'Point', 'coordinates': [-3.4533682, 40.4474068]}",25-50€
+172,Karting,0.0,"Calle Sepúlveda, 3, 28011 Madrid, Spain",3.0,karts,28011,40.4067582,-3.7266508,"{'type': 'Point', 'coordinates': [-3.7266508, 40.4067582]}",25-50€
+173,Karting,0.0,"M-206, 28830 San Fernando de Henares, Madrid, Spain",3.0,karts,28830,40.4292048,-3.4442786,"{'type': 'Point', 'coordinates': [-3.4442786, 40.4292048]}",25-50€
+174,Karting Club Los Santos,4.5,"Calle del, Calle Canal de Isabel II, KM 1, 28817 Los Santos de la Humosa, Madrid, Spain",3.0,karts,28817,40.4942436,-3.2502384,"{'type': 'Point', 'coordinates': [-3.2502384, 40.4942436]}",25-50€
+175,karting Pinto,5.0,"Nacional, A4 km 20, 28320 Pinto, Madrid, Spain",3.0,karts,28320,40.2457853,-3.6895946,"{'type': 'Point', 'coordinates': [-3.6895946, 40.2457853]}",25-50€
+176,Circuito Montoya,3.7,"M-311, Km.9, 4, 28530 Morata de Tajuña, Madrid, Spain",3.0,karts,28530,40.213854,-3.468126,"{'type': 'Point', 'coordinates': [-3.468126, 40.213854]}",25-50€
+177,Action Live Laser Tag (Oficinas),4.9,"Paseo de S. Fco. de Sales, 41, Local 2, 28003 Madrid, Spain",3.0,laser tag,28003,40.444814,-3.709718,"{'type': 'Point', 'coordinates': [-3.709718, 40.444814]}",25-50€
+178,Lasercity - Madrid,4.7,"Av. Einstein, 28703 San Sebastián de los Reyes, Madrid, Spain",3.0,laser tag,28703,40.5409934,-3.6105399,"{'type': 'Point', 'coordinates': [-3.6105399, 40.5409934]}",25-50€
+179,Madrid Laser Combat,4.7,"Calle Manuel Pombo Angulo, 10, 1-5 5, 28050 Madrid, Spain",3.0,laser tag,28050,40.5061209,-3.6564377,"{'type': 'Point', 'coordinates': [-3.6564377, 40.5061209]}",25-50€
+180,Combat Arena,4.5,"Poligono Industrial los Areneros, 12, 28521 Rivas-Vaciamadrid, Madrid, Spain",3.0,laser tag,28521,40.3285413,-3.5222779,"{'type': 'Point', 'coordinates': [-3.5222779, 40.3285413]}",25-50€
+181,Madrid Láser Combat Campo Norte,4.6,"Camino de la Alberca, 20, 28708 San Sebastián de los Reyes, Madrid, Spain",3.0,laser tag,28708,40.5891414,-3.5815768,"{'type': 'Point', 'coordinates': [-3.5815768, 40.5891414]}",25-50€
+182,Multiaventura Park en Madrid - Las Rozas,4.5,"Calle Bruselas, 3, 28232 Las Rozas de Madrid, Madrid, Spain",3.0,laser tag,28232,40.5007512,-3.894031499999999,"{'type': 'Point', 'coordinates': [-3.894031499999999, 40.5007512]}",25-50€
+183,NiceShot,3.7,"Calle Puerto Guadarrama, 36, 28935 Móstoles, Madrid, Spain",3.0,laser tag,28935,40.3508253,-3.8750958,"{'type': 'Point', 'coordinates': [-3.8750958, 40.3508253]}",25-50€
+185,LASER TAG,0.0,"28860 Paracuellos de Jarama, Madrid, Spain",3.0,laser tag,28860,40.478221,-3.5029019,"{'type': 'Point', 'coordinates': [-3.5029019, 40.478221]}",25-50€
+188,virtual reality diversion,5.0,"Av. de los Labradores, 9, 11, 28760 Tres Cantos, Madrid, Spain",3.0,laser tag,28760,40.5995715,-3.7094017,"{'type': 'Point', 'coordinates': [-3.7094017, 40.5995715]}",25-50€
+197,WINDOBONA Indoor Skydiving Madrid,4.6,"Calle Calderilla, 16, 28054 Madrid, Spain",,wind tunnel,28054,40.3640215,-3.739970699999999,"{'type': 'Point', 'coordinates': [-3.739970699999999, 40.3640215]}",More than 50€
+198,MADRID FLY - Túnel de viento,4.6,"Av. Ntra. Señora del Retamar, 16, 28232 Las Rozas de Madrid, Madrid, Spain",,wind tunnel,28232,40.5055949,-3.888615699999999,"{'type': 'Point', 'coordinates': [-3.888615699999999, 40.5055949]}",More than 50€
+203,Pintor Rosales - Teleférico,4.7,"28008 Madrid, Spain",,cableway,28008,40.42941,-3.72228,"{'type': 'Point', 'coordinates': [-3.72228, 40.42941]}",More than 50€
+205,BoulderMadrid,4.8,"Calle del Hachero, 12, 28053 Madrid, Spain",,climbing,28053,40.391332,-3.669622999999999,"{'type': 'Point', 'coordinates': [-3.669622999999999, 40.391332]}",More than 50€
+206,Rocódromo Urban Monkey - Madrid,4.5,"C/ Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.4016192,-3.697531499999999,"{'type': 'Point', 'coordinates': [-3.697531499999999, 40.4016192]}",More than 50€
+207,Sputnik Climbing Center,4.6,"Calle la Granja, 100, 28108 Alcobendas, Madrid, Spain",,climbing,28108,40.5359884,-3.656612,"{'type': 'Point', 'coordinates': [-3.656612, 40.5359884]}",More than 50€
+208,Sharma Climbing Madrid,4.4,"C. de Julián Camarillo, 55, 28037 Madrid, Spain",,climbing,28037,40.43776,-3.62015,"{'type': 'Point', 'coordinates': [-3.62015, 40.43776]}",More than 50€
+209,Rockomadrid,4.7,"Calle Monasterio de Leyre, 9, 28029 Madrid, Spain",,climbing,28029,40.4653457,-3.6959251,"{'type': 'Point', 'coordinates': [-3.6959251, 40.4653457]}",More than 50€
+210,The Climb - Centro Escalada Madrid,4.5,"Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468025,-3.8010128,"{'type': 'Point', 'coordinates': [-3.8010128, 40.3468025]}",More than 50€
+211,ZONE BOULDER MADRID / WITHDRAWAL - Climbing Madrid,4.5,"Calle de Azcona, 44, 28028 Madrid, Spain",,climbing,28028,40.434493,-3.668765,"{'type': 'Point', 'coordinates': [-3.668765, 40.434493]}",More than 50€
+212,Rocódromo Espacio Acción,4.6,"Calle de Marcelino Álvarez, 6, 28017 Madrid, Spain",,climbing,28017,40.4318495,-3.6541671,"{'type': 'Point', 'coordinates': [-3.6541671, 40.4318495]}",More than 50€
+213,Madrid Vertical,4.5,"Calle Sofía, 34, 28022 Madrid, Spain",,climbing,28022,40.4254975,-3.6005343,"{'type': 'Point', 'coordinates': [-3.6005343, 40.4254975]}",More than 50€
+214,ESCALADA en MADRID,0.0,"Cl de las Huertas, 13, 28160 Madrid, Spain",,climbing,28160,40.4140442,-3.7005575,"{'type': 'Point', 'coordinates': [-3.7005575, 40.4140442]}",More than 50€
+215,Roc 30 Climbing wall,4.4,"P.º de San Illán, 106, 28019 Madrid, Spain",,climbing,28019,40.399208,-3.7188064,"{'type': 'Point', 'coordinates': [-3.7188064, 40.399208]}",More than 50€
+216,"Fisura, tienda de escalada",4.8,"Calle de Feijóo, 4, 28010 Madrid, Spain",,climbing,28010,40.4346793,-3.7039355,"{'type': 'Point', 'coordinates': [-3.7039355, 40.4346793]}",More than 50€
+217,Rock Climbing,2.5,"Calle de Medellín, Nº10, 4º 2, 28010 Madrid, Spain",,climbing,28010,40.4359813,-3.6998333,"{'type': 'Point', 'coordinates': [-3.6998333, 40.4359813]}",More than 50€
+218,Rocódromo de Manoteras,4.4,"Calle de Somontín, 9, 28033 Madrid, Spain",,climbing,28033,40.4761204,-3.6627938,"{'type': 'Point', 'coordinates': [-3.6627938, 40.4761204]}",More than 50€
+219,Rocódromo,4.5,"C/ del Alcalde Sainz de Baranda, 90, 28007 Madrid, Spain",,climbing,28007,40.4189666,-3.6648105,"{'type': 'Point', 'coordinates': [-3.6648105, 40.4189666]}",More than 50€
+220,Rocodromo Escalada Planetario,4.5,"Calle de la Antracita, 37, 28045 Madrid, Spain",,climbing,28045,40.3930988,-3.6862681,"{'type': 'Point', 'coordinates': [-3.6862681, 40.3930988]}",More than 50€
+221,The Climb Kids,4.5,"Polígono Industrial San José de Valderas, Calle del Carbón, 5, 28918 Leganés, Madrid, Spain",,climbing,28918,40.3468176,-3.801027599999999,"{'type': 'Point', 'coordinates': [-3.801027599999999, 40.3468176]}",More than 50€
+222,Rocódromo de Hortaleza,4.0,"Calle de la Costa del Sol, 12, 28033 Madrid, Spain",,climbing,28033,40.4737131,-3.6516281,"{'type': 'Point', 'coordinates': [-3.6516281, 40.4737131]}",More than 50€
+223,Salamandra Boulder Café Rocodromo,4.4,"Calle Escosura, 5, 28015 Madrid, Spain",,climbing,28015,40.4343683,-3.7069969,"{'type': 'Point', 'coordinates': [-3.7069969, 40.4343683]}",More than 50€
+224,Complutense Climbing Wall,2.9,"Av. Juan de Herrera, s/n, 28040 Madrid, Spain",,climbing,28040,40.4391927,-3.7274939,"{'type': 'Point', 'coordinates': [-3.7274939, 40.4391927]}",More than 50€
+225,Amadablam Viajes Aventura,4.7,"Calle de Ponzano, 72, 28003 Madrid, Spain",,climbing,28003,40.443764,-3.698792,"{'type': 'Point', 'coordinates': [-3.698792, 40.443764]}",More than 50€
+226,Rocódromo pasarela Parque Tierno Galván,4.3,"Unnamed Road,28045, 28045, Madrid, Spain",,climbing,28045,40.3937368,-3.6869512,"{'type': 'Point', 'coordinates': [-3.6869512, 40.3937368]}",More than 50€
+227,Rocódromo Parque María Emperatriz de Austria,4.1,"Calle Carranque, 16, 28025 Madrid, Spain",,climbing,28025,40.3755332,-3.7279892,"{'type': 'Point', 'coordinates': [-3.7279892, 40.3755332]}",More than 50€
+228,Rocódromo de la Cuesta de la Vega,4.6,"Cuesta de La Vega, 28005 Madrid, Spain",,climbing,28005,40.4142037,-3.7167461,"{'type': 'Point', 'coordinates': [-3.7167461, 40.4142037]}",More than 50€
+229,Rocódromo de La Masó,3.0,"C/ de La Masó, 80, 28034 Madrid, Spain",,climbing,28034,40.48404439999999,-3.7145369,"{'type': 'Point', 'coordinates': [-3.7145369, 40.48404439999999]}",More than 50€
+230,Rimaya Actividades de Montaña,4.7,"Calle Malmoe 73, 28032 Madrid, Spain",,climbing,28032,40.4142592,-3.6246391,"{'type': 'Point', 'coordinates': [-3.6246391, 40.4142592]}",More than 50€
+231,Madrid Mountaineering Federation,3.8,"Av. de Salas de los Infantes, 1, 5º, 28034 Madrid, Spain",,climbing,28034,40.48604510000001,-3.6839605,"{'type': 'Point', 'coordinates': [-3.6839605, 40.48604510000001]}",More than 50€
+232,Outdoor Sin Límite,4.5,"Calle de la Ribera de Curtidores, 1, 28005 Madrid, Spain",,climbing,28005,40.4097345,-3.7070943,"{'type': 'Point', 'coordinates': [-3.7070943, 40.4097345]}",More than 50€
+233,Madridadventours,5.0,"Calle de Martín Soler, 8, 2F, 28045 Madrid, Spain",,climbing,28045,40.4023894,-3.6966769,"{'type': 'Point', 'coordinates': [-3.6966769, 40.4023894]}",More than 50€
+234,mxcoach,4.8,"Calle San Toribio, 8, 28031 Madrid, Spain",,climbing,28031,40.38046430000001,-3.635328,"{'type': 'Point', 'coordinates': [-3.635328, 40.38046430000001]}",More than 50€
+235,Grupo de Montaña CSIC,4.9,"Calle de Serrano, 115 bis, 28006 Madrid, Spain",,climbing,28006,40.4406438,-3.6874582,"{'type': 'Point', 'coordinates': [-3.6874582, 40.4406438]}",More than 50€
+236,Eskalamandra,5.0,"C/ del Alcalde Sainz de Baranda, 19, 7c, 28009 Madrid, Spain",,climbing,28009,40.4170457,-3.6755132,"{'type': 'Point', 'coordinates': [-3.6755132, 40.4170457]}",More than 50€
+237,Rocódromo Pacífico,4.2,"Calle del Dr. Esquerdo, 28007 Madrid, Spain",,climbing,28007,40.4003961,-3.6756224,"{'type': 'Point', 'coordinates': [-3.6756224, 40.4003961]}",More than 50€
+238,Palacio street Boulder,3.5,"28005 Madrid, Spain",,climbing,28005,40.4143251,-3.7161269,"{'type': 'Point', 'coordinates': [-3.7161269, 40.4143251]}",More than 50€
+239,Yurok Adventures // Yurok Climbing Center,4.8,"Calle Aeronáutica, 31, 28923 Alcorcón, Madrid, Spain",,climbing,28923,40.3337625,-3.8179502,"{'type': 'Point', 'coordinates': [-3.8179502, 40.3337625]}",More than 50€
+240,Rocódromo Escalada Soul Climb Leganés,4.6,"Calle Severo Ochoa, 19, 28914 Leganés, Madrid, Spain",,climbing,28914,40.320028,-3.748153,"{'type': 'Point', 'coordinates': [-3.748153, 40.320028]}",More than 50€
+241,Climbat X Madrid,4.4,"Calle Oslo, 54, Local 27, 28922 Alcorcón, Madrid, Spain",,climbing,28922,40.3393516,-3.8485639,"{'type': 'Point', 'coordinates': [-3.8485639, 40.3393516]}",More than 50€
+242,Escalada pared regletas,0.0,"Calle de Santiago de Compostela, 28034 Madrid, Spain",,climbing,28034,40.4853631,-3.6987133,"{'type': 'Point', 'coordinates': [-3.6987133, 40.4853631]}",More than 50€
+243,Escalada,0.0,"Calle Concejal Francisco José Jiménez Martín, 178, 28011 Madrid, Spain",,climbing,28011,40.4016251,-3.7562006,"{'type': 'Point', 'coordinates': [-3.7562006, 40.4016251]}",More than 50€
+244,Rocodromo De Arturo Barea,2.5,"Plaza de Arturo Barea, 28012 Madrid, Spain",,climbing,28012,40.4084733,-3.7034249,"{'type': 'Point', 'coordinates': [-3.7034249, 40.4084733]}",More than 50€
+245,"Rocodromo ""Sainz de Baranda""",4.4,"Calle Juan Esplandiú, 11B, 28007 Madrid, Spain",,climbing,28007,40.4189431,-3.6648668,"{'type': 'Point', 'coordinates': [-3.6648668, 40.4189431]}",More than 50€
+246,Dreampeaks,4.6,"Avenida de América, 29, 28002 Madrid, Spain",,climbing,28002,40.4392797,-3.6737909,"{'type': 'Point', 'coordinates': [-3.6737909, 40.4392797]}",More than 50€
+247,DEPORTES LASER,4.8,"Calle de las Delicias, Nº 25, 28045 Madrid, Spain",,climbing,28045,40.4041503,-3.6923986,"{'type': 'Point', 'coordinates': [-3.6923986, 40.4041503]}",More than 50€
+248,Nanuk Experience,5.0,"Calle de Buenos Aires, 41, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5980239,-3.7058044,"{'type': 'Point', 'coordinates': [-3.7058044, 40.5980239]}",More than 50€
+249,Escalada Matias,0.0,"Calle Talento, 17, 28906 Getafe, Madrid, Spain",,climbing,28906,40.3213309,-3.6807008,"{'type': 'Point', 'coordinates': [-3.6807008, 40.3213309]}",More than 50€
+250,Rocodromo del polideportivo,3.5,"Calle de Manuel de Falla, 59, 28100 Alcobendas, Madrid, Spain",,climbing,28100,40.5516774,-3.64712,"{'type': 'Point', 'coordinates': [-3.64712, 40.5516774]}",More than 50€
+251,Deportes Koala,4.5,"Calle de Lope de Vega, 18, 28014 Madrid, Spain",,climbing,28014,40.4137024,-3.6977234,"{'type': 'Point', 'coordinates': [-3.6977234, 40.4137024]}",More than 50€
+252,Escuela Madrileña de Alta Montaña,4.0,"Avda. Salas de los Infantes, 1, 5ª planta, 28034 Madrid, Spain",,climbing,28034,40.485768,-3.683992999999999,"{'type': 'Point', 'coordinates': [-3.683992999999999, 40.485768]}",More than 50€
+253,Rocodromo Peñuelas,0.0,"Calle de Arganda, 7, 6, 28005 Madrid, Spain",,climbing,28005,40.4010852,-3.70672,"{'type': 'Point', 'coordinates': [-3.70672, 40.4010852]}",More than 50€
+254,Rocodromo-Boulder puente Almendrales,4.0,"Cmo. de Perales, 28041 Madrid, Spain",,climbing,28041,40.38229949999999,-3.6939634,"{'type': 'Point', 'coordinates': [-3.6939634, 40.38229949999999]}",More than 50€
+255,Monkey Fingers,4.7,"Calle Prado Merinero, 15, 28054 Madrid, Spain",,climbing,28054,40.3641161,-3.7542472,"{'type': 'Point', 'coordinates': [-3.7542472, 40.3641161]}",More than 50€
+256,Asociación Escalada En Valores,5.0,"Calle de Embajadores, 145, 28045 Madrid, Spain",,climbing,28045,40.396686,-3.6960419,"{'type': 'Point', 'coordinates': [-3.6960419, 40.396686]}",More than 50€
+257,Tsunami Climb,4.6,"Calle Lanzarote, 20, Nave 12, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5591293,-3.6179414,"{'type': 'Point', 'coordinates': [-3.6179414, 40.5591293]}",More than 50€
+258,Multiaventura Madrid - Empresa de multiaventura,5.0,"Calle Arboleda, Nº18, Bloque 7, 28031 Madrid, Spain",,climbing,28031,40.3880888,-3.6254472,"{'type': 'Point', 'coordinates': [-3.6254472, 40.3880888]}",More than 50€
+259,"Climbing courses, climbing trips and multisport",0.0,"Calle de Tarragona, 8, 28045 Madrid, Spain",,climbing,28045,40.40162,-3.6974274,"{'type': 'Point', 'coordinates': [-3.6974274, 40.40162]}",More than 50€
+260,Sputnik Climbing Las Rozas,5.0,"Calle París, 2, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4984304,-3.8907835,"{'type': 'Point', 'coordinates': [-3.8907835, 40.4984304]}",More than 50€
+261,Escuela de Escalada Nanuk Experience,0.0,"Sector Islas, 25, 28760 Tres Cantos, Madrid, Spain",,climbing,28760,40.5928085,-3.7015128,"{'type': 'Point', 'coordinates': [-3.7015128, 40.5928085]}",More than 50€
+262,King Kong Climbing,4.6,"Poligono Industrial Europolis, Calle del Cabo Rufino Lázaro, 14, 28232 Las Rozas de Madrid, Madrid, Spain",,climbing,28232,40.4985035,-3.8877674,"{'type': 'Point', 'coordinates': [-3.8877674, 40.4985035]}",More than 50€
+263,Tabei Adventures,5.0,"Calle de Antonio López, 254, 28041 Madrid, Spain",,climbing,28041,40.3797353,-3.696122,"{'type': 'Point', 'coordinates': [-3.696122, 40.3797353]}",More than 50€
+264,Solo Climb - Fabricantes de ropa de montaña y profesional,4.6,"San, Av. del Moncayo, 2, nave 8, 28703 San Sebastián de los Reyes, Madrid, Spain",,climbing,28703,40.5550945,-3.6146642,"{'type': 'Point', 'coordinates': [-3.6146642, 40.5550945]}",More than 50€

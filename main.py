@@ -45,9 +45,12 @@ elif filter == "price":
     max_ = st.select_slider(
         'Select max price 💸', options=[15,20,30,40,50,60,70,80,90,100,110,120,130]
     )
-    st.dataframe(dat.select_plan(max_))
+    time.sleep(2)
     with st.spinner(text='In progress'):
        time.sleep(5)
        st.success('Done')
+    st.dataframe(dat.planes_price_2(max_))
+
+
 
 
