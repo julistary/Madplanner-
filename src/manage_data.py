@@ -263,6 +263,13 @@ def get_df(df):
     return df.drop(["price_level", "CP", "latitude", "longitude", "type", "subtype"],  axis=1)
 
 def geoquery_2(coordinates):
+    """
+    Makes mongo geoqueries of the type near
+    Args:
+        coordinates(list): the coordinates of the site for which you want to search for other sites nearby 
+    Returns:
+        A df with the information extracted from the geoquery
+    """
     coord_point = {"type":"Point", "coordinates": coordinates}
     collection = db.get_collection("transport")
     query = {"geometry": {"$near": {"$geometry": coord_point,"$minDistance": 0, "$maxDistance": 2000}}}
@@ -418,6 +425,15 @@ def films():
     return pd.DataFrame.from_dict(dict_films, orient = "columns")
     
 def barrio_a_coordenadas(df_madrid,df_m, district):
+    """
+    Given a district of madrid or a city of madrid, it gives you its coordinates.
+    Args:
+        df_madrid(df): a dataframe with data from all the towns in Madrid
+        df_m(df): a dataframe with data from all the districts in Madrid
+        district(str): the district for which the coordinates are wanted
+    Returns:
+        The df cleaned
+    """
     coordinates = {}
     district = unicodedata.normalize('NFD', district)\
     .encode('ascii', 'ignore')\
@@ -445,6 +461,13 @@ def barrio_a_coordenadas(df_madrid,df_m, district):
     return coordinates
 
 def geoquery(coordinates):
+    """
+    Makes mongo geoqueries of the type near
+    Args:
+        coordinates(list): the coordinates of the site for which you want to search for other sites nearby 
+    Returns:
+        A df with the information extracted from the geoquery
+    """
     collection = db.get_collection("todo")
     coord_point = {"type":"Point", "coordinates": [float(coordinates['latt']), float(coordinates['long'])]}
     query = {"geometry": {"$near": {"$geometry": coord_point,"$minDistance": 0, "$maxDistance": 1500}}}
@@ -453,6 +476,13 @@ def geoquery(coordinates):
     return df
 
 def df_planes_bonito(df):
+    """
+    Cleans a dataframe
+    Args:
+        df(df): the dataframe to clean
+    Returns:
+        The df cleaned
+    """
     df_plan = df[df["type"]=="plan"]
     df_plan = df_plan.set_index("name")
     try:
@@ -463,6 +493,13 @@ def df_planes_bonito(df):
         pass
     
 def df_tpte_bonito(df):
+    """
+    Cleans a dataframe
+    Args:
+        df(df): the dataframe to clean
+    Returns:
+        The df cleaned
+    """
     df_tpte = df[df["type"]=="transport"]
     df_tpte = df_tpte.set_index("name")
     try:
@@ -477,6 +514,13 @@ def df_tpte_bonito(df):
         return df_tpte
     
 def mapita_2(df,coordinates):
+    """
+    It gives a map with the places and means of transport according to what you want to look for.
+    Args:
+        coordinates(dict): the coordinates of the location from which nearby sites are to be sought 
+        df(df):a df with nearby sites
+        The map with markers
+    """
     map_1 = Map(location=[float(coordinates['latt']), float(coordinates['long'])],zoom_start=15)
 
     for i, row in df.iterrows():
