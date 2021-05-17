@@ -44,7 +44,8 @@ elif filter == "type":
 
     plan = dat.type_of_plan(f"{tipo}")
     st.dataframe(dat.get_df(plan))
-    folium_static(dat.get_map(plan))
+    df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+    folium_static(dat.get_map(plan,df_tr))  
     if "cinema" in list(plan.place.unique()):        
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
@@ -58,7 +59,8 @@ elif filter == "price":
         plan = dat.planes_2("price",maxmin)
         st.success('Done 🚀')
     st.dataframe(dat.get_df(plan))
-    folium_static(dat.get_map(plan))   
+    df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+    folium_static(dat.get_map(plan,df_tr))   
     if "cinema" in list(plan.place.unique()):
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
@@ -72,7 +74,8 @@ elif filter == "rating":
        plan = dat.planes_2("rating",maxmin)
        st.success('Done 🚀')
     st.dataframe(dat.get_df(plan))
-    folium_static(dat.get_map(plan))   
+    df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+    folium_static(dat.get_map(plan,df_tr))   
     if "cinema" in list(plan.place.unique()):
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
@@ -85,25 +88,28 @@ elif filter == "location":
 
     if f"{donde}" == 'Madrid': 
         district = st.selectbox(
-            "Select a district", ['Fuencarral','El Pardo', 'Hortaleza', 'Ciudad Lineal', 'San Blás',
-                       'Canillejas', 'Barajas', 'Moratalaz', 'Puente de Vallecas', 'Vicálvaro',
-                       'Villa de Vallecas', 'Villaverde', 'Usera', 'Carabanchel', 'Latina', 
-                       'Moncloa','Aravaca', 'Centro', 'Tetuán', 'Chamartín', 'Chamberí', 'Retiro',
-                       'Arganzuela', 'Salamanca']
+            "Select a district", ['Aravaca', 'Arganzuela', 'Barajas', 'Canillejas', 'Carabanchel',
+                    'Centro', 'Chamartín', 'Chamberí', 'Ciudad Lineal', 'El Pardo',
+                    'Fuencarral', 'Hortaleza', 'Latina', 'Moncloa', 'Moratalaz',
+                    'Puente de Vallecas', 'Retiro', 'Salamanca', 'San Blás', 'Tetuán',
+                    'Usera', 'Vicálvaro', 'Villa de Vallecas', 'Villaverde']
         )
 
     else: 
         district = st.selectbox(
-            "Select a village", ['Móstoles', 'Alcalá de Henares','Fuenlabrada',
-                                'Leganés','Getafe','Alcorcón','Torrejón de Ardoz',
-                                'Parla','Alcobendas', 'Las Rozas de Madrid', 'San Sebastián de los Reyes',
-                                'Rivas-Vaciamadrid','Pozuelo de Alarcón', 'Coslada', 'Valdemoro',
-                                'Majadahonda' , 'Collado Villalba', 'Aranjuez', 'Arganda del Rey',
-                                'Boadilla del Monte', 'Pinto','Colmenar Viejo','Tres Cantos',
-                                'San Fernando de Henares','Galapagar','Arroyomolinos','Navalcarnero',
-                                'Villaviciosa de Odón','Paracuellos de Jarama','Ciempozuelos','Torrelodones',
-                                'Mejorada del Campo','Villanueva de la Cañada','Algete','Humanes de Madrid',
-                                'San Martín de la Vega','San Lorenzo de El Escorial','Villanueva del Pardillo', ' El Escorial']
+            "Select a village", ['Alcalá de Henares', 'Alcobendas', 'Alcorcón', 'Algete',
+                            'Aranjuez', 'Arganda del Rey', 'Arroyomolinos',
+                            'Boadilla del Monte', 'Ciempozuelos', 'Collado Villalba',
+                            'Colmenar Viejo', 'Coslada', 'El Escorial', 'Fuenlabrada',
+                            'Galapagar', 'Getafe', 'Humanes de Madrid', 'Las Rozas de Madrid',
+                            'Leganés', 'Majadahonda', 'Mejorada del Campo', 'Móstoles',
+                            'Navalcarnero', 'Paracuellos de Jarama', 'Parla', 'Pinto',
+                            'Pozuelo de Alarcón', 'Rivas-Vaciamadrid',
+                            'San Fernando de Henares', 'San Lorenzo de El Escorial',
+                            'San Martín de la Vega', 'San Sebastián de los Reyes',
+                            'Torrejón de Ardoz', 'Torrelodones', 'Tres Cantos', 'Valdemoro',
+                            'Villanueva de la Cañada', 'Villanueva del Pardillo',
+                            'Villaviciosa de Odón']
 
         )
     time.sleep(5)

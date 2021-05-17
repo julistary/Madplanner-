@@ -262,7 +262,15 @@ def get_df(df):
     df = df.set_index("name")
     return df.drop(["price_level", "CP", "latitude", "longitude", "type", "subtype"],  axis=1)
 
-def get_map(df):
+def geoquery_2(coordinates):
+    coord_point = {"type":"Point", "coordinates": coordinates}
+    collection = db.get_collection("transport")
+    query = {"geometry": {"$near": {"$geometry": coord_point,"$minDistance": 0, "$maxDistance": 2000}}}
+    query_final = collection.find(query)
+    df = pd.DataFrame((query_final))
+    return df
+
+def get_map(df,df_tr):
     """
     Creates a map with the values of a dataframe
     Args:
@@ -283,8 +291,33 @@ def get_map(df):
                                 icon_color = "black"
                 )
 
-
         Marker(**geom,icon = icon ).add_to(map_1)
+    
+    for i, row in df_tr.iterrows():
+        geom = {
+                    "location":[row["latitude"], row["longitude"]],
+                    "tooltip" : row["name"]
+                }
+        if row["place"] == "bus":            
+             icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "bus",
+                                icon_color = "black"
+                )   
+        elif row["place"] == "train" or row["place"] == "metro":
+            icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "train",
+                                icon_color = "black"
+                )
+        else:
+            icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "car",
+                                icon_color = "black"
+                ) 
+        Marker(**geom,icon = icon ).add_to(map_1)        
+    
         
     return map_1
    
