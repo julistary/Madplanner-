@@ -517,8 +517,8 @@
 540,Encin Golf Hotel,4.1,"A-2 Km 35 600, 28805 Alcalá de Henares, Spain",1.0,golf,plan,outdoors,28805,40.5224737,-3.3120705,"{'type': 'Point', 'coordinates': [40.5224737, -3.3120705]}",1-15€
 541,Campo 2 Hockey Hierba - Club De Campo,4.4,"Cdad., Madrid, Spain",1.0,golf,plan,outdoors,,40.4518955,-3.7498714,"{'type': 'Point', 'coordinates': [40.4518955, -3.7498714]}",1-15€
 542,Golfspain,4.4,"Calle de Columela, 11, 28001 Madrid, Spain",1.0,golf,plan,outdoors,28001,40.4212149,-3.6865158,"{'type': 'Point', 'coordinates': [40.4212149, -3.6865158]}",1-15€
-543,Parque de Atracciones de Madrid,4.2,"Casa de Campo, s/n, 28011 Madrid, Spain",,,plan,outdoors,28011,40.4118609,-3.7500892,"{'type': 'Point', 'coordinates': [40.4118609, -3.7500892]}",More than 50€
-544,Parque Warner Beach,3.9,"A-4, Salida 22, 28330 San Martín de la Vega, Spain",,,plan,outdoors,28330,40.22972619999999,-3.5903897,"{'type': 'Point', 'coordinates': [40.22972619999999, -3.5903897]}",More than 50€
-545,Nickelodeon Land,3.9,"Paseo de la Venta, 3, 28011 Madrid, Spain",,,plan,outdoors,28011,40.40955599999999,-3.7518368,"{'type': 'Point', 'coordinates': [40.40955599999999, -3.7518368]}",More than 50€
-549,Aquopolis Villanueva de la Cañada,,"Av. Dehesa, s/n, 28691 Villanueva de la Cañada, Madrid, Spain",,,plan,outdoors,28691,40.456663,-3.990413,"{'type': 'Point', 'coordinates': [40.456663, -3.990413]}",More than 50€
-596,Zoo Aquarium de Madrid,4.3,"Casa de Campo, s/n, 28011 Madrid, Spain",,,plan,outdoors,28011,40.40912280000001,-3.760958599999999,"{'type': 'Point', 'coordinates': [40.40912280000001, -3.760958599999999]}",More than 50€
+543,Parque de Atracciones de Madrid,4.2,"Casa de Campo, s/n, 28011 Madrid, Spain",,amusement park,plan,outdoors,28011,40.4118609,-3.7500892,"{'type': 'Point', 'coordinates': [40.4118609, -3.7500892]}",More than 50€
+544,Parque Warner Beach,3.9,"A-4, Salida 22, 28330 San Martín de la Vega, Spain",,amusement park,plan,outdoors,28330,40.22972619999999,-3.5903897,"{'type': 'Point', 'coordinates': [40.22972619999999, -3.5903897]}",More than 50€
+545,Nickelodeon Land,3.9,"Paseo de la Venta, 3, 28011 Madrid, Spain",,amusement park,plan,outdoors,28011,40.40955599999999,-3.7518368,"{'type': 'Point', 'coordinates': [40.40955599999999, -3.7518368]}",More than 50€
+549,Aquopolis Villanueva de la Cañada,,"Av. Dehesa, s/n, 28691 Villanueva de la Cañada, Madrid, Spain",,amusement park,plan,outdoors,28691,40.456663,-3.990413,"{'type': 'Point', 'coordinates': [40.456663, -3.990413]}",More than 50€
+596,Zoo Aquarium de Madrid,4.3,"Casa de Campo, s/n, 28011 Madrid, Spain",,amusement park,plan,outdoors,28011,40.40912280000001,-3.760958599999999,"{'type': 'Point', 'coordinates': [40.40912280000001, -3.760958599999999]}",More than 50€

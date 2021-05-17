@@ -4,25 +4,30 @@ import src.manage_data as dat
 from streamlit_folium import folium_static
 import time
 import pandas as pd 
+from datetime import datetime
+
 df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
 df_m = pd.read_csv("data/df_districts_2.csv",index_col=0)
 
 c = open("preferences/cat.csv", "a+")
+l = open("preferences/loc.csv", "a+")
+t = open("preferences/type.csv", "a+")
+p = open("preferences/price.csv", "a+")
+r = open("preferences/rat.csv", "a+")
 
 st.set_page_config(page_title="madplanner", page_icon="⚡️", layout='centered', initial_sidebar_state='auto')
 
 imagen = Image.open("images/madrid.png")
 st.image(imagen)
+name = st.text_input('Enter your name')
+
+years = st.number_input('Enter your age')
+
+time_ = datetime.now()
 
 st.header("""
 What do you want to do today? ⚡️⚡️ 
 """)
-
-st.subheader('First, please enter your age')
-
-years = st.selectbox(
-    "Select the group you belong to", ["select..", "0-10 years", "10-20 years", "20-30 years", "30-40 years", "40-50 years", "50-60 years", "60-70 years", "70-80 years", "80-90 years", "90-100 years", "100-110 years"]
-)
 
 st.write("""
 How do you want to search?
@@ -45,21 +50,26 @@ if filter == "category":
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
 
-    query = f"\n{years},{category},{tipo}"
+    query = f"\n{name},{years},{category},{tipo},category,{time_}"
     c.write(query)
 
 elif filter == "type":
     tipo = st.selectbox(
         "Select a type of plan 👯‍♀️", ["select..","friends", "couple", "individual", "team building", "family"]
     )
-    time.sleep(2)
-    plan = dat.type_of_plan(f"{tipo}")
-    st.dataframe(dat.get_df(plan))
-    df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
-    folium_static(dat.get_map(plan,df_tr))  
+    time.sleep(4)
+    with st.spinner(text='Thinking🧠'):
+        plan = dat.type_of_plan(f"{tipo}")
+        st.dataframe(dat.get_df(plan))
+        df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+        folium_static(dat.get_map(plan,df_tr))
+        st.success('Done 🚀')  
+
     if "cinema" in list(plan.place.unique()):        
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
+    query = f"\n{name},{years},{tipo},type,{time_}"
+    t.write(query)
 
 elif filter == "price":
     maxmin = st.select_slider(
@@ -75,6 +85,8 @@ elif filter == "price":
     if "cinema" in list(plan.place.unique()):
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
+    query = f"\n{name},{years},{maxmin},price,{time_}"
+    p.write(query)
 
 elif filter == "rating":
     maxmin = st.select_slider(
@@ -90,13 +102,18 @@ elif filter == "rating":
     if "cinema" in list(plan.place.unique()):
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
+    query = f"\n{name},{years},{maxmin},rating,{time_}"
+    r.write(query)
 
 elif filter == "location":
+    time.sleep(1)
     donde = st.selectbox(
-        "Where? 🗺", ["select..",'Madrid', 'Other towns']
+        "Where? 🗺", ["select..",'Madrid', 'Other towns in Madrid']
     )
 
+
     if f"{donde}" == 'Madrid': 
+        time.sleep(4)
         district = st.selectbox(
             "Select a district", ["select..", 'Arganzuela', 'Barajas','Carabanchel',
                     'Centro', 'Chamartín', 'Chamberí', 'Ciudad Lineal', 
@@ -123,6 +140,7 @@ elif filter == "location":
 
         )
     st.warning('It may take a few seconds, please wait☺️')
+    time.sleep(2)
     coordinates = dat.barrio_a_coordenadas(df_madrid,df_m,f"{district}")
     st.write("Plans")
     st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
@@ -130,4 +148,12 @@ elif filter == "location":
     st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
     folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
 
+    query = f"\n{name},{years},{donde},{district},location,{time_}"
+    l.write(query)
+
 c.close()
+l.close()
+p.close()
+r.close()
+t.close()
+
