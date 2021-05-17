@@ -1,0 +1,61 @@
+,name,rating,location,address,price_level,place
+0,Teatro Infanta Isabel,4.2,"{'type': 'Point', 'coordinates': [-3.6955395, 40.4222474]}","Calle del Barquillo, 24, 28004 Madrid, Spain",,teatro
+1,Teatro Lara,4.4,"{'type': 'Point', 'coordinates': [-3.704428, 40.422096]}","Corredera Baja de San Pablo, 15, 28004 Madrid, Spain",,teatro
+2,Teatro Amaya,4.2,"{'type': 'Point', 'coordinates': [-3.6970375, 40.4351273]}","Paseo del General Martínez Campos, 9, 28010 Madrid, Spain",,teatro
+3,Fígaro Theater,4.1,"{'type': 'Point', 'coordinates': [-3.703701, 40.413462]}","Calle del Dr Cortezo, 5, 28012 Madrid, Spain",,teatro
+4,Teatro Rialto,4.4,"{'type': 'Point', 'coordinates': [-3.707230999999999, 40.421345]}","C/ Gran Vía, 54, 28013 Madrid, Spain",,teatro
+5,Teatro Español,4.6,"{'type': 'Point', 'coordinates': [-3.7001863, 40.4149459]}","Plaza Santa Ana, C. del Príncipe, 25, 28014 Madrid, Spain",,teatro
+6,Teatro Maravillas Madrid,4.2,"{'type': 'Point', 'coordinates': [-3.7030711, 40.4287637]}","C. de Manuela Malasaña, 6, 28004 Madrid, Spain",,teatro
+7,Teatros del Canal,4.5,"{'type': 'Point', 'coordinates': [-3.7051836, 40.43827900000001]}","Calle de Cea Bermúdez, 1, 28003 Madrid, Spain",,teatro
+8,Teatro Calderón,4.3,"{'type': 'Point', 'coordinates': [-3.7034966, 40.4140434]}","C. de Atocha, 18, 28012 Madrid, Spain",,teatro
+9,Teatro EDP Gran Vía,4.2,"{'type': 'Point', 'coordinates': [-3.7088222, 40.4224263]}","C/ Gran Vía, 66, 28013 Madrid, Spain",,teatro
+10,Cofidis Alcázar Theater,4.2,"{'type': 'Point', 'coordinates': [-3.6990771, 40.4177414]}","Calle de Alcalá, 20, 28014 Madrid, Spain",,teatro
+11,Teatros Luchana,4.4,"{'type': 'Point', 'coordinates': [-3.698257399999999, 40.4318815]}","Calle de Luchana, 38, 28010 Madrid, Spain",,teatro
+12,Teatro Príncipe Gran Vía,4.2,"{'type': 'Point', 'coordinates': [-3.7026678, 40.4194965]}","Calle de las Tres Cruces, 8, 28013 Madrid, Spain",,teatro
+13,Teatro del Barrio,4.6,"{'type': 'Point', 'coordinates': [-3.6992066, 40.4096082]}","Calle de Zurita, 20, 28012 Madrid, Spain",,teatro
+14,Reina Victoria Theater,4.3,"{'type': 'Point', 'coordinates': [-3.699844199999999, 40.4164844]}","Carrera de S. Jerónimo, 24, 28014 Madrid, Spain",,teatro
+15,Teatro de la Comedia,4.6,"{'type': 'Point', 'coordinates': [-3.7003923, 40.4155336]}","C. del Príncipe, 14, 28012 Madrid, Spain",,teatro
+16,Teatro María Guerrero,4.6,"{'type': 'Point', 'coordinates': [-3.6929763, 40.4228892]}","Calle de Tamayo y Baus, 4, 28004 Madrid, Spain",,teatro
+17,Teatro Alfil,4.4,"{'type': 'Point', 'coordinates': [-3.70452, 40.42318]}","Calle del Pez, 10, 28004 Madrid, Spain",,teatro
+18,Teatro Real,4.6,"{'type': 'Point', 'coordinates': [-3.710578, 40.418299]}","Plaza de Isabel II, s/n, 28013 Madrid, Spain",,teatro
+19,Teatro Coliseum,4.5,"{'type': 'Point', 'coordinates': [-3.710127, 40.423283]}","C/ Gran Vía, 78, 28013 Madrid, Spain",,teatro
+20,Nuevo Teatro Alcalá,4.4,"{'type': 'Point', 'coordinates': [-3.6782642, 40.4233852]}","Calle de Jorge Juan, 62, 28009 Madrid, Spain",,teatro
+21,Teatro Lope de Vega,4.5,"{'type': 'Point', 'coordinates': [-3.7086924, 40.4217904]}","C/ Gran Vía, 57, 28013 Madrid, Spain",,teatro
+22,Fourth Wall Theatre,4.5,"{'type': 'Point', 'coordinates': [-3.7026025, 40.4027033]}","Calle de Ercilla, 17, 28005 Madrid, Spain",,teatro
+23,Teatro La Latina,4.2,"{'type': 'Point', 'coordinates': [-3.7087451, 40.4114334]}","Plaza de la Cebada, 2, 28005 Madrid, Spain",,teatro
+24,Teatro Valle-Inclán,4.5,"{'type': 'Point', 'coordinates': [-3.7005027, 40.4082278]}","Calle de Valencia, 1, 28012 Madrid, Spain",,teatro
+25,Teatro de La Abadía,4.6,"{'type': 'Point', 'coordinates': [-3.709429399999999, 40.4353016]}","Calle de Fernández de los Ríos, 42, 28015 Madrid, Spain",,teatro
+26,Teatro Arlequín Gran Vía,4.1,"{'type': 'Point', 'coordinates': [-3.7082049, 40.4211739]}","Calle de San Bernardo, 5, 28013 Madrid, Spain",,teatro
+27,𝗧𝗲𝗮𝘁𝗿𝗼 𝗙𝗹𝗮𝗺𝗲𝗻𝗰𝗼 𝗠𝗮𝗱𝗿𝗶𝗱 | Espectáculo Flamenco | Espectáculos en Madrid,4.6,"{'type': 'Point', 'coordinates': [-3.704502, 40.4232579]}","Calle del Pez, 10, 28004 Madrid, Spain",,teatro
+28,Teatro Soho Club,4.2,"{'type': 'Point', 'coordinates': [-3.7119272, 40.422586]}","Plaza de España, 6, 28013 Madrid, Spain",,teatro
+29,Teatro Galileo,4.3,"{'type': 'Point', 'coordinates': [-3.7104918, 40.4337637]}","Calle de Galileo, 39, 28015 Madrid, Spain",,teatro
+30,La Estación Gran Teatro Caixabank Príncipe Pío,4.3,"{'type': 'Point', 'coordinates': [-3.718805, 40.4208869]}","Cuesta de San Vicente, 44, 28008 Madrid, Spain",,teatro
+31,Teseo,4.5,"{'type': 'Point', 'coordinates': [-3.7158973, 40.4085014]}","Ronda de Segovia, 61, 28005 Madrid, Spain",,teatro
+32,Fine Arts Theatre,4.2,"{'type': 'Point', 'coordinates': [-3.6963889, 40.4183333]}","Calle del Marqués de Casa Riera, 2, 28014 Madrid, Spain",,teatro
+33,Teatro de la Zarzuela,4.6,"{'type': 'Point', 'coordinates': [-3.6969903, 40.4171895]}","Calle de Jovellanos, 4, 28014 Madrid, Spain",,teatro
+34,Nave 73,4.5,"{'type': 'Point', 'coordinates': [-3.698737, 40.403159]}","Calle de Palos de la Frontera, 5, 28012 Madrid, Spain",,teatro
+35,Madrid Studio Theatre,4.9,"{'type': 'Point', 'coordinates': [-3.6993389, 40.4023154]}","Calle Cardenal Solís, 5, 28012 Madrid, Spain",,teatro
+36,Teatro Marquina,4.4,"{'type': 'Point', 'coordinates': [-3.6937277, 40.4219662]}","Calle de Prim, 11, 28004 Madrid, Spain",,teatro
+37,Teatro Victoria,4.3,"{'type': 'Point', 'coordinates': [-3.7055247, 40.4237442]}","Calle del Pez, 17, 28004 Madrid, Spain",,teatro
+38,Nueve Norte,4.5,"{'type': 'Point', 'coordinates': [-3.707569, 40.426073]}","Calle del Norte, 9, 28015 Madrid, Spain",,teatro
+39,Pequeño Teatro Gran Vía,4.3,"{'type': 'Point', 'coordinates': [-3.708937199999999, 40.42241629999999]}","C/ Gran Vía, 66, 28013 Madrid, Spain",,teatro
+40,Teatro Off La Latina,4.4,"{'type': 'Point', 'coordinates': [-3.711973, 40.412046]}","Calle de los Mancebos, 4, 28005 Madrid, Spain",,teatro
+41,Teatro Pradillo,4.2,"{'type': 'Point', 'coordinates': [-3.674621499999999, 40.4485727]}","Calle de Pradillo, 12, 28002 Madrid, Spain",,teatro
+42,Teatro Tribueñe,4.4,"{'type': 'Point', 'coordinates': [-3.661564, 40.425557]}","Calle de Sancho Dávila, 31, 28028 Madrid, Spain",,teatro
+43,Teatro maravillas,4.1,"{'type': 'Point', 'coordinates': [-3.6995308, 40.4164538]}","Calle de Echegaray, 1, 28014 Madrid, Spain",,teatro
+44,Teatro San Pol,4.4,"{'type': 'Point', 'coordinates': [-3.7270849, 40.4239998]}","Calle de San Pol de Mar, 1, 28008 Madrid, Spain",,teatro
+45,Réplika Teatro,4.7,"{'type': 'Point', 'coordinates': [-3.7117966, 40.4482151]}","Calle Explanada, 14, 28040 Madrid, Spain",,teatro
+46,Teatro Novedades,0.0,"{'type': 'Point', 'coordinates': [-3.709187, 40.410134]}","Calle de Toledo, 83, 28005 Madrid, Spain",,teatro
+47,https://madridesteatro.com,0.0,"{'type': 'Point', 'coordinates': [-3.676601099999999, 40.4181321]}","Calle de Ibiza, 18, 5º d, 28009 Madrid, Spain",,teatro
+48,SOJO Laboratorio Teatral,4.6,"{'type': 'Point', 'coordinates': [-3.7121572, 40.4044994]}","Calle de San Isidoro de Sevilla, 2, 28005 Madrid, Spain",,teatro
+49,Teatro Muñoz Seca,4.2,"{'type': 'Point', 'coordinates': [-3.703189, 40.418373]}","Plaza del Carmen, 1, 28013 Madrid, Spain",,teatro
+50,Sala AZarte,4.3,"{'type': 'Point', 'coordinates': [-3.6983519, 40.42141669999999]}","Calle de San Marcos, 19, 28004 Madrid, Spain",,teatro
+51,Escuela de Teatro PLOT POINT - obras de teatro y alquiler salas,4.7,"{'type': 'Point', 'coordinates': [-3.702038, 40.401971]}","Calle de Ercilla, 29, 28005 Madrid, Spain",,teatro
+52,Federación de Grupos de Teatro Aficionado Amateur de la C.A.M.,0.0,"{'type': 'Point', 'coordinates': [-3.7120689, 40.4224938]}","Plaza de España, 6, 28008 Madrid, Spain",,teatro
+53,Sala Mirador,4.5,"{'type': 'Point', 'coordinates': [-3.6988561, 40.40704240000001]}","Calle del Dr. Fourquet, 31, 28012 Madrid, Spain",,teatro
+54,Teatro Karpas,4.4,"{'type': 'Point', 'coordinates': [-3.697682, 40.410462]}","Calle de Santa Isabel, 19, 28012 Madrid, Spain",,teatro
+55,Microteatro Por Dinero,4.6,"{'type': 'Point', 'coordinates': [-3.7040616, 40.4215369]}","Calle de Loreto y Chicote, 9, 28004 Madrid, Spain",,teatro
+56,Sala Tarambana,4.5,"{'type': 'Point', 'coordinates': [-3.7432511, 40.3858213]}","Calle Dolores Armengot, 31, 28025 Madrid, Spain",,teatro
+57,Las Aguas Theater,4.2,"{'type': 'Point', 'coordinates': [-3.7122535, 40.410867]}","Calle de las Aguas, 8, 28005 Madrid, Spain",,teatro
+58,"The Laundry, School of Theatre and Performing Arts",4.7,"{'type': 'Point', 'coordinates': [-3.7057573, 40.4353319]}","C/ de Magallanes, 23, 28015 Madrid, Spain",,teatro
+59,Teatro Corral Cervantes,4.1,"{'type': 'Point', 'coordinates': [-3.699816999999999, 40.3940136]}","Parque Madrid Río, Crystal Palace of Arganzuela, frente al, Paseo de la Chopera, s/n, Madrid, Spain",,teatro

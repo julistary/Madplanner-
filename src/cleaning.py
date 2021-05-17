@@ -16,7 +16,7 @@ def create_subdata(listita):
          "french", "mexican", "asian", "rooftop", "cocktail",  "ramen", "argentino",
           "grill", "italian",
          "thai", "cake", "cupcakes", "coffee", "mid eastern",
-         "indian", "pizza", "sweets", "theater", "spa", "ice cream",
+         "indian", "pizza", "sweets", "teatro", "spa", "ice cream",
          "sports bar", "healthy", "vegetarian", 
          "jazz", "wine", "karaoke", "dancing", "seafood", "escape room",
          "centro comercial", "pista padel", "pista tenis", "campo de futbol", 
@@ -49,6 +49,7 @@ def address(df):
         The dataframe with the zip code
     """
     pattern = r'\b\d{5}\b'
+
     df['CP'] = df.address.apply(lambda x: re.findall(pattern, x))
 
     list_ = []

@@ -23,9 +23,17 @@ name = st.text_input('Enter your name')
 
 years = st.number_input('Enter your age')
 
+gender = st.selectbox('Enter your gender', ['Select..','Female','Male','Other','Prefer not to answer'])
+
+ocupation = st.selectbox('Enter your ocupation', ['Select..','Working','Studying','None'])
+
+children = st.selectbox('Do you have any children?', ['Select..','YES','NO'])
+
 time_ = datetime.now()
 
-if years != 0.0 and name!="":
+weekday = datetime.today().weekday()
+
+if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer'])) and ((ocupation in ['Working','Studying','None']) and (children in ['YES','NO'])):
     
     st.header(f"Hello {name}. What do you want to do today? ⚡️⚡️ ")
 
@@ -48,7 +56,7 @@ if years != 0.0 and name!="":
             if tipo in dat.subcategory(f"{category}"):
                 folium_static(dat.mapita(f"{category}", f"{tipo}"))
                 st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
-                query = f"\n{name},{years},{category},{tipo},category,{time_}"
+                query = f"\n{name},{years},{category},{tipo},category,{time_},{weekday},  {gender}, {ocupation}, {children}"
                 c.write(query)
             
             if tipo == "cinema":
@@ -67,7 +75,7 @@ if years != 0.0 and name!="":
                 df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
                 folium_static(dat.get_map(plan,df_tr))
                 st.success('Done 🚀')  
-                query = f"\n{name},{years},{tipo},type,{time_}"
+                query = f"\n{name},{years},{tipo},type,{time_},{weekday}, {gender}, {ocupation}, {children}"
                 t.write(query)
 
             if "cinema" in list(plan.place.unique()):        
@@ -90,7 +98,7 @@ if years != 0.0 and name!="":
             if "cinema" in list(plan.place.unique()):
                 st.write("""These are the films available in the cinema right now: """)
                 st.dataframe(dat.films())  
-            query = f"\n{name},{years},{maxmin},price,{time_}"
+            query = f"\n{name},{years},{maxmin},price,{time_},{weekday}, {gender}, {ocupation}, {children}"
             p.write(query)
 
     elif filter == "rating":
@@ -108,7 +116,7 @@ if years != 0.0 and name!="":
             if "cinema" in list(plan.place.unique()):
                 st.write("""These are the films available in the cinema right now: """)
                 st.dataframe(dat.films())  
-            query = f"\n{name},{years},{maxmin},rating,{time_}"
+            query = f"\n{name},{years},{maxmin},rating,{time_},{weekday}, {gender}, {ocupation}, {children}"
             r.write(query)
 
     elif filter == "location":
@@ -158,7 +166,7 @@ if years != 0.0 and name!="":
                 st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
                 folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
 
-                query = f"\n{name},{years},{donde},{district},location,{time_}"
+                query = f"\n{name},{years},{donde},{district},location,{time_},{weekday}, {gender}, {ocupation}, {children}"
                 l.write(query)
 
     c.close()

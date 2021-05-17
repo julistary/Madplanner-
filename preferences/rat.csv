@@ -1,3 +1,4 @@
-name,age,min,filter,time
+name,age,category,filter,time,weekday,gender,ocupation,children
 
-Julieta,23.0,4.9,rating,2021-05-17 19:06:23.870826
+
+Julieta,23.0,4.9,rating,2021-05-17 22:21:35.810915,0, Female, Studying, NO
