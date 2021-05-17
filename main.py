@@ -5,7 +5,9 @@ from streamlit_folium import folium_static
 import time
 import pandas as pd 
 df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
-df_distritos = pd.read_csv("data/df_districts.csv",index_col=0)
+df_m = pd.read_csv("data/df_districts_2.csv",index_col=0)
+
+c = open("preferences/cat.csv", "a+")
 
 st.set_page_config(page_title="madplanner", page_icon="⚡️", layout='centered', initial_sidebar_state='auto')
 
@@ -16,20 +18,26 @@ st.header("""
 What do you want to do today? ⚡️⚡️ 
 """)
 
+st.subheader('First, please enter your age')
+
+years = st.selectbox(
+    "Select the group you belong to", ["select..", "0-10 years", "10-20 years", "20-30 years", "30-40 years", "40-50 years", "50-60 years", "60-70 years", "70-80 years", "80-90 years", "90-100 years", "100-110 years"]
+)
+
 st.write("""
 How do you want to search?
 """)
 
 filter =  st.selectbox(
-    "Select a filter", ["category", "location", "type", "price", "rating"]
+    "Select a filter", ["select..","category", "location", "type", "price", "rating"]
 )
 
 if filter == "category":
     category = st.selectbox(
-        "Select a category 🥑", ["restaurant", "outdoors", "drinks", "party", "snacks", "culture", "leisure activities"]
+        "Select a category 🥑", ["select..","restaurant", "outdoors", "drinks", "party", "snacks", "culture", "leisure activities"]
     )
     tipo = st.selectbox(
-        f"What kind of {category}?", dat.subcategory(f"{category}")
+        f"What kind of {category}?", ["select.."] + dat.subcategory(f"{category}")
     )
     folium_static(dat.mapita(f"{category}", f"{tipo}"))
     st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
@@ -37,11 +45,14 @@ if filter == "category":
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
 
+    query = f"\n{years},{category},{tipo}"
+    c.write(query)
+
 elif filter == "type":
     tipo = st.selectbox(
-        "Select a type of plan 👯‍♀️", ["friends", "couple", "individual", "team building", "family"]
+        "Select a type of plan 👯‍♀️", ["select..","friends", "couple", "individual", "team building", "family"]
     )
-
+    time.sleep(2)
     plan = dat.type_of_plan(f"{tipo}")
     st.dataframe(dat.get_df(plan))
     df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
@@ -80,24 +91,23 @@ elif filter == "rating":
         st.write("""These are the films available in the cinema right now: """)
         st.dataframe(dat.films())  
 
-
 elif filter == "location":
     donde = st.selectbox(
-        "Where? 🗺", ['Madrid', 'Other towns']
+        "Where? 🗺", ["select..",'Madrid', 'Other towns']
     )
 
     if f"{donde}" == 'Madrid': 
         district = st.selectbox(
-            "Select a district", ['Aravaca', 'Arganzuela', 'Barajas', 'Canillejas', 'Carabanchel',
-                    'Centro', 'Chamartín', 'Chamberí', 'Ciudad Lineal', 'El Pardo',
-                    'Fuencarral', 'Hortaleza', 'Latina', 'Moncloa', 'Moratalaz',
-                    'Puente de Vallecas', 'Retiro', 'Salamanca', 'San Blás', 'Tetuán',
+            "Select a district", ["select..", 'Arganzuela', 'Barajas','Carabanchel',
+                    'Centro', 'Chamartín', 'Chamberí', 'Ciudad Lineal', 
+                    'Fuencarral-El Pardo', 'Hortaleza', 'Latina', 'Moncloa-Aravaca', 'Moratalaz',
+                    'Puente de Vallecas', 'Retiro', 'Salamanca', 'San Blás-Canillejas', 'Tetuán',
                     'Usera', 'Vicálvaro', 'Villa de Vallecas', 'Villaverde']
         )
 
     else: 
         district = st.selectbox(
-            "Select a village", ['Alcalá de Henares', 'Alcobendas', 'Alcorcón', 'Algete',
+            "Select a village", ["select..",'Alcalá de Henares', 'Alcobendas', 'Alcorcón', 'Algete',
                             'Aranjuez', 'Arganda del Rey', 'Arroyomolinos',
                             'Boadilla del Monte', 'Ciempozuelos', 'Collado Villalba',
                             'Colmenar Viejo', 'Coslada', 'El Escorial', 'Fuenlabrada',
@@ -112,16 +122,12 @@ elif filter == "location":
                             'Villaviciosa de Odón']
 
         )
-    time.sleep(5)
-    try:
-        coordinates = dat.barrio_a_coordenadas(df_madrid,df_distritos,f"{district}")
-    except:
-        time.sleep(5)
-    finally:
-        coordinates = dat.barrio_a_coordenadas(df_madrid,df_distritos,f"{district}")
+    st.warning('It may take a few seconds, please wait☺️')
+    coordinates = dat.barrio_a_coordenadas(df_madrid,df_m,f"{district}")
     st.write("Plans")
     st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
     st.write("Means of transport")
     st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
     folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
 
+c.close()

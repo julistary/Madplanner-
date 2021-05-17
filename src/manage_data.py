@@ -28,7 +28,7 @@ df_drinks = pd.read_csv("data/drinks.csv", index_col=0)
 df_outdoors = pd.read_csv("data/outdoors.csv", index_col=0)
 df_leisure = pd.read_csv("data/leisure.csv", index_col=0)
 df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
-df_distritos = pd.read_csv("data/df_districts.csv",index_col=0)
+df_m = pd.read_csv("data/df_districts_2.csv",index_col=0)
 
 def mapita(category, tipo):
     """
@@ -417,29 +417,25 @@ def films():
 
     return pd.DataFrame.from_dict(dict_films, orient = "columns")
     
-def barrio_a_coordenadas(df_madrid,df_distritos, district):
+def barrio_a_coordenadas(df_madrid,df_m, district):
     coordinates = {}
     district = unicodedata.normalize('NFD', district)\
     .encode('ascii', 'ignore')\
     .decode("utf-8")
-    print(district)
-    lista_distritos = ['fuencarral','el pardo', 'hortaleza', 'ciudad lineal', 'san blas',
-                       'canillejas', 'barajas', 'moratalaz', 'puente de vallecas', 'vicalvaro',
+    lista_distritos = ['fuencarral-el pardo', 'hortaleza', 'ciudad lineal', 'san blas-canillejas',
+                       'barajas', 'moratalaz', 'puente de vallecas', 'vicalvaro',
                        'villa de vallecas', 'villaverde', 'usera', 'carabanchel', 'latina', 
-                       'moncloa','aravaca', 'centro', 'tetuan', 'chamartin', 'chamberi', 'retiro',
+                       'moncloa-aravaca', 'centro', 'tetuan', 'chamartin', 'chamberi', 'retiro',
                        'arganzuela', 'salamanca']
     if district.lower() in lista_distritos:
         district = district.upper()
-        cp = 28037
-        for index, row in df_distritos.iterrows():
-            if district in row.Distrito:
-                cp = row.CP
-        datos = requests.get(f"https://geocode.xyz/{cp}?json=1").json()
-        datos = datos["alt"]["loc"]
-        for country in datos:
-            if country['countryname'] == "Spain":
-                coordinates["latt"] = country["latt"]
-                coordinates["long"] = country["longt"]
+        print(district)
+        for index, row in df_m.iterrows():
+            if district.upper() in row.Distrito.upper():
+                coordinates["latt"] = row["latitude"]
+                coordinates["long"] = row["longitude"]           
+                break
+        
     else:
         for index, row in df_madrid.iterrows():
             if district.upper() in row.poblacion.upper():
@@ -471,12 +467,12 @@ def df_tpte_bonito(df):
     df_tpte = df_tpte.set_index("name")
     try:
         df_tpte = df_tpte.drop(["subtype","rating","_id","CP","price_level","address", "type", "latitude", "longitude", "geometry","price"],axis=1)
-        df_tpte = df_tpte.drop_duplicates()
+        #df_tpte = df_tpte.drop_duplicates()
         df_tpte = df_tpte.rename(columns={"place":"mean of transport near"})
         return df_tpte
     except:
         df_tpte = df_tpte.drop(['_id', 'latitude', 'longitude', 'geometry', 'type'],axis=1)
-        df_tpte = df_tpte.drop_duplicates()
+        #df_tpte = df_tpte.drop_duplicates()
         df_tpte = df_tpte.rename(columns={"place":"mean of transport near"})
         return df_tpte
     
