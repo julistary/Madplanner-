@@ -1,0 +1,21 @@
+,name,rating,location,address,price_level,place
+0,Caripen Bistro,4.3,"{'type': 'Point', 'coordinates': [-3.7120234, 40.4205099]}","Plaza de la Marina Española, 4, 28013 Madrid, Spain",,french restaurant
+1,L’Entrecote Café de París,4.4,"{'type': 'Point', 'coordinates': [-3.686689599999999, 40.4218445]}","Calle del Conde de Aranda, 11, 28001 Madrid, Spain",2.0,french restaurant
+2,La Esquina Del Real,4.6,"{'type': 'Point', 'coordinates': [-3.710359, 40.417369]}","C. de la Amnistía, 4, 28013 Madrid, Spain",2.0,french restaurant
+3,Les Mauvais Garçons - Los Chicos Malos,4.6,"{'type': 'Point', 'coordinates': [-3.703483599999999, 40.4243617]}","Calle de la Madera, 36, 28004 Madrid, Spain",2.0,french restaurant
+4,Le Petit Prince,4.2,"{'type': 'Point', 'coordinates': [-3.6740681, 40.4243517]}","C/ de Fernán González, 7, 28009 Madrid, Spain",2.0,french restaurant
+5,Le Bistroman Atelier,4.6,"{'type': 'Point', 'coordinates': [-3.710948, 40.4172816]}","C. de la Amnistía, 10, 28013 Madrid, Spain",,french restaurant
+6,La Minoterie,4.6,"{'type': 'Point', 'coordinates': [-3.706280699999999, 40.4104985]}","Calle de la Encomienda, 23, 28012 Madrid, Spain",1.0,french restaurant
+7,El Viejo León,4.3,"{'type': 'Point', 'coordinates': [-3.692091, 40.43381]}","Calle de Alfonso X, 6, 28010 Madrid, Spain",2.0,french restaurant
+8,Vinos naturales - Cascorro Bistrot,4.1,"{'type': 'Point', 'coordinates': [-3.7074085, 40.411127]}","Plaza de Cascorro, 21, 28005 Madrid, Spain",,french restaurant
+9,L´Entrecote Café de París,4.4,"{'type': 'Point', 'coordinates': [-3.6879755, 40.4632064]}","Calle Félix Boix, 8, 28036 Madrid, Spain",2.0,french restaurant
+10,Petit Paris,4.3,"{'type': 'Point', 'coordinates': [-3.7036564, 40.4288396]}","Pedidos & Chef a domicilio, Calle de Ruiz, 20, 28004 Madrid, Spain",,french restaurant
+11,La Provencita,5.0,"{'type': 'Point', 'coordinates': [-3.6986587, 40.411631]}","Calle de Santa Isabel, 5, 28012 Madrid, Spain",,french restaurant
+12,Crêperie La Rue,4.3,"{'type': 'Point', 'coordinates': [-3.7015061, 40.4238807]}","Calle de Colón, 14, 28004 Madrid, Spain",1.0,french restaurant
+13,Petit Comité Chueca Centro - Restaurante en Madrid,4.1,"{'type': 'Point', 'coordinates': [-3.6998374, 40.4202844]}","Calle de la Reina, 15, 28004 Madrid, Spain",2.0,french restaurant
+14,Brasserie Lafayette Madrid,4.5,"{'type': 'Point', 'coordinates': [-3.6806805, 40.4410409]}","Calle Recaredo, 2, 28002 Madrid, Spain",,french restaurant
+15,El reataurant Bobu.es en Madrid,0.0,"{'type': 'Point', 'coordinates': [-3.7022095, 40.4144594]}","Calle de Espoz y Mina, 23, 28012 Madrid, Spain",,french restaurant
+16,Petit Comité Azca Bernabeu - Bar Restaurante con Terraza en Madrid,4.0,"{'type': 'Point', 'coordinates': [-3.6975936, 40.4532494]}","Av. del Pdte. Carmona, 1, 28020 Madrid, Spain",,french restaurant
+17,Maison Kayser,4.7,"{'type': 'Point', 'coordinates': [-3.6955473, 40.4249891]}","Calle de Fernando VI, 21, 28004 Madrid, Spain",,french restaurant
+18,Restaurante · Creperie Cre·Cotte,4.1,"{'type': 'Point', 'coordinates': [-3.6928687, 40.4567593]}","Av. de Brasil, 26, 28020 Madrid, Spain",1.0,french restaurant
+19,L'Art Creperie,3.5,"{'type': 'Point', 'coordinates': [-3.7135053, 40.4241369]}","Calle de Martín de los Heros, 5, 28008 Madrid, Spain",,french restaurant

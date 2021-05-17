@@ -13,7 +13,7 @@ def create_subdata(listita):
     lista = ["cinema", "museum", "park", "zoo", "japanese",
          "burger", "vietnamese", "tapas", "korean", "brewery",
          "club", "pub", "bowling", "greek", "juices", "vegan",
-         "french", "mexican", "asian", "rooftop", "cocktail",  "ramen", "argentino",
+         "french restaurant", "mexican", "asian", "rooftop", "cocktail",  "ramen", "argentino",
           "grill", "italian",
          "thai", "cake", "cupcakes", "coffee", "mid eastern",
          "indian", "pizza", "sweets", "teatro", "spa", "ice cream",
@@ -143,15 +143,18 @@ def drop_row(df,code):
        'Ferrocarril de las Delicias',
        'Madrid Río Park', 'VR Virtual Recall Park & \u200b\u200bAcademy',
        'Sould Park La Vaguada', 'Casa de Campo Park']
+    
+    rest_drop = ['Clinica De Fisioterapia Healthy Life']
 
     laser_drop = ['NonameSport (Oficinas)',  'RonquidosMadrid',
        'Paintball Madrid Action Live', 
        'Universal Games Recinto Delta Force',
        'Multiaventura Park en Madrid - Parque Europa',
-       'Paintball Park Madrid', 'Battlefield Laser Combat Madrid',
+       'Paintball Park Madrid', 
        'Zero Latency', 'Humor Amarillo Madrid',
        'Instituto Médico Español Estética Avanzada Sl',
-       'Clínica Dermatológica Laser - Serafín Fernández-Cañadas']
+       'Clínica Dermatológica Laser - Serafín Fernández-Cañadas',
+       'Bolo 11, Tienda de equipación y material para el bowling','Federación Española de Bolos']
 
     if code == "zoo":
         list_ = zoo_drop
@@ -161,6 +164,8 @@ def drop_row(df,code):
         list_ = tlf_drop
     elif code == "laser":
         list_ = laser_drop
+    elif code == "rest":
+        list_ = rest_drop
         
     for i in list_: 
         df.drop(df[df.name==i].index, axis=0, inplace=True)

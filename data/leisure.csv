@@ -8,14 +8,12 @@
 6,Ilusiona Diversia,4.2,"Av. de Bruselas, 21, Local 23B, 28108 Alcobendas, Madrid, Spain",1.0,bowling,plan,leisure,28108,40.5310091,-3.6376404,"{'type': 'Point', 'coordinates': [40.5310091, -3.6376404]}",1-15€
 7,Bowling Ilusiona Islazul,4.4,"Centro Comercial Isla Azul, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,bowling,plan,leisure,28054,40.3630408,-3.7385112,"{'type': 'Point', 'coordinates': [40.3630408, -3.7385112]}",1-15€
 8,La Ermita Centro Comercial. Street Food,3.7,"Paseo de la Ermita del Santo, 48, 28011 Madrid, Spain",1.0,bowling,plan,leisure,28011,40.4067649,-3.724733899999999,"{'type': 'Point', 'coordinates': [40.4067649, -3.724733899999999]}",1-15€
-9,"Bolo 11, Tienda de equipación y material para el bowling",4.7,"Calle de Luis Cabrera, 58, 28002 Madrid, Spain",1.0,bowling,plan,leisure,28002,40.4430684,-3.6742827,"{'type': 'Point', 'coordinates': [40.4430684, -3.6742827]}",1-15€
 10,Ozone X-Madrid,4.4,"Calle Oslo, 53, 28922 Alcorcón, Madrid, Spain",1.0,bowling,plan,leisure,28922,40.3396683,-3.847202,"{'type': 'Point', 'coordinates': [40.3396683, -3.847202]}",1-15€
 11,Planet Bowling,0.0,"Av. San Martín de Valdeiglesias, 24, 28922 Madrid, Spain",1.0,bowling,plan,leisure,28922,40.3583075,-3.8319554,"{'type': 'Point', 'coordinates': [40.3583075, -3.8319554]}",1-15€
 12,Bowling Park,4.1,"Ctra. Ajalvir Centro Comerci, 28850 Torrejón de Ardoz, Madrid, Spain",1.0,bowling,plan,leisure,28850,40.4776459,-3.4798106,"{'type': 'Point', 'coordinates': [40.4776459, -3.4798106]}",1-15€
 13,Bowling TresAguas,4.2,"Av. San Martín de Valdeiglesias, 24, 28922 Alcorcón, Madrid, Spain",1.0,bowling,plan,leisure,28922,40.3585139,-3.8331793,"{'type': 'Point', 'coordinates': [40.3585139, -3.8331793]}",1-15€
 14,Real Bowling De Olías S L,3.3,"Calle Julio Rey Pastor, 1, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,plan,leisure,28702,40.5659324,-3.6102891,"{'type': 'Point', 'coordinates': [40.5659324, -3.6102891]}",1-15€
 15,Planet Bowling,1.0,"Calle de Anabel Segura, 7, 28108 Alcobendas, Madrid, Spain",1.0,bowling,plan,leisure,28108,40.5346461,-3.6257381,"{'type': 'Point', 'coordinates': [40.5346461, -3.6257381]}",1-15€
-16,Federación Española de Bolos,0.0,"Calle Pío Baroja, 10 - 3ª planta, 28009 Madrid, Spain",1.0,bowling,plan,leisure,28009,40.4131898,-3.675106299999999,"{'type': 'Point', 'coordinates': [40.4131898, -3.675106299999999]}",1-15€
 17,Omagic Bowling,4.0,"Calle Marie Curie, 4, 28521 Rivas-Vaciamadrid, Madrid, Spain",1.0,bowling,plan,leisure,28521,40.3372091,-3.5261449,"{'type': 'Point', 'coordinates': [40.3372091, -3.5261449]}",1-15€
 18,Bolera Alegra,3.5,"Calle Julio Rey Pastor, 6, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,plan,leisure,28702,40.5661105,-3.610121,"{'type': 'Point', 'coordinates': [40.5661105, -3.610121]}",1-15€
 19,Omagic,3.9,"Calle Julio Rey Pastor, s/n, 28702 San Sebastián de los Reyes, Madrid, Spain",1.0,bowling,plan,leisure,28702,40.5664298,-3.6104906,"{'type': 'Point', 'coordinates': [40.5664298, -3.6104906]}",1-15€
@@ -185,6 +183,7 @@
 183,NiceShot,3.7,"Calle Puerto Guadarrama, 36, 28935 Móstoles, Madrid, Spain",3.0,laser tag,plan,leisure,28935,40.3508253,-3.8750958,"{'type': 'Point', 'coordinates': [40.3508253, -3.8750958]}",25-50€
 185,LASER TAG,0.0,"28860 Paracuellos de Jarama, Madrid, Spain",3.0,laser tag,plan,leisure,28860,40.478221,-3.5029019,"{'type': 'Point', 'coordinates': [40.478221, -3.5029019]}",25-50€
 188,virtual reality diversion,5.0,"Av. de los Labradores, 9, 11, 28760 Tres Cantos, Madrid, Spain",3.0,laser tag,plan,leisure,28760,40.5995715,-3.7094017,"{'type': 'Point', 'coordinates': [40.5995715, -3.7094017]}",25-50€
+192,Battlefield Laser Combat Madrid,4.7,"Calle Techoso, 45221 Esquivias, Toledo, Spain",3.0,laser tag,plan,leisure,45221,40.10839,-3.758751,"{'type': 'Point', 'coordinates': [40.10839, -3.758751]}",25-50€
 197,WINDOBONA Indoor Skydiving Madrid,4.6,"Calle Calderilla, 16, 28054 Madrid, Spain",,wind tunnel,plan,leisure,28054,40.3640215,-3.739970699999999,"{'type': 'Point', 'coordinates': [40.3640215, -3.739970699999999]}",More than 50€
 198,MADRID FLY - Túnel de viento,4.6,"Av. Ntra. Señora del Retamar, 16, 28232 Las Rozas de Madrid, Madrid, Spain",,wind tunnel,plan,leisure,28232,40.5055949,-3.888615699999999,"{'type': 'Point', 'coordinates': [40.5055949, -3.888615699999999]}",More than 50€
 203,Pintor Rosales - Teleférico,4.7,"28008 Madrid, Spain",,cableway,plan,leisure,28008,40.42941,-3.72228,"{'type': 'Point', 'coordinates': [40.42941, -3.72228]}",More than 50€
