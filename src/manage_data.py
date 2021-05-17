@@ -7,6 +7,8 @@ conn = MongoClient("localhost:27017")
 db = conn.get_database("madrid")
 import requests
 from bs4 import BeautifulSoup
+import json
+import unicodedata 
 
 
 leisure = db.get_collection("leisure")
@@ -25,6 +27,8 @@ df_party = pd.read_csv("data/party.csv", index_col=0)
 df_drinks = pd.read_csv("data/drinks.csv", index_col=0)
 df_outdoors = pd.read_csv("data/outdoors.csv", index_col=0)
 df_leisure = pd.read_csv("data/leisure.csv", index_col=0)
+df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
+df_distritos = pd.read_csv("data/df_districts.csv",index_col=0)
 
 def mapita(category, tipo):
     """
@@ -143,7 +147,7 @@ def datafr(tipo,category):
         df = df_culture
 
     df = df[df["place"]==tipo].drop(['price_level', 'place', 'CP', 'latitude',
-    'longitude', 'geometry'], axis=1)
+    'longitude', 'geometry', 'type', 'subtype'], axis=1)
     df = df.reset_index()
     df = df.drop(["index"],axis=1)
     
@@ -256,7 +260,7 @@ def get_df(df):
     """
     
     df = df.set_index("name")
-    return df.drop(["price_level", "CP", "latitude", "longitude"], axis=1)
+    return df.drop(["price_level", "CP", "latitude", "longitude", "type", "subtype"],  axis=1)
 
 def get_map(df):
     """
@@ -380,3 +384,125 @@ def films():
 
     return pd.DataFrame.from_dict(dict_films, orient = "columns")
     
+def barrio_a_coordenadas(df_madrid,df_distritos, district):
+    coordinates = {}
+    district = unicodedata.normalize('NFD', district)\
+    .encode('ascii', 'ignore')\
+    .decode("utf-8")
+    print(district)
+    lista_distritos = ['fuencarral','el pardo', 'hortaleza', 'ciudad lineal', 'san blas',
+                       'canillejas', 'barajas', 'moratalaz', 'puente de vallecas', 'vicalvaro',
+                       'villa de vallecas', 'villaverde', 'usera', 'carabanchel', 'latina', 
+                       'moncloa','aravaca', 'centro', 'tetuan', 'chamartin', 'chamberi', 'retiro',
+                       'arganzuela', 'salamanca']
+    if district.lower() in lista_distritos:
+        district = district.upper()
+        cp = 28037
+        for index, row in df_distritos.iterrows():
+            if district in row.Distrito:
+                cp = row.CP
+        datos = requests.get(f"https://geocode.xyz/{cp}?json=1").json()
+        datos = datos["alt"]["loc"]
+        for country in datos:
+            if country['countryname'] == "Spain":
+                coordinates["latt"] = country["latt"]
+                coordinates["long"] = country["longt"]
+    else:
+        for index, row in df_madrid.iterrows():
+            if district.upper() in row.poblacion.upper():
+                coordinates["latt"] = row["lon"][:6]
+                coordinates["long"] = row["lat"][:6]            
+                break
+    return coordinates
+
+def geoquery(coordinates):
+    collection = db.get_collection("todo")
+    coord_point = {"type":"Point", "coordinates": [float(coordinates['latt']), float(coordinates['long'])]}
+    query = {"geometry": {"$near": {"$geometry": coord_point,"$minDistance": 0, "$maxDistance": 1500}}}
+    query_final = collection.find(query)
+    df = pd.DataFrame((query_final))
+    return df
+
+def df_planes_bonito(df):
+    df_plan = df[df["type"]=="plan"]
+    df_plan = df_plan.set_index("name")
+    try:
+        df_plan = df_plan.drop(["_id","CP","price_level", "type","subtype", "latitude", "longitude", "geometry"],axis=1)
+        df_plan = df_plan.drop(["place"],axis=1).drop_duplicates()
+        return df_plan
+    except: 
+        pass
+    
+def df_tpte_bonito(df):
+    df_tpte = df[df["type"]=="transport"]
+    df_tpte = df_tpte.set_index("name")
+    try:
+        df_tpte = df_tpte.drop(["subtype","rating","_id","CP","price_level","address", "type", "latitude", "longitude", "geometry","price"],axis=1)
+        df_tpte = df_tpte.drop_duplicates()
+        df_tpte = df_tpte.rename(columns={"place":"mean of transport near"})
+        return df_tpte
+    except:
+        df_tpte = df_tpte.drop(['_id', 'latitude', 'longitude', 'geometry', 'type'],axis=1)
+        df_tpte = df_tpte.drop_duplicates()
+        df_tpte = df_tpte.rename(columns={"place":"mean of transport near"})
+        return df_tpte
+    
+def mapita_2(df,coordinates):
+    map_1 = Map(location=[float(coordinates['latt']), float(coordinates['long'])],zoom_start=15)
+
+    for i, row in df.iterrows():
+        if row["type"] == "plan":
+            geom = {
+            "location":[row["latitude"], row["longitude"]],
+            "tooltip" : row["name"]
+            }
+            
+            if row["subtype"] == "restaurants":
+                iconito = "cutlery"
+            elif row["subtype"] == "leisure":
+                iconito = "rocket"
+            elif row["subtype"] == "outdoors":
+                iconito = "pagelines"
+            elif row["subtype"] == "snacks":
+                iconito = "cutlery"
+            elif row["subtype"] == "party":
+                iconito = "glass"
+            elif row["subtype"] == "drinks":
+                iconito = "glass"
+            else:
+                iconito = "book"
+
+            icon = Icon(color = "lightgreen",
+                            prefix = "fa",
+                            icon = iconito,
+                            icon_color = "black"
+            )
+
+        elif row["type"] == "transport":
+            geom = {
+            "location":[row["latitude"], row["longitude"]],
+            "tooltip" : row["place"]
+            }
+
+            if row["place"] == "bus":            
+                icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "bus",
+                                icon_color = "black"
+                )   
+            elif row["place"] == "train" or row["place"] == "metro":
+                icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "train",
+                                icon_color = "black"
+                )
+            else:
+                icon = Icon(color = "lightblue",
+                                prefix = "fa",
+                                icon = "car",
+                                icon_color = "black"
+                ) 
+
+
+        Marker(**geom,icon = icon ).add_to(map_1)
+    return map_1

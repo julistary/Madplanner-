@@ -1,381 +1,381 @@
-,name,rating,address,price_level,place,CP,latitude,longitude,geometry,price
-0,Sweet Cakes Madrid,4.7,"C. de Los Molinos, 22, 28039 Madrid, Spain",2.0,cake,28039,40.4580817,-3.702602999999999,"{'type': 'Point', 'coordinates': [-3.702602999999999, 40.4580817]}",15-25€
-1,La Cocina de mi Vecina,4.5,"Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",1.0,cake,28004,40.4253466,-3.7019962,"{'type': 'Point', 'coordinates': [-3.7019962, 40.4253466]}",1-15€
-2,Fika Patisserie Madrid,5.0,"Calle de Costa Rica, 26, 28016 Madrid, Spain",2.0,cake,28016,40.4582729,-3.672964099999999,"{'type': 'Point', 'coordinates': [-3.672964099999999, 40.4582729]}",15-25€
-3,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,cake,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}",1-15€
-4,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",2.0,cake,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}",15-25€
-5,Ceci Bakery,5.0,"Calle de Viriato, 57, 28010 Madrid, Spain",2.0,cake,28010,40.4357602,-3.696997,"{'type': 'Point', 'coordinates': [-3.696997, 40.4357602]}",15-25€
-6,Cake Dream,5.0,"Calle de Fermín Caballero, 7, 28034 Madrid, Spain",2.0,cake,28034,40.48668079999999,-3.6999462,"{'type': 'Point', 'coordinates': [-3.6999462, 40.48668079999999]}",15-25€
-7,Mr Carrot Cake,4.6,"Calle de Caleruega, 29, 28033 Madrid, Spain",2.0,cake,28033,40.4785827,-3.6709329,"{'type': 'Point', 'coordinates': [-3.6709329, 40.4785827]}",15-25€
-8,Bonacasa Cake Design,5.0,"Calle de Vital Aza, 48, 28017 Madrid, Spain",2.0,cake,28017,40.432229,-3.6407414,"{'type': 'Point', 'coordinates': [-3.6407414, 40.432229]}",15-25€
-9,Freedom Cakes Café,4.6,"Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,cake,28012,40.4158763,-3.7028047,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}",15-25€
-10,Noni's Bakery,5.0,"Plaza Luca de Tena, 11, 28045 Madrid, Spain",2.0,cake,28045,40.4017113,-3.6945119,"{'type': 'Point', 'coordinates': [-3.6945119, 40.4017113]}",15-25€
-11,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",2.0,cake,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}",15-25€
-12,Tartas con Estilo,5.0,"Barrio de Fuencarral No tenemos tienda física, trabajamos exclusivamente bajo pedido, 28034 Madrid, Spain",2.0,cake,28034,40.4970457,-3.693884699999999,"{'type': 'Point', 'coordinates': [-3.693884699999999, 40.4970457]}",15-25€
-13,La Torta en Chamberí - Madrid,4.9,"C/ de Donoso Cortés, 62, 28015 Madrid, Spain",1.0,cake,28015,40.43655,-3.712534,"{'type': 'Point', 'coordinates': [-3.712534, 40.43655]}",1-15€
-14,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,cake,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}",1-15€
-15,Naty's Cake Shop,4.4,"C. de Antonio Toledano, 17, 28028 Madrid, Spain",2.0,cake,28028,40.4244959,-3.6666415,"{'type': 'Point', 'coordinates': [-3.6666415, 40.4244959]}",15-25€
-16,Oliver Nicols,4.9,"Calle de la Santísima Trinidad, 6, 28010 Madrid, Spain",2.0,cake,28010,40.4352103,-3.7003702,"{'type': 'Point', 'coordinates': [-3.7003702, 40.4352103]}",15-25€
-17,TheCakeProject,4.8,"Calle de Ana de Austria, 25-27, 28050 Madrid, Spain",2.0,cake,28050,40.4921361,-3.660102,"{'type': 'Point', 'coordinates': [-3.660102, 40.4921361]}",15-25€
-18,La Mejor Tarta de Chocolate del Mundo,4.0,"Calle de Alcalá, 89, 28009 Madrid, Spain",2.0,cake,28009,40.4209935,-3.6851927,"{'type': 'Point', 'coordinates': [-3.6851927, 40.4209935]}",15-25€
-19,Decake,4.3,"Calle Francisco Abril, 11, 28007 Madrid, Spain",2.0,cake,28007,40.4006245,-3.669262,"{'type': 'Point', 'coordinates': [-3.669262, 40.4006245]}",15-25€
-20,Nuria's Bakery,4.9,"Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",2.0,cake,28523,40.3671593,-3.5465364,"{'type': 'Point', 'coordinates': [-3.5465364, 40.3671593]}",15-25€
-21,Pastelería NatasBelém,4.3,"Plaza del Callao, 1, 28013 Madrid, Spain",2.0,cake,28013,40.4198066,-3.7061094,"{'type': 'Point', 'coordinates': [-3.7061094, 40.4198066]}",15-25€
-22,Pastelería La Mallorquina,4.2,"Calle de Velázquez, 39, 28001 Madrid, Spain",2.0,cake,28001,40.4261617,-3.6843119,"{'type': 'Point', 'coordinates': [-3.6843119, 40.4261617]}",15-25€
-23,Fiorella Cakes,4.0,"Cl. de Suero de Quiñones, 12, 28002 Madrid, Spain",2.0,cake,28002,40.4449258,-3.6761069,"{'type': 'Point', 'coordinates': [-3.6761069, 40.4449258]}",15-25€
-24,Katy's Bakery,4.6,"Plaza de las Salesas, 8, 28004 Madrid, Spain",1.0,cake,28004,40.4238224,-3.694635,"{'type': 'Point', 'coordinates': [-3.694635, 40.4238224]}",1-15€
-25,Pastelería Lisboa,4.7,"Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",2.0,cake,28006,40.4300843,-3.6757516,"{'type': 'Point', 'coordinates': [-3.6757516, 40.4300843]}",15-25€
-26,Tábatha Pastelería,4.8,"Calle de Alcántara, 23, 28006 Madrid, Spain",2.0,cake,28006,40.4278951,-3.6739624,"{'type': 'Point', 'coordinates': [-3.6739624, 40.4278951]}",15-25€
-27,Pastelería Luzón,4.6,"Calle del Conde de Peñalver, 42, 28006 Madrid, Spain",2.0,cake,28006,40.4293881,-3.6751487,"{'type': 'Point', 'coordinates': [-3.6751487, 40.4293881]}",15-25€
-28,"Pastelería LA ROSA 1917 ""Madrid"".",4.6,"Ronda de Atocha, 3, 28012 Madrid, Spain",2.0,cake,28012,40.4071281,-3.6943641,"{'type': 'Point', 'coordinates': [-3.6943641, 40.4071281]}",15-25€
-29,La Santiaguesa,4.4,"Calle Mayor, 73, 28013 Madrid, Spain",2.0,cake,28013,40.4152372,-3.7117459,"{'type': 'Point', 'coordinates': [-3.7117459, 40.4152372]}",15-25€
-30,Motteau Pasteleria,4.8,"Calle de San Pedro, 9, 28014 Madrid, Spain",2.0,cake,28014,40.4116599,-3.6946357,"{'type': 'Point', 'coordinates': [-3.6946357, 40.4116599]}",15-25€
-31,Manolo Bakes,4.6,"C.C. La Vaguada, Av. de Monforte de Lemos, 36, Local 85, 28029 Madrid, Spain",2.0,cake,28029,40.4799915,-3.7061443,"{'type': 'Point', 'coordinates': [-3.7061443, 40.4799915]}",15-25€
-32,Ricci's Cakes,4.6,"Av. del General Perón, 16, 28020 Madrid, Spain",1.0,cake,28020,40.4522897,-3.696773899999999,"{'type': 'Point', 'coordinates': [-3.696773899999999, 40.4522897]}",1-15€
-33,La Pastelería del Duque,4.0,"Calle del Duque de Alba, 14, 28012 Madrid, Spain",2.0,cake,28012,40.4116978,-3.7069349,"{'type': 'Point', 'coordinates': [-3.7069349, 40.4116978]}",15-25€
-34,Pastelería La Oriental con gluten,4.5,"Calle de Ferraz, 49, 28008 Madrid, Spain",2.0,cake,28008,40.42961469999999,-3.7208391,"{'type': 'Point', 'coordinates': [-3.7208391, 40.42961469999999]}",15-25€
-35,La Mejor Tarta de Chocolate del Mundo (Cervantes),4.7,"Calle de Cervantes, 9, 28014 Madrid, Spain",2.0,cake,28014,40.4144061,-3.6976684,"{'type': 'Point', 'coordinates': [-3.6976684, 40.4144061]}",15-25€
-36,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"Calle de Toledo, 171, 28005 Madrid, Spain",2.0,cake,28005,40.4025434,-3.7132583,"{'type': 'Point', 'coordinates': [-3.7132583, 40.4025434]}",15-25€
-37,Pastelería Auxai Tartas,4.9,"Plaza San Anacleto, 2, 28023 Madrid, Spain",2.0,cake,28023,40.4581168,-3.7824568,"{'type': 'Point', 'coordinates': [-3.7824568, 40.4581168]}",15-25€
-38,La Duquesita,4.2,"Calle de Fernando VI, 2, 28004 Madrid, Spain",2.0,cake,28004,40.4257167,-3.6969933,"{'type': 'Point', 'coordinates': [-3.6969933, 40.4257167]}",15-25€
-39,Pasteleria Ascaso,4.5,"Calle de Zurbano, 25, 28010 Madrid, Spain",2.0,cake,28010,40.430574,-3.693637,"{'type': 'Point', 'coordinates': [-3.693637, 40.430574]}",15-25€
-40,Pastelería La Oriental Sin gluten,4.0,"Calle de Ferraz, 47, 28008 Madrid, Spain",2.0,cake,28008,40.4295994,-3.7207932,"{'type': 'Point', 'coordinates': [-3.7207932, 40.4295994]}",15-25€
-41,El Riojano,4.2,"Calle Mayor, 10, 28013 Madrid, Spain",2.0,cake,28013,40.4164843,-3.705974899999999,"{'type': 'Point', 'coordinates': [-3.705974899999999, 40.4164843]}",15-25€
-42,Manolo Bakes,4.1,"C. de Narváez, 35, 28009 Madrid, Spain",2.0,cake,28009,40.4204448,-3.675861199999999,"{'type': 'Point', 'coordinates': [-3.675861199999999, 40.4204448]}",15-25€
-43,Aliter Dulcia,4.3,"Calle de Barbieri, 25, 28004 Madrid, Spain",2.0,cake,28004,40.4218568,-3.6979215,"{'type': 'Point', 'coordinates': [-3.6979215, 40.4218568]}",15-25€
-44,Pastelería Pan Feliz,4.6,"Calle del Dr Cortezo, 11, 28012 Madrid, Spain",2.0,cake,28012,40.4130517,-3.7037753,"{'type': 'Point', 'coordinates': [-3.7037753, 40.4130517]}",15-25€
-45,Star Cakes Madrid,4.3,"c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",1.0,cake,28043,40.467531,-3.639175,"{'type': 'Point', 'coordinates': [-3.639175, 40.467531]}",1-15€
-46,Pastelería Atuel,3.8,"Calle de José Ortega y Gasset, 87, 28006 Madrid, Spain",2.0,cake,28006,40.4298584,-3.6711878,"{'type': 'Point', 'coordinates': [-3.6711878, 40.4298584]}",15-25€
-47,Manolo Bakes,3.9,"C.C, Gran Vía de Hortaleza, 1, Local 114, 28043 Madrid, Spain",2.0,cake,28043,40.4697123,-3.6413362,"{'type': 'Point', 'coordinates': [-3.6413362, 40.4697123]}",15-25€
-48,Pasteleria Creativa Javier Ramos,4.9,"C. de Moratín, 39, 28014 Madrid, Spain",2.0,cake,28014,40.4126418,-3.695338499999999,"{'type': 'Point', 'coordinates': [-3.695338499999999, 40.4126418]}",15-25€
-49,VegAmazing Doughnuts,4.9,"Calle del Duque de Sesto, 31, 28009 Madrid, Spain",2.0,cake,28009,40.4225146,-3.6748664,"{'type': 'Point', 'coordinates': [-3.6748664, 40.4225146]}",15-25€
-50,chök - A. Figueroa,4.5,"Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",2.0,cake,28004,40.4224802,-3.698952,"{'type': 'Point', 'coordinates': [-3.698952, 40.4224802]}",15-25€
-51,Manolo Bakes,4.3,"Paseo de la Florida 2 C.C. Principe Pio - Local G38 Planta baj, 28008 Madrid, Spain",2.0,cake,28008,40.4212474,-3.7194452,"{'type': 'Point', 'coordinates': [-3.7194452, 40.4212474]}",15-25€
-52,Tart Tart Cake Shop,4.9,"Calle de Galileo, 66, local L-20, 28015 Madrid, Spain",1.0,cake,28015,40.4354844,-3.7100158,"{'type': 'Point', 'coordinates': [-3.7100158, 40.4354844]}",1-15€
-53,Casa Mira,4.4,"Carrera de S. Jerónimo, 30, 28014 Madrid, Spain",3.0,cake,28014,40.4164888,-3.6992683,"{'type': 'Point', 'coordinates': [-3.6992683, 40.4164888]}",25-50€
-54,Elma´s Cake & snacks,5.0,"Calle García Cea, 2, 28039 Madrid, Spain",2.0,cake,28039,40.4611486,-3.698505,"{'type': 'Point', 'coordinates': [-3.698505, 40.4611486]}",15-25€
-55,Harina Augusto Figueroa,3.9,"Calle de Augusto Figueroa, 2, 28004 Madrid, Spain",2.0,cake,28004,40.4229314,-3.7003011,"{'type': 'Point', 'coordinates': [-3.7003011, 40.4229314]}",15-25€
-56,Manolo Bakes,4.0,"CC Moratalaz Alcampo, Calle Manuel Machado, 3, Local 11, 28030 Madrid, Spain",2.0,cake,28030,40.4121378,-3.6598836,"{'type': 'Point', 'coordinates': [-3.6598836, 40.4121378]}",15-25€
-57,Acaramelada Pastelería,4.5,"Paseo de los Olmos, 13, 28005 Madrid, Spain",2.0,cake,28005,40.40454709999999,-3.7106253,"{'type': 'Point', 'coordinates': [-3.7106253, 40.40454709999999]}",15-25€
-58,Cake Shop,4.9,"Av. del Dr. Federico Rubio y Galí, 8, 28039 Madrid, Spain",2.0,cake,28039,40.4486792,-3.7083996,"{'type': 'Point', 'coordinates': [-3.7083996, 40.4486792]}",15-25€
-59,La Prima Lejana,4.8,"Calle de Lope de Vega, 7, 28014 Madrid, Spain",2.0,cake,28014,40.4138657,-3.6984189,"{'type': 'Point', 'coordinates': [-3.6984189, 40.4138657]}",15-25€
-60,Cupcakes Happy To You,4.5,"Calle de López de Hoyos, 78 Duplicado, 28002 Madrid, Spain",1.0,cupcakes,28002,40.442142,-3.67666,"{'type': 'Point', 'coordinates': [-3.67666, 40.442142]}",1-15€
-61,Oh my cup!,4.1,"Calle de Puentelarra, 40, 28031 Madrid, Spain",1.0,cupcakes,28031,40.38047479999999,-3.6109466,"{'type': 'Point', 'coordinates': [-3.6109466, 40.38047479999999]}",1-15€
-62,Ceci Bakery,5.0,"Calle de Viriato, 57, 28010 Madrid, Spain",1.0,cupcakes,28010,40.4357602,-3.696997,"{'type': 'Point', 'coordinates': [-3.696997, 40.4357602]}",1-15€
-63,Noni's Bakery,5.0,"Plaza Luca de Tena, 11, 28045 Madrid, Spain",1.0,cupcakes,28045,40.4017113,-3.6945119,"{'type': 'Point', 'coordinates': [-3.6945119, 40.4017113]}",1-15€
-64,Pastelería Auxai Tartas,4.9,"Plaza San Anacleto, 2, 28023 Madrid, Spain",1.0,cupcakes,28023,40.4581168,-3.7824568,"{'type': 'Point', 'coordinates': [-3.7824568, 40.4581168]}",1-15€
-65,Alma's Cupcakes - Shop,4.6,"Calle de Montesa, 10, 28006 Madrid, Spain",1.0,cupcakes,28006,40.4274107,-3.6722729,"{'type': 'Point', 'coordinates': [-3.6722729, 40.4274107]}",1-15€
-66,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",1.0,cupcakes,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}",1-15€
-67,Freedom Cakes Café,4.6,"Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,cupcakes,28012,40.4158763,-3.7028047,"{'type': 'Point', 'coordinates': [-3.7028047, 40.4158763]}",15-25€
-68,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",1.0,cupcakes,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}",1-15€
-69,Nuria's Bakery,4.9,"Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",1.0,cupcakes,28523,40.3671593,-3.5465364,"{'type': 'Point', 'coordinates': [-3.5465364, 40.3671593]}",1-15€
-70,Katy's Bakery,4.6,"Plaza de las Salesas, 8, 28004 Madrid, Spain",1.0,cupcakes,28004,40.4238224,-3.694635,"{'type': 'Point', 'coordinates': [-3.694635, 40.4238224]}",1-15€
-71,Decake,4.3,"Calle Francisco Abril, 11, 28007 Madrid, Spain",1.0,cupcakes,28007,40.4006245,-3.669262,"{'type': 'Point', 'coordinates': [-3.669262, 40.4006245]}",1-15€
-72,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,cupcakes,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}",1-15€
-73,Maria Mirabelli Party Design,3.9,"Calle de Bretón de los Herreros, 38, 28003 Madrid, Spain",1.0,cupcakes,28003,40.4394059,-3.696805899999999,"{'type': 'Point', 'coordinates': [-3.696805899999999, 40.4394059]}",1-15€
-74,Home Bakery,4.3,"Calle Viloria de La Rioja, 42, 28050 Madrid, Spain",2.0,cupcakes,28050,40.505456,-3.674447999999999,"{'type': 'Point', 'coordinates': [-3.674447999999999, 40.505456]}",15-25€
-75,Cupcake Madrid,0.0,"Calle de Velázquez, 126, 28006 Madrid, Spain",1.0,cupcakes,28006,40.43701009999999,-3.6829629,"{'type': 'Point', 'coordinates': [-3.6829629, 40.43701009999999]}",1-15€
-76,Bakery,4.7,"Calle de Cartagena, 101, 28002 Madrid, Spain",1.0,cupcakes,28002,40.4396634,-3.673855499999999,"{'type': 'Point', 'coordinates': [-3.673855499999999, 40.4396634]}",1-15€
-77,NoSonMagdalenasSonCupcakes,4.9,"Calle Puerto de Alazores, 16, 28031 Madrid, Spain",1.0,cupcakes,28031,40.3788946,-3.6255451,"{'type': 'Point', 'coordinates': [-3.6255451, 40.3788946]}",1-15€
-78,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"Calle de Toledo, 171, 28005 Madrid, Spain",1.0,cupcakes,28005,40.4025434,-3.7132583,"{'type': 'Point', 'coordinates': [-3.7132583, 40.4025434]}",1-15€
-79,Madrid tarta fondant Mauricci,4.5,"Calle Río Salado, 1, 2do A, 28018 Madrid, Spain",1.0,cupcakes,28018,40.3863095,-3.6510764,"{'type': 'Point', 'coordinates': [-3.6510764, 40.3863095]}",1-15€
-80,La Cocina de mi Vecina,4.5,"Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",1.0,cupcakes,28004,40.4253466,-3.7019962,"{'type': 'Point', 'coordinates': [-3.7019962, 40.4253466]}",1-15€
-81,London's Bakery,4.7,"Calle de Juan Ramón Jiménez, 7, 28036 Madrid, Spain",1.0,cupcakes,28036,40.45706029999999,-3.6872544,"{'type': 'Point', 'coordinates': [-3.6872544, 40.45706029999999]}",1-15€
-82,Levaduramadre,4.5,"Calle del Pez, 1, 28004 Madrid, Spain",1.0,cupcakes,28004,40.4227662,-3.7040816,"{'type': 'Point', 'coordinates': [-3.7040816, 40.4227662]}",1-15€
-83,Bakery CON Z,4.3,"Calle, Travesía de San Mateo, #7, 28004 Madrid, Spain",1.0,cupcakes,28004,40.4253249,-3.6980579,"{'type': 'Point', 'coordinates': [-3.6980579, 40.4253249]}",1-15€
-84,Artisan bakery Glassé,4.3,"Calle de Modesto Lafuente, 57, 28003 Madrid, Spain",2.0,cupcakes,28003,40.4441207,-3.695851,"{'type': 'Point', 'coordinates': [-3.695851, 40.4441207]}",15-25€
-85,BAM Bakery,3.9,"Calle de Zurbano, 83, 28003 Madrid, Spain",1.0,cupcakes,28003,40.4394661,-3.6929049,"{'type': 'Point', 'coordinates': [-3.6929049, 40.4394661]}",1-15€
-86,La Cachiterie Las Tablas,4.9,"Paseo Tierra de Melide, 15, LOCAL, 28050 Madrid, Spain",1.0,cupcakes,28050,40.5070501,-3.6646083,"{'type': 'Point', 'coordinates': [-3.6646083, 40.5070501]}",1-15€
-87,Star Cakes Madrid,4.3,"c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",1.0,cupcakes,28043,40.467531,-3.639175,"{'type': 'Point', 'coordinates': [-3.639175, 40.467531]}",1-15€
-88,La Cocina de mi Vecina (Take Away),4.3,"Calle de Vallehermoso, 75, 28015 Madrid, Spain",1.0,cupcakes,28015,40.4382636,-3.7086485,"{'type': 'Point', 'coordinates': [-3.7086485, 40.4382636]}",1-15€
-89,Granier San Bernardo,3.9,"Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,cupcakes,28015,40.4221085,-3.7075654,"{'type': 'Point', 'coordinates': [-3.7075654, 40.4221085]}",1-15€
-90,Celicioso,3.9,"Calle de O'Donnell, 4, 28009 Madrid, Spain",1.0,cupcakes,28009,40.4215592,-3.6795075,"{'type': 'Point', 'coordinates': [-3.6795075, 40.4215592]}",1-15€
-91,Acaramelada Pastelería,4.5,"Paseo de los Olmos, 13, 28005 Madrid, Spain",1.0,cupcakes,28005,40.40454709999999,-3.7106253,"{'type': 'Point', 'coordinates': [-3.7106253, 40.40454709999999]}",1-15€
-92,Madridelicia Bakery & Cafe,4.3,"Calle de Francos Rodríguez, 69, 28039 Madrid, Spain",1.0,cupcakes,28039,40.4572586,-3.7122608,"{'type': 'Point', 'coordinates': [-3.7122608, 40.4572586]}",1-15€
-93,La Galleta Prometida,4.7,"Calle de Villamanín, 32, 28011 Madrid, Spain",1.0,cupcakes,28011,40.4079422,-3.7509443,"{'type': 'Point', 'coordinates': [-3.7509443, 40.4079422]}",1-15€
-94,Maria's Bakery,4.0,"Calle de Zurbano, 15, 28010 Madrid, Spain",1.0,cupcakes,28010,40.4288234,-3.6937754,"{'type': 'Point', 'coordinates': [-3.6937754, 40.4288234]}",1-15€
-95,Panadería y Pastelería en Lavapiés | KASMI,4.7,"Calle del Ave María, 18, 28012 Madrid, Spain",1.0,cupcakes,28012,40.4110492,-3.7006134,"{'type': 'Point', 'coordinates': [-3.7006134, 40.4110492]}",1-15€
-96,LEON THE BAKER,4.4,"Calle del Conde Duque, 19, 28015 Madrid, Spain",1.0,cupcakes,28015,40.42935,-3.709315,"{'type': 'Point', 'coordinates': [-3.709315, 40.42935]}",1-15€
-97,Repostería Creativa Maicookie,4.0,"Calle de Berrocal, 9, LOC, 28021 Madrid, Spain",1.0,cupcakes,28021,40.3444435,-3.676224399999999,"{'type': 'Point', 'coordinates': [-3.676224399999999, 40.3444435]}",1-15€
-98,Levaduramadre,4.6,"C. de Andrés Mellado, 8, 28015 Madrid, Spain",1.0,cupcakes,28015,40.4312027,-3.714501099999999,"{'type': 'Point', 'coordinates': [-3.714501099999999, 40.4312027]}",1-15€
-99,Bakery pastry Panishop - Studies,4.1,"Calle de los Estudios, 9, 28012 Madrid, Spain",1.0,cupcakes,28012,40.4115761,-3.7071689,"{'type': 'Point', 'coordinates': [-3.7071689, 40.4115761]}",1-15€
-100,Mia Bakery,4.4,"C. de Víctor de la Serna, 6, 28016 Madrid, Spain",1.0,cupcakes,28016,40.4526914,-3.6728972,"{'type': 'Point', 'coordinates': [-3.6728972, 40.4526914]}",1-15€
-101,Crustó,3.7,"Calle de Gaztambide, 3, 28015 Madrid, Spain",2.0,cupcakes,28015,40.4310133,-3.7159323,"{'type': 'Point', 'coordinates': [-3.7159323, 40.4310133]}",15-25€
-102,"Salomé: Panadería, pastelería y cafetería",4.7,"C. de Saavedra Fajardo, 34, 28011 Madrid, Spain",1.0,cupcakes,28011,40.412028,-3.7247122,"{'type': 'Point', 'coordinates': [-3.7247122, 40.412028]}",1-15€
-103,Levaduramadre,4.3,"Calle de Embajadores, 3, 28012 Madrid, Spain",1.0,cupcakes,28012,40.4105791,-3.7066946,"{'type': 'Point', 'coordinates': [-3.7066946, 40.4105791]}",1-15€
-104,FILIFY Bakery & Coffee,4.4,"Calle de Argumosa, 35, 28012 Madrid, Spain",1.0,cupcakes,28012,40.4079347,-3.696719499999999,"{'type': 'Point', 'coordinates': [-3.696719499999999, 40.4079347]}",1-15€
-105,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,cupcakes,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}",1-15€
-106,Ricci's Cakes,4.6,"Av. del General Perón, 16, 28020 Madrid, Spain",1.0,cupcakes,28020,40.4522897,-3.696773899999999,"{'type': 'Point', 'coordinates': [-3.696773899999999, 40.4522897]}",1-15€
-107,Bakery Zurbano Crusto,3.9,"Calle de Zurbano, 26, 28010 Madrid, Spain",2.0,cupcakes,28010,40.4291306,-3.6935275,"{'type': 'Point', 'coordinates': [-3.6935275, 40.4291306]}",15-25€
-108,chök - A. Figueroa,4.5,"Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",1.0,cupcakes,28004,40.4224802,-3.698952,"{'type': 'Point', 'coordinates': [-3.698952, 40.4224802]}",1-15€
-109,LEON THE BAKER,4.4,"Calle de María de Guzmán, 30, 28003 Madrid, Spain",2.0,cupcakes,28003,40.4440095,-3.698495,"{'type': 'Point', 'coordinates': [-3.698495, 40.4440095]}",15-25€
-110,Santa Gloria,3.9,"Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,cupcakes,28001,40.42233179999999,-3.6909718,"{'type': 'Point', 'coordinates': [-3.6909718, 40.42233179999999]}",1-15€
-111,Levaduramadre,3.9,"C/ del Alcalde Sainz de Baranda, 16, 28009 Madrid, Spain",1.0,cupcakes,28009,40.416762,-3.676724,"{'type': 'Point', 'coordinates': [-3.676724, 40.416762]}",1-15€
-112,Levaduramadre,4.5,"Av. de la Reina Victoria, 52, 28003 Madrid, Spain",1.0,cupcakes,28003,40.4467071,-3.7119755,"{'type': 'Point', 'coordinates': [-3.7119755, 40.4467071]}",1-15€
-113,Pecados Divinos,4.9,"Calle de Vallehermoso, 36, 28015 Madrid, Spain",1.0,cupcakes,28015,40.4341012,-3.7082834,"{'type': 'Point', 'coordinates': [-3.7082834, 40.4341012]}",1-15€
-114,Zesty,4.4,"C/ del Áncora, 9, 28045 Madrid, Spain",1.0,cupcakes,28045,40.40309980000001,-3.6924646,"{'type': 'Point', 'coordinates': [-3.6924646, 40.40309980000001]}",1-15€
-115,Spelta Bakery,4.5,"Calle del Capitán Blanco Argibay, 16, 28029 Madrid, Spain",2.0,cupcakes,28029,40.4650328,-3.696798199999999,"{'type': 'Point', 'coordinates': [-3.696798199999999, 40.4650328]}",15-25€
-116,Colette Bakery Madrid,4.7,"Av. de Córdoba, 25, 28026 Madrid, Spain",1.0,cupcakes,28026,40.382371,-3.6971859,"{'type': 'Point', 'coordinates': [-3.6971859, 40.382371]}",1-15€
-117,Granier,3.9,"Ronda de Atocha, 14, 28012 Madrid, Spain",1.0,cupcakes,28012,40.4068058,-3.6966905,"{'type': 'Point', 'coordinates': [-3.6966905, 40.4068058]}",1-15€
-118,Granier,3.8,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,cupcakes,28012,40.41270189999999,-3.700060799999999,"{'type': 'Point', 'coordinates': [-3.700060799999999, 40.41270189999999]}",1-15€
-119,Pastelería Lyon,4.1,"Calle de Colombia, 12, 28016 Madrid, Spain",1.0,cupcakes,28016,40.4569345,-3.6760013,"{'type': 'Point', 'coordinates': [-3.6760013, 40.4569345]}",1-15€
-120,Toma Café 1,4.5,"Calle de la Palma, 49, 28004 Madrid, Spain",2.0,coffee,28004,40.4264767,-3.7059373,"{'type': 'Point', 'coordinates': [-3.7059373, 40.4264767]}",15-25€
-121,Hola Coffee,4.5,"Calle del Dr. Fourquet, 33, 28012 Madrid, Spain",1.0,coffee,28012,40.4070207,-3.6990835,"{'type': 'Point', 'coordinates': [-3.6990835, 40.4070207]}",1-15€
-122,Misión Café,4.5,"Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,coffee,28015,40.4242402,-3.7087479,"{'type': 'Point', 'coordinates': [-3.7087479, 40.4242402]}",15-25€
-123,ACID Café,4.4,"Calle de la Verónica, 9, 28014 Madrid, Spain",1.0,coffee,28014,40.411898,-3.6949265,"{'type': 'Point', 'coordinates': [-3.6949265, 40.411898]}",1-15€
-124,HanSo Café,4.4,"Calle del Pez, 20, 28004 Madrid, Spain",1.0,coffee,28004,40.4238854,-3.7055265,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}",1-15€
-125,Plántate: Better Coffee & Brunch,4.6,"Calle del Mesón de Paredes, 28, 28012 Madrid, Spain",1.0,coffee,28012,40.4103754,-3.7044934,"{'type': 'Point', 'coordinates': [-3.7044934, 40.4103754]}",1-15€
-126,Ruda Café,4.6,"Calle de la Ruda, 11, 28005 Madrid, Spain",1.0,coffee,28005,40.41044,-3.707981,"{'type': 'Point', 'coordinates': [-3.707981, 40.41044]}",1-15€
-127,Café de la Luz,4.4,"Calle de la Puebla, 8, 28004 Madrid, Spain",1.0,coffee,28004,40.422107,-3.7025405,"{'type': 'Point', 'coordinates': [-3.7025405, 40.422107]}",1-15€
-128,MÜR Café,4.3,"Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,coffee,28015,40.4256968,-3.7121696,"{'type': 'Point', 'coordinates': [-3.7121696, 40.4256968]}",15-25€
-129,Toma Café Olavide,4.3,"C. de Sta. Feliciana, 5, 28010 Madrid, Spain",1.0,coffee,28010,40.4330877,-3.7001164,"{'type': 'Point', 'coordinates': [-3.7001164, 40.4330877]}",1-15€
-130,Prioritè Art Coffee Shop,4.0,"Calle de la Montera, 42, 28013 Madrid, Spain",2.0,coffee,28013,40.4193429,-3.7016816,"{'type': 'Point', 'coordinates': [-3.7016816, 40.4193429]}",15-25€
-131,Pum Pum Café,4.3,"Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,coffee,28012,40.4080621,-3.701955,"{'type': 'Point', 'coordinates': [-3.701955, 40.4080621]}",15-25€
-132,Cafelito,4.6,"Calle del Sombrerete, 20, 28012 Madrid, Spain",1.0,coffee,28012,40.40836530000001,-3.702776799999999,"{'type': 'Point', 'coordinates': [-3.702776799999999, 40.40836530000001]}",1-15€
-133,CAFÉS TORNASOL | CAFÉ DE ESPECIALIDAD MADRID | Breakfast | Brunch,4.9,"Calle de Santa Isabel, Nº5, Planta Baja, 28012 Madrid, Spain",1.0,coffee,28012,40.4115944,-3.6986562,"{'type': 'Point', 'coordinates': [-3.6986562, 40.4115944]}",1-15€
-134,NAJI SPECIALTY COFFEE,4.9,"Calle del Cardenal Cisneros, 39, 28010 Madrid, Spain",1.0,coffee,28010,40.4317511,-3.7022127,"{'type': 'Point', 'coordinates': [-3.7022127, 40.4317511]}",1-15€
-135,Bianchi Kiosko Caffé,4.6,"Calle de San Joaquín, 9, 28004 Madrid, Spain",1.0,coffee,28004,40.4243932,-3.70164,"{'type': 'Point', 'coordinates': [-3.70164, 40.4243932]}",1-15€
-136,Boconó Specialty Coffee,4.2,"Calle de Embajadores, 3, 28012 Madrid, Spain",1.0,coffee,28012,40.4106002,-3.7066952,"{'type': 'Point', 'coordinates': [-3.7066952, 40.4106002]}",1-15€
-137,Tempo coffee,4.9,"28008 Madrid, Spain",1.0,coffee,28008,40.4218631,-3.7187438,"{'type': 'Point', 'coordinates': [-3.7187438, 40.4218631]}",1-15€
-138,The Little Big Cafe Fernández de Los Ríos,4.6,"Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,coffee,28015,40.435222,-3.712739,"{'type': 'Point', 'coordinates': [-3.712739, 40.435222]}",1-15€
-139,Café Federal,4.1,"Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,coffee,28015,40.4270304,-3.7093012,"{'type': 'Point', 'coordinates': [-3.7093012, 40.4270304]}",15-25€
-140,Lolina Vintage Café,4.3,"Calle del Espíritu Santo, 9, 28004 Madrid, Spain",1.0,coffee,28004,40.4251154,-3.7029106,"{'type': 'Point', 'coordinates': [-3.7029106, 40.4251154]}",1-15€
-141,Café Comercial,4.1,"Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,coffee,28004,40.4287137,-3.7019997,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}",15-25€
-142,The Coffee Corner,4.3,"Av. de Valladolid, 41, 28008 Madrid, Spain",1.0,coffee,28008,40.4285053,-3.7295851,"{'type': 'Point', 'coordinates': [-3.7295851, 40.4285053]}",1-15€
-143,WAYCUP Specialty Coffee,3.9,"Calle de Velázquez, 126, 28006 Madrid, Spain",1.0,coffee,28006,40.4369956,-3.6829321,"{'type': 'Point', 'coordinates': [-3.6829321, 40.4369956]}",1-15€
-144,Love Coffee,4.6,"Calle de Salustiano Olózaga, 18, 28001 Madrid, Spain",1.0,coffee,28001,40.4202998,-3.6897421,"{'type': 'Point', 'coordinates': [-3.6897421, 40.4202998]}",1-15€
-145,Makis Coffee Shop,4.4,"Calle de Embajadores, 56, 28012 Madrid, Spain",1.0,coffee,28012,40.4077661,-3.704309099999999,"{'type': 'Point', 'coordinates': [-3.704309099999999, 40.4077661]}",1-15€
-146,La Bicicleta,4.1,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,coffee,28004,40.4238106,-3.7022328,"{'type': 'Point', 'coordinates': [-3.7022328, 40.4238106]}",15-25€
-147,La Rollerie,4.2,"Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,coffee,28014,40.4164994,-3.6995404,"{'type': 'Point', 'coordinates': [-3.6995404, 40.4164994]}",15-25€
-148,Federal Café,4.2,"Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,coffee,28005,40.4143274,-3.7088587,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}",15-25€
-149,Cereal Hunters Café,4.5,"Calle de la Reina, 1, 28004 Madrid, Spain",1.0,coffee,28004,40.4205672,-3.700732599999999,"{'type': 'Point', 'coordinates': [-3.700732599999999, 40.4205672]}",1-15€
-150,La Rollerie,4.1,"C. de Atocha, 20, 28012 Madrid, Spain",2.0,coffee,28012,40.4138358,-3.7030405,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}",15-25€
-151,Santa Gloria,3.7,"Calle de Pedro Teixeira, 7, 28020 Madrid, Spain",1.0,coffee,28020,40.4552254,-3.694087199999999,"{'type': 'Point', 'coordinates': [-3.694087199999999, 40.4552254]}",1-15€
-152,DELICIUS COFFEE,3.0,"Calle de Augusto Figueroa, 24, 2da planta local, 28004 Madrid, Spain",1.0,coffee,28004,40.4219292,-3.6976068,"{'type': 'Point', 'coordinates': [-3.6976068, 40.4219292]}",1-15€
-153,El Patio Vertical,4.1,"Calle de Almadén, 26, 28014 Madrid, Spain",2.0,coffee,28014,40.410825,-3.693371,"{'type': 'Point', 'coordinates': [-3.693371, 40.410825]}",15-25€
-154,Cycle coffee S L,3.8,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",1.0,coffee,28004,40.4238059,-3.7022439,"{'type': 'Point', 'coordinates': [-3.7022439, 40.4238059]}",1-15€
-155,Café & Té,3.4,"Calle del Marqués de Urquijo, 3, 28008 Madrid, Spain",2.0,coffee,28008,40.430327,-3.7165846,"{'type': 'Point', 'coordinates': [-3.7165846, 40.430327]}",15-25€
-156,ABONAVIDA,4.2,"Calle de las Navas de Tolosa, 3, 28013 Madrid, Spain",2.0,coffee,28013,40.4191483,-3.7067327,"{'type': 'Point', 'coordinates': [-3.7067327, 40.4191483]}",15-25€
-157,Pastelería Belus,4.6,"Calle de Toledo, 26, 28005 Madrid, Spain",1.0,coffee,28005,40.4138206,-3.7075835,"{'type': 'Point', 'coordinates': [-3.7075835, 40.4138206]}",1-15€
-158,DUNKIN´ESPAÑA,4.1,"Calle de la Montera, 33, 28013 Madrid, Spain",1.0,coffee,28013,40.418975,-3.70231,"{'type': 'Point', 'coordinates': [-3.70231, 40.418975]}",1-15€
-159,Juan Valdez,4.3,"Paseo de la Florida # 2 Stand 5, 28008 Madrid, Spain",1.0,coffee,28008,40.4215819,-3.7197968,"{'type': 'Point', 'coordinates': [-3.7197968, 40.4215819]}",1-15€
-160,DUNKIN´ESPAÑA,4.1,"C/ De La Victoria, Carrera de S. Jerónimo, 4, 2 Esq, 28014 Madrid, Spain",1.0,coffee,28014,40.416647,-3.70174,"{'type': 'Point', 'coordinates': [-3.70174, 40.416647]}",1-15€
-161,Rebel Cafe,4.2,"Calle de Ponzano, 90, 28003 Madrid, Spain",2.0,coffee,28003,40.4453792,-3.6985766,"{'type': 'Point', 'coordinates': [-3.6985766, 40.4453792]}",15-25€
-162,Urban Coffee,3.9,"Cl. de Ayala, 87, 28006 Madrid, Spain",2.0,coffee,28006,40.4273547,-3.6737912,"{'type': 'Point', 'coordinates': [-3.6737912, 40.4273547]}",15-25€
-163,Bun Golden Coffee (Specialty coffee-tienda ONLINE de café y cacao natural Madrid),4.9,"Calle de Jerónima Llorente, 42, 28039 Madrid, Spain",1.0,coffee,28039,40.4543206,-3.7074938,"{'type': 'Point', 'coordinates': [-3.7074938, 40.4543206]}",1-15€
-164,TAPA CAFE MADRID,2.9,"Carrera de S. Jerónimo, 3, 28014 Madrid, Spain",1.0,coffee,28014,40.4167722,-3.7019139,"{'type': 'Point', 'coordinates': [-3.7019139, 40.4167722]}",1-15€
-165,Santa Gloria,3.9,"Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,coffee,28001,40.42233179999999,-3.6909718,"{'type': 'Point', 'coordinates': [-3.6909718, 40.42233179999999]}",1-15€
-166,Granier San Bernardo,3.9,"Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,coffee,28015,40.4221085,-3.7075654,"{'type': 'Point', 'coordinates': [-3.7075654, 40.4221085]}",1-15€
-167,Café Belén,4.3,"Calle de Belén, 5, 28004 Madrid, Spain",1.0,coffee,28004,40.424316,-3.696717,"{'type': 'Point', 'coordinates': [-3.696717, 40.424316]}",1-15€
-168,Pannus,4.1,"Calle de Hortaleza, 38, 28004 Madrid, Spain",1.0,coffee,28004,40.421948,-3.6998037,"{'type': 'Point', 'coordinates': [-3.6998037, 40.421948]}",1-15€
-169,C&Tapas,3.1,"Plaza de Sta. Ana, 6, 28012 Madrid, Spain",2.0,coffee,28012,40.4144842,-3.7002769,"{'type': 'Point', 'coordinates': [-3.7002769, 40.4144842]}",15-25€
-170,Randall Coffee Roasters,4.6,"Calle de Vallehermoso, 36, 28015 Madrid, Spain",1.0,coffee,28015,40.4343145,-3.7083432,"{'type': 'Point', 'coordinates': [-3.7083432, 40.4343145]}",1-15€
-171,Santa Kafeina,4.8,"Calle de Viriato, 37, 28010 Madrid, Spain",1.0,coffee,28010,40.4359413,-3.7001867,"{'type': 'Point', 'coordinates': [-3.7001867, 40.4359413]}",1-15€
-172,Starbucks,3.6,"Calle de Cdad. Rodrigo, 5, 28005 Madrid, Spain",2.0,coffee,28005,40.415732,-3.7085757,"{'type': 'Point', 'coordinates': [-3.7085757, 40.415732]}",15-25€
-173,Starbucks,3.8,"Calle del Arenal, 14, 28013 Madrid, Spain",2.0,coffee,28013,40.417262,-3.7061631,"{'type': 'Point', 'coordinates': [-3.7061631, 40.417262]}",15-25€
-174,Juan Valdez Café,4.1,"Calle Adolfo Bioy # 2, Planta 0, 28051 Madrid, Spain",1.0,coffee,28051,40.3687101,-3.5982174,"{'type': 'Point', 'coordinates': [-3.5982174, 40.3687101]}",1-15€
-175,Cafés Guayacán,4.9,"Calle de Fernández de los Ríos, 26, 28015 Madrid, Spain",1.0,coffee,28015,40.4351118,-3.7070587,"{'type': 'Point', 'coordinates': [-3.7070587, 40.4351118]}",1-15€
-176,Café & Tapas,2.8,"Calle de Carretas, 14, 28012 Madrid, Spain",2.0,coffee,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [-3.7036534, 40.4148114]}",15-25€
-177,Granier,3.8,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,coffee,28012,40.41270189999999,-3.700060799999999,"{'type': 'Point', 'coordinates': [-3.700060799999999, 40.41270189999999]}",1-15€
-178,80’s coffee,4.1,"Calle de Alcalá, 28027 Madrid, Spain",1.0,coffee,28027,40.4343762,-3.6452041,"{'type': 'Point', 'coordinates': [-3.6452041, 40.4343762]}",1-15€
-179,Pastelería Lisboa,4.7,"Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",1.0,coffee,28006,40.4300843,-3.6757516,"{'type': 'Point', 'coordinates': [-3.6757516, 40.4300843]}",1-15€
-180,Noman Sweet Shop,3.5,"Calle de Tribulete, 13, 28012 Madrid, Spain",2.0,sweets,28012,40.407656,-3.7024697,"{'type': 'Point', 'coordinates': [-3.7024697, 40.407656]}",15-25€
-181,Sweet Cakes Madrid,4.7,"C. de Los Molinos, 22, 28039 Madrid, Spain",2.0,sweets,28039,40.4580817,-3.702602999999999,"{'type': 'Point', 'coordinates': [-3.702602999999999, 40.4580817]}",15-25€
-182,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",2.0,sweets,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [-3.7134165, 40.4339841]}",15-25€
-183,Sweet Studio,4.5,"Calle del Noviciado, Nº16, 28015 Madrid, Spain",2.0,sweets,28015,40.4257291,-3.7088708,"{'type': 'Point', 'coordinates': [-3.7088708, 40.4257291]}",15-25€
-184,Caramelos Paco,4.5,"Calle de Toledo, 53, 55, 28005 Madrid, Spain",2.0,sweets,28005,40.4117138,-3.707936,"{'type': 'Point', 'coordinates': [-3.707936, 40.4117138]}",15-25€
-185,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,sweets,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [-3.704774999999999, 40.4166836]}",1-15€
-186,Captain Jonny's candy shop,3.1,"Calle de Preciados, 11, 28013 Madrid, Spain",2.0,sweets,28013,40.4184414,-3.7051399,"{'type': 'Point', 'coordinates': [-3.7051399, 40.4184414]}",15-25€
-187,Sweet pirate,2.1,"C/ Gran Vía, 54, 28013 Madrid, Spain",2.0,sweets,28013,40.4213789,-3.707142,"{'type': 'Point', 'coordinates': [-3.707142, 40.4213789]}",15-25€
-188,Sweets & Coffee,3.6,"Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",1.0,sweets,28029,40.4800162,-3.7063016,"{'type': 'Point', 'coordinates': [-3.7063016, 40.4800162]}",1-15€
-189,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,sweets,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [-3.699874, 40.422097]}",1-15€
-190,dosbombones Dulces Para Todos| Bombonería | Productos sin Alérgenos,4.6,"Mercado San Isidro local 38, Calle San Patricio, 1, 28019 Madrid, Spain",2.0,sweets,28019,40.3918375,-3.7253183,"{'type': 'Point', 'coordinates': [-3.7253183, 40.3918375]}",15-25€
-191,Panda Patisserie,3.8,"Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",2.0,sweets,28004,40.4209581,-3.7039909,"{'type': 'Point', 'coordinates': [-3.7039909, 40.4209581]}",15-25€
-192,Sweet Way,4.7,"Calle de Sánchez Barcáiztegui, 36, 28007 Madrid, Spain",2.0,sweets,28007,40.40587499999999,-3.6727886,"{'type': 'Point', 'coordinates': [-3.6727886, 40.40587499999999]}",15-25€
-193,SELEKTA SWEETS,4.9,"Calle del Príncipe de Vergara, 47, 28006 Madrid, Spain",2.0,sweets,28006,40.42949369999999,-3.6799969,"{'type': 'Point', 'coordinates': [-3.6799969, 40.42949369999999]}",15-25€
-194,Samee Sweet Shop,4.4,"Calle del Sombrerete, 14, 28012 Madrid, Spain",2.0,sweets,28012,40.4084886,-3.7025345,"{'type': 'Point', 'coordinates': [-3.7025345, 40.4084886]}",15-25€
-195,Sweet Days Cups and Cakes,3.3,"Paseo de la Castellana, 188, 28046 Madrid, Spain",2.0,sweets,28046,40.4615847,-3.6891715,"{'type': 'Point', 'coordinates': [-3.6891715, 40.4615847]}",15-25€
-196,Caramelos Publicitarios | Publimelos,0.0,"Metro, Calle de Toledo, 52, 28005 Madrid, Spain",2.0,sweets,28005,40.4116929,-3.7083344,"{'type': 'Point', 'coordinates': [-3.7083344, 40.4116929]}",15-25€
-197,Sweet Factory Madrid,5.0,"Av. de la Mancha, 15, 28912 Leganés, Madrid, Spain",2.0,sweets,28912,40.3303212,-3.7589308,"{'type': 'Point', 'coordinates': [-3.7589308, 40.3303212]}",15-25€
-198,Chic Blue Macaron,5.0,"Calle de Artajona, 11, 28039 Madrid, Spain",2.0,sweets,28039,40.4629777,-3.7180721,"{'type': 'Point', 'coordinates': [-3.7180721, 40.4629777]}",15-25€
-199,Art sweets,3.4,"28025 Madrid, Spain",2.0,sweets,28025,40.3735662,-3.727843,"{'type': 'Point', 'coordinates': [-3.727843, 40.3735662]}",15-25€
-200,iqbal sweet shop,4.6,"Calle de Tribulete, 13, 28012 Madrid, Spain",2.0,sweets,28012,40.4077542,-3.7024852,"{'type': 'Point', 'coordinates': [-3.7024852, 40.4077542]}",15-25€
-201,Sweets & Coffee Metro Colombia,4.1,"Calle del Príncipe de Vergara, 28016 Madrid, Spain",1.0,sweets,28016,40.4572714,-3.6772124,"{'type': 'Point', 'coordinates': [-3.6772124, 40.4572714]}",1-15€
-202,Dulces turcos,3.6,"Calle de Esparteros, 14, 28012 Madrid, Spain",2.0,sweets,28012,40.41559,-3.70537,"{'type': 'Point', 'coordinates': [-3.70537, 40.41559]}",15-25€
-203,El Riojano,4.2,"Calle Mayor, 10, 28013 Madrid, Spain",2.0,sweets,28013,40.4164843,-3.705974899999999,"{'type': 'Point', 'coordinates': [-3.705974899999999, 40.4164843]}",15-25€
-204,Sweets & Coffee Intercambiador Avda. de America,3.9,"Avenida de América, 9, 28002 Madrid, Spain",2.0,sweets,28002,40.4382273,-3.676909299999999,"{'type': 'Point', 'coordinates': [-3.676909299999999, 40.4382273]}",15-25€
-205,Kikita gofreria,0.0,"Calle de Preciados, 33, 28013 Madrid, Spain",2.0,sweets,28013,40.41960539999999,-3.7067837,"{'type': 'Point', 'coordinates': [-3.7067837, 40.41960539999999]}",15-25€
-206,La Violeta,4.5,"Plaza de Canalejas, 6, 28014 Madrid, Spain",2.0,sweets,28014,40.4165968,-3.7007936,"{'type': 'Point', 'coordinates': [-3.7007936, 40.4165968]}",15-25€
-207,Sweet Delivery Madrid,4.8,"Calle de la Solana, 59, Local 5, 28850 Torrejón de Ardoz, Madrid, Spain",2.0,sweets,28850,40.457668,-3.4542849,"{'type': 'Point', 'coordinates': [-3.4542849, 40.457668]}",15-25€
-208,Store Reborn - Angelitos Sweets - Madrid,4.6,"Calle de Ofelia Nieto, 17, Local, 28039 Madrid, Spain",2.0,sweets,28039,40.4591516,-3.7105502,"{'type': 'Point', 'coordinates': [-3.7105502, 40.4591516]}",15-25€
-209,Sweet Deli Bakery Madrid,5.0,"Calle Claudio Sánchez Albornoz, 26, piso 2A, 28024 Madrid, Spain",2.0,sweets,28024,40.3987006,-3.7731695,"{'type': 'Point', 'coordinates': [-3.7731695, 40.3987006]}",15-25€
-210,Pastelería Bombonería Sonia,4.5,"C. de Rafael Calvo, 25, 28010 Madrid, Spain",2.0,sweets,28010,40.43409399999999,-3.693023,"{'type': 'Point', 'coordinates': [-3.693023, 40.43409399999999]}",15-25€
-211,Mimi’s Crêperie,4.4,"Calle de Postas, 17, 28012 Madrid, Spain",2.0,sweets,28012,40.4157231,-3.7061636,"{'type': 'Point', 'coordinates': [-3.7061636, 40.4157231]}",15-25€
-212,Dulces Árabes,0.0,"Calle Antonio Calvo, 28027 Madrid, Spain",2.0,sweets,28027,40.4369112,-3.656558,"{'type': 'Point', 'coordinates': [-3.656558, 40.4369112]}",15-25€
-213,Igo Waffle Fuencarral,4.7,"Calle de Carranza, 19, 28004 Madrid, Spain",1.0,sweets,28004,40.42920350000001,-3.704371,"{'type': 'Point', 'coordinates': [-3.704371, 40.42920350000001]}",1-15€
-214,La Duquesita,4.2,"Calle de Fernando VI, 2, 28004 Madrid, Spain",2.0,sweets,28004,40.4257167,-3.6969933,"{'type': 'Point', 'coordinates': [-3.6969933, 40.4257167]}",15-25€
-215,Mistura Ice Cream,4.4,"Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",2.0,sweets,28012,40.4158,-3.7084877,"{'type': 'Point', 'coordinates': [-3.7084877, 40.4158]}",15-25€
-216,Sinuheshop Repostería Creativa,5.0,"Plaza Príncipes de España, nº1, local 9, 28924 Alcorcón, Madrid, Spain",2.0,sweets,28924,40.3515701,-3.8188712,"{'type': 'Point', 'coordinates': [-3.8188712, 40.3515701]}",15-25€
-217,Plaza Mayor,4.4,"Calle de Zaragoza, 3, 28012 Madrid, Spain",2.0,sweets,28012,40.4152778,-3.7061111,"{'type': 'Point', 'coordinates': [-3.7061111, 40.4152778]}",15-25€
-218,Golosinas,0.0,"C/ Gran Vía, 26, 28013 Madrid, Spain",2.0,sweets,28013,40.4202173,-3.7015237,"{'type': 'Point', 'coordinates': [-3.7015237, 40.4202173]}",15-25€
-219,Sweet Dreams,0.0,"Calle de Serrano, 61, 28006 Madrid, Spain",2.0,sweets,28006,40.4323384,-3.6869471,"{'type': 'Point', 'coordinates': [-3.6869471, 40.4323384]}",15-25€
-220,"Pastelería Artesanal Manolo. Mercado de Chamartín, Madrid",4.4,"Mercado de Chamartín local 1, C. de Bolivia, 9, 28016 Chamartín, Madrid, Spain",2.0,sweets,28016,40.4573961,-3.6782467,"{'type': 'Point', 'coordinates': [-3.6782467, 40.4573961]}",15-25€
-221,My Sweet Bakery,4.9,"Calle de Cobos de Segovia, 16, 28005 Madrid, Spain",2.0,sweets,28005,40.4057442,-3.7192252,"{'type': 'Point', 'coordinates': [-3.7192252, 40.4057442]}",15-25€
-222,Zúccaru,4.7,"Calle de Vergara, 16, 28013 Madrid, Spain",1.0,sweets,28013,40.4172333,-3.7116778,"{'type': 'Point', 'coordinates': [-3.7116778, 40.4172333]}",1-15€
-223,Chocolala Belga,5.0,"Calle del Bonetillo, No 1, 28013 Madrid, Spain",2.0,sweets,28013,40.4165008,-3.708909,"{'type': 'Point', 'coordinates': [-3.708909, 40.4165008]}",15-25€
-224,Pastelería Salamat,4.6,"Calle de Tribulete, 10, 28012 Madrid, Spain",1.0,sweets,28012,40.4079624,-3.7023123,"{'type': 'Point', 'coordinates': [-3.7023123, 40.4079624]}",1-15€
-225,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",2.0,sweets,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [-3.701066, 40.420441]}",15-25€
-226,"Waffle Bubble Company, Madrid",0.0,"Calle de Maqueda, 19, 2ºB, 28024 Madrid, Spain",2.0,sweets,28024,40.3938688,-3.7637601,"{'type': 'Point', 'coordinates': [-3.7637601, 40.3938688]}",15-25€
-227,El Horno de San Onofre,4.0,"Calle de San Onofre, 3, 28004 Madrid, Spain",2.0,sweets,28004,40.421399,-3.701502,"{'type': 'Point', 'coordinates': [-3.701502, 40.421399]}",15-25€
-228,El Rincón,3.1,"Carrera de S. Jerónimo, 4, 28014 Madrid, Spain",2.0,sweets,28014,40.4166519,-3.7019407,"{'type': 'Point', 'coordinates': [-3.7019407, 40.4166519]}",15-25€
-229,Captain Jonny's candy shop,4.4,"Calle de Postas, 9, 28012 Madrid, Spain",2.0,sweets,28012,40.415985,-3.7055691,"{'type': 'Point', 'coordinates': [-3.7055691, 40.415985]}",15-25€
-230,La Dulcería,1.8,"Avenida de América, 28002 Madrid, Spain",2.0,sweets,28002,40.4376651,-3.6769576,"{'type': 'Point', 'coordinates': [-3.6769576, 40.4376651]}",15-25€
-231,La Barra Dulce,4.7,"Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",1.0,sweets,28012,40.4105389,-3.704603,"{'type': 'Point', 'coordinates': [-3.704603, 40.4105389]}",1-15€
-232,Antigua Pastelería del Pozo,4.5,"Calle del Pozo, 8, 28012 Madrid, Spain",2.0,sweets,28012,40.416257,-3.7012027,"{'type': 'Point', 'coordinates': [-3.7012027, 40.416257]}",15-25€
-233,Cacao Sampaka,4.5,"Calle de Orellana, 4, 28004 Madrid, Spain",2.0,sweets,28004,40.426716,-3.695725999999999,"{'type': 'Point', 'coordinates': [-3.695725999999999, 40.426716]}",15-25€
-234,"GIOELIA Cremeria, Madrid Atocha",4.7,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,sweets,28012,40.4127658,-3.6999978,"{'type': 'Point', 'coordinates': [-3.6999978, 40.4127658]}",1-15€
-235,Moulin Chocolat,4.5,"Calle de Alcalá, 77, 28009 Madrid, Spain",3.0,sweets,28009,40.420572,-3.686928,"{'type': 'Point', 'coordinates': [-3.686928, 40.420572]}",25-50€
-236,Viena Capellanes,4.1,"Calle de Fuencarral, 122, 28010 Madrid, Spain",2.0,sweets,28010,40.43013,-3.7025726,"{'type': 'Point', 'coordinates': [-3.7025726, 40.43013]}",15-25€
-237,Santa Eulalia,4.5,"Calle del Espejo, 12, 28013 Madrid, Spain",2.0,sweets,28013,40.4171998,-3.7096734,"{'type': 'Point', 'coordinates': [-3.7096734, 40.4171998]}",15-25€
-238,Pastelería SHAM,4.7,"Calle Antonio Calvo, 3, 28027 Madrid, Spain",2.0,sweets,28027,40.4367919,-3.6565235,"{'type': 'Point', 'coordinates': [-3.6565235, 40.4367919]}",15-25€
-239,CANDYS,0.0,"C/ Gran Vía, 45, bajo izquierda, 26002 Logroño, Madrid, Spain",2.0,sweets,26002,40.42092969999999,-3.7073249,"{'type': 'Point', 'coordinates': [-3.7073249, 40.42092969999999]}",15-25€
-240,Mistura Ice Cream,4.4,"Calle de Augusto Figueroa, 5, 28004 Madrid, Spain",2.0,ice cream,28004,40.4229735,-3.7001373,"{'type': 'Point', 'coordinates': [-3.7001373, 40.4229735]}",15-25€
-241,Mistura Ice Cream,4.2,"Calle de Goya, 50, 28001 Madrid, Spain",2.0,ice cream,28001,40.4247828,-3.678401599999999,"{'type': 'Point', 'coordinates': [-3.678401599999999, 40.4247828]}",15-25€
-242,Mistura Ice Cream,4.4,"Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",2.0,ice cream,28012,40.4158,-3.7084877,"{'type': 'Point', 'coordinates': [-3.7084877, 40.4158]}",15-25€
-243,Labonata heladeria,4.7,"Plaza de Chueca, 8, 28004 Madrid, Spain",1.0,ice cream,28004,40.422681,-3.6974523,"{'type': 'Point', 'coordinates': [-3.6974523, 40.422681]}",1-15€
-244,Amorino,4.4,"Calle Mayor, 40, 28013 Madrid, Spain",2.0,ice cream,28013,40.41611,-3.708414,"{'type': 'Point', 'coordinates': [-3.708414, 40.41611]}",15-25€
-245,Helados Patagonia Artesanal,4.5,"Plaza de Tirso de Molina, 19, 28012 Madrid, Spain",1.0,ice cream,28012,40.4125643,-3.7038799,"{'type': 'Point', 'coordinates': [-3.7038799, 40.4125643]}",1-15€
-246,"GIOELIA Cremeria, Madrid Atocha",4.7,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,ice cream,28012,40.4127658,-3.6999978,"{'type': 'Point', 'coordinates': [-3.6999978, 40.4127658]}",1-15€
-247,TÖTO ICE CREAM & COFFEE,4.5,"Corredera Alta de San Pablo, 12, 28004 Madrid, Spain",1.0,ice cream,28004,40.4251827,-3.7018976,"{'type': 'Point', 'coordinates': [-3.7018976, 40.4251827]}",1-15€
-248,Gelateria La Romana,4.6,"Paseo de la Habana, 27, 28036 Madrid, Spain",2.0,ice cream,28036,40.4512712,-3.686658,"{'type': 'Point', 'coordinates': [-3.686658, 40.4512712]}",15-25€
-249,Rocambolesc - Madrid,4.2,"Planta 7 El Corte Inglés, Calle de Serrano, 52, 28001 Madrid, Spain",1.0,ice cream,28001,40.4276329,-3.6871185,"{'type': 'Point', 'coordinates': [-3.6871185, 40.4276329]}",1-15€
-250,Zúccaru,4.7,"Calle de Vergara, 16, 28013 Madrid, Spain",1.0,ice cream,28013,40.4172333,-3.7116778,"{'type': 'Point', 'coordinates': [-3.7116778, 40.4172333]}",1-15€
-251,Heladería Palazzo - Italian Ice Cream,4.0,"C/ Gran Vía, 56, 28013 Madrid, Spain",1.0,ice cream,28013,40.4215471,-3.7074789,"{'type': 'Point', 'coordinates': [-3.7074789, 40.4215471]}",1-15€
-252,La Pecera,4.1,"Calle de Velarde, 2, 28004 Madrid, Spain",2.0,ice cream,28004,40.4267833,-3.7019191,"{'type': 'Point', 'coordinates': [-3.7019191, 40.4267833]}",15-25€
-253,Amorino,4.1,"Planta 9 Corte Ingles Callao, Plaza del Callao, 2, 28013 Madrid, Spain",2.0,ice cream,28013,40.4194751,-3.7051399,"{'type': 'Point', 'coordinates': [-3.7051399, 40.4194751]}",15-25€
-254,Mistura Ice Cream,4.4,"Plaza del Ángel, 2, 28012 Madrid, Spain",2.0,ice cream,28012,40.4145141,-3.7026646,"{'type': 'Point', 'coordinates': [-3.7026646, 40.4145141]}",15-25€
-255,Kalúa Fuencarral 149,4.5,"Calle de Fuencarral, 131, 28010 Madrid, Spain",1.0,ice cream,28010,40.4315159,-3.7036902,"{'type': 'Point', 'coordinates': [-3.7036902, 40.4315159]}",1-15€
-256,Gelateria La Romana,4.6,"Calle de San Bernardo, 96, 28015 Madrid, Spain",2.0,ice cream,28015,40.4301801,-3.7053937,"{'type': 'Point', 'coordinates': [-3.7053937, 40.4301801]}",15-25€
-257,Artisan ice cream tutti frutti,4.4,"Cuesta de San Vicente, 22, 28008 Madrid, Spain",1.0,ice cream,28008,40.420653,-3.7155473,"{'type': 'Point', 'coordinates': [-3.7155473, 40.420653]}",1-15€
-258,Heladería Los Alpes,4.3,"Calle Arcipreste de Hita, 6, 28015 Madrid, Spain",2.0,ice cream,28015,40.4335169,-3.7173544,"{'type': 'Point', 'coordinates': [-3.7173544, 40.4335169]}",15-25€
-259,Heladería Palazzo - Italian Ice Cream,4.1,"Calle del Carmen, 27, 28013 Madrid, Spain",1.0,ice cream,28013,40.418766,-3.7049571,"{'type': 'Point', 'coordinates': [-3.7049571, 40.418766]}",1-15€
-260,Heladería Sienna Narváez,4.5,"C. de Narváez, 62, 28009 Madrid, Spain",1.0,ice cream,28009,40.4186111,-3.6763889,"{'type': 'Point', 'coordinates': [-3.6763889, 40.4186111]}",1-15€
-261,Mistura Ice Cream,4.1,"Calle de Toledo, 71, 28005 Madrid, Spain",1.0,ice cream,28005,40.410802,-3.708629,"{'type': 'Point', 'coordinates': [-3.708629, 40.410802]}",1-15€
-262,Mamá Elba Heladería-Cafetería,4.7,"Calle de Cea Bermúdez, 29, 28003 Madrid, Spain",1.0,ice cream,28003,40.438719,-3.710703,"{'type': 'Point', 'coordinates': [-3.710703, 40.438719]}",1-15€
-263,Mamá Elba Heladería,4.6,"Calle de la Ruda, 15, 28005 Madrid, Spain",1.0,ice cream,28005,40.4106247,-3.708181699999999,"{'type': 'Point', 'coordinates': [-3.708181699999999, 40.4106247]}",1-15€
-264,Gelateria La Romana,4.6,"Calle de Rosario Pino, 6, 28020 Madrid, Spain",2.0,ice cream,28020,40.4621787,-3.6911296,"{'type': 'Point', 'coordinates': [-3.6911296, 40.4621787]}",15-25€
-265,Mistura Ice Cream,4.4,"Calle del Príncipe de Vergara, 254, 28016 Madrid, Spain",1.0,ice cream,28016,40.455672,-3.6768762,"{'type': 'Point', 'coordinates': [-3.6768762, 40.455672]}",1-15€
-266,N2 Lab,4.3,"Calle de Gravina, 5, 28004 Madrid, Spain",1.0,ice cream,28004,40.42319699999999,-3.6979982,"{'type': 'Point', 'coordinates': [-3.6979982, 40.42319699999999]}",1-15€
-267,Gelateria Carte D'Or Arenal,4.0,"Calle del Arenal, 18, 28013 Madrid, Spain",1.0,ice cream,28013,40.4173752,-3.7068135,"{'type': 'Point', 'coordinates': [-3.7068135, 40.4173752]}",1-15€
-268,Heladería Palazzo - Italian Ice Cream,3.9,"Calle de Goya, 49, 28013 Madrid, Spain",1.0,ice cream,28013,40.42525089999999,-3.682243499999999,"{'type': 'Point', 'coordinates': [-3.682243499999999, 40.42525089999999]}",1-15€
-269,Heladería Palazzo - Italian Ice Cream,4.0,"Calle de Luchana, 9, 28010 Madrid, Spain",1.0,ice cream,28010,40.4297908,-3.7012319,"{'type': 'Point', 'coordinates': [-3.7012319, 40.4297908]}",1-15€
-270,Häagen-Dazs,4.3,"Calle de Bailén, 15, 28013 Madrid, Spain",2.0,ice cream,28013,40.4199572,-3.7127534,"{'type': 'Point', 'coordinates': [-3.7127534, 40.4199572]}",15-25€
-271,Ice-Mad The Thai Roll Ice Cream,4.2,"Centro Comercial Pleniluio, Calle de Aracne, 3, 28022 Madrid, Spain",1.0,ice cream,28022,40.4461171,-3.587704,"{'type': 'Point', 'coordinates': [-3.587704, 40.4461171]}",1-15€
-272,Gelateria DaRoma,4.6,"Calle de Sta Engracia, 155, 28003 Madrid, Spain",1.0,ice cream,28003,40.4443991,-3.7030765,"{'type': 'Point', 'coordinates': [-3.7030765, 40.4443991]}",1-15€
-273,Heladería Palazzo,3.9,"Puerta del Sol, 11, 28013 Madrid, Spain",1.0,ice cream,28013,40.4171798,-3.703899,"{'type': 'Point', 'coordinates': [-3.703899, 40.4171798]}",1-15€
-274,Amorino Postas,5.0,"Calle de Postas, 3, 28012 Madrid, Spain",1.0,ice cream,28012,40.416121,-3.7053614,"{'type': 'Point', 'coordinates': [-3.7053614, 40.416121]}",1-15€
-275,Lolo Polos,4.5,"Calle del Espíritu Santo, 16, 28004 Madrid, Spain",1.0,ice cream,28004,40.4252798,-3.7030691,"{'type': 'Point', 'coordinates': [-3.7030691, 40.4252798]}",1-15€
-276,llaollao,4.1,"Calle de Preciados, 40, 28013 Madrid, Spain",1.0,ice cream,28013,40.419787,-3.707062,"{'type': 'Point', 'coordinates': [-3.707062, 40.419787]}",1-15€
-277,llaollao,4.1,"Calle de Alcalá, 347, 28027 Madrid, Spain",1.0,ice cream,28027,40.433984,-3.646594,"{'type': 'Point', 'coordinates': [-3.646594, 40.433984]}",1-15€
-278,Eccolo Gelato,4.6,"Calle de la Cruz, 25, 28012 Madrid, Spain",1.0,ice cream,28012,40.4152072,-3.7021856,"{'type': 'Point', 'coordinates': [-3.7021856, 40.4152072]}",1-15€
-279,Heladería Palazzo - Italian Ice Cream,4.1,"C. de Narváez, 13, 28009 Madrid, Spain",1.0,ice cream,28009,40.422894,-3.6756862,"{'type': 'Point', 'coordinates': [-3.6756862, 40.422894]}",1-15€
-280,llaollao,4.1,"Calle del Carmen, 6, 28013 Madrid, Spain",1.0,ice cream,28013,40.41784699999999,-3.703705,"{'type': 'Point', 'coordinates': [-3.703705, 40.41784699999999]}",1-15€
-281,Di Angelo Gelateria,4.5,"Paseo de las Yeserías, 41, 28005 Madrid, Spain",2.0,ice cream,28005,40.3978588,-3.7072317,"{'type': 'Point', 'coordinates': [-3.7072317, 40.3978588]}",15-25€
-282,Horchatería Alboraya,4.5,"Calle de Alcalá, 125, 28009 Madrid, Spain",1.0,ice cream,28009,40.4232032,-3.679656,"{'type': 'Point', 'coordinates': [-3.679656, 40.4232032]}",1-15€
-283,Heladería Palazzo - Italian Ice Cream,4.2,"Calle de Bailén, 11, 28013 Madrid, Spain",1.0,ice cream,28013,40.4201088,-3.7127343,"{'type': 'Point', 'coordinates': [-3.7127343, 40.4201088]}",1-15€
-284,Heladería Corleone,4.8,"Corredera Alta de San Pablo, 18, 28004 Madrid, Spain",1.0,ice cream,28004,40.4254231,-3.7018462,"{'type': 'Point', 'coordinates': [-3.7018462, 40.4254231]}",1-15€
-285,Gelato Lab,5.0,"Mercado de la Cebada, puesto 37/38, planta baja, 28005 Madrid, Spain",1.0,ice cream,28005,40.4112059,-3.7100075,"{'type': 'Point', 'coordinates': [-3.7100075, 40.4112059]}",1-15€
-286,Häagen-Dazs,3.6,"Calle Edgar Neville, s/n, 28223 Madrid, Spain",2.0,ice cream,28223,40.394024,-3.796719,"{'type': 'Point', 'coordinates': [-3.796719, 40.394024]}",15-25€
-287,Giangrossi,3.7,"Calle de Velázquez, 41, 28001 Madrid, Spain",1.0,ice cream,28001,40.4268002,-3.6842326,"{'type': 'Point', 'coordinates': [-3.6842326, 40.4268002]}",1-15€
-288,llaollao,4.0,"Calle de la Montera, 36, 28013 Madrid, Spain",1.0,ice cream,28013,40.419065,-3.70177,"{'type': 'Point', 'coordinates': [-3.70177, 40.419065]}",1-15€
-289,Freddo Freddo,3.3,"Calle Mayor, 53, 28013 Madrid, Spain",1.0,ice cream,28013,40.4156878,-3.7092686,"{'type': 'Point', 'coordinates': [-3.7092686, 40.4156878]}",1-15€
-290,Igo Waffle Fuencarral,4.7,"Calle de Carranza, 19, 28004 Madrid, Spain",1.0,ice cream,28004,40.42920350000001,-3.704371,"{'type': 'Point', 'coordinates': [-3.704371, 40.42920350000001]}",1-15€
-291,Loco Polo,4.6,"Calle de Fuencarral, 40, 28004 Madrid, Spain",1.0,ice cream,28004,40.42284859999999,-3.7006475,"{'type': 'Point', 'coordinates': [-3.7006475, 40.42284859999999]}",1-15€
-292,IceCoBar,4.6,"Paseo de la Florida 2 Centro Comercial Príncipe Pío. Frente a la Entrada Principal, 28008 Madrid, Spain",1.0,ice cream,28008,40.4214928,-3.7199758,"{'type': 'Point', 'coordinates': [-3.7199758, 40.4214928]}",1-15€
-293,Lupita Paleta,4.9,"Calle de Toledo, 81, 28005 Madrid, Spain",1.0,ice cream,28005,40.4101914,-3.7091917,"{'type': 'Point', 'coordinates': [-3.7091917, 40.4101914]}",1-15€
-294,Häagen-Dazs,3.9,"Centro Comercial Plaza Rio 2 Local Planta calle, Calle de Antonio López, 109, numero 07, 28026 Madrid, Spain",2.0,ice cream,28026,40.3909536,-3.702186499999999,"{'type': 'Point', 'coordinates': [-3.702186499999999, 40.3909536]}",15-25€
-295,N2 Lab,4.5,"Calle de Bravo Murillo, 3, 28015 Madrid, Spain",1.0,ice cream,28015,40.4342596,-3.704604799999999,"{'type': 'Point', 'coordinates': [-3.704604799999999, 40.4342596]}",1-15€
-296,Martonela - Cremería Slow,4.5,"Calle de Aracne, 28022 Madrid, Spain",1.0,ice cream,28022,40.4462159,-3.5875446,"{'type': 'Point', 'coordinates': [-3.5875446, 40.4462159]}",1-15€
-297,Sienna,4.4,"Calle de Sancho Dávila, 29, posterior, 28028 Madrid, Spain",1.0,ice cream,28028,40.4257762,-3.661334099999999,"{'type': 'Point', 'coordinates': [-3.661334099999999, 40.4257762]}",1-15€
-298,Heladería 4D,3.6,"Calle de Latoneros, 3, 28005 Madrid, Spain",1.0,ice cream,28005,40.4138774,-3.7079224,"{'type': 'Point', 'coordinates': [-3.7079224, 40.4138774]}",1-15€
-299,Bico de Xeado,4.7,"Plaza Mayor, 29, 28012 Madrid, Spain",1.0,ice cream,28012,40.4158441,-3.7070647,"{'type': 'Point', 'coordinates': [-3.7070647, 40.4158441]}",1-15€
-300,Juice Lab & Co. ABC Serrano,4.2,"Calle de Serrano, 61, 28006 Madrid, Spain",1.0,juices,28006,40.4322743,-3.6875291,"{'type': 'Point', 'coordinates': [-3.6875291, 40.4322743]}",1-15€
-301,Juicy Avenue Serrano,4.1,"Calle de Serrano, 93, 28006 Madrid, Spain",1.0,juices,28006,40.43754200000001,-3.686537899999999,"{'type': 'Point', 'coordinates': [-3.686537899999999, 40.43754200000001]}",1-15€
-302,Lulo's Natural Juices,4.1,"Mercado de la Cebada, 28005 Madrid, Spain",1.0,juices,28005,40.4111595,-3.7099621,"{'type': 'Point', 'coordinates': [-3.7099621, 40.4111595]}",1-15€
-303,Origen Taste The World S.L.,4.2,"Calle de las Maldonadas, 7, 28005 Madrid, Spain",1.0,juices,28005,40.4109345,-3.7080141,"{'type': 'Point', 'coordinates': [-3.7080141, 40.4109345]}",1-15€
-304,Juicy Avenue,4.1,"CC Moraleja Green, Av. de Europa, 13, 28108 Madrid, Spain",1.0,juices,28108,40.5188577,-3.6558675,"{'type': 'Point', 'coordinates': [-3.6558675, 40.5188577]}",1-15€
-305,Tu Fruta al Momento,4.2,"Calle de Toledo, 6, 28005 Madrid, Spain",1.0,juices,28005,40.4146606,-3.7076701,"{'type': 'Point', 'coordinates': [-3.7076701, 40.4146606]}",1-15€
-306,Juice Lab & Co,4.9,"Centro Comercial ABC Serrano, Paseo de la Castellana, 34, 28046 Madrid, Spain",1.0,juices,28046,40.4322565,-3.6880416,"{'type': 'Point', 'coordinates': [-3.6880416, 40.4322565]}",1-15€
-307,Frutas Prohibidas,4.4,"Local Frutas Prohibidas, Calle del Conde Duque, 26, 28015 Madrid, Spain",1.0,juices,28015,40.4274672,-3.7103494,"{'type': 'Point', 'coordinates': [-3.7103494, 40.4274672]}",1-15€
-308,Mr. Ñam Ñam,3.7,"Plaza de Carlos Cambronero, 2, 28004 Madrid, Spain",1.0,juices,28004,40.4232257,-3.7041728,"{'type': 'Point', 'coordinates': [-3.7041728, 40.4232257]}",1-15€
-309,Juice Lab,0.0,"Calle de Serrano, 61, 28006 Madrid, France",1.0,juices,28006,40.4322143,-3.6869647,"{'type': 'Point', 'coordinates': [-3.6869647, 40.4322143]}",1-15€
-310,URBAN FRESH,4.6,"Calle de San Andrés, 12, 28004 Madrid, Spain",1.0,juices,28004,40.4265887,-3.7036499,"{'type': 'Point', 'coordinates': [-3.7036499, 40.4265887]}",1-15€
-311,Almalibre Açaí House Madrid,4.8,"Calle de la Libertad, 17, 28004 Madrid, Spain",1.0,juices,28004,40.4211367,-3.6974478,"{'type': 'Point', 'coordinates': [-3.6974478, 40.4211367]}",1-15€
-312,DisFruta,4.3,"Calle del Duque de Alba, 6, 28012 Madrid, Spain",1.0,juices,28012,40.4119064,-3.706089,"{'type': 'Point', 'coordinates': [-3.706089, 40.4119064]}",1-15€
-313,Juicy Avenue Islazul,3.7,"Centro Comercial ISLAZUL (Plaza Restauración, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,juices,28054,40.3631628,-3.7389873,"{'type': 'Point', 'coordinates': [-3.7389873, 40.3631628]}",1-15€
-314,Panther Juice & Sandwich Market,4.1,"Paseo de la Castellana, 91, 28046 Madrid, Spain",1.0,juices,28046,40.4504749,-3.6915025,"{'type': 'Point', 'coordinates': [-3.6915025, 40.4504749]}",1-15€
-315,Maestro Food and More,2.1,"28012 Madrid, Spain",1.0,juices,28012,40.4142897,-3.7031203,"{'type': 'Point', 'coordinates': [-3.7031203, 40.4142897]}",1-15€
-316,B13 bar,4.6,"Calle de la Ballesta, 13, 28004 Madrid, Spain",1.0,juices,28004,40.4219461,-3.7035174,"{'type': 'Point', 'coordinates': [-3.7035174, 40.4219461]}",1-15€
-317,Azotea Forus Barceló,4.0,"C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",2.0,juices,28005,40.4268137,-3.6988964,"{'type': 'Point', 'coordinates': [-3.6988964, 40.4268137]}",15-25€
-318,Casa Mingo,4.1,"Paseo de la Florida, 34, 28008 Madrid, Spain",1.0,juices,28008,40.4250914,-3.7253416,"{'type': 'Point', 'coordinates': [-3.7253416, 40.4250914]}",1-15€
-319,Taqueria El Chaparrito,4.5,"Calle Mayor, 68, 28013 Madrid, Spain",1.0,juices,28013,40.41567,-3.71014,"{'type': 'Point', 'coordinates': [-3.71014, 40.41567]}",1-15€
-320,Brunch Club,4.5,"Calle del Barco, 15, 28004 Madrid, Spain",2.0,brunch,28004,40.4216,-3.7028222,"{'type': 'Point', 'coordinates': [-3.7028222, 40.4216]}",15-25€
-321,Café Federal,4.1,"Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,brunch,28015,40.4270304,-3.7093012,"{'type': 'Point', 'coordinates': [-3.7093012, 40.4270304]}",15-25€
-322,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"C. de Fernando el Católico, 50, 28015 Madrid, Spain",2.0,brunch,28015,40.4343186,-3.7127786,"{'type': 'Point', 'coordinates': [-3.7127786, 40.4343186]}",15-25€
-323,Carmencita Bar,4.4,"Calle de San Vicente Ferrer, 51, 28015 Madrid, Spain",1.0,brunch,28015,40.4260776,-3.7074478,"{'type': 'Point', 'coordinates': [-3.7074478, 40.4260776]}",1-15€
-324,PANELA & CO,3.9,"Calle de López de Hoyos, 10, 28006 Madrid, Spain",2.0,brunch,28006,40.436905,-3.6872463,"{'type': 'Point', 'coordinates': [-3.6872463, 40.436905]}",15-25€
-325,Bendita Locura Coffee & Dreams,4.3,"Calle del Príncipe de Vergara, 73, 28006 Madrid, Spain",2.0,brunch,28006,40.435133,-3.6795414,"{'type': 'Point', 'coordinates': [-3.6795414, 40.435133]}",15-25€
-326,Zenith Brunch & Cocktails,4.5,"Calle de Valverde, 28, 28004 Madrid, Spain",2.0,brunch,28004,40.422371,-3.7016131,"{'type': 'Point', 'coordinates': [-3.7016131, 40.422371]}",15-25€
-327,MÜR Café,4.3,"Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,brunch,28015,40.4256968,-3.7121696,"{'type': 'Point', 'coordinates': [-3.7121696, 40.4256968]}",15-25€
-328,El Arquibar,4.6,"Travesía de Conde Duque, 5, 28015 Madrid, Spain",2.0,brunch,28015,40.4258284,-3.7099865,"{'type': 'Point', 'coordinates': [-3.7099865, 40.4258284]}",15-25€
-329,La Gringa,4.5,"Calle de San Vicente Ferrer, 57, 28015 Madrid, Spain",1.0,brunch,28015,40.4261241,-3.7079049,"{'type': 'Point', 'coordinates': [-3.7079049, 40.4261241]}",1-15€
-330,MartinaCocina,4.3,"Plaza de Cascorro, 11, 28005 Madrid, Spain",2.0,brunch,28005,40.409868,-3.7070334,"{'type': 'Point', 'coordinates': [-3.7070334, 40.409868]}",15-25€
-331,La Rollerie,4.1,"C. de Atocha, 20, 28012 Madrid, Spain",2.0,brunch,28012,40.4138358,-3.7030405,"{'type': 'Point', 'coordinates': [-3.7030405, 40.4138358]}",15-25€
-332,Federal Café,4.2,"Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,brunch,28005,40.4143274,-3.7088587,"{'type': 'Point', 'coordinates': [-3.7088587, 40.4143274]}",15-25€
-333,Restaurante PINALE,4.5,"Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",1.0,brunch,28001,40.426467,-3.678641,"{'type': 'Point', 'coordinates': [-3.678641, 40.426467]}",1-15€
-334,"Roll Madrid Restaurante, Brunch Gourmet, Cerveza Artesanal de Grifo",4.0,"Calle de Amaniel, 23, 28015 Madrid, Spain",2.0,brunch,28015,40.4271057,-3.7096294,"{'type': 'Point', 'coordinates': [-3.7096294, 40.4271057]}",15-25€
-335,EatMyTrip Brunch & Cocktails Madrid,4.6,"Calle de la Moreria, 11, 28005 Madrid, Spain",2.0,brunch,28005,40.4130179,-3.7134265,"{'type': 'Point', 'coordinates': [-3.7134265, 40.4130179]}",15-25€
-336,La Rollerie,4.3,"Calle Mayor, 24, 28013 Madrid, Spain",1.0,brunch,28013,40.4165119,-3.707106599999999,"{'type': 'Point', 'coordinates': [-3.707106599999999, 40.4165119]}",1-15€
-337,Brunch by Café Oliver El Columpio,3.8,"Calle de Caracas, 10, 28010 Madrid, Spain",2.0,brunch,28010,40.4305871,-3.6943358,"{'type': 'Point', 'coordinates': [-3.6943358, 40.4305871]}",15-25€
-338,HanSo Café,4.4,"Calle del Pez, 20, 28004 Madrid, Spain",1.0,brunch,28004,40.4238854,-3.7055265,"{'type': 'Point', 'coordinates': [-3.7055265, 40.4238854]}",1-15€
-339,La Rollerie,4.2,"Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,brunch,28014,40.4164994,-3.6995404,"{'type': 'Point', 'coordinates': [-3.6995404, 40.4164994]}",15-25€
-340,La Bicicleta,4.1,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,brunch,28004,40.4238106,-3.7022328,"{'type': 'Point', 'coordinates': [-3.7022328, 40.4238106]}",15-25€
-341,La Rollerie,4.2,"Calle de Guzmán el Bueno, 105, 28003 Madrid, Spain",2.0,brunch,28003,40.4394752,-3.7130097,"{'type': 'Point', 'coordinates': [-3.7130097, 40.4394752]}",15-25€
-342,Nomade Cafe,4.4,"Calle de los Tres Peces, 22, 28012 Madrid, Spain",1.0,brunch,28012,40.4107147,-3.6993613,"{'type': 'Point', 'coordinates': [-3.6993613, 40.4107147]}",1-15€
-343,A B O L E A,4.2,"Calle de Sandoval, 10, 12, 28010 Madrid, Spain",2.0,brunch,28010,40.4300975,-3.7041016,"{'type': 'Point', 'coordinates': [-3.7041016, 40.4300975]}",15-25€
-344,Café Comercial,4.1,"Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,brunch,28004,40.4287137,-3.7019997,"{'type': 'Point', 'coordinates': [-3.7019997, 40.4287137]}",15-25€
-345,Pum Pum Café,4.3,"Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,brunch,28012,40.4080621,-3.701955,"{'type': 'Point', 'coordinates': [-3.701955, 40.4080621]}",15-25€
-346,Ojalá,4.2,"Calle de San Andrés, 1, 28004 Madrid, Spain",2.0,brunch,28004,40.42554,-3.703991,"{'type': 'Point', 'coordinates': [-3.703991, 40.42554]}",15-25€
-347,El 17 de Moreto,4.0,"Calle de Moreto, 17, 28014 Madrid, Spain",2.0,brunch,28014,40.412917,-3.690207199999999,"{'type': 'Point', 'coordinates': [-3.690207199999999, 40.412917]}",15-25€
-348,Hielo y Carbon,4.3,"C/ Gran Vía, 31, 28013 Madrid, Spain",2.0,brunch,28013,40.4199686,-3.703813,"{'type': 'Point', 'coordinates': [-3.703813, 40.4199686]}",15-25€
-349,Le Pain Quotidien,3.8,"Calle del Poeta Joan Maragall, 26, 28020 Madrid, Spain",2.0,brunch,28020,40.4578849,-3.691862199999999,"{'type': 'Point', 'coordinates': [-3.691862199999999, 40.4578849]}",15-25€
-350,La Desayuneria,4.6,"Calle de Barbieri, 4, 28004 Madrid, Spain",2.0,brunch,28004,40.4206695,-3.6982297,"{'type': 'Point', 'coordinates': [-3.6982297, 40.4206695]}",15-25€
-351,Diurno,4.2,"Calle de San Marcos, 37, 28004 Madrid, Spain",2.0,brunch,28004,40.421318,-3.6972032,"{'type': 'Point', 'coordinates': [-3.6972032, 40.421318]}",15-25€
-352,The Fix - Specialty Coffee,4.6,"Calle de Luisa Fernanda, 15, 28008 Madrid, Spain",2.0,brunch,28008,40.425718,-3.715002299999999,"{'type': 'Point', 'coordinates': [-3.715002299999999, 40.425718]}",15-25€
-353,Ganz,4.4,"Calle de Almadén, 9, 28014 Madrid, Spain",2.0,brunch,28014,40.4111594,-3.6946837,"{'type': 'Point', 'coordinates': [-3.6946837, 40.4111594]}",15-25€
-354,The Little Big Cafe Fernández de Los Ríos,4.6,"Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,brunch,28015,40.435222,-3.712739,"{'type': 'Point', 'coordinates': [-3.712739, 40.435222]}",1-15€
-355,Plenti,4.7,"Calle de Moreto, 17, 28014 Madrid, Spain",1.0,brunch,28014,40.413013,-3.6901309,"{'type': 'Point', 'coordinates': [-3.6901309, 40.413013]}",1-15€
-356,Mafrens,4.7,"Plaza de Cascorro, 12, 28005 Madrid, Spain",2.0,brunch,28005,40.4099958,-3.7074432,"{'type': 'Point', 'coordinates': [-3.7074432, 40.4099958]}",15-25€
-357,Maricastaña,4.2,"Corredera Baja de San Pablo, 12, 28004 Madrid, Spain",2.0,brunch,28004,40.4220771,-3.7041304,"{'type': 'Point', 'coordinates': [-3.7041304, 40.4220771]}",15-25€
-358,Casa Suecia,4.4,"y roof top, Calle del Marqués de Casa Riera, 4, Planta baja, 28014 Madrid, Spain",2.0,brunch,28014,40.4179018,-3.6962677,"{'type': 'Point', 'coordinates': [-3.6962677, 40.4179018]}",15-25€
-359,Frida,3.8,"Calle San Gregorio, 8, 28004 Madrid, Spain",2.0,brunch,28004,40.4239997,-3.6970391,"{'type': 'Point', 'coordinates': [-3.6970391, 40.4239997]}",15-25€
-360,Vacaciones Cocktail Bar,4.1,"Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,brunch,28004,40.4253189,-3.703584,"{'type': 'Point', 'coordinates': [-3.703584, 40.4253189]}",15-25€
-361,NuBel,4.1,"Museo Reina Sofía, Calle de Argumosa, 43, 28012 Madrid, Spain",3.0,brunch,28012,40.4072563,-3.6956103,"{'type': 'Point', 'coordinates': [-3.6956103, 40.4072563]}",25-50€
-362,Lamucca del Carmen,4.2,"Plaza del Carmen, 5, 28013 Madrid, Spain",2.0,brunch,28013,40.4189987,-3.7029002,"{'type': 'Point', 'coordinates': [-3.7029002, 40.4189987]}",15-25€
-363,Restaurante DCorazon,4.5,"Plaza Mayor, 30, 28012 Madrid, Spain",2.0,brunch,28012,40.4157838,-3.7073981,"{'type': 'Point', 'coordinates': [-3.7073981, 40.4157838]}",15-25€
-364,El Jardín de Orfila by Mario Sandoval,4.4,"Calle de Orfila, 6, 28010 Madrid, Spain",2.0,brunch,28010,40.427319,-3.693211,"{'type': 'Point', 'coordinates': [-3.693211, 40.427319]}",15-25€
-365,Le Pain Quotidien,3.9,"Calle de Velázquez, 92, 28006 Madrid, Spain",2.0,brunch,28006,40.43264,-3.6833197,"{'type': 'Point', 'coordinates': [-3.6833197, 40.43264]}",15-25€
-366,Restaurante La Gamella,4.3,"Calle de Alfonso XII, 4, 28014 Madrid, Spain",2.0,brunch,28014,40.4189281,-3.6890525,"{'type': 'Point', 'coordinates': [-3.6890525, 40.4189281]}",15-25€
-367,Brunch by Café Oliver Martinete,0.0,"Pl. del Marqués de Salamanca, 9, 28006 Madrid, Spain",2.0,brunch,28006,40.42991800000001,-3.6788623,"{'type': 'Point', 'coordinates': [-3.6788623, 40.42991800000001]}",15-25€
-368,Misión Café,4.5,"Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,brunch,28015,40.4242402,-3.7087479,"{'type': 'Point', 'coordinates': [-3.7087479, 40.4242402]}",15-25€
-369,Murillo Café,3.9,"Calle de Ruiz de Alarcón, 27, 28014 Madrid, Spain",2.0,brunch,28014,40.4130594,-3.6913271,"{'type': 'Point', 'coordinates': [-3.6913271, 40.4130594]}",15-25€
-370,Marieta,4.0,"Paseo de la Castellana, 44, 28046 Madrid, Spain",2.0,brunch,28046,40.4335875,-3.6873722,"{'type': 'Point', 'coordinates': [-3.6873722, 40.4335875]}",15-25€
-371,Superchulo Madrid,4.2,"C. de Manuela Malasaña, 11, 28004 Madrid, Spain",2.0,brunch,28004,40.4285343,-3.7032607,"{'type': 'Point', 'coordinates': [-3.7032607, 40.4285343]}",15-25€
-372,Lamucca de Fuencarral (Organik ⚡Parriya),4.3,"Calle de Fuencarral, 95, 28004 Madrid, Spain",2.0,brunch,28004,40.427186,-3.7017083,"{'type': 'Point', 'coordinates': [-3.7017083, 40.427186]}",15-25€
-373,Grama Lounge,4.2,"Calle de la Cruz, 19, 28012 Madrid, Spain",2.0,brunch,28012,40.41549029999999,-3.7016911,"{'type': 'Point', 'coordinates': [-3.7016911, 40.41549029999999]}",15-25€
-374,OH MY FOOD MADRID,4.0,"Calle de las Infantas, 44, 28004 Madrid, Spain",1.0,brunch,28004,40.4199626,-3.697111,"{'type': 'Point', 'coordinates': [-3.697111, 40.4199626]}",1-15€
-375,Pipa & Co,3.8,"Paseo de la Habana, 105, 28036 Madrid, Spain",2.0,brunch,28036,40.4588601,-3.6820533,"{'type': 'Point', 'coordinates': [-3.6820533, 40.4588601]}",15-25€
-376,Adorado Bar Lavapies,4.4,"Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",2.0,brunch,28012,40.4106219,-3.7046934,"{'type': 'Point', 'coordinates': [-3.7046934, 40.4106219]}",15-25€
-377,Real Talent Café,4.6,"Calle de la Unión, 1, 28013 Madrid, Spain",1.0,brunch,28013,40.41679,-3.710334,"{'type': 'Point', 'coordinates': [-3.710334, 40.41679]}",1-15€
-378,La Rollerie La Terrasse,4.2,"C/ del Alcalde Sainz de Baranda, 64, 28009 Madrid, Spain",2.0,brunch,28009,40.4164161,-3.669946,"{'type': 'Point', 'coordinates': [-3.669946, 40.4164161]}",15-25€
-379,El Escondite de Villanueva,4.1,"Calle de Villanueva, 26, 28001 Madrid, Spain",2.0,brunch,28001,40.4223694,-3.685975,"{'type': 'Point', 'coordinates': [-3.685975, 40.4223694]}",15-25€
+,name,rating,address,price_level,place,type,subtype,CP,latitude,longitude,geometry,price
+0,Sweet Cakes Madrid,4.7,"C. de Los Molinos, 22, 28039 Madrid, Spain",2.0,cake,plan,snacks,28039,40.4580817,-3.702602999999999,"{'type': 'Point', 'coordinates': [40.4580817, -3.702602999999999]}",15-25€
+1,La Cocina de mi Vecina,4.5,"Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",1.0,cake,plan,snacks,28004,40.4253466,-3.7019962,"{'type': 'Point', 'coordinates': [40.4253466, -3.7019962]}",1-15€
+2,Fika Patisserie Madrid,5.0,"Calle de Costa Rica, 26, 28016 Madrid, Spain",2.0,cake,plan,snacks,28016,40.4582729,-3.672964099999999,"{'type': 'Point', 'coordinates': [40.4582729, -3.672964099999999]}",15-25€
+3,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,cake,plan,snacks,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [40.422097, -3.699874]}",1-15€
+4,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",2.0,cake,plan,snacks,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [40.4339841, -3.7134165]}",15-25€
+5,Ceci Bakery,5.0,"Calle de Viriato, 57, 28010 Madrid, Spain",2.0,cake,plan,snacks,28010,40.4357602,-3.696997,"{'type': 'Point', 'coordinates': [40.4357602, -3.696997]}",15-25€
+6,Cake Dream,5.0,"Calle de Fermín Caballero, 7, 28034 Madrid, Spain",2.0,cake,plan,snacks,28034,40.48668079999999,-3.6999462,"{'type': 'Point', 'coordinates': [40.48668079999999, -3.6999462]}",15-25€
+7,Mr Carrot Cake,4.6,"Calle de Caleruega, 29, 28033 Madrid, Spain",2.0,cake,plan,snacks,28033,40.4785827,-3.6709329,"{'type': 'Point', 'coordinates': [40.4785827, -3.6709329]}",15-25€
+8,Bonacasa Cake Design,5.0,"Calle de Vital Aza, 48, 28017 Madrid, Spain",2.0,cake,plan,snacks,28017,40.432229,-3.6407414,"{'type': 'Point', 'coordinates': [40.432229, -3.6407414]}",15-25€
+9,Freedom Cakes Café,4.6,"Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,cake,plan,snacks,28012,40.4158763,-3.7028047,"{'type': 'Point', 'coordinates': [40.4158763, -3.7028047]}",15-25€
+10,Noni's Bakery,5.0,"Plaza Luca de Tena, 11, 28045 Madrid, Spain",2.0,cake,plan,snacks,28045,40.4017113,-3.6945119,"{'type': 'Point', 'coordinates': [40.4017113, -3.6945119]}",15-25€
+11,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",2.0,cake,plan,snacks,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [40.420441, -3.701066]}",15-25€
+12,Tartas con Estilo,5.0,"Barrio de Fuencarral No tenemos tienda física, trabajamos exclusivamente bajo pedido, 28034 Madrid, Spain",2.0,cake,plan,snacks,28034,40.4970457,-3.693884699999999,"{'type': 'Point', 'coordinates': [40.4970457, -3.693884699999999]}",15-25€
+13,La Torta en Chamberí - Madrid,4.9,"C/ de Donoso Cortés, 62, 28015 Madrid, Spain",1.0,cake,plan,snacks,28015,40.43655,-3.712534,"{'type': 'Point', 'coordinates': [40.43655, -3.712534]}",1-15€
+14,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,cake,plan,snacks,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [40.4166836, -3.704774999999999]}",1-15€
+15,Naty's Cake Shop,4.4,"C. de Antonio Toledano, 17, 28028 Madrid, Spain",2.0,cake,plan,snacks,28028,40.4244959,-3.6666415,"{'type': 'Point', 'coordinates': [40.4244959, -3.6666415]}",15-25€
+16,Oliver Nicols,4.9,"Calle de la Santísima Trinidad, 6, 28010 Madrid, Spain",2.0,cake,plan,snacks,28010,40.4352103,-3.7003702,"{'type': 'Point', 'coordinates': [40.4352103, -3.7003702]}",15-25€
+17,TheCakeProject,4.8,"Calle de Ana de Austria, 25-27, 28050 Madrid, Spain",2.0,cake,plan,snacks,28050,40.4921361,-3.660102,"{'type': 'Point', 'coordinates': [40.4921361, -3.660102]}",15-25€
+18,La Mejor Tarta de Chocolate del Mundo,4.0,"Calle de Alcalá, 89, 28009 Madrid, Spain",2.0,cake,plan,snacks,28009,40.4209935,-3.6851927,"{'type': 'Point', 'coordinates': [40.4209935, -3.6851927]}",15-25€
+19,Decake,4.3,"Calle Francisco Abril, 11, 28007 Madrid, Spain",2.0,cake,plan,snacks,28007,40.4006245,-3.669262,"{'type': 'Point', 'coordinates': [40.4006245, -3.669262]}",15-25€
+20,Nuria's Bakery,4.9,"Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",2.0,cake,plan,snacks,28523,40.3671593,-3.5465364,"{'type': 'Point', 'coordinates': [40.3671593, -3.5465364]}",15-25€
+21,Pastelería NatasBelém,4.3,"Plaza del Callao, 1, 28013 Madrid, Spain",2.0,cake,plan,snacks,28013,40.4198066,-3.7061094,"{'type': 'Point', 'coordinates': [40.4198066, -3.7061094]}",15-25€
+22,Pastelería La Mallorquina,4.2,"Calle de Velázquez, 39, 28001 Madrid, Spain",2.0,cake,plan,snacks,28001,40.4261617,-3.6843119,"{'type': 'Point', 'coordinates': [40.4261617, -3.6843119]}",15-25€
+23,Fiorella Cakes,4.0,"Cl. de Suero de Quiñones, 12, 28002 Madrid, Spain",2.0,cake,plan,snacks,28002,40.4449258,-3.6761069,"{'type': 'Point', 'coordinates': [40.4449258, -3.6761069]}",15-25€
+24,Katy's Bakery,4.6,"Plaza de las Salesas, 8, 28004 Madrid, Spain",1.0,cake,plan,snacks,28004,40.4238224,-3.694635,"{'type': 'Point', 'coordinates': [40.4238224, -3.694635]}",1-15€
+25,Pastelería Lisboa,4.7,"Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",2.0,cake,plan,snacks,28006,40.4300843,-3.6757516,"{'type': 'Point', 'coordinates': [40.4300843, -3.6757516]}",15-25€
+26,Tábatha Pastelería,4.8,"Calle de Alcántara, 23, 28006 Madrid, Spain",2.0,cake,plan,snacks,28006,40.4278951,-3.6739624,"{'type': 'Point', 'coordinates': [40.4278951, -3.6739624]}",15-25€
+27,Pastelería Luzón,4.6,"Calle del Conde de Peñalver, 42, 28006 Madrid, Spain",2.0,cake,plan,snacks,28006,40.4293881,-3.6751487,"{'type': 'Point', 'coordinates': [40.4293881, -3.6751487]}",15-25€
+28,"Pastelería LA ROSA 1917 ""Madrid"".",4.6,"Ronda de Atocha, 3, 28012 Madrid, Spain",2.0,cake,plan,snacks,28012,40.4071281,-3.6943641,"{'type': 'Point', 'coordinates': [40.4071281, -3.6943641]}",15-25€
+29,La Santiaguesa,4.4,"Calle Mayor, 73, 28013 Madrid, Spain",2.0,cake,plan,snacks,28013,40.4152372,-3.7117459,"{'type': 'Point', 'coordinates': [40.4152372, -3.7117459]}",15-25€
+30,Motteau Pasteleria,4.8,"Calle de San Pedro, 9, 28014 Madrid, Spain",2.0,cake,plan,snacks,28014,40.4116599,-3.6946357,"{'type': 'Point', 'coordinates': [40.4116599, -3.6946357]}",15-25€
+31,Manolo Bakes,4.6,"C.C. La Vaguada, Av. de Monforte de Lemos, 36, Local 85, 28029 Madrid, Spain",2.0,cake,plan,snacks,28029,40.4799915,-3.7061443,"{'type': 'Point', 'coordinates': [40.4799915, -3.7061443]}",15-25€
+32,Ricci's Cakes,4.6,"Av. del General Perón, 16, 28020 Madrid, Spain",1.0,cake,plan,snacks,28020,40.4522897,-3.696773899999999,"{'type': 'Point', 'coordinates': [40.4522897, -3.696773899999999]}",1-15€
+33,La Pastelería del Duque,4.0,"Calle del Duque de Alba, 14, 28012 Madrid, Spain",2.0,cake,plan,snacks,28012,40.4116978,-3.7069349,"{'type': 'Point', 'coordinates': [40.4116978, -3.7069349]}",15-25€
+34,Pastelería La Oriental con gluten,4.5,"Calle de Ferraz, 49, 28008 Madrid, Spain",2.0,cake,plan,snacks,28008,40.42961469999999,-3.7208391,"{'type': 'Point', 'coordinates': [40.42961469999999, -3.7208391]}",15-25€
+35,La Mejor Tarta de Chocolate del Mundo (Cervantes),4.7,"Calle de Cervantes, 9, 28014 Madrid, Spain",2.0,cake,plan,snacks,28014,40.4144061,-3.6976684,"{'type': 'Point', 'coordinates': [40.4144061, -3.6976684]}",15-25€
+36,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"Calle de Toledo, 171, 28005 Madrid, Spain",2.0,cake,plan,snacks,28005,40.4025434,-3.7132583,"{'type': 'Point', 'coordinates': [40.4025434, -3.7132583]}",15-25€
+37,Pastelería Auxai Tartas,4.9,"Plaza San Anacleto, 2, 28023 Madrid, Spain",2.0,cake,plan,snacks,28023,40.4581168,-3.7824568,"{'type': 'Point', 'coordinates': [40.4581168, -3.7824568]}",15-25€
+38,La Duquesita,4.2,"Calle de Fernando VI, 2, 28004 Madrid, Spain",2.0,cake,plan,snacks,28004,40.4257167,-3.6969933,"{'type': 'Point', 'coordinates': [40.4257167, -3.6969933]}",15-25€
+39,Pasteleria Ascaso,4.5,"Calle de Zurbano, 25, 28010 Madrid, Spain",2.0,cake,plan,snacks,28010,40.430574,-3.693637,"{'type': 'Point', 'coordinates': [40.430574, -3.693637]}",15-25€
+40,Pastelería La Oriental Sin gluten,4.0,"Calle de Ferraz, 47, 28008 Madrid, Spain",2.0,cake,plan,snacks,28008,40.4295994,-3.7207932,"{'type': 'Point', 'coordinates': [40.4295994, -3.7207932]}",15-25€
+41,El Riojano,4.2,"Calle Mayor, 10, 28013 Madrid, Spain",2.0,cake,plan,snacks,28013,40.4164843,-3.705974899999999,"{'type': 'Point', 'coordinates': [40.4164843, -3.705974899999999]}",15-25€
+42,Manolo Bakes,4.1,"C. de Narváez, 35, 28009 Madrid, Spain",2.0,cake,plan,snacks,28009,40.4204448,-3.675861199999999,"{'type': 'Point', 'coordinates': [40.4204448, -3.675861199999999]}",15-25€
+43,Aliter Dulcia,4.3,"Calle de Barbieri, 25, 28004 Madrid, Spain",2.0,cake,plan,snacks,28004,40.4218568,-3.6979215,"{'type': 'Point', 'coordinates': [40.4218568, -3.6979215]}",15-25€
+44,Pastelería Pan Feliz,4.6,"Calle del Dr Cortezo, 11, 28012 Madrid, Spain",2.0,cake,plan,snacks,28012,40.4130517,-3.7037753,"{'type': 'Point', 'coordinates': [40.4130517, -3.7037753]}",15-25€
+45,Star Cakes Madrid,4.3,"c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",1.0,cake,plan,snacks,28043,40.467531,-3.639175,"{'type': 'Point', 'coordinates': [40.467531, -3.639175]}",1-15€
+46,Pastelería Atuel,3.8,"Calle de José Ortega y Gasset, 87, 28006 Madrid, Spain",2.0,cake,plan,snacks,28006,40.4298584,-3.6711878,"{'type': 'Point', 'coordinates': [40.4298584, -3.6711878]}",15-25€
+47,Manolo Bakes,3.9,"C.C, Gran Vía de Hortaleza, 1, Local 114, 28043 Madrid, Spain",2.0,cake,plan,snacks,28043,40.4697123,-3.6413362,"{'type': 'Point', 'coordinates': [40.4697123, -3.6413362]}",15-25€
+48,Pasteleria Creativa Javier Ramos,4.9,"C. de Moratín, 39, 28014 Madrid, Spain",2.0,cake,plan,snacks,28014,40.4126418,-3.695338499999999,"{'type': 'Point', 'coordinates': [40.4126418, -3.695338499999999]}",15-25€
+49,VegAmazing Doughnuts,4.9,"Calle del Duque de Sesto, 31, 28009 Madrid, Spain",2.0,cake,plan,snacks,28009,40.4225146,-3.6748664,"{'type': 'Point', 'coordinates': [40.4225146, -3.6748664]}",15-25€
+50,chök - A. Figueroa,4.5,"Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",2.0,cake,plan,snacks,28004,40.4224802,-3.698952,"{'type': 'Point', 'coordinates': [40.4224802, -3.698952]}",15-25€
+51,Manolo Bakes,4.3,"Paseo de la Florida 2 C.C. Principe Pio - Local G38 Planta baj, 28008 Madrid, Spain",2.0,cake,plan,snacks,28008,40.4212474,-3.7194452,"{'type': 'Point', 'coordinates': [40.4212474, -3.7194452]}",15-25€
+52,Tart Tart Cake Shop,4.9,"Calle de Galileo, 66, local L-20, 28015 Madrid, Spain",1.0,cake,plan,snacks,28015,40.4354844,-3.7100158,"{'type': 'Point', 'coordinates': [40.4354844, -3.7100158]}",1-15€
+53,Casa Mira,4.4,"Carrera de S. Jerónimo, 30, 28014 Madrid, Spain",3.0,cake,plan,snacks,28014,40.4164888,-3.6992683,"{'type': 'Point', 'coordinates': [40.4164888, -3.6992683]}",25-50€
+54,Elma´s Cake & snacks,5.0,"Calle García Cea, 2, 28039 Madrid, Spain",2.0,cake,plan,snacks,28039,40.4611486,-3.698505,"{'type': 'Point', 'coordinates': [40.4611486, -3.698505]}",15-25€
+55,Harina Augusto Figueroa,3.9,"Calle de Augusto Figueroa, 2, 28004 Madrid, Spain",2.0,cake,plan,snacks,28004,40.4229314,-3.7003011,"{'type': 'Point', 'coordinates': [40.4229314, -3.7003011]}",15-25€
+56,Manolo Bakes,4.0,"CC Moratalaz Alcampo, Calle Manuel Machado, 3, Local 11, 28030 Madrid, Spain",2.0,cake,plan,snacks,28030,40.4121378,-3.6598836,"{'type': 'Point', 'coordinates': [40.4121378, -3.6598836]}",15-25€
+57,Acaramelada Pastelería,4.5,"Paseo de los Olmos, 13, 28005 Madrid, Spain",2.0,cake,plan,snacks,28005,40.40454709999999,-3.7106253,"{'type': 'Point', 'coordinates': [40.40454709999999, -3.7106253]}",15-25€
+58,Cake Shop,4.9,"Av. del Dr. Federico Rubio y Galí, 8, 28039 Madrid, Spain",2.0,cake,plan,snacks,28039,40.4486792,-3.7083996,"{'type': 'Point', 'coordinates': [40.4486792, -3.7083996]}",15-25€
+59,La Prima Lejana,4.8,"Calle de Lope de Vega, 7, 28014 Madrid, Spain",2.0,cake,plan,snacks,28014,40.4138657,-3.6984189,"{'type': 'Point', 'coordinates': [40.4138657, -3.6984189]}",15-25€
+60,Cupcakes Happy To You,4.5,"Calle de López de Hoyos, 78 Duplicado, 28002 Madrid, Spain",1.0,cupcakes,plan,snacks,28002,40.442142,-3.67666,"{'type': 'Point', 'coordinates': [40.442142, -3.67666]}",1-15€
+61,Oh my cup!,4.1,"Calle de Puentelarra, 40, 28031 Madrid, Spain",1.0,cupcakes,plan,snacks,28031,40.38047479999999,-3.6109466,"{'type': 'Point', 'coordinates': [40.38047479999999, -3.6109466]}",1-15€
+62,Ceci Bakery,5.0,"Calle de Viriato, 57, 28010 Madrid, Spain",1.0,cupcakes,plan,snacks,28010,40.4357602,-3.696997,"{'type': 'Point', 'coordinates': [40.4357602, -3.696997]}",1-15€
+63,Noni's Bakery,5.0,"Plaza Luca de Tena, 11, 28045 Madrid, Spain",1.0,cupcakes,plan,snacks,28045,40.4017113,-3.6945119,"{'type': 'Point', 'coordinates': [40.4017113, -3.6945119]}",1-15€
+64,Pastelería Auxai Tartas,4.9,"Plaza San Anacleto, 2, 28023 Madrid, Spain",1.0,cupcakes,plan,snacks,28023,40.4581168,-3.7824568,"{'type': 'Point', 'coordinates': [40.4581168, -3.7824568]}",1-15€
+65,Alma's Cupcakes - Shop,4.6,"Calle de Montesa, 10, 28006 Madrid, Spain",1.0,cupcakes,plan,snacks,28006,40.4274107,-3.6722729,"{'type': 'Point', 'coordinates': [40.4274107, -3.6722729]}",1-15€
+66,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [40.4339841, -3.7134165]}",1-15€
+67,Freedom Cakes Café,4.6,"Calle de Cádiz, 7, 28012 Madrid, Spain",2.0,cupcakes,plan,snacks,28012,40.4158763,-3.7028047,"{'type': 'Point', 'coordinates': [40.4158763, -3.7028047]}",15-25€
+68,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [40.420441, -3.701066]}",1-15€
+69,Nuria's Bakery,4.9,"Calle Cuenca, 6 (Posterior), local 1 Entrada por, Calle Pamplona, 28523 Rivas-Vaciamadrid, Madrid, Spain",1.0,cupcakes,plan,snacks,28523,40.3671593,-3.5465364,"{'type': 'Point', 'coordinates': [40.3671593, -3.5465364]}",1-15€
+70,Katy's Bakery,4.6,"Plaza de las Salesas, 8, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.4238224,-3.694635,"{'type': 'Point', 'coordinates': [40.4238224, -3.694635]}",1-15€
+71,Decake,4.3,"Calle Francisco Abril, 11, 28007 Madrid, Spain",1.0,cupcakes,plan,snacks,28007,40.4006245,-3.669262,"{'type': 'Point', 'coordinates': [40.4006245, -3.669262]}",1-15€
+72,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [40.422097, -3.699874]}",1-15€
+73,Maria Mirabelli Party Design,3.9,"Calle de Bretón de los Herreros, 38, 28003 Madrid, Spain",1.0,cupcakes,plan,snacks,28003,40.4394059,-3.696805899999999,"{'type': 'Point', 'coordinates': [40.4394059, -3.696805899999999]}",1-15€
+74,Home Bakery,4.3,"Calle Viloria de La Rioja, 42, 28050 Madrid, Spain",2.0,cupcakes,plan,snacks,28050,40.505456,-3.674447999999999,"{'type': 'Point', 'coordinates': [40.505456, -3.674447999999999]}",15-25€
+75,Cupcake Madrid,0.0,"Calle de Velázquez, 126, 28006 Madrid, Spain",1.0,cupcakes,plan,snacks,28006,40.43701009999999,-3.6829629,"{'type': 'Point', 'coordinates': [40.43701009999999, -3.6829629]}",1-15€
+76,Bakery,4.7,"Calle de Cartagena, 101, 28002 Madrid, Spain",1.0,cupcakes,plan,snacks,28002,40.4396634,-3.673855499999999,"{'type': 'Point', 'coordinates': [40.4396634, -3.673855499999999]}",1-15€
+77,NoSonMagdalenasSonCupcakes,4.9,"Calle Puerto de Alazores, 16, 28031 Madrid, Spain",1.0,cupcakes,plan,snacks,28031,40.3788946,-3.6255451,"{'type': 'Point', 'coordinates': [40.3788946, -3.6255451]}",1-15€
+78,El horno de papá Guillermo.Tartas artesanales y personalizadas,4.7,"Calle de Toledo, 171, 28005 Madrid, Spain",1.0,cupcakes,plan,snacks,28005,40.4025434,-3.7132583,"{'type': 'Point', 'coordinates': [40.4025434, -3.7132583]}",1-15€
+79,Madrid tarta fondant Mauricci,4.5,"Calle Río Salado, 1, 2do A, 28018 Madrid, Spain",1.0,cupcakes,plan,snacks,28018,40.3863095,-3.6510764,"{'type': 'Point', 'coordinates': [40.3863095, -3.6510764]}",1-15€
+80,La Cocina de mi Vecina,4.5,"Corredera Alta de San Pablo, 15, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.4253466,-3.7019962,"{'type': 'Point', 'coordinates': [40.4253466, -3.7019962]}",1-15€
+81,London's Bakery,4.7,"Calle de Juan Ramón Jiménez, 7, 28036 Madrid, Spain",1.0,cupcakes,plan,snacks,28036,40.45706029999999,-3.6872544,"{'type': 'Point', 'coordinates': [40.45706029999999, -3.6872544]}",1-15€
+82,Levaduramadre,4.5,"Calle del Pez, 1, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.4227662,-3.7040816,"{'type': 'Point', 'coordinates': [40.4227662, -3.7040816]}",1-15€
+83,Bakery CON Z,4.3,"Calle, Travesía de San Mateo, #7, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.4253249,-3.6980579,"{'type': 'Point', 'coordinates': [40.4253249, -3.6980579]}",1-15€
+84,Artisan bakery Glassé,4.3,"Calle de Modesto Lafuente, 57, 28003 Madrid, Spain",2.0,cupcakes,plan,snacks,28003,40.4441207,-3.695851,"{'type': 'Point', 'coordinates': [40.4441207, -3.695851]}",15-25€
+85,BAM Bakery,3.9,"Calle de Zurbano, 83, 28003 Madrid, Spain",1.0,cupcakes,plan,snacks,28003,40.4394661,-3.6929049,"{'type': 'Point', 'coordinates': [40.4394661, -3.6929049]}",1-15€
+86,La Cachiterie Las Tablas,4.9,"Paseo Tierra de Melide, 15, LOCAL, 28050 Madrid, Spain",1.0,cupcakes,plan,snacks,28050,40.5070501,-3.6646083,"{'type': 'Point', 'coordinates': [40.5070501, -3.6646083]}",1-15€
+87,Star Cakes Madrid,4.3,"c/ Malagón, 5 local 40, entrada por c/ Tordomar, 28043 Madrid, Spain",1.0,cupcakes,plan,snacks,28043,40.467531,-3.639175,"{'type': 'Point', 'coordinates': [40.467531, -3.639175]}",1-15€
+88,La Cocina de mi Vecina (Take Away),4.3,"Calle de Vallehermoso, 75, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.4382636,-3.7086485,"{'type': 'Point', 'coordinates': [40.4382636, -3.7086485]}",1-15€
+89,Granier San Bernardo,3.9,"Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.4221085,-3.7075654,"{'type': 'Point', 'coordinates': [40.4221085, -3.7075654]}",1-15€
+90,Celicioso,3.9,"Calle de O'Donnell, 4, 28009 Madrid, Spain",1.0,cupcakes,plan,snacks,28009,40.4215592,-3.6795075,"{'type': 'Point', 'coordinates': [40.4215592, -3.6795075]}",1-15€
+91,Acaramelada Pastelería,4.5,"Paseo de los Olmos, 13, 28005 Madrid, Spain",1.0,cupcakes,plan,snacks,28005,40.40454709999999,-3.7106253,"{'type': 'Point', 'coordinates': [40.40454709999999, -3.7106253]}",1-15€
+92,Madridelicia Bakery & Cafe,4.3,"Calle de Francos Rodríguez, 69, 28039 Madrid, Spain",1.0,cupcakes,plan,snacks,28039,40.4572586,-3.7122608,"{'type': 'Point', 'coordinates': [40.4572586, -3.7122608]}",1-15€
+93,La Galleta Prometida,4.7,"Calle de Villamanín, 32, 28011 Madrid, Spain",1.0,cupcakes,plan,snacks,28011,40.4079422,-3.7509443,"{'type': 'Point', 'coordinates': [40.4079422, -3.7509443]}",1-15€
+94,Maria's Bakery,4.0,"Calle de Zurbano, 15, 28010 Madrid, Spain",1.0,cupcakes,plan,snacks,28010,40.4288234,-3.6937754,"{'type': 'Point', 'coordinates': [40.4288234, -3.6937754]}",1-15€
+95,Panadería y Pastelería en Lavapiés | KASMI,4.7,"Calle del Ave María, 18, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.4110492,-3.7006134,"{'type': 'Point', 'coordinates': [40.4110492, -3.7006134]}",1-15€
+96,LEON THE BAKER,4.4,"Calle del Conde Duque, 19, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.42935,-3.709315,"{'type': 'Point', 'coordinates': [40.42935, -3.709315]}",1-15€
+97,Repostería Creativa Maicookie,4.0,"Calle de Berrocal, 9, LOC, 28021 Madrid, Spain",1.0,cupcakes,plan,snacks,28021,40.3444435,-3.676224399999999,"{'type': 'Point', 'coordinates': [40.3444435, -3.676224399999999]}",1-15€
+98,Levaduramadre,4.6,"C. de Andrés Mellado, 8, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.4312027,-3.714501099999999,"{'type': 'Point', 'coordinates': [40.4312027, -3.714501099999999]}",1-15€
+99,Bakery pastry Panishop - Studies,4.1,"Calle de los Estudios, 9, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.4115761,-3.7071689,"{'type': 'Point', 'coordinates': [40.4115761, -3.7071689]}",1-15€
+100,Mia Bakery,4.4,"C. de Víctor de la Serna, 6, 28016 Madrid, Spain",1.0,cupcakes,plan,snacks,28016,40.4526914,-3.6728972,"{'type': 'Point', 'coordinates': [40.4526914, -3.6728972]}",1-15€
+101,Crustó,3.7,"Calle de Gaztambide, 3, 28015 Madrid, Spain",2.0,cupcakes,plan,snacks,28015,40.4310133,-3.7159323,"{'type': 'Point', 'coordinates': [40.4310133, -3.7159323]}",15-25€
+102,"Salomé: Panadería, pastelería y cafetería",4.7,"C. de Saavedra Fajardo, 34, 28011 Madrid, Spain",1.0,cupcakes,plan,snacks,28011,40.412028,-3.7247122,"{'type': 'Point', 'coordinates': [40.412028, -3.7247122]}",1-15€
+103,Levaduramadre,4.3,"Calle de Embajadores, 3, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.4105791,-3.7066946,"{'type': 'Point', 'coordinates': [40.4105791, -3.7066946]}",1-15€
+104,FILIFY Bakery & Coffee,4.4,"Calle de Argumosa, 35, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.4079347,-3.696719499999999,"{'type': 'Point', 'coordinates': [40.4079347, -3.696719499999999]}",1-15€
+105,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,cupcakes,plan,snacks,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [40.4166836, -3.704774999999999]}",1-15€
+106,Ricci's Cakes,4.6,"Av. del General Perón, 16, 28020 Madrid, Spain",1.0,cupcakes,plan,snacks,28020,40.4522897,-3.696773899999999,"{'type': 'Point', 'coordinates': [40.4522897, -3.696773899999999]}",1-15€
+107,Bakery Zurbano Crusto,3.9,"Calle de Zurbano, 26, 28010 Madrid, Spain",2.0,cupcakes,plan,snacks,28010,40.4291306,-3.6935275,"{'type': 'Point', 'coordinates': [40.4291306, -3.6935275]}",15-25€
+108,chök - A. Figueroa,4.5,"Calle de Augusto Figueroa, 16, 28004 Madrid, Spain",1.0,cupcakes,plan,snacks,28004,40.4224802,-3.698952,"{'type': 'Point', 'coordinates': [40.4224802, -3.698952]}",1-15€
+109,LEON THE BAKER,4.4,"Calle de María de Guzmán, 30, 28003 Madrid, Spain",2.0,cupcakes,plan,snacks,28003,40.4440095,-3.698495,"{'type': 'Point', 'coordinates': [40.4440095, -3.698495]}",15-25€
+110,Santa Gloria,3.9,"Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,cupcakes,plan,snacks,28001,40.42233179999999,-3.6909718,"{'type': 'Point', 'coordinates': [40.42233179999999, -3.6909718]}",1-15€
+111,Levaduramadre,3.9,"C/ del Alcalde Sainz de Baranda, 16, 28009 Madrid, Spain",1.0,cupcakes,plan,snacks,28009,40.416762,-3.676724,"{'type': 'Point', 'coordinates': [40.416762, -3.676724]}",1-15€
+112,Levaduramadre,4.5,"Av. de la Reina Victoria, 52, 28003 Madrid, Spain",1.0,cupcakes,plan,snacks,28003,40.4467071,-3.7119755,"{'type': 'Point', 'coordinates': [40.4467071, -3.7119755]}",1-15€
+113,Pecados Divinos,4.9,"Calle de Vallehermoso, 36, 28015 Madrid, Spain",1.0,cupcakes,plan,snacks,28015,40.4341012,-3.7082834,"{'type': 'Point', 'coordinates': [40.4341012, -3.7082834]}",1-15€
+114,Zesty,4.4,"C/ del Áncora, 9, 28045 Madrid, Spain",1.0,cupcakes,plan,snacks,28045,40.40309980000001,-3.6924646,"{'type': 'Point', 'coordinates': [40.40309980000001, -3.6924646]}",1-15€
+115,Spelta Bakery,4.5,"Calle del Capitán Blanco Argibay, 16, 28029 Madrid, Spain",2.0,cupcakes,plan,snacks,28029,40.4650328,-3.696798199999999,"{'type': 'Point', 'coordinates': [40.4650328, -3.696798199999999]}",15-25€
+116,Colette Bakery Madrid,4.7,"Av. de Córdoba, 25, 28026 Madrid, Spain",1.0,cupcakes,plan,snacks,28026,40.382371,-3.6971859,"{'type': 'Point', 'coordinates': [40.382371, -3.6971859]}",1-15€
+117,Granier,3.9,"Ronda de Atocha, 14, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.4068058,-3.6966905,"{'type': 'Point', 'coordinates': [40.4068058, -3.6966905]}",1-15€
+118,Granier,3.8,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,cupcakes,plan,snacks,28012,40.41270189999999,-3.700060799999999,"{'type': 'Point', 'coordinates': [40.41270189999999, -3.700060799999999]}",1-15€
+119,Pastelería Lyon,4.1,"Calle de Colombia, 12, 28016 Madrid, Spain",1.0,cupcakes,plan,snacks,28016,40.4569345,-3.6760013,"{'type': 'Point', 'coordinates': [40.4569345, -3.6760013]}",1-15€
+120,Toma Café 1,4.5,"Calle de la Palma, 49, 28004 Madrid, Spain",2.0,coffee,plan,snacks,28004,40.4264767,-3.7059373,"{'type': 'Point', 'coordinates': [40.4264767, -3.7059373]}",15-25€
+121,Hola Coffee,4.5,"Calle del Dr. Fourquet, 33, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.4070207,-3.6990835,"{'type': 'Point', 'coordinates': [40.4070207, -3.6990835]}",1-15€
+122,Misión Café,4.5,"Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,coffee,plan,snacks,28015,40.4242402,-3.7087479,"{'type': 'Point', 'coordinates': [40.4242402, -3.7087479]}",15-25€
+123,ACID Café,4.4,"Calle de la Verónica, 9, 28014 Madrid, Spain",1.0,coffee,plan,snacks,28014,40.411898,-3.6949265,"{'type': 'Point', 'coordinates': [40.411898, -3.6949265]}",1-15€
+124,HanSo Café,4.4,"Calle del Pez, 20, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4238854,-3.7055265,"{'type': 'Point', 'coordinates': [40.4238854, -3.7055265]}",1-15€
+125,Plántate: Better Coffee & Brunch,4.6,"Calle del Mesón de Paredes, 28, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.4103754,-3.7044934,"{'type': 'Point', 'coordinates': [40.4103754, -3.7044934]}",1-15€
+126,Ruda Café,4.6,"Calle de la Ruda, 11, 28005 Madrid, Spain",1.0,coffee,plan,snacks,28005,40.41044,-3.707981,"{'type': 'Point', 'coordinates': [40.41044, -3.707981]}",1-15€
+127,Café de la Luz,4.4,"Calle de la Puebla, 8, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.422107,-3.7025405,"{'type': 'Point', 'coordinates': [40.422107, -3.7025405]}",1-15€
+128,MÜR Café,4.3,"Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,coffee,plan,snacks,28015,40.4256968,-3.7121696,"{'type': 'Point', 'coordinates': [40.4256968, -3.7121696]}",15-25€
+129,Toma Café Olavide,4.3,"C. de Sta. Feliciana, 5, 28010 Madrid, Spain",1.0,coffee,plan,snacks,28010,40.4330877,-3.7001164,"{'type': 'Point', 'coordinates': [40.4330877, -3.7001164]}",1-15€
+130,Prioritè Art Coffee Shop,4.0,"Calle de la Montera, 42, 28013 Madrid, Spain",2.0,coffee,plan,snacks,28013,40.4193429,-3.7016816,"{'type': 'Point', 'coordinates': [40.4193429, -3.7016816]}",15-25€
+131,Pum Pum Café,4.3,"Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,coffee,plan,snacks,28012,40.4080621,-3.701955,"{'type': 'Point', 'coordinates': [40.4080621, -3.701955]}",15-25€
+132,Cafelito,4.6,"Calle del Sombrerete, 20, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.40836530000001,-3.702776799999999,"{'type': 'Point', 'coordinates': [40.40836530000001, -3.702776799999999]}",1-15€
+133,CAFÉS TORNASOL | CAFÉ DE ESPECIALIDAD MADRID | Breakfast | Brunch,4.9,"Calle de Santa Isabel, Nº5, Planta Baja, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.4115944,-3.6986562,"{'type': 'Point', 'coordinates': [40.4115944, -3.6986562]}",1-15€
+134,NAJI SPECIALTY COFFEE,4.9,"Calle del Cardenal Cisneros, 39, 28010 Madrid, Spain",1.0,coffee,plan,snacks,28010,40.4317511,-3.7022127,"{'type': 'Point', 'coordinates': [40.4317511, -3.7022127]}",1-15€
+135,Bianchi Kiosko Caffé,4.6,"Calle de San Joaquín, 9, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4243932,-3.70164,"{'type': 'Point', 'coordinates': [40.4243932, -3.70164]}",1-15€
+136,Boconó Specialty Coffee,4.2,"Calle de Embajadores, 3, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.4106002,-3.7066952,"{'type': 'Point', 'coordinates': [40.4106002, -3.7066952]}",1-15€
+137,Tempo coffee,4.9,"28008 Madrid, Spain",1.0,coffee,plan,snacks,28008,40.4218631,-3.7187438,"{'type': 'Point', 'coordinates': [40.4218631, -3.7187438]}",1-15€
+138,The Little Big Cafe Fernández de Los Ríos,4.6,"Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,coffee,plan,snacks,28015,40.435222,-3.712739,"{'type': 'Point', 'coordinates': [40.435222, -3.712739]}",1-15€
+139,Café Federal,4.1,"Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,coffee,plan,snacks,28015,40.4270304,-3.7093012,"{'type': 'Point', 'coordinates': [40.4270304, -3.7093012]}",15-25€
+140,Lolina Vintage Café,4.3,"Calle del Espíritu Santo, 9, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4251154,-3.7029106,"{'type': 'Point', 'coordinates': [40.4251154, -3.7029106]}",1-15€
+141,Café Comercial,4.1,"Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,coffee,plan,snacks,28004,40.4287137,-3.7019997,"{'type': 'Point', 'coordinates': [40.4287137, -3.7019997]}",15-25€
+142,The Coffee Corner,4.3,"Av. de Valladolid, 41, 28008 Madrid, Spain",1.0,coffee,plan,snacks,28008,40.4285053,-3.7295851,"{'type': 'Point', 'coordinates': [40.4285053, -3.7295851]}",1-15€
+143,WAYCUP Specialty Coffee,3.9,"Calle de Velázquez, 126, 28006 Madrid, Spain",1.0,coffee,plan,snacks,28006,40.4369956,-3.6829321,"{'type': 'Point', 'coordinates': [40.4369956, -3.6829321]}",1-15€
+144,Love Coffee,4.6,"Calle de Salustiano Olózaga, 18, 28001 Madrid, Spain",1.0,coffee,plan,snacks,28001,40.4202998,-3.6897421,"{'type': 'Point', 'coordinates': [40.4202998, -3.6897421]}",1-15€
+145,Makis Coffee Shop,4.4,"Calle de Embajadores, 56, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.4077661,-3.704309099999999,"{'type': 'Point', 'coordinates': [40.4077661, -3.704309099999999]}",1-15€
+146,La Bicicleta,4.1,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,coffee,plan,snacks,28004,40.4238106,-3.7022328,"{'type': 'Point', 'coordinates': [40.4238106, -3.7022328]}",15-25€
+147,La Rollerie,4.2,"Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,coffee,plan,snacks,28014,40.4164994,-3.6995404,"{'type': 'Point', 'coordinates': [40.4164994, -3.6995404]}",15-25€
+148,Federal Café,4.2,"Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,coffee,plan,snacks,28005,40.4143274,-3.7088587,"{'type': 'Point', 'coordinates': [40.4143274, -3.7088587]}",15-25€
+149,Cereal Hunters Café,4.5,"Calle de la Reina, 1, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4205672,-3.700732599999999,"{'type': 'Point', 'coordinates': [40.4205672, -3.700732599999999]}",1-15€
+150,La Rollerie,4.1,"C. de Atocha, 20, 28012 Madrid, Spain",2.0,coffee,plan,snacks,28012,40.4138358,-3.7030405,"{'type': 'Point', 'coordinates': [40.4138358, -3.7030405]}",15-25€
+151,Santa Gloria,3.7,"Calle de Pedro Teixeira, 7, 28020 Madrid, Spain",1.0,coffee,plan,snacks,28020,40.4552254,-3.694087199999999,"{'type': 'Point', 'coordinates': [40.4552254, -3.694087199999999]}",1-15€
+152,DELICIUS COFFEE,3.0,"Calle de Augusto Figueroa, 24, 2da planta local, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4219292,-3.6976068,"{'type': 'Point', 'coordinates': [40.4219292, -3.6976068]}",1-15€
+153,El Patio Vertical,4.1,"Calle de Almadén, 26, 28014 Madrid, Spain",2.0,coffee,plan,snacks,28014,40.410825,-3.693371,"{'type': 'Point', 'coordinates': [40.410825, -3.693371]}",15-25€
+154,Cycle coffee S L,3.8,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.4238059,-3.7022439,"{'type': 'Point', 'coordinates': [40.4238059, -3.7022439]}",1-15€
+155,Café & Té,3.4,"Calle del Marqués de Urquijo, 3, 28008 Madrid, Spain",2.0,coffee,plan,snacks,28008,40.430327,-3.7165846,"{'type': 'Point', 'coordinates': [40.430327, -3.7165846]}",15-25€
+156,ABONAVIDA,4.2,"Calle de las Navas de Tolosa, 3, 28013 Madrid, Spain",2.0,coffee,plan,snacks,28013,40.4191483,-3.7067327,"{'type': 'Point', 'coordinates': [40.4191483, -3.7067327]}",15-25€
+157,Pastelería Belus,4.6,"Calle de Toledo, 26, 28005 Madrid, Spain",1.0,coffee,plan,snacks,28005,40.4138206,-3.7075835,"{'type': 'Point', 'coordinates': [40.4138206, -3.7075835]}",1-15€
+158,DUNKIN´ESPAÑA,4.1,"Calle de la Montera, 33, 28013 Madrid, Spain",1.0,coffee,plan,snacks,28013,40.418975,-3.70231,"{'type': 'Point', 'coordinates': [40.418975, -3.70231]}",1-15€
+159,Juan Valdez,4.3,"Paseo de la Florida # 2 Stand 5, 28008 Madrid, Spain",1.0,coffee,plan,snacks,28008,40.4215819,-3.7197968,"{'type': 'Point', 'coordinates': [40.4215819, -3.7197968]}",1-15€
+160,DUNKIN´ESPAÑA,4.1,"C/ De La Victoria, Carrera de S. Jerónimo, 4, 2 Esq, 28014 Madrid, Spain",1.0,coffee,plan,snacks,28014,40.416647,-3.70174,"{'type': 'Point', 'coordinates': [40.416647, -3.70174]}",1-15€
+161,Rebel Cafe,4.2,"Calle de Ponzano, 90, 28003 Madrid, Spain",2.0,coffee,plan,snacks,28003,40.4453792,-3.6985766,"{'type': 'Point', 'coordinates': [40.4453792, -3.6985766]}",15-25€
+162,Urban Coffee,3.9,"Cl. de Ayala, 87, 28006 Madrid, Spain",2.0,coffee,plan,snacks,28006,40.4273547,-3.6737912,"{'type': 'Point', 'coordinates': [40.4273547, -3.6737912]}",15-25€
+163,Bun Golden Coffee (Specialty coffee-tienda ONLINE de café y cacao natural Madrid),4.9,"Calle de Jerónima Llorente, 42, 28039 Madrid, Spain",1.0,coffee,plan,snacks,28039,40.4543206,-3.7074938,"{'type': 'Point', 'coordinates': [40.4543206, -3.7074938]}",1-15€
+164,TAPA CAFE MADRID,2.9,"Carrera de S. Jerónimo, 3, 28014 Madrid, Spain",1.0,coffee,plan,snacks,28014,40.4167722,-3.7019139,"{'type': 'Point', 'coordinates': [40.4167722, -3.7019139]}",1-15€
+165,Santa Gloria,3.9,"Calle de Recoletos, 1, 28001 Madrid, Spain",1.0,coffee,plan,snacks,28001,40.42233179999999,-3.6909718,"{'type': 'Point', 'coordinates': [40.42233179999999, -3.6909718]}",1-15€
+166,Granier San Bernardo,3.9,"Calle de San Bernardo, 10, 28015 Madrid, Spain",1.0,coffee,plan,snacks,28015,40.4221085,-3.7075654,"{'type': 'Point', 'coordinates': [40.4221085, -3.7075654]}",1-15€
+167,Café Belén,4.3,"Calle de Belén, 5, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.424316,-3.696717,"{'type': 'Point', 'coordinates': [40.424316, -3.696717]}",1-15€
+168,Pannus,4.1,"Calle de Hortaleza, 38, 28004 Madrid, Spain",1.0,coffee,plan,snacks,28004,40.421948,-3.6998037,"{'type': 'Point', 'coordinates': [40.421948, -3.6998037]}",1-15€
+169,C&Tapas,3.1,"Plaza de Sta. Ana, 6, 28012 Madrid, Spain",2.0,coffee,plan,snacks,28012,40.4144842,-3.7002769,"{'type': 'Point', 'coordinates': [40.4144842, -3.7002769]}",15-25€
+170,Randall Coffee Roasters,4.6,"Calle de Vallehermoso, 36, 28015 Madrid, Spain",1.0,coffee,plan,snacks,28015,40.4343145,-3.7083432,"{'type': 'Point', 'coordinates': [40.4343145, -3.7083432]}",1-15€
+171,Santa Kafeina,4.8,"Calle de Viriato, 37, 28010 Madrid, Spain",1.0,coffee,plan,snacks,28010,40.4359413,-3.7001867,"{'type': 'Point', 'coordinates': [40.4359413, -3.7001867]}",1-15€
+172,Starbucks,3.6,"Calle de Cdad. Rodrigo, 5, 28005 Madrid, Spain",2.0,coffee,plan,snacks,28005,40.415732,-3.7085757,"{'type': 'Point', 'coordinates': [40.415732, -3.7085757]}",15-25€
+173,Starbucks,3.8,"Calle del Arenal, 14, 28013 Madrid, Spain",2.0,coffee,plan,snacks,28013,40.417262,-3.7061631,"{'type': 'Point', 'coordinates': [40.417262, -3.7061631]}",15-25€
+174,Juan Valdez Café,4.1,"Calle Adolfo Bioy # 2, Planta 0, 28051 Madrid, Spain",1.0,coffee,plan,snacks,28051,40.3687101,-3.5982174,"{'type': 'Point', 'coordinates': [40.3687101, -3.5982174]}",1-15€
+175,Cafés Guayacán,4.9,"Calle de Fernández de los Ríos, 26, 28015 Madrid, Spain",1.0,coffee,plan,snacks,28015,40.4351118,-3.7070587,"{'type': 'Point', 'coordinates': [40.4351118, -3.7070587]}",1-15€
+176,Café & Tapas,2.8,"Calle de Carretas, 14, 28012 Madrid, Spain",2.0,coffee,plan,snacks,28012,40.4148114,-3.7036534,"{'type': 'Point', 'coordinates': [40.4148114, -3.7036534]}",15-25€
+177,Granier,3.8,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,coffee,plan,snacks,28012,40.41270189999999,-3.700060799999999,"{'type': 'Point', 'coordinates': [40.41270189999999, -3.700060799999999]}",1-15€
+178,80’s coffee,4.1,"Calle de Alcalá, 28027 Madrid, Spain",1.0,coffee,plan,snacks,28027,40.4343762,-3.6452041,"{'type': 'Point', 'coordinates': [40.4343762, -3.6452041]}",1-15€
+179,Pastelería Lisboa,4.7,"Calle de José Ortega y Gasset, 55, 28006 Madrid, Spain",1.0,coffee,plan,snacks,28006,40.4300843,-3.6757516,"{'type': 'Point', 'coordinates': [40.4300843, -3.6757516]}",1-15€
+180,Noman Sweet Shop,3.5,"Calle de Tribulete, 13, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.407656,-3.7024697,"{'type': 'Point', 'coordinates': [40.407656, -3.7024697]}",15-25€
+181,Sweet Cakes Madrid,4.7,"C. de Los Molinos, 22, 28039 Madrid, Spain",2.0,sweets,plan,snacks,28039,40.4580817,-3.702602999999999,"{'type': 'Point', 'coordinates': [40.4580817, -3.702602999999999]}",15-25€
+182,Wicked Sweet Madrid,4.3,"Calle de Guzmán el Bueno, 45, 28015 Madrid, Spain",2.0,sweets,plan,snacks,28015,40.4339841,-3.7134165,"{'type': 'Point', 'coordinates': [40.4339841, -3.7134165]}",15-25€
+183,Sweet Studio,4.5,"Calle del Noviciado, Nº16, 28015 Madrid, Spain",2.0,sweets,plan,snacks,28015,40.4257291,-3.7088708,"{'type': 'Point', 'coordinates': [40.4257291, -3.7088708]}",15-25€
+184,Caramelos Paco,4.5,"Calle de Toledo, 53, 55, 28005 Madrid, Spain",2.0,sweets,plan,snacks,28005,40.4117138,-3.707936,"{'type': 'Point', 'coordinates': [40.4117138, -3.707936]}",15-25€
+185,La Mallorquina,4.3,"Puerta del Sol, 8, 28013 Madrid, Spain",1.0,sweets,plan,snacks,28013,40.4166836,-3.704774999999999,"{'type': 'Point', 'coordinates': [40.4166836, -3.704774999999999]}",1-15€
+186,Captain Jonny's candy shop,3.1,"Calle de Preciados, 11, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4184414,-3.7051399,"{'type': 'Point', 'coordinates': [40.4184414, -3.7051399]}",15-25€
+187,Sweet pirate,2.1,"C/ Gran Vía, 54, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4213789,-3.707142,"{'type': 'Point', 'coordinates': [40.4213789, -3.707142]}",15-25€
+188,Sweets & Coffee,3.6,"Av. de Monforte de Lemos, 36, 28029 Madrid, Spain",1.0,sweets,plan,snacks,28029,40.4800162,-3.7063016,"{'type': 'Point', 'coordinates': [40.4800162, -3.7063016]}",1-15€
+189,Sweet Brothers - Tartas Cakes,4.7,"Calle de Hortaleza, 33, 28004 Madrid, Spain",1.0,sweets,plan,snacks,28004,40.422097,-3.699874,"{'type': 'Point', 'coordinates': [40.422097, -3.699874]}",1-15€
+190,dosbombones Dulces Para Todos| Bombonería | Productos sin Alérgenos,4.6,"Mercado San Isidro local 38, Calle San Patricio, 1, 28019 Madrid, Spain",2.0,sweets,plan,snacks,28019,40.3918375,-3.7253183,"{'type': 'Point', 'coordinates': [40.3918375, -3.7253183]}",15-25€
+191,Panda Patisserie,3.8,"Calle de Mesonero Romanos, 17, 28004 Madrid, Spain",2.0,sweets,plan,snacks,28004,40.4209581,-3.7039909,"{'type': 'Point', 'coordinates': [40.4209581, -3.7039909]}",15-25€
+192,Sweet Way,4.7,"Calle de Sánchez Barcáiztegui, 36, 28007 Madrid, Spain",2.0,sweets,plan,snacks,28007,40.40587499999999,-3.6727886,"{'type': 'Point', 'coordinates': [40.40587499999999, -3.6727886]}",15-25€
+193,SELEKTA SWEETS,4.9,"Calle del Príncipe de Vergara, 47, 28006 Madrid, Spain",2.0,sweets,plan,snacks,28006,40.42949369999999,-3.6799969,"{'type': 'Point', 'coordinates': [40.42949369999999, -3.6799969]}",15-25€
+194,Samee Sweet Shop,4.4,"Calle del Sombrerete, 14, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.4084886,-3.7025345,"{'type': 'Point', 'coordinates': [40.4084886, -3.7025345]}",15-25€
+195,Sweet Days Cups and Cakes,3.3,"Paseo de la Castellana, 188, 28046 Madrid, Spain",2.0,sweets,plan,snacks,28046,40.4615847,-3.6891715,"{'type': 'Point', 'coordinates': [40.4615847, -3.6891715]}",15-25€
+196,Caramelos Publicitarios | Publimelos,0.0,"Metro, Calle de Toledo, 52, 28005 Madrid, Spain",2.0,sweets,plan,snacks,28005,40.4116929,-3.7083344,"{'type': 'Point', 'coordinates': [40.4116929, -3.7083344]}",15-25€
+197,Sweet Factory Madrid,5.0,"Av. de la Mancha, 15, 28912 Leganés, Madrid, Spain",2.0,sweets,plan,snacks,28912,40.3303212,-3.7589308,"{'type': 'Point', 'coordinates': [40.3303212, -3.7589308]}",15-25€
+198,Chic Blue Macaron,5.0,"Calle de Artajona, 11, 28039 Madrid, Spain",2.0,sweets,plan,snacks,28039,40.4629777,-3.7180721,"{'type': 'Point', 'coordinates': [40.4629777, -3.7180721]}",15-25€
+199,Art sweets,3.4,"28025 Madrid, Spain",2.0,sweets,plan,snacks,28025,40.3735662,-3.727843,"{'type': 'Point', 'coordinates': [40.3735662, -3.727843]}",15-25€
+200,iqbal sweet shop,4.6,"Calle de Tribulete, 13, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.4077542,-3.7024852,"{'type': 'Point', 'coordinates': [40.4077542, -3.7024852]}",15-25€
+201,Sweets & Coffee Metro Colombia,4.1,"Calle del Príncipe de Vergara, 28016 Madrid, Spain",1.0,sweets,plan,snacks,28016,40.4572714,-3.6772124,"{'type': 'Point', 'coordinates': [40.4572714, -3.6772124]}",1-15€
+202,Dulces turcos,3.6,"Calle de Esparteros, 14, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.41559,-3.70537,"{'type': 'Point', 'coordinates': [40.41559, -3.70537]}",15-25€
+203,El Riojano,4.2,"Calle Mayor, 10, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4164843,-3.705974899999999,"{'type': 'Point', 'coordinates': [40.4164843, -3.705974899999999]}",15-25€
+204,Sweets & Coffee Intercambiador Avda. de America,3.9,"Avenida de América, 9, 28002 Madrid, Spain",2.0,sweets,plan,snacks,28002,40.4382273,-3.676909299999999,"{'type': 'Point', 'coordinates': [40.4382273, -3.676909299999999]}",15-25€
+205,Kikita gofreria,0.0,"Calle de Preciados, 33, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.41960539999999,-3.7067837,"{'type': 'Point', 'coordinates': [40.41960539999999, -3.7067837]}",15-25€
+206,La Violeta,4.5,"Plaza de Canalejas, 6, 28014 Madrid, Spain",2.0,sweets,plan,snacks,28014,40.4165968,-3.7007936,"{'type': 'Point', 'coordinates': [40.4165968, -3.7007936]}",15-25€
+207,Sweet Delivery Madrid,4.8,"Calle de la Solana, 59, Local 5, 28850 Torrejón de Ardoz, Madrid, Spain",2.0,sweets,plan,snacks,28850,40.457668,-3.4542849,"{'type': 'Point', 'coordinates': [40.457668, -3.4542849]}",15-25€
+208,Store Reborn - Angelitos Sweets - Madrid,4.6,"Calle de Ofelia Nieto, 17, Local, 28039 Madrid, Spain",2.0,sweets,plan,snacks,28039,40.4591516,-3.7105502,"{'type': 'Point', 'coordinates': [40.4591516, -3.7105502]}",15-25€
+209,Sweet Deli Bakery Madrid,5.0,"Calle Claudio Sánchez Albornoz, 26, piso 2A, 28024 Madrid, Spain",2.0,sweets,plan,snacks,28024,40.3987006,-3.7731695,"{'type': 'Point', 'coordinates': [40.3987006, -3.7731695]}",15-25€
+210,Pastelería Bombonería Sonia,4.5,"C. de Rafael Calvo, 25, 28010 Madrid, Spain",2.0,sweets,plan,snacks,28010,40.43409399999999,-3.693023,"{'type': 'Point', 'coordinates': [40.43409399999999, -3.693023]}",15-25€
+211,Mimi’s Crêperie,4.4,"Calle de Postas, 17, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.4157231,-3.7061636,"{'type': 'Point', 'coordinates': [40.4157231, -3.7061636]}",15-25€
+212,Dulces Árabes,0.0,"Calle Antonio Calvo, 28027 Madrid, Spain",2.0,sweets,plan,snacks,28027,40.4369112,-3.656558,"{'type': 'Point', 'coordinates': [40.4369112, -3.656558]}",15-25€
+213,Igo Waffle Fuencarral,4.7,"Calle de Carranza, 19, 28004 Madrid, Spain",1.0,sweets,plan,snacks,28004,40.42920350000001,-3.704371,"{'type': 'Point', 'coordinates': [40.42920350000001, -3.704371]}",1-15€
+214,La Duquesita,4.2,"Calle de Fernando VI, 2, 28004 Madrid, Spain",2.0,sweets,plan,snacks,28004,40.4257167,-3.6969933,"{'type': 'Point', 'coordinates': [40.4257167, -3.6969933]}",15-25€
+215,Mistura Ice Cream,4.4,"Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.4158,-3.7084877,"{'type': 'Point', 'coordinates': [40.4158, -3.7084877]}",15-25€
+216,Sinuheshop Repostería Creativa,5.0,"Plaza Príncipes de España, nº1, local 9, 28924 Alcorcón, Madrid, Spain",2.0,sweets,plan,snacks,28924,40.3515701,-3.8188712,"{'type': 'Point', 'coordinates': [40.3515701, -3.8188712]}",15-25€
+217,Plaza Mayor,4.4,"Calle de Zaragoza, 3, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.4152778,-3.7061111,"{'type': 'Point', 'coordinates': [40.4152778, -3.7061111]}",15-25€
+218,Golosinas,0.0,"C/ Gran Vía, 26, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4202173,-3.7015237,"{'type': 'Point', 'coordinates': [40.4202173, -3.7015237]}",15-25€
+219,Sweet Dreams,0.0,"Calle de Serrano, 61, 28006 Madrid, Spain",2.0,sweets,plan,snacks,28006,40.4323384,-3.6869471,"{'type': 'Point', 'coordinates': [40.4323384, -3.6869471]}",15-25€
+220,"Pastelería Artesanal Manolo. Mercado de Chamartín, Madrid",4.4,"Mercado de Chamartín local 1, C. de Bolivia, 9, 28016 Chamartín, Madrid, Spain",2.0,sweets,plan,snacks,28016,40.4573961,-3.6782467,"{'type': 'Point', 'coordinates': [40.4573961, -3.6782467]}",15-25€
+221,My Sweet Bakery,4.9,"Calle de Cobos de Segovia, 16, 28005 Madrid, Spain",2.0,sweets,plan,snacks,28005,40.4057442,-3.7192252,"{'type': 'Point', 'coordinates': [40.4057442, -3.7192252]}",15-25€
+222,Zúccaru,4.7,"Calle de Vergara, 16, 28013 Madrid, Spain",1.0,sweets,plan,snacks,28013,40.4172333,-3.7116778,"{'type': 'Point', 'coordinates': [40.4172333, -3.7116778]}",1-15€
+223,Chocolala Belga,5.0,"Calle del Bonetillo, No 1, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4165008,-3.708909,"{'type': 'Point', 'coordinates': [40.4165008, -3.708909]}",15-25€
+224,Pastelería Salamat,4.6,"Calle de Tribulete, 10, 28012 Madrid, Spain",1.0,sweets,plan,snacks,28012,40.4079624,-3.7023123,"{'type': 'Point', 'coordinates': [40.4079624, -3.7023123]}",1-15€
+225,CELICIOSO Gluten Free Bakery,4.2,"Calle de Hortaleza, 3, 28004 Madrid, Spain",2.0,sweets,plan,snacks,28004,40.420441,-3.701066,"{'type': 'Point', 'coordinates': [40.420441, -3.701066]}",15-25€
+226,"Waffle Bubble Company, Madrid",0.0,"Calle de Maqueda, 19, 2ºB, 28024 Madrid, Spain",2.0,sweets,plan,snacks,28024,40.3938688,-3.7637601,"{'type': 'Point', 'coordinates': [40.3938688, -3.7637601]}",15-25€
+227,El Horno de San Onofre,4.0,"Calle de San Onofre, 3, 28004 Madrid, Spain",2.0,sweets,plan,snacks,28004,40.421399,-3.701502,"{'type': 'Point', 'coordinates': [40.421399, -3.701502]}",15-25€
+228,El Rincón,3.1,"Carrera de S. Jerónimo, 4, 28014 Madrid, Spain",2.0,sweets,plan,snacks,28014,40.4166519,-3.7019407,"{'type': 'Point', 'coordinates': [40.4166519, -3.7019407]}",15-25€
+229,Captain Jonny's candy shop,4.4,"Calle de Postas, 9, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.415985,-3.7055691,"{'type': 'Point', 'coordinates': [40.415985, -3.7055691]}",15-25€
+230,La Dulcería,1.8,"Avenida de América, 28002 Madrid, Spain",2.0,sweets,plan,snacks,28002,40.4376651,-3.6769576,"{'type': 'Point', 'coordinates': [40.4376651, -3.6769576]}",15-25€
+231,La Barra Dulce,4.7,"Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",1.0,sweets,plan,snacks,28012,40.4105389,-3.704603,"{'type': 'Point', 'coordinates': [40.4105389, -3.704603]}",1-15€
+232,Antigua Pastelería del Pozo,4.5,"Calle del Pozo, 8, 28012 Madrid, Spain",2.0,sweets,plan,snacks,28012,40.416257,-3.7012027,"{'type': 'Point', 'coordinates': [40.416257, -3.7012027]}",15-25€
+233,Cacao Sampaka,4.5,"Calle de Orellana, 4, 28004 Madrid, Spain",2.0,sweets,plan,snacks,28004,40.426716,-3.695725999999999,"{'type': 'Point', 'coordinates': [40.426716, -3.695725999999999]}",15-25€
+234,"GIOELIA Cremeria, Madrid Atocha",4.7,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,sweets,plan,snacks,28012,40.4127658,-3.6999978,"{'type': 'Point', 'coordinates': [40.4127658, -3.6999978]}",1-15€
+235,Moulin Chocolat,4.5,"Calle de Alcalá, 77, 28009 Madrid, Spain",3.0,sweets,plan,snacks,28009,40.420572,-3.686928,"{'type': 'Point', 'coordinates': [40.420572, -3.686928]}",25-50€
+236,Viena Capellanes,4.1,"Calle de Fuencarral, 122, 28010 Madrid, Spain",2.0,sweets,plan,snacks,28010,40.43013,-3.7025726,"{'type': 'Point', 'coordinates': [40.43013, -3.7025726]}",15-25€
+237,Santa Eulalia,4.5,"Calle del Espejo, 12, 28013 Madrid, Spain",2.0,sweets,plan,snacks,28013,40.4171998,-3.7096734,"{'type': 'Point', 'coordinates': [40.4171998, -3.7096734]}",15-25€
+238,Pastelería SHAM,4.7,"Calle Antonio Calvo, 3, 28027 Madrid, Spain",2.0,sweets,plan,snacks,28027,40.4367919,-3.6565235,"{'type': 'Point', 'coordinates': [40.4367919, -3.6565235]}",15-25€
+239,CANDYS,0.0,"C/ Gran Vía, 45, bajo izquierda, 26002 Logroño, Madrid, Spain",2.0,sweets,plan,snacks,26002,40.42092969999999,-3.7073249,"{'type': 'Point', 'coordinates': [40.42092969999999, -3.7073249]}",15-25€
+240,Mistura Ice Cream,4.4,"Calle de Augusto Figueroa, 5, 28004 Madrid, Spain",2.0,ice cream,plan,snacks,28004,40.4229735,-3.7001373,"{'type': 'Point', 'coordinates': [40.4229735, -3.7001373]}",15-25€
+241,Mistura Ice Cream,4.2,"Calle de Goya, 50, 28001 Madrid, Spain",2.0,ice cream,plan,snacks,28001,40.4247828,-3.678401599999999,"{'type': 'Point', 'coordinates': [40.4247828, -3.678401599999999]}",15-25€
+242,Mistura Ice Cream,4.4,"Calle de Cdad. Rodrigo, 6, 28012 Madrid, Spain",2.0,ice cream,plan,snacks,28012,40.4158,-3.7084877,"{'type': 'Point', 'coordinates': [40.4158, -3.7084877]}",15-25€
+243,Labonata heladeria,4.7,"Plaza de Chueca, 8, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.422681,-3.6974523,"{'type': 'Point', 'coordinates': [40.422681, -3.6974523]}",1-15€
+244,Amorino,4.4,"Calle Mayor, 40, 28013 Madrid, Spain",2.0,ice cream,plan,snacks,28013,40.41611,-3.708414,"{'type': 'Point', 'coordinates': [40.41611, -3.708414]}",15-25€
+245,Helados Patagonia Artesanal,4.5,"Plaza de Tirso de Molina, 19, 28012 Madrid, Spain",1.0,ice cream,plan,snacks,28012,40.4125643,-3.7038799,"{'type': 'Point', 'coordinates': [40.4125643, -3.7038799]}",1-15€
+246,"GIOELIA Cremeria, Madrid Atocha",4.7,"C. de Atocha, 42, 28012 Madrid, Spain",1.0,ice cream,plan,snacks,28012,40.4127658,-3.6999978,"{'type': 'Point', 'coordinates': [40.4127658, -3.6999978]}",1-15€
+247,TÖTO ICE CREAM & COFFEE,4.5,"Corredera Alta de San Pablo, 12, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.4251827,-3.7018976,"{'type': 'Point', 'coordinates': [40.4251827, -3.7018976]}",1-15€
+248,Gelateria La Romana,4.6,"Paseo de la Habana, 27, 28036 Madrid, Spain",2.0,ice cream,plan,snacks,28036,40.4512712,-3.686658,"{'type': 'Point', 'coordinates': [40.4512712, -3.686658]}",15-25€
+249,Rocambolesc - Madrid,4.2,"Planta 7 El Corte Inglés, Calle de Serrano, 52, 28001 Madrid, Spain",1.0,ice cream,plan,snacks,28001,40.4276329,-3.6871185,"{'type': 'Point', 'coordinates': [40.4276329, -3.6871185]}",1-15€
+250,Zúccaru,4.7,"Calle de Vergara, 16, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4172333,-3.7116778,"{'type': 'Point', 'coordinates': [40.4172333, -3.7116778]}",1-15€
+251,Heladería Palazzo - Italian Ice Cream,4.0,"C/ Gran Vía, 56, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4215471,-3.7074789,"{'type': 'Point', 'coordinates': [40.4215471, -3.7074789]}",1-15€
+252,La Pecera,4.1,"Calle de Velarde, 2, 28004 Madrid, Spain",2.0,ice cream,plan,snacks,28004,40.4267833,-3.7019191,"{'type': 'Point', 'coordinates': [40.4267833, -3.7019191]}",15-25€
+253,Amorino,4.1,"Planta 9 Corte Ingles Callao, Plaza del Callao, 2, 28013 Madrid, Spain",2.0,ice cream,plan,snacks,28013,40.4194751,-3.7051399,"{'type': 'Point', 'coordinates': [40.4194751, -3.7051399]}",15-25€
+254,Mistura Ice Cream,4.4,"Plaza del Ángel, 2, 28012 Madrid, Spain",2.0,ice cream,plan,snacks,28012,40.4145141,-3.7026646,"{'type': 'Point', 'coordinates': [40.4145141, -3.7026646]}",15-25€
+255,Kalúa Fuencarral 149,4.5,"Calle de Fuencarral, 131, 28010 Madrid, Spain",1.0,ice cream,plan,snacks,28010,40.4315159,-3.7036902,"{'type': 'Point', 'coordinates': [40.4315159, -3.7036902]}",1-15€
+256,Gelateria La Romana,4.6,"Calle de San Bernardo, 96, 28015 Madrid, Spain",2.0,ice cream,plan,snacks,28015,40.4301801,-3.7053937,"{'type': 'Point', 'coordinates': [40.4301801, -3.7053937]}",15-25€
+257,Artisan ice cream tutti frutti,4.4,"Cuesta de San Vicente, 22, 28008 Madrid, Spain",1.0,ice cream,plan,snacks,28008,40.420653,-3.7155473,"{'type': 'Point', 'coordinates': [40.420653, -3.7155473]}",1-15€
+258,Heladería Los Alpes,4.3,"Calle Arcipreste de Hita, 6, 28015 Madrid, Spain",2.0,ice cream,plan,snacks,28015,40.4335169,-3.7173544,"{'type': 'Point', 'coordinates': [40.4335169, -3.7173544]}",15-25€
+259,Heladería Palazzo - Italian Ice Cream,4.1,"Calle del Carmen, 27, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.418766,-3.7049571,"{'type': 'Point', 'coordinates': [40.418766, -3.7049571]}",1-15€
+260,Heladería Sienna Narváez,4.5,"C. de Narváez, 62, 28009 Madrid, Spain",1.0,ice cream,plan,snacks,28009,40.4186111,-3.6763889,"{'type': 'Point', 'coordinates': [40.4186111, -3.6763889]}",1-15€
+261,Mistura Ice Cream,4.1,"Calle de Toledo, 71, 28005 Madrid, Spain",1.0,ice cream,plan,snacks,28005,40.410802,-3.708629,"{'type': 'Point', 'coordinates': [40.410802, -3.708629]}",1-15€
+262,Mamá Elba Heladería-Cafetería,4.7,"Calle de Cea Bermúdez, 29, 28003 Madrid, Spain",1.0,ice cream,plan,snacks,28003,40.438719,-3.710703,"{'type': 'Point', 'coordinates': [40.438719, -3.710703]}",1-15€
+263,Mamá Elba Heladería,4.6,"Calle de la Ruda, 15, 28005 Madrid, Spain",1.0,ice cream,plan,snacks,28005,40.4106247,-3.708181699999999,"{'type': 'Point', 'coordinates': [40.4106247, -3.708181699999999]}",1-15€
+264,Gelateria La Romana,4.6,"Calle de Rosario Pino, 6, 28020 Madrid, Spain",2.0,ice cream,plan,snacks,28020,40.4621787,-3.6911296,"{'type': 'Point', 'coordinates': [40.4621787, -3.6911296]}",15-25€
+265,Mistura Ice Cream,4.4,"Calle del Príncipe de Vergara, 254, 28016 Madrid, Spain",1.0,ice cream,plan,snacks,28016,40.455672,-3.6768762,"{'type': 'Point', 'coordinates': [40.455672, -3.6768762]}",1-15€
+266,N2 Lab,4.3,"Calle de Gravina, 5, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.42319699999999,-3.6979982,"{'type': 'Point', 'coordinates': [40.42319699999999, -3.6979982]}",1-15€
+267,Gelateria Carte D'Or Arenal,4.0,"Calle del Arenal, 18, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4173752,-3.7068135,"{'type': 'Point', 'coordinates': [40.4173752, -3.7068135]}",1-15€
+268,Heladería Palazzo - Italian Ice Cream,3.9,"Calle de Goya, 49, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.42525089999999,-3.682243499999999,"{'type': 'Point', 'coordinates': [40.42525089999999, -3.682243499999999]}",1-15€
+269,Heladería Palazzo - Italian Ice Cream,4.0,"Calle de Luchana, 9, 28010 Madrid, Spain",1.0,ice cream,plan,snacks,28010,40.4297908,-3.7012319,"{'type': 'Point', 'coordinates': [40.4297908, -3.7012319]}",1-15€
+270,Häagen-Dazs,4.3,"Calle de Bailén, 15, 28013 Madrid, Spain",2.0,ice cream,plan,snacks,28013,40.4199572,-3.7127534,"{'type': 'Point', 'coordinates': [40.4199572, -3.7127534]}",15-25€
+271,Ice-Mad The Thai Roll Ice Cream,4.2,"Centro Comercial Pleniluio, Calle de Aracne, 3, 28022 Madrid, Spain",1.0,ice cream,plan,snacks,28022,40.4461171,-3.587704,"{'type': 'Point', 'coordinates': [40.4461171, -3.587704]}",1-15€
+272,Gelateria DaRoma,4.6,"Calle de Sta Engracia, 155, 28003 Madrid, Spain",1.0,ice cream,plan,snacks,28003,40.4443991,-3.7030765,"{'type': 'Point', 'coordinates': [40.4443991, -3.7030765]}",1-15€
+273,Heladería Palazzo,3.9,"Puerta del Sol, 11, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4171798,-3.703899,"{'type': 'Point', 'coordinates': [40.4171798, -3.703899]}",1-15€
+274,Amorino Postas,5.0,"Calle de Postas, 3, 28012 Madrid, Spain",1.0,ice cream,plan,snacks,28012,40.416121,-3.7053614,"{'type': 'Point', 'coordinates': [40.416121, -3.7053614]}",1-15€
+275,Lolo Polos,4.5,"Calle del Espíritu Santo, 16, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.4252798,-3.7030691,"{'type': 'Point', 'coordinates': [40.4252798, -3.7030691]}",1-15€
+276,llaollao,4.1,"Calle de Preciados, 40, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.419787,-3.707062,"{'type': 'Point', 'coordinates': [40.419787, -3.707062]}",1-15€
+277,llaollao,4.1,"Calle de Alcalá, 347, 28027 Madrid, Spain",1.0,ice cream,plan,snacks,28027,40.433984,-3.646594,"{'type': 'Point', 'coordinates': [40.433984, -3.646594]}",1-15€
+278,Eccolo Gelato,4.6,"Calle de la Cruz, 25, 28012 Madrid, Spain",1.0,ice cream,plan,snacks,28012,40.4152072,-3.7021856,"{'type': 'Point', 'coordinates': [40.4152072, -3.7021856]}",1-15€
+279,Heladería Palazzo - Italian Ice Cream,4.1,"C. de Narváez, 13, 28009 Madrid, Spain",1.0,ice cream,plan,snacks,28009,40.422894,-3.6756862,"{'type': 'Point', 'coordinates': [40.422894, -3.6756862]}",1-15€
+280,llaollao,4.1,"Calle del Carmen, 6, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.41784699999999,-3.703705,"{'type': 'Point', 'coordinates': [40.41784699999999, -3.703705]}",1-15€
+281,Di Angelo Gelateria,4.5,"Paseo de las Yeserías, 41, 28005 Madrid, Spain",2.0,ice cream,plan,snacks,28005,40.3978588,-3.7072317,"{'type': 'Point', 'coordinates': [40.3978588, -3.7072317]}",15-25€
+282,Horchatería Alboraya,4.5,"Calle de Alcalá, 125, 28009 Madrid, Spain",1.0,ice cream,plan,snacks,28009,40.4232032,-3.679656,"{'type': 'Point', 'coordinates': [40.4232032, -3.679656]}",1-15€
+283,Heladería Palazzo - Italian Ice Cream,4.2,"Calle de Bailén, 11, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4201088,-3.7127343,"{'type': 'Point', 'coordinates': [40.4201088, -3.7127343]}",1-15€
+284,Heladería Corleone,4.8,"Corredera Alta de San Pablo, 18, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.4254231,-3.7018462,"{'type': 'Point', 'coordinates': [40.4254231, -3.7018462]}",1-15€
+285,Gelato Lab,5.0,"Mercado de la Cebada, puesto 37/38, planta baja, 28005 Madrid, Spain",1.0,ice cream,plan,snacks,28005,40.4112059,-3.7100075,"{'type': 'Point', 'coordinates': [40.4112059, -3.7100075]}",1-15€
+286,Häagen-Dazs,3.6,"Calle Edgar Neville, s/n, 28223 Madrid, Spain",2.0,ice cream,plan,snacks,28223,40.394024,-3.796719,"{'type': 'Point', 'coordinates': [40.394024, -3.796719]}",15-25€
+287,Giangrossi,3.7,"Calle de Velázquez, 41, 28001 Madrid, Spain",1.0,ice cream,plan,snacks,28001,40.4268002,-3.6842326,"{'type': 'Point', 'coordinates': [40.4268002, -3.6842326]}",1-15€
+288,llaollao,4.0,"Calle de la Montera, 36, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.419065,-3.70177,"{'type': 'Point', 'coordinates': [40.419065, -3.70177]}",1-15€
+289,Freddo Freddo,3.3,"Calle Mayor, 53, 28013 Madrid, Spain",1.0,ice cream,plan,snacks,28013,40.4156878,-3.7092686,"{'type': 'Point', 'coordinates': [40.4156878, -3.7092686]}",1-15€
+290,Igo Waffle Fuencarral,4.7,"Calle de Carranza, 19, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.42920350000001,-3.704371,"{'type': 'Point', 'coordinates': [40.42920350000001, -3.704371]}",1-15€
+291,Loco Polo,4.6,"Calle de Fuencarral, 40, 28004 Madrid, Spain",1.0,ice cream,plan,snacks,28004,40.42284859999999,-3.7006475,"{'type': 'Point', 'coordinates': [40.42284859999999, -3.7006475]}",1-15€
+292,IceCoBar,4.6,"Paseo de la Florida 2 Centro Comercial Príncipe Pío. Frente a la Entrada Principal, 28008 Madrid, Spain",1.0,ice cream,plan,snacks,28008,40.4214928,-3.7199758,"{'type': 'Point', 'coordinates': [40.4214928, -3.7199758]}",1-15€
+293,Lupita Paleta,4.9,"Calle de Toledo, 81, 28005 Madrid, Spain",1.0,ice cream,plan,snacks,28005,40.4101914,-3.7091917,"{'type': 'Point', 'coordinates': [40.4101914, -3.7091917]}",1-15€
+294,Häagen-Dazs,3.9,"Centro Comercial Plaza Rio 2 Local Planta calle, Calle de Antonio López, 109, numero 07, 28026 Madrid, Spain",2.0,ice cream,plan,snacks,28026,40.3909536,-3.702186499999999,"{'type': 'Point', 'coordinates': [40.3909536, -3.702186499999999]}",15-25€
+295,N2 Lab,4.5,"Calle de Bravo Murillo, 3, 28015 Madrid, Spain",1.0,ice cream,plan,snacks,28015,40.4342596,-3.704604799999999,"{'type': 'Point', 'coordinates': [40.4342596, -3.704604799999999]}",1-15€
+296,Martonela - Cremería Slow,4.5,"Calle de Aracne, 28022 Madrid, Spain",1.0,ice cream,plan,snacks,28022,40.4462159,-3.5875446,"{'type': 'Point', 'coordinates': [40.4462159, -3.5875446]}",1-15€
+297,Sienna,4.4,"Calle de Sancho Dávila, 29, posterior, 28028 Madrid, Spain",1.0,ice cream,plan,snacks,28028,40.4257762,-3.661334099999999,"{'type': 'Point', 'coordinates': [40.4257762, -3.661334099999999]}",1-15€
+298,Heladería 4D,3.6,"Calle de Latoneros, 3, 28005 Madrid, Spain",1.0,ice cream,plan,snacks,28005,40.4138774,-3.7079224,"{'type': 'Point', 'coordinates': [40.4138774, -3.7079224]}",1-15€
+299,Bico de Xeado,4.7,"Plaza Mayor, 29, 28012 Madrid, Spain",1.0,ice cream,plan,snacks,28012,40.4158441,-3.7070647,"{'type': 'Point', 'coordinates': [40.4158441, -3.7070647]}",1-15€
+300,Juice Lab & Co. ABC Serrano,4.2,"Calle de Serrano, 61, 28006 Madrid, Spain",1.0,juices,plan,snacks,28006,40.4322743,-3.6875291,"{'type': 'Point', 'coordinates': [40.4322743, -3.6875291]}",1-15€
+301,Juicy Avenue Serrano,4.1,"Calle de Serrano, 93, 28006 Madrid, Spain",1.0,juices,plan,snacks,28006,40.43754200000001,-3.686537899999999,"{'type': 'Point', 'coordinates': [40.43754200000001, -3.686537899999999]}",1-15€
+302,Lulo's Natural Juices,4.1,"Mercado de la Cebada, 28005 Madrid, Spain",1.0,juices,plan,snacks,28005,40.4111595,-3.7099621,"{'type': 'Point', 'coordinates': [40.4111595, -3.7099621]}",1-15€
+303,Origen Taste The World S.L.,4.2,"Calle de las Maldonadas, 7, 28005 Madrid, Spain",1.0,juices,plan,snacks,28005,40.4109345,-3.7080141,"{'type': 'Point', 'coordinates': [40.4109345, -3.7080141]}",1-15€
+304,Juicy Avenue,4.1,"CC Moraleja Green, Av. de Europa, 13, 28108 Madrid, Spain",1.0,juices,plan,snacks,28108,40.5188577,-3.6558675,"{'type': 'Point', 'coordinates': [40.5188577, -3.6558675]}",1-15€
+305,Tu Fruta al Momento,4.2,"Calle de Toledo, 6, 28005 Madrid, Spain",1.0,juices,plan,snacks,28005,40.4146606,-3.7076701,"{'type': 'Point', 'coordinates': [40.4146606, -3.7076701]}",1-15€
+306,Juice Lab & Co,4.9,"Centro Comercial ABC Serrano, Paseo de la Castellana, 34, 28046 Madrid, Spain",1.0,juices,plan,snacks,28046,40.4322565,-3.6880416,"{'type': 'Point', 'coordinates': [40.4322565, -3.6880416]}",1-15€
+307,Frutas Prohibidas,4.4,"Local Frutas Prohibidas, Calle del Conde Duque, 26, 28015 Madrid, Spain",1.0,juices,plan,snacks,28015,40.4274672,-3.7103494,"{'type': 'Point', 'coordinates': [40.4274672, -3.7103494]}",1-15€
+308,Mr. Ñam Ñam,3.7,"Plaza de Carlos Cambronero, 2, 28004 Madrid, Spain",1.0,juices,plan,snacks,28004,40.4232257,-3.7041728,"{'type': 'Point', 'coordinates': [40.4232257, -3.7041728]}",1-15€
+309,Juice Lab,0.0,"Calle de Serrano, 61, 28006 Madrid, France",1.0,juices,plan,snacks,28006,40.4322143,-3.6869647,"{'type': 'Point', 'coordinates': [40.4322143, -3.6869647]}",1-15€
+310,URBAN FRESH,4.6,"Calle de San Andrés, 12, 28004 Madrid, Spain",1.0,juices,plan,snacks,28004,40.4265887,-3.7036499,"{'type': 'Point', 'coordinates': [40.4265887, -3.7036499]}",1-15€
+311,Almalibre Açaí House Madrid,4.8,"Calle de la Libertad, 17, 28004 Madrid, Spain",1.0,juices,plan,snacks,28004,40.4211367,-3.6974478,"{'type': 'Point', 'coordinates': [40.4211367, -3.6974478]}",1-15€
+312,DisFruta,4.3,"Calle del Duque de Alba, 6, 28012 Madrid, Spain",1.0,juices,plan,snacks,28012,40.4119064,-3.706089,"{'type': 'Point', 'coordinates': [40.4119064, -3.706089]}",1-15€
+313,Juicy Avenue Islazul,3.7,"Centro Comercial ISLAZUL (Plaza Restauración, Calle Calderilla, 1, 28054 Madrid, Spain",1.0,juices,plan,snacks,28054,40.3631628,-3.7389873,"{'type': 'Point', 'coordinates': [40.3631628, -3.7389873]}",1-15€
+314,Panther Juice & Sandwich Market,4.1,"Paseo de la Castellana, 91, 28046 Madrid, Spain",1.0,juices,plan,snacks,28046,40.4504749,-3.6915025,"{'type': 'Point', 'coordinates': [40.4504749, -3.6915025]}",1-15€
+315,Maestro Food and More,2.1,"28012 Madrid, Spain",1.0,juices,plan,snacks,28012,40.4142897,-3.7031203,"{'type': 'Point', 'coordinates': [40.4142897, -3.7031203]}",1-15€
+316,B13 bar,4.6,"Calle de la Ballesta, 13, 28004 Madrid, Spain",1.0,juices,plan,snacks,28004,40.4219461,-3.7035174,"{'type': 'Point', 'coordinates': [40.4219461, -3.7035174]}",1-15€
+317,Azotea Forus Barceló,4.0,"C. de Barceló, 6, 4ª planta, 28005 Madrid, Spain",2.0,juices,plan,snacks,28005,40.4268137,-3.6988964,"{'type': 'Point', 'coordinates': [40.4268137, -3.6988964]}",15-25€
+318,Casa Mingo,4.1,"Paseo de la Florida, 34, 28008 Madrid, Spain",1.0,juices,plan,snacks,28008,40.4250914,-3.7253416,"{'type': 'Point', 'coordinates': [40.4250914, -3.7253416]}",1-15€
+319,Taqueria El Chaparrito,4.5,"Calle Mayor, 68, 28013 Madrid, Spain",1.0,juices,plan,snacks,28013,40.41567,-3.71014,"{'type': 'Point', 'coordinates': [40.41567, -3.71014]}",1-15€
+320,Brunch Club,4.5,"Calle del Barco, 15, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4216,-3.7028222,"{'type': 'Point', 'coordinates': [40.4216, -3.7028222]}",15-25€
+321,Café Federal,4.1,"Plaza de las Comendadoras, 9, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4270304,-3.7093012,"{'type': 'Point', 'coordinates': [40.4270304, -3.7093012]}",15-25€
+322,"The Toast Cafe, Brunch Gourmet, Cerveza Artesanal de Grifo",4.1,"C. de Fernando el Católico, 50, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4343186,-3.7127786,"{'type': 'Point', 'coordinates': [40.4343186, -3.7127786]}",15-25€
+323,Carmencita Bar,4.4,"Calle de San Vicente Ferrer, 51, 28015 Madrid, Spain",1.0,brunch,plan,snacks,28015,40.4260776,-3.7074478,"{'type': 'Point', 'coordinates': [40.4260776, -3.7074478]}",1-15€
+324,PANELA & CO,3.9,"Calle de López de Hoyos, 10, 28006 Madrid, Spain",2.0,brunch,plan,snacks,28006,40.436905,-3.6872463,"{'type': 'Point', 'coordinates': [40.436905, -3.6872463]}",15-25€
+325,Bendita Locura Coffee & Dreams,4.3,"Calle del Príncipe de Vergara, 73, 28006 Madrid, Spain",2.0,brunch,plan,snacks,28006,40.435133,-3.6795414,"{'type': 'Point', 'coordinates': [40.435133, -3.6795414]}",15-25€
+326,Zenith Brunch & Cocktails,4.5,"Calle de Valverde, 28, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.422371,-3.7016131,"{'type': 'Point', 'coordinates': [40.422371, -3.7016131]}",15-25€
+327,MÜR Café,4.3,"Plaza Cristino Martos, 2, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4256968,-3.7121696,"{'type': 'Point', 'coordinates': [40.4256968, -3.7121696]}",15-25€
+328,El Arquibar,4.6,"Travesía de Conde Duque, 5, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4258284,-3.7099865,"{'type': 'Point', 'coordinates': [40.4258284, -3.7099865]}",15-25€
+329,La Gringa,4.5,"Calle de San Vicente Ferrer, 57, 28015 Madrid, Spain",1.0,brunch,plan,snacks,28015,40.4261241,-3.7079049,"{'type': 'Point', 'coordinates': [40.4261241, -3.7079049]}",1-15€
+330,MartinaCocina,4.3,"Plaza de Cascorro, 11, 28005 Madrid, Spain",2.0,brunch,plan,snacks,28005,40.409868,-3.7070334,"{'type': 'Point', 'coordinates': [40.409868, -3.7070334]}",15-25€
+331,La Rollerie,4.1,"C. de Atocha, 20, 28012 Madrid, Spain",2.0,brunch,plan,snacks,28012,40.4138358,-3.7030405,"{'type': 'Point', 'coordinates': [40.4138358, -3.7030405]}",15-25€
+332,Federal Café,4.2,"Plaza del Conde de Barajas, 3, 28005 Madrid, Spain",2.0,brunch,plan,snacks,28005,40.4143274,-3.7088587,"{'type': 'Point', 'coordinates': [40.4143274, -3.7088587]}",15-25€
+333,Restaurante PINALE,4.5,"Calle del Gral. Pardiñas, 23, 28001 Madrid, Spain",1.0,brunch,plan,snacks,28001,40.426467,-3.678641,"{'type': 'Point', 'coordinates': [40.426467, -3.678641]}",1-15€
+334,"Roll Madrid Restaurante, Brunch Gourmet, Cerveza Artesanal de Grifo",4.0,"Calle de Amaniel, 23, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4271057,-3.7096294,"{'type': 'Point', 'coordinates': [40.4271057, -3.7096294]}",15-25€
+335,EatMyTrip Brunch & Cocktails Madrid,4.6,"Calle de la Moreria, 11, 28005 Madrid, Spain",2.0,brunch,plan,snacks,28005,40.4130179,-3.7134265,"{'type': 'Point', 'coordinates': [40.4130179, -3.7134265]}",15-25€
+336,La Rollerie,4.3,"Calle Mayor, 24, 28013 Madrid, Spain",1.0,brunch,plan,snacks,28013,40.4165119,-3.707106599999999,"{'type': 'Point', 'coordinates': [40.4165119, -3.707106599999999]}",1-15€
+337,Brunch by Café Oliver El Columpio,3.8,"Calle de Caracas, 10, 28010 Madrid, Spain",2.0,brunch,plan,snacks,28010,40.4305871,-3.6943358,"{'type': 'Point', 'coordinates': [40.4305871, -3.6943358]}",15-25€
+338,HanSo Café,4.4,"Calle del Pez, 20, 28004 Madrid, Spain",1.0,brunch,plan,snacks,28004,40.4238854,-3.7055265,"{'type': 'Point', 'coordinates': [40.4238854, -3.7055265]}",1-15€
+339,La Rollerie,4.2,"Carrera de S. Jerónimo, 26, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.4164994,-3.6995404,"{'type': 'Point', 'coordinates': [40.4164994, -3.6995404]}",15-25€
+340,La Bicicleta,4.1,"Plaza de San Ildefonso, 9, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4238106,-3.7022328,"{'type': 'Point', 'coordinates': [40.4238106, -3.7022328]}",15-25€
+341,La Rollerie,4.2,"Calle de Guzmán el Bueno, 105, 28003 Madrid, Spain",2.0,brunch,plan,snacks,28003,40.4394752,-3.7130097,"{'type': 'Point', 'coordinates': [40.4394752, -3.7130097]}",15-25€
+342,Nomade Cafe,4.4,"Calle de los Tres Peces, 22, 28012 Madrid, Spain",1.0,brunch,plan,snacks,28012,40.4107147,-3.6993613,"{'type': 'Point', 'coordinates': [40.4107147, -3.6993613]}",1-15€
+343,A B O L E A,4.2,"Calle de Sandoval, 10, 12, 28010 Madrid, Spain",2.0,brunch,plan,snacks,28010,40.4300975,-3.7041016,"{'type': 'Point', 'coordinates': [40.4300975, -3.7041016]}",15-25€
+344,Café Comercial,4.1,"Glorieta de Bilbao, 7, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4287137,-3.7019997,"{'type': 'Point', 'coordinates': [40.4287137, -3.7019997]}",15-25€
+345,Pum Pum Café,4.3,"Calle de Tribulete, 6, 28012 Madrid, Spain",2.0,brunch,plan,snacks,28012,40.4080621,-3.701955,"{'type': 'Point', 'coordinates': [40.4080621, -3.701955]}",15-25€
+346,Ojalá,4.2,"Calle de San Andrés, 1, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.42554,-3.703991,"{'type': 'Point', 'coordinates': [40.42554, -3.703991]}",15-25€
+347,El 17 de Moreto,4.0,"Calle de Moreto, 17, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.412917,-3.690207199999999,"{'type': 'Point', 'coordinates': [40.412917, -3.690207199999999]}",15-25€
+348,Hielo y Carbon,4.3,"C/ Gran Vía, 31, 28013 Madrid, Spain",2.0,brunch,plan,snacks,28013,40.4199686,-3.703813,"{'type': 'Point', 'coordinates': [40.4199686, -3.703813]}",15-25€
+349,Le Pain Quotidien,3.8,"Calle del Poeta Joan Maragall, 26, 28020 Madrid, Spain",2.0,brunch,plan,snacks,28020,40.4578849,-3.691862199999999,"{'type': 'Point', 'coordinates': [40.4578849, -3.691862199999999]}",15-25€
+350,La Desayuneria,4.6,"Calle de Barbieri, 4, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4206695,-3.6982297,"{'type': 'Point', 'coordinates': [40.4206695, -3.6982297]}",15-25€
+351,Diurno,4.2,"Calle de San Marcos, 37, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.421318,-3.6972032,"{'type': 'Point', 'coordinates': [40.421318, -3.6972032]}",15-25€
+352,The Fix - Specialty Coffee,4.6,"Calle de Luisa Fernanda, 15, 28008 Madrid, Spain",2.0,brunch,plan,snacks,28008,40.425718,-3.715002299999999,"{'type': 'Point', 'coordinates': [40.425718, -3.715002299999999]}",15-25€
+353,Ganz,4.4,"Calle de Almadén, 9, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.4111594,-3.6946837,"{'type': 'Point', 'coordinates': [40.4111594, -3.6946837]}",15-25€
+354,The Little Big Cafe Fernández de Los Ríos,4.6,"Calle de Fernández de los Ríos, 61, 28015 Madrid, Spain",1.0,brunch,plan,snacks,28015,40.435222,-3.712739,"{'type': 'Point', 'coordinates': [40.435222, -3.712739]}",1-15€
+355,Plenti,4.7,"Calle de Moreto, 17, 28014 Madrid, Spain",1.0,brunch,plan,snacks,28014,40.413013,-3.6901309,"{'type': 'Point', 'coordinates': [40.413013, -3.6901309]}",1-15€
+356,Mafrens,4.7,"Plaza de Cascorro, 12, 28005 Madrid, Spain",2.0,brunch,plan,snacks,28005,40.4099958,-3.7074432,"{'type': 'Point', 'coordinates': [40.4099958, -3.7074432]}",15-25€
+357,Maricastaña,4.2,"Corredera Baja de San Pablo, 12, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4220771,-3.7041304,"{'type': 'Point', 'coordinates': [40.4220771, -3.7041304]}",15-25€
+358,Casa Suecia,4.4,"y roof top, Calle del Marqués de Casa Riera, 4, Planta baja, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.4179018,-3.6962677,"{'type': 'Point', 'coordinates': [40.4179018, -3.6962677]}",15-25€
+359,Frida,3.8,"Calle San Gregorio, 8, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4239997,-3.6970391,"{'type': 'Point', 'coordinates': [40.4239997, -3.6970391]}",15-25€
+360,Vacaciones Cocktail Bar,4.1,"Calle del Espíritu Santo, 15, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4253189,-3.703584,"{'type': 'Point', 'coordinates': [40.4253189, -3.703584]}",15-25€
+361,NuBel,4.1,"Museo Reina Sofía, Calle de Argumosa, 43, 28012 Madrid, Spain",3.0,brunch,plan,snacks,28012,40.4072563,-3.6956103,"{'type': 'Point', 'coordinates': [40.4072563, -3.6956103]}",25-50€
+362,Lamucca del Carmen,4.2,"Plaza del Carmen, 5, 28013 Madrid, Spain",2.0,brunch,plan,snacks,28013,40.4189987,-3.7029002,"{'type': 'Point', 'coordinates': [40.4189987, -3.7029002]}",15-25€
+363,Restaurante DCorazon,4.5,"Plaza Mayor, 30, 28012 Madrid, Spain",2.0,brunch,plan,snacks,28012,40.4157838,-3.7073981,"{'type': 'Point', 'coordinates': [40.4157838, -3.7073981]}",15-25€
+364,El Jardín de Orfila by Mario Sandoval,4.4,"Calle de Orfila, 6, 28010 Madrid, Spain",2.0,brunch,plan,snacks,28010,40.427319,-3.693211,"{'type': 'Point', 'coordinates': [40.427319, -3.693211]}",15-25€
+365,Le Pain Quotidien,3.9,"Calle de Velázquez, 92, 28006 Madrid, Spain",2.0,brunch,plan,snacks,28006,40.43264,-3.6833197,"{'type': 'Point', 'coordinates': [40.43264, -3.6833197]}",15-25€
+366,Restaurante La Gamella,4.3,"Calle de Alfonso XII, 4, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.4189281,-3.6890525,"{'type': 'Point', 'coordinates': [40.4189281, -3.6890525]}",15-25€
+367,Brunch by Café Oliver Martinete,0.0,"Pl. del Marqués de Salamanca, 9, 28006 Madrid, Spain",2.0,brunch,plan,snacks,28006,40.42991800000001,-3.6788623,"{'type': 'Point', 'coordinates': [40.42991800000001, -3.6788623]}",15-25€
+368,Misión Café,4.5,"Calle de los Reyes, 5, 28015 Madrid, Spain",2.0,brunch,plan,snacks,28015,40.4242402,-3.7087479,"{'type': 'Point', 'coordinates': [40.4242402, -3.7087479]}",15-25€
+369,Murillo Café,3.9,"Calle de Ruiz de Alarcón, 27, 28014 Madrid, Spain",2.0,brunch,plan,snacks,28014,40.4130594,-3.6913271,"{'type': 'Point', 'coordinates': [40.4130594, -3.6913271]}",15-25€
+370,Marieta,4.0,"Paseo de la Castellana, 44, 28046 Madrid, Spain",2.0,brunch,plan,snacks,28046,40.4335875,-3.6873722,"{'type': 'Point', 'coordinates': [40.4335875, -3.6873722]}",15-25€
+371,Superchulo Madrid,4.2,"C. de Manuela Malasaña, 11, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.4285343,-3.7032607,"{'type': 'Point', 'coordinates': [40.4285343, -3.7032607]}",15-25€
+372,Lamucca de Fuencarral (Organik ⚡Parriya),4.3,"Calle de Fuencarral, 95, 28004 Madrid, Spain",2.0,brunch,plan,snacks,28004,40.427186,-3.7017083,"{'type': 'Point', 'coordinates': [40.427186, -3.7017083]}",15-25€
+373,Grama Lounge,4.2,"Calle de la Cruz, 19, 28012 Madrid, Spain",2.0,brunch,plan,snacks,28012,40.41549029999999,-3.7016911,"{'type': 'Point', 'coordinates': [40.41549029999999, -3.7016911]}",15-25€
+374,OH MY FOOD MADRID,4.0,"Calle de las Infantas, 44, 28004 Madrid, Spain",1.0,brunch,plan,snacks,28004,40.4199626,-3.697111,"{'type': 'Point', 'coordinates': [40.4199626, -3.697111]}",1-15€
+375,Pipa & Co,3.8,"Paseo de la Habana, 105, 28036 Madrid, Spain",2.0,brunch,plan,snacks,28036,40.4588601,-3.6820533,"{'type': 'Point', 'coordinates': [40.4588601, -3.6820533]}",15-25€
+376,Adorado Bar Lavapies,4.4,"Calle del Mesón de Paredes, 22, 28012 Madrid, Spain",2.0,brunch,plan,snacks,28012,40.4106219,-3.7046934,"{'type': 'Point', 'coordinates': [40.4106219, -3.7046934]}",15-25€
+377,Real Talent Café,4.6,"Calle de la Unión, 1, 28013 Madrid, Spain",1.0,brunch,plan,snacks,28013,40.41679,-3.710334,"{'type': 'Point', 'coordinates': [40.41679, -3.710334]}",1-15€
+378,La Rollerie La Terrasse,4.2,"C/ del Alcalde Sainz de Baranda, 64, 28009 Madrid, Spain",2.0,brunch,plan,snacks,28009,40.4164161,-3.669946,"{'type': 'Point', 'coordinates': [40.4164161, -3.669946]}",15-25€
+379,El Escondite de Villanueva,4.1,"Calle de Villanueva, 26, 28001 Madrid, Spain",2.0,brunch,plan,snacks,28001,40.4223694,-3.685975,"{'type': 'Point', 'coordinates': [40.4223694, -3.685975]}",15-25€

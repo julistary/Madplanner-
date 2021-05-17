@@ -9,7 +9,7 @@ def limpito(df,name):
         The dataframe cleaned
     """
     df.drop(['stop_code', 'zone_id', 'stop_url', 'location_type', 'parent_station',
-       'stop_timezone', 'wheelchair_boarding'], axis=1, inplace=True)
+       'stop_timezone', 'wheelchair_boarding', 'stop_desc'], axis=1, inplace=True)
     
     latitude = list(df.stop_lat)
     longitude = list(df.stop_lon)
@@ -18,9 +18,17 @@ def limpito(df,name):
         geometry.append({"type": "Point", "coordinates": [lat , lon]})
 
     df["geometry"] = geometry
-    df["type"] = name
+    df["place"] = name
+    df["type"] = "transport"
 
-    df = df.rename(columns={"stop_lat": "latitude", "stop_lon": "longitude"})
+    if name in ["stops_autobuses_urbanos", "stops_emt", "stops_interurbanos"]:
+        df["place"] = "bus"
+    elif name == "stops_cercanias":
+        df["place"] = "train"
+    else:
+        df["place"] = "metro"
+
+    df = df.rename(columns={"stop_lat": "latitude", "stop_lon": "longitude", "stop_name": "name"})
 
     return df
 
@@ -37,7 +45,7 @@ def limpito_parking(df):
     'CLASE-VIAL', 'TIPO-NUM', 'NUM', 'PLANTA', 'PUERTA', 'ESCALERAS',
      'ORIENTACION', 'LOCALIDAD', 'PROVINCIA', 'CODIGO-POSTAL', 
      'COORDENADA-X', 'COORDENADA-Y', 'HORARIO', 'TELEFONO', 'FAX', 
-     'EMAIL', 'TIPO', 'Unnamed: 30'],axis=1,inplace=True)
+     'EMAIL', 'TIPO', 'Unnamed: 30', 'BARRIO', 'DISTRITO'],axis=1,inplace=True)
 
     lat = list(df.LATITUD)
     long= list(df.LONGITUD)
@@ -52,14 +60,15 @@ def limpito_parking(df):
 
 
     for lat,lon in zip(latitude, longitude):
-        geometry.append({"type": "Point", "coordinates": [lon , lat]})
+        geometry.append({"type": "Point", "coordinates": [lat , lon]})
 
     df["geometry"] = geometry
-    df["type"] = "parking"
+    df["place"] = "parking"
     df["LATITUD"] = latitude
     df["LONGITUD"] = longitude
+    df["type"] = "transport"
 
 
-    df = df.rename(columns={"LATITUD": "latitude", "LONGITUD": "longitude"})
+    df = df.rename(columns={"LATITUD": "latitude", "LONGITUD": "longitude", "NOMBRE" : "name"})
 
     return df 

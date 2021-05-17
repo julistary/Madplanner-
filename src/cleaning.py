@@ -34,8 +34,9 @@ def create_subdata(listita):
     df_names = []
     for place in listita:
         df_names.append(locals()[place])
-    
-    return pd.concat(df_names, ignore_index=True)
+    df = pd.concat(df_names, ignore_index=True)
+    df['type'] = "plan"
+    return df
 
 
 def address(df):
@@ -94,7 +95,7 @@ def latlon(df):
 
     geometry = []
     for lat,lon in zip(latitude, longitude):
-        geometry.append({"type": "Point", "coordinates": [lon , lat]})
+        geometry.append({"type": "Point", "coordinates": [lat , lon]})
     
     df["geometry"] = geometry
     return df
