@@ -7,6 +7,7 @@ import numpy as np
 import time
 load_dotenv()
 
+
 key = os.getenv("key")
 
 url_query = "https://maps.googleapis.com/maps/api/place/textsearch/json?"

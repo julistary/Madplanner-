@@ -2,6 +2,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 def daynnite(row):    
     """
     Creates a row with the moment of the day based on the hour 
@@ -88,3 +89,45 @@ def countploteo_no_hue(columna,titulo,df):
     sns.countplot(x = columna, data = df, palette = "pastel")
     ax.set_title(titulo)
     return plt
+
+def clustersplot(df):
+    """
+    Plots all the variables of a cluster
+    Args:
+        df(df): the dataframe to work with
+    Returns:
+        The plot
+    """
+    fig, axs = plt.subplots(nrows=2, ncols=4, figsize=(15, 10))
+
+    sns.histplot(x = "age", data = df, color = "lightblue", ax=axs[0,0])
+    axs[0,0].set_title("age")
+    axs[0,0].axvline(x=df["age"].median(), color="darkblue", label="median")
+    axs[0,0].legend()
+
+    sns.countplot(x=df["filter"], ax=axs[0, 1], palette="pastel")
+    axs[0,1].set_title("filter")
+
+    sns.countplot(x=df["gender"], ax=axs[0, 2], palette="pastel")
+    axs[0,2].set_title("gender")
+
+    sns.countplot(x=df["ocupation"], ax=axs[1, 0], palette="pastel")
+    axs[1,0].set_title("ocupation")
+
+    sns.countplot(x=df["children"], ax=axs[1, 1], palette="pastel")
+    axs[1,1].set_title("children")
+
+    sns.countplot(x=df["residence"], ax=axs[1, 2], palette="pastel")
+    axs[1,2].set_title("residence")
+
+    sns.histplot(x = "hour", data = df, color = "lightblue", ax=axs[0,3])
+    axs[0,3].set_title("hour")
+    axs[0,3].axvline(x=df["hour"].median(), color="darkblue", label="median")
+    axs[0,3].legend()
+
+    sns.histplot(x = "month", data = df, color = "lightblue", ax=axs[1,3])
+    axs[1,3].set_title("month")
+    axs[1,3].axvline(x=df["month"].median(), color="darkblue", label="median")
+    axs[1,3].legend()
+
+    return fig
