@@ -1,6 +1,21 @@
-name,age,category,subcategory,filter,time,weekday,gender,ocupation,children
+name,age,category,subcategory,filter,time,weekday,gender,ocupation,children,residence
 
 
 
-Julieta,23.0,culture,theatre,category,2021-05-17 22:20:14.623386,0,  Female, Studying, NO
-Julieta,23.0,restaurant,gluten free,category,2021-05-17 22:20:29.212266,0,  Female, Studying, NO
+
+Gala,40.0,party,samba club,category,2021-05-18 11:17:52.599972,1,  Other, None, NO, Outside of Spain
+Diana,20.0,restaurant,seafood,category,2021-02-24 11:22:20.903554,2,  Female, Studying, NO, Outside of Spain
+Diana,20.0,restaurant,french,category,2020-12-18 11:22:28.664118,4,  Female, Studying, NO, Outside of Spain
+Diana,20.0,restaurant,argentinian,category,2021-05-18 00:22:42.411184,1,  Female, Studying, NO, Outside of Spain
+Marisol,70.0,restaurant,pet friendly,category,2021-05-18 11:23:49.396691,1,  Female, None, NO, Madrid
+Pablito,23.0,outdoors,basketball court,category,2021-05-18 14:26:46.976894,1,  Male, Studying, NO, Madrid
+Manolo,40.0,outdoors,trekking,category,2021-05-18 11:29:57.539383,1,  Female, Working, YES, Outside of Spain
+Manolo,40.0,outdoors,paddle tennis court,category,2021-05-18 11:30:05.335930,1,  Female, Working, YES, Outside of Spain
+Tere,10.0,outdoors,golf,category,2021-05-18 11:31:58.877607,1,  Other, Studying, NO, Madrid
+Tere,10.0,outdoors,basketball court,category,2021-05-18 17:32:05.878237,1,  Other, Studying, NO, Madrid
+Tere,10.0,outdoors,trekking,category,2020-07-20 11:32:10.263718,3,  Other, Studying, NO, Madrid
+Galita,3.0,restaurant,pet friendly,category,2021-04-18 11:37:34.021093,6,  Female, None, NO, Madrid
+Galita,3.0,outdoors,trekking,category,2021-05-18 19:37:51.076859,1,  Female, None, NO, Madrid
+Clara,12.0,drinks,cocktail,category,2021-01-18 22:42:45.779086,0,  Female, Studying, NO, Outside of Spain
+Maricarmen,24.0,drinks,cocktail,category,2021-05-18 11:50:34.975815,1,  Female, Studying, NO, Madrid
+Samantha,28.0,drinks,wine tasting,category,2021-05-18 13:09:27.507371,1,  Female, None, YES, Madrid

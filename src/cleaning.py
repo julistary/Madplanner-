@@ -176,7 +176,7 @@ def pricing(row):
     """
     Creates a row with the price based on price level   
     Args:
-        row(df): the row to be translate
+        row(df): the row to be translated
     Returns:
         The dataframe with the new column
     """
