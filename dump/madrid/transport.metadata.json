@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"geometry":"2dsphere"},"name":"geometry_2dsphere","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"8aec3785b9f54f45bab7145d0004d6b0","collectionName":"transport"}
