@@ -60,9 +60,9 @@ With these data and the type of filter they use, different conclusions are drawn
 
 In addition, a cluster analysis is carried out in which the different types of users accessing the site are analysed. 
 
-<notebooks/images/Cluster_1.svg>
+<img src="notebooks/images/Cluster_1.svg">
 
-<notebooks/images/Children_and_type_of_plan.svg>
+<img src="notebooks/images/Children_and_type_of_plan.svg">
 
 ## Content of the repository 👀
 - `Src` folder with the functions defined and documented
