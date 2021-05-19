@@ -205,9 +205,10 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                     "Select a village", ["select.."] + towns
                 )
         
+        
             if district in (districts + towns):
                 st.warning('It may take a few seconds, please wait☺️')
-                time.sleep(2)
+                time.sleep(15)
                 coordinates = dat.barrio_a_coordenadas(df_madrid,df_m,f"{district}")
                 st.write("Plans")
                 st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
