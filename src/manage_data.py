@@ -3,12 +3,18 @@ from folium import Circle, Marker, Icon, Map
 from pymongo import MongoClient, GEOSPHERE
 import random
 import numpy as np
-conn = MongoClient("localhost:27017")
-db = conn.get_database("madrid")
 import requests
 from bs4 import BeautifulSoup
 import json
 import unicodedata 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+url_mongo = os.getenv("url")
+conn = MongoClient(url_mongo)
+db = conn.get_database("madrid")
 
 
 leisure = db.get_collection("leisure")
