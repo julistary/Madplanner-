@@ -10,3 +10,4 @@ matplotlib==3.4.2
 beautifulsoup4==4.9.3
 Pillow==8.2.0
 python-dotenv==0.17.1
+dnspython==2.1.0
