@@ -74,8 +74,8 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             with st.spinner(text='Thinking🧠'):
                 plan = dat.type_of_plan(f"{tipo}")
                 st.dataframe(dat.get_df(plan))
-                df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
-                folium_static(dat.get_map(plan,df_tr))
+                #df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+                folium_static(dat.get_map(plan))
                 st.success('Done 🚀')  
                 query = f"\n{name},{years},{tipo},type,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
                 t.write(query)
@@ -83,7 +83,7 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             if "cinema" in list(plan.place.unique()):        
                 st.write("""These are the films available in the cinema right now: """)
                 st.dataframe(dat.films())  
-        
+
 
     elif filter == "price":
         maxmin = st.select_slider(

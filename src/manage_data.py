@@ -283,7 +283,7 @@ def geoquery_2(coordinates):
     df = pd.DataFrame((query_final))
     return df
 
-def get_map(df,df_tr):
+def get_map(df):
     """
     Creates a map with the values of a dataframe
     Args:
@@ -306,7 +306,7 @@ def get_map(df,df_tr):
 
         Marker(**geom,icon = icon ).add_to(map_1)
     
-    for i, row in df_tr.iterrows():
+        """   for i, row in df_tr.iterrows():
         geom = {
                     "location":[row["latitude"], row["longitude"]],
                     "tooltip" : row["name"]
@@ -329,7 +329,7 @@ def get_map(df,df_tr):
                                 icon = "car",
                                 icon_color = "black"
                 ) 
-        Marker(**geom,icon = icon ).add_to(map_1)        
+        Marker(**geom,icon = icon ).add_to(map_1)        """
     
         
     return map_1
