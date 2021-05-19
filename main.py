@@ -7,6 +7,7 @@ import pandas as pd
 from datetime import datetime
 from dotenv import load_dotenv
 import os
+import numpy as np
 from pymongo import MongoClient, GEOSPHERE
 
 
@@ -71,6 +72,7 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                 st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
                 query = { "name": f"{name}",
                         "age" : f"{years}",
+                        "filter" : "category",
                         "category": f"{category}",
                         "subcategory": f"{tipo}",
                         "time": f"{time_}",
@@ -81,7 +83,6 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                         "residence": f"{world}" }
                 users.insert_one(query)
 
-                c.write(query)
             
             if tipo == "cinema":
                 st.write("""These are the films available in the cinema right now: """)
@@ -99,8 +100,18 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                 df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
                 folium_static(dat.get_map(plan,df_tr))
                 st.success('Done 🚀')  
-                query = f"\n{name},{years},{tipo},type,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
-                t.write(query)
+                query = { "name": f"{name}",
+                        "age" : f"{years}",
+                        "filter" : "type",
+                        "category" : f"{tipo}",
+                        "subcategory": np.nan,
+                        "time": f"{time_}",
+                        "weekday": f"{weekday}",  
+                        "gender": f"{gender}", 
+                        "ocupation": f"{ocupation}", 
+                        "children": f"{children}",
+                        "residence": f"{world}" }
+                users.insert_one(query)
 
             if "cinema" in list(plan.place.unique()):        
                 st.write("""These are the films available in the cinema right now: """)
@@ -122,8 +133,18 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             if "cinema" in list(plan.place.unique()):
                 st.write("""These are the films available in the cinema right now: """)
                 st.dataframe(dat.films())  
-            query = f"\n{name},{years},{maxmin},price,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
-            p.write(query)
+            query = { "name": f"{name}",
+                    "age" : f"{years}",
+                    "filter" : "price",
+                    "category" : f"{maxmin}",
+                    "subcategory": np.nan,
+                    "time": f"{time_}",
+                    "weekday": f"{weekday}",  
+                    "gender": f"{gender}", 
+                    "ocupation": f"{ocupation}", 
+                    "children": f"{children}",
+                    "residence": f"{world}" }
+            users.insert_one(query)
 
     elif filter == "rating":
         maxmin = st.select_slider(
@@ -140,8 +161,18 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             if "cinema" in list(plan.place.unique()):
                 st.write("""These are the films available in the cinema right now: """)
                 st.dataframe(dat.films())  
-            query = f"\n{name},{years},{maxmin},rating,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
-            r.write(query)
+            query = { "name": f"{name}",
+                    "age" : f"{years}",
+                    "filter" : "rating",
+                    "category" : f"{maxmin}",
+                    "subcategory": np.nan,
+                    "time": f"{time_}",
+                    "weekday": f"{weekday}",  
+                    "gender": f"{gender}", 
+                    "ocupation": f"{ocupation}", 
+                    "children": f"{children}",
+                    "residence": f"{world}" }
+            users.insert_one(query)
 
     elif filter == "location":
 
@@ -189,9 +220,19 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                 st.write("Means of transport")
                 st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
                 folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
-
-                query = f"\n{name},{years},{donde},{district},location,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
-                l.write(query)
+                
+                query = { "name": f"{name}",
+                        "age" : f"{years}",
+                        "filter" : "location",
+                        "category" : f"{donde}",
+                        "subcategory": f"{district}",
+                        "time": f"{time_}",
+                        "weekday": f"{weekday}",  
+                        "gender": f"{gender}", 
+                        "ocupation": f"{ocupation}", 
+                        "children": f"{children}",
+                        "residence": f"{world}" }
+                users.insert_one(query)
 
     c.close()
     l.close()

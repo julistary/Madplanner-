@@ -2,6 +2,19 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+def catint(row):
+    """
+    Cleans a row
+    Args:
+        row(df): the row to be cleaned
+    Returns:
+        The dataframe cleaned
+    """
+        
+    try: 
+        return float(row)
+    except:
+        return row
 
 def daynnite(row):    
     """
