@@ -21,12 +21,6 @@ leisure = db.get_collection("leisure")
 df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
 df_m = pd.read_csv("data/df_districts_2.csv",index_col=0)
 
-c = open("preferences/cat.csv", "a+")
-l = open("preferences/loc.csv", "a+")
-t = open("preferences/type.csv", "a+")
-p = open("preferences/price.csv", "a+")
-r = open("preferences/rat.csv", "a+")
-
 st.set_page_config(page_title="madplanner", page_icon="⚡️", layout='centered', initial_sidebar_state='auto')
 
 imagen = Image.open("images/madrid.png")
@@ -233,10 +227,3 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                         "children": f"{children}",
                         "residence": f"{world}" }
                 users.insert_one(query)
-
-    c.close()
-    l.close()
-    p.close()
-    r.close()
-    t.close()
-
