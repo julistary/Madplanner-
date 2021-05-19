@@ -215,8 +215,8 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                     st.write("Means of transport")
                     st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
                     folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
-                except Exception:
-                    print(Exception)
+                except Exception as e:
+                    print(e)
                 finally:
                     st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
                     st.write("Means of transport")
