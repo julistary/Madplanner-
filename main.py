@@ -210,18 +210,10 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
                 st.warning('It may take a few seconds, please wait☺️')
                 coordinates = dat.barrio_a_coordenadas(df_madrid,df_m,f"{district}")
                 st.write("Plans")
-                try:
-                    st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
-                    st.write("Means of transport")
-                    st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
-                    folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))
-                except Exception as e:
-                    print(e)
-                finally:
-                    st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
-                    st.write("Means of transport")
-                    st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
-                    folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))               
+                st.dataframe(dat.df_planes_bonito(dat.geoquery(coordinates)))
+                st.write("Means of transport")
+                st.dataframe(dat.df_tpte_bonito(dat.geoquery(coordinates)))
+                folium_static(dat.mapita_2(dat.geoquery(coordinates),coordinates))             
                 query = { "name": f"{name}",
                         "age" : f"{years}",
                         "filter" : "location",
