@@ -25,15 +25,15 @@ def daynnite(row):
         The dataframe with the new column
     """
         
-    if row[:2] > "14" and row[:2] <= "20":
+    if row[:2] > "12" and row[:2] <= "18":
         return "evening"
-    elif row[:2] > "21" and row[:2] <= "23":
+    elif row[:2] > "19" and row[:2] <= "21":
         return "night"
-    elif row[:2] > "07" and row[:2] <= "14":
+    elif row[:2] > "05" and row[:2] <= "12":
         return "morning"
     else: 
         return "late night"
-
+        
 def scatterploteo(columna1,columna2,title,df,x):
     """
     Plots a scatterplot with the selected data
@@ -48,9 +48,11 @@ def scatterploteo(columna1,columna2,title,df,x):
     """
         
     fig, ax = plt.subplots(figsize=(5, 5))
-    sns.scatterplot(x = columna1, y= columna2,data = df, palette = "pastel")
+    locals()[title] = sns.scatterplot(x = columna1, y= columna2,data = df, palette = "pastel")
     ax.set_title(title)
     plt.xlabel(x)
+    name = "images/" + title + ".svg"
+    locals()[title].figure.savefig(name)
     return plt
 
 def countploteo(columna1,columna2,title,df):
@@ -66,8 +68,10 @@ def countploteo(columna1,columna2,title,df):
     """
         
     fig, ax = plt.subplots(figsize=(5, 5))
-    sns.countplot(x = columna1, data = df, palette = "pastel", hue=columna2)
+    locals()[title] = sns.countplot(x = columna1, data = df, palette = "pastel", hue=columna2)
     ax.set_title(title)
+    name = "images/" + title + ".svg"
+    locals()[title].figure.savefig(name)
     return plt
 
 def histploteo(columna,titulo,df):
@@ -82,10 +86,12 @@ def histploteo(columna,titulo,df):
     """
         
     fig, ax = plt.subplots(figsize=(5, 5))
-    sns.histplot(x = columna, data = df, color = "lightblue")
+    locals()[titulo] = sns.histplot(x = columna, data = df, color = "lightblue")
     ax.set_title(titulo)
     ax.axvline(x=df[columna].median(), color="darkblue", label="median")
     ax.legend()
+    name = "images/" + titulo + ".svg"
+    locals()[titulo].figure.savefig(name)
     return plt
 
 def countploteo_no_hue(columna,titulo,df): 
@@ -99,11 +105,14 @@ def countploteo_no_hue(columna,titulo,df):
         The plot
     """
     fig, ax = plt.subplots(figsize=(5, 5))
-    sns.countplot(x = columna, data = df, palette = "pastel")
+    locals()[titulo] = sns.countplot(x = columna, data = df, palette = "pastel")
     ax.set_title(titulo)
+    locals()[titulo]
+    name = "images/" + titulo + ".svg"
+    locals()[titulo].figure.savefig(name)
     return plt
 
-def clustersplot(df):
+def clustersplot(df,title):
     """
     Plots all the variables of a cluster
     Args:
@@ -142,5 +151,8 @@ def clustersplot(df):
     axs[1,3].set_title("month")
     axs[1,3].axvline(x=df["month"].median(), color="darkblue", label="median")
     axs[1,3].legend()
+    
+    name = "images/" + title + ".svg"
+    fig.figure.savefig(name)
 
     return fig
