@@ -27,7 +27,7 @@ def create_subdata(listita):
           "pet friendly restaurant", "parque de atracciones"]
 
     for place in lista:
-        name = "data/" + place + ".csv"
+        name = "../" + "data/" + place + ".csv"
         locals()[place] = pd.read_csv(name, index_col=0)
 
 

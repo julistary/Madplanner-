@@ -104,14 +104,14 @@ def todo(listita):
             df_name_2["place"] = place
             df_name_3["place"] = place
             df = pd.concat([df_name_1,df_name_2, df_name_3])
-            save = "data/" + place + ".csv"
+            save = "../data/" + place + ".csv"
             df = df.reset_index()
             df = df.drop(["index"],axis=1)
             df.to_csv(save)
         except: 
             df = request_to_df(name_1)
             df["place"] = place
-            save = "data/" + place + ".csv"
+            save = "../data/" + place + ".csv"
             df = df.reset_index()
             df = df.drop(["index"],axis=1)
             df.to_csv(save)
