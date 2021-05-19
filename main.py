@@ -5,7 +5,18 @@ from streamlit_folium import folium_static
 import time
 import pandas as pd 
 from datetime import datetime
+from dotenv import load_dotenv
+import os
+from pymongo import MongoClient, GEOSPHERE
 
+
+url_mongo = os.getenv("url")
+conn = MongoClient(url_mongo)
+db = conn.get_database("madrid")
+users = db.get_collection("users")
+
+
+leisure = db.get_collection("leisure")
 df_madrid = pd.read_csv("data/df_madrid.csv",index_col=0)
 df_m = pd.read_csv("data/df_districts_2.csv",index_col=0)
 
@@ -58,7 +69,18 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             if tipo in dat.subcategory(f"{category}"):
                 folium_static(dat.mapita(f"{category}", f"{tipo}"))
                 st.dataframe(dat.datafr(f"{tipo}", f"{category}"))
-                query = f"\n{name},{years},{category},{tipo},category,{time_},{weekday},  {gender}, {ocupation}, {children}, {world}"
+                query = { "name": f"{name}",
+                        "age" : f"{years}",
+                        "category": f"{category}",
+                        "subcategory": f"{tipo}",
+                        "time": f"{time_}",
+                        "weekday": f"{weekday}",  
+                        "gender": f"{gender}", 
+                        "ocupation": f"{ocupation}", 
+                        "children": f"{children}",
+                        "residence": f"{world}" }
+                users.insert_one(query)
+
                 c.write(query)
             
             if tipo == "cinema":
@@ -74,8 +96,8 @@ if ((years != 0.0) and (gender in ['Female','Male','Other','Prefer not to answer
             with st.spinner(text='Thinking🧠'):
                 plan = dat.type_of_plan(f"{tipo}")
                 st.dataframe(dat.get_df(plan))
-                #df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
-                folium_static(dat.get_map(plan))
+                df_tr = dat.geoquery_2([plan.latitude.unique()[0],plan.longitude.unique()[0]])
+                folium_static(dat.get_map(plan,df_tr))
                 st.success('Done 🚀')  
                 query = f"\n{name},{years},{tipo},type,{time_},{weekday}, {gender}, {ocupation}, {children}, {world}"
                 t.write(query)
