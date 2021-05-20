@@ -80,6 +80,7 @@ Finally, a PDF is created with all the extracted information.
     * MongoDB
     * Plans
     * Transports
+    * PDF
 - `Main` program of streamlit (main.py)
 - `Data` folder with the dataframes created
 - `Json` folder with the jsons created (and imported to MongoDB)
