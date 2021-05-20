@@ -2,6 +2,9 @@
 
 <img src="images/madrid.png">
 
+👇🏼⚡👇🏼⚡👇🏼⚡👇🏼⚡👇🏼
+[MADPLANNER](https://madplanner.herokuapp.com/)
+
 ## Goal 🏁
 As the final project of the Ironhack Data Analytics bootcamp, I decided to create an API that allows you to find the best plans in Madrid according to some preferences.
 
@@ -32,6 +35,8 @@ The tools to be used are functions, string operations, pandas, mongo queries and
 - [Sys](https://docs.python.org/3/library/sys.html)
 - [Sklear](https://scikit-learn.org/stable/)
 - [Yellowbrick](https://www.scikit-yb.org/en/latest/)
+- [Reportlab](https://www.reportlab.com/dev/docs/)
+- [PyPDF2](https://pythonhosted.org/PyPDF2/)
 
 
 ## My project 👩🏼‍💻
@@ -63,9 +68,7 @@ With these data and the type of filter they use, different conclusions are drawn
 
 In addition, a cluster analysis is carried out in which the different types of users accessing the site are analysed. 
 
-<img src="notebooks/images/Cluster_1.svg">
-
-<img src="notebooks/images/Children_and_type_of_plan.svg">
+Finally, a PDF is created with all the extracted information.
 
 ## Content of the repository 👀
 - `Src` folder with the functions defined and documented
@@ -83,7 +86,7 @@ In addition, a cluster analysis is carried out in which the different types of u
 - `Images` folder with images that will be used during the project
 - `Requirements.txt`
 - `Procfile`,`setup.sh` and `runtime.txt` required to deploy to Heroku
-
+- `stats_clusters.pdf` with the results of statistical analysis 
 
 ## Futher improvements
 - If there is no plan that fits the user's preferences, call the API in that moment to look for alternatives. 
