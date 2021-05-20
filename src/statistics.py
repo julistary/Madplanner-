@@ -70,7 +70,7 @@ def countploteo(columna1,columna2,title,df):
     fig, ax = plt.subplots(figsize=(5, 5))
     locals()[title] = sns.countplot(x = columna1, data = df, palette = "pastel", hue=columna2)
     ax.set_title(title)
-    name = "images/" + title + ".svg"
+    name = "images/" + title + ".png"
     locals()[title].figure.savefig(name)
     return plt
 
@@ -90,7 +90,7 @@ def histploteo(columna,titulo,df):
     ax.set_title(titulo)
     ax.axvline(x=df[columna].median(), color="darkblue", label="median")
     ax.legend()
-    name = "images/" + titulo + ".svg"
+    name = "images/" + titulo + ".png"
     locals()[titulo].figure.savefig(name)
     return plt
 
@@ -108,7 +108,7 @@ def countploteo_no_hue(columna,titulo,df):
     locals()[titulo] = sns.countplot(x = columna, data = df, palette = "pastel")
     ax.set_title(titulo)
     locals()[titulo]
-    name = "images/" + titulo + ".svg"
+    name = "images/" + titulo + ".png"
     locals()[titulo].figure.savefig(name)
     return plt
 
@@ -152,7 +152,7 @@ def clustersplot(df,title):
     axs[1,3].axvline(x=df["month"].median(), color="darkblue", label="median")
     axs[1,3].legend()
     
-    name = "images/" + title + ".svg"
+    name = "images/" + title + ".png"
     fig.figure.savefig(name)
 
     return fig

@@ -8,7 +8,7 @@ As the final project of the Ironhack Data Analytics bootcamp, I decided to creat
 My motivation for choosing this project is that, often as an inhabitant of Madrid, I can't think of plans to do and I really like to spend my days doing different things. 
 
 ## Tools ⚙️
-The tools to be used are functions, string operations, pandas, mongo queries and geoqueries, requests from APIs, plotting maps, web scrapping, error handling etc. 
+The tools to be used are functions, string operations, pandas, mongo queries and geoqueries, requests from APIs, plotting maps, machine learning, web scrapping, error handling etc. 
 
 ## Libraries 👩🏼‍🏫
 - [Pandas](https://pandas.pydata.org/docs/)
@@ -29,6 +29,9 @@ The tools to be used are functions, string operations, pandas, mongo queries and
 - [Matplotlib](https://matplotlib.org/)
 - [Datetime](https://docs.python.org/3/library/datetime.html)
 - [Unicodedata](https://docs.python.org/3/library/unicodedata.html)
+- [Sys](https://docs.python.org/3/library/sys.html)
+- [Sklear](https://scikit-learn.org/stable/)
+- [Yellowbrick](https://www.scikit-yb.org/en/latest/)
 
 
 ## My project 👩🏼‍💻
